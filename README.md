@@ -10,6 +10,7 @@
 
 ### Matrix
 #### Misc
+- [867. Transpose Matrix](./solutions/867.cpp)
 - [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 
 ### Greedy
