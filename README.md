@@ -12,3 +12,4 @@
 - [70. Climbing Stairs](./solutions/70.cpp)
 - [509. Fibonacci Number](./solutions/509.cpp)
 - [746. Min Cost Climbing Stairs](./solutions/746.cpp)
+- [1626. Best Team With No Conflicts](./solutions/1626.cpp)
