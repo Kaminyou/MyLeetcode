@@ -12,6 +12,9 @@
 #### Misc
 - [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 
+### Greedy
+- [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
+
 ### Tree
 - [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 
