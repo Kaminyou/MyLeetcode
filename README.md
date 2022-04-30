@@ -2,6 +2,9 @@
 
 ## Problem list
 
+### Tree
+- [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
+
 ### Graph
 - [399. Evaluate Division](./solutions/399.cpp)
 
