@@ -18,6 +18,9 @@
 ### Tree
 - [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 
+### Heap
+- [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
+
 ### Graph
 - [399. Evaluate Division](./solutions/399.cpp)
 
