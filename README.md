@@ -20,6 +20,7 @@
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 
 ### Greedy
+- **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
 ### Stack
