@@ -7,7 +7,9 @@
 ### Array
 #### Prefix sum
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
+#### Misc
 - **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
+- **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
 
 ### Matrix
 #### Misc
