@@ -37,6 +37,7 @@
 
 ### Dynamic programming
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
+- **M** [198. House Robber](./solutions/198.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
