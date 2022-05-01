@@ -18,7 +18,7 @@ public:
                 count++;
             }
             while (count > k && left + 1 < nums.size()) {
-                if (nums[left] %p == 0) count--;
+                if (nums[left] % p == 0) count--;
                 left++;
             }
             for (int start = left; start <= right; start++) {
