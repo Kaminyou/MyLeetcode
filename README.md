@@ -36,6 +36,8 @@
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
+#### MISC
+- **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
 
 ### Bit operation
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
