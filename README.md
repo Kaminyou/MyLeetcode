@@ -35,6 +35,7 @@
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 
 ### Heap
+- **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 
 ### Graph
