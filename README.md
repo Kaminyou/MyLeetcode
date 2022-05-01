@@ -24,6 +24,7 @@
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
 ### Stack
+- **M** [484. Find Permutation](./solutions/484.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
 
 ### Tree
