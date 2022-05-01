@@ -16,6 +16,9 @@
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 
+### Two pointers
+- **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
+
 ### Greedy
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
