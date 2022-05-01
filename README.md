@@ -22,6 +22,9 @@
 ### Greedy
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
+### Stack
+- **E** [844. Backspace String Compare](./solutions/844.cpp)
+
 ### Tree
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 
