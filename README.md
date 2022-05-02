@@ -38,6 +38,7 @@
 
 ### Tree
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
+- **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 
 ### Heap
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
