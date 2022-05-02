@@ -29,6 +29,9 @@
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
+### Hash
+- **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
+
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
