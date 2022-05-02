@@ -35,6 +35,8 @@
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
+#### Monotonic stack
+- **H** [1776. Car Fleet II](./solutions/1776.cpp)
 
 ### Tree
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
