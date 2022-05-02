@@ -46,6 +46,7 @@
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
 - **M** [198. House Robber](./solutions/198.cpp)
 - **M** [213. House Robber II](./solutions/213.cpp)
+- **M** [256. Paint House](./solutions/256.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
