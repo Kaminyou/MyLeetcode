@@ -5,8 +5,6 @@
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 
 ### Array
-#### Sort
-- **M** [56. Merge Intervals](./solutions/56.cpp)
 #### Prefix sum
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 #### Misc
@@ -20,6 +18,7 @@
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 
 ### Interval
+- **M** [56. Merge Intervals](./solutions/56.cpp)
 - **H** [759. Employee Free Time](./solutions/759.cpp)
 
 ### Two pointers
