@@ -74,6 +74,9 @@
 ### Bit operation
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 
+### System design
+- **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
+
 ### Special
 #### De Bruijn sequence with Eulerian Circuit
 - **H** [753. Cracking the Safe](./solutions/753.cpp)
