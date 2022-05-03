@@ -56,6 +56,9 @@
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
 
+### Binary search
+- **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
+
 ### Dynamic programming
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
 - **M** [152. Maximum Product Subarray](./solutions/152.cpp)
