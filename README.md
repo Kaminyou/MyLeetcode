@@ -83,3 +83,6 @@
 ### Special
 #### De Bruijn sequence with Eulerian Circuit
 - **H** [753. Cracking the Safe](./solutions/753.cpp)
+
+### Math
+- **H** [660. Remove 9](./solutions/660.cpp)
