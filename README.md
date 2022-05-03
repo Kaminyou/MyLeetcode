@@ -19,6 +19,9 @@
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 
+### Interval
+- **H** [759. Employee Free Time](./solutions/759.cpp)
+
 ### Two pointers
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
