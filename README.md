@@ -23,6 +23,7 @@
 
 ### Two pointers
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
+- **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 
 ### BFS
