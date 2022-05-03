@@ -5,6 +5,8 @@
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 
 ### Array
+#### Sort
+- **M** [56. Merge Intervals](./solutions/56.cpp)
 #### Prefix sum
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 #### Misc
