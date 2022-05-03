@@ -59,6 +59,7 @@
 - **M** [256. Paint House](./solutions/256.cpp)
 - **H** [265. Paint House II](./solutions/265.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
+- **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
 #### MISC
