@@ -54,6 +54,7 @@
 
 ### Dynamic programming
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
+- **M** [152. Maximum Product Subarray](./solutions/152.cpp)
 - **M** [198. House Robber](./solutions/198.cpp)
 - **M** [213. House Robber II](./solutions/213.cpp)
 - **M** [256. Paint House](./solutions/256.cpp)
