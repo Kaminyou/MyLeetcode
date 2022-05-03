@@ -72,6 +72,7 @@
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
+- **H** [1691. Maximum Height by Stacking Cuboids](./solutions/1691.cpp)
 #### MISC
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
 
