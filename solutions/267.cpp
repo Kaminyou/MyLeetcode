@@ -1,16 +1,12 @@
 class Solution {
 public:
-    unordered_set<string> st;
     vector<string> res;
     void backtracking(vector<int>& count, string& curr, int& targetSize, string& middle) {
         if (curr.size() == targetSize) {
-            if (st.find(curr) == st.end()) {
-                string temp = curr;
-                reverse(temp.begin(), temp.end());
-                string ans = curr + middle + temp;
-                res.push_back(ans);
-                st.insert(curr);
-            }
+            string temp = curr;
+            reverse(temp.begin(), temp.end());
+            string ans = curr + middle + temp;
+            res.push_back(ans);            
             return;
         }
         for (int i = 0; i < 26; i++) {
