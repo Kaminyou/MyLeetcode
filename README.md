@@ -32,6 +32,9 @@
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 
+### Backtracking
+- **E** [267. Palindrome Permutation II](./solutions/267.cpp)
+
 ### BFS
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
