@@ -42,6 +42,7 @@
 
 ### Hash
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
+- **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
