@@ -47,6 +47,7 @@
 
 ### Disjoint set
 - **M** [684. Redundant Connection](./solutions/684.cpp)
+- **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 
 ### Greedy
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
