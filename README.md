@@ -45,6 +45,9 @@
 ### DFS
 - **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
 
+### Disjoint set
+- **M** [684. Redundant Connection](./solutions/684.cpp)
+
 ### Greedy
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
