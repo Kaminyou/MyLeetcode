@@ -5,6 +5,7 @@
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
 
 ### String
+- **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 
 ### Array
