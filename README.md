@@ -42,6 +42,9 @@
 - **M** [490. The Maze](./solutions/490.cpp)
 - **M** [1197. Minimum Knight Moves](./solutions/1197.cpp)
 
+### DFS
+- **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
+
 ### Greedy
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
