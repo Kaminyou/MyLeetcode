@@ -127,3 +127,4 @@
 ### Math
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
+- **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
