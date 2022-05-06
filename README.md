@@ -46,6 +46,7 @@
 
 ### DFS
 - **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
+- **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
 
 ### Disjoint set
 - **M** [684. Redundant Connection](./solutions/684.cpp)
