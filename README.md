@@ -104,6 +104,7 @@
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
+- **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
