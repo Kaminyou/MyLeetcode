@@ -36,6 +36,7 @@
 
 ### Backtracking
 - **E** [267. Palindrome Permutation II](./solutions/267.cpp)
+- **H** [679. 24 Game](./solutions/679.cpp)
 
 ### BFS
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
