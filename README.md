@@ -4,6 +4,7 @@
 ### Simple coding
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
+- **E** [2176. Count Equal and Divisible Pairs in an Array](./solutions/2176.cpp)
 
 ### String
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
