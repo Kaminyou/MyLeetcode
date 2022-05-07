@@ -93,6 +93,7 @@
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
 #### Dijkstra's algorithm
+- **H** [499. The Maze III](./solutions/499.cpp)
 - **M** [505. The Maze II](./solutions/505.cpp)
 - **M** [743. Network Delay Time](./solutions/743.cpp)
 
