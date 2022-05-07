@@ -92,6 +92,8 @@
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
+#### Dijkstra's algorithm
+- **M** [505. The Maze II](./solutions/505.cpp)
 
 ### Binary search
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
