@@ -133,3 +133,8 @@
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
+
+## Learning materials
+- [Competitive programming](https://github.com/OI-wiki/OI-wiki)
+- [Binary serach](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [Monotonic stack](https://www.cnblogs.com/grandyang/p/8887985.html)
