@@ -119,6 +119,7 @@
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
+- **M** [673. Number of Longest Increasing Subsequence](./solutions/673.cpp)
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
