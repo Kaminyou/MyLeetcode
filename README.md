@@ -84,6 +84,7 @@
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 - **E** [993. Cousins in Binary Tree](./solutions/993.cpp)
+- **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
 
 ### Self balanced tree
 - **H** [715. Range Module](./solutions/715.cpp)
