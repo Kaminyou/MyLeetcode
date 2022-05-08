@@ -126,6 +126,7 @@
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [983. Minimum Cost For Tickets](./solutions/983.cpp)
 - **M** [1035. Uncrossed Lines](./solutions/1035.cpp)
+- **M** [1048. Longest String Chain](./solutions/1048.cpp)
 - **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
