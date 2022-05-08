@@ -128,6 +128,7 @@
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
 - **H** [1691. Maximum Height by Stacking Cuboids](./solutions/1691.cpp)
 - **M** [1746. Maximum Subarray Sum After One Operation](./solutions/1746.cpp)
+- **M** [2266. Count Number of Texts](./solutions/2266.cpp)
 #### MISC
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
 
