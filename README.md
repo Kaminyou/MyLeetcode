@@ -51,6 +51,7 @@
 - **M** [1197. Minimum Knight Moves](./solutions/1197.cpp)
 
 ### DFS
+- **H** [489. Robot Room Cleaner](./solutions/489.cpp)
 - **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
 - **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
 
