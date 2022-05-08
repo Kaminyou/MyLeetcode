@@ -106,7 +106,8 @@
 ### Binary search
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
 #### Longest Increasing Subsequence
-- **M** [300. Longest Increasing Subsequence](./solutions/300.cpp)
+- **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
+
 
 ### Dynamic programming
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
