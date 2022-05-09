@@ -69,6 +69,7 @@
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
 ### Hash
+- **M** [567. Permutation in String](./solutions/567.cpp)
 - **H** [1153. String Transforms Into Another String](./solutions/1153.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
