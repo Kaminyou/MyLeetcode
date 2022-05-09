@@ -88,6 +88,9 @@
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
 
+### Deque
+- **M** [950. Reveal Cards In Increasing Order](./solutions/950.cpp)
+
 ### Tree
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
