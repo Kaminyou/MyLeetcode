@@ -64,6 +64,7 @@
 ### Greedy
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
+- **M** [646. Maximum Length of Pair Chain](./solutions/646.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 
