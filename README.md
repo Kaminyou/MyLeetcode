@@ -146,6 +146,7 @@
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
 
 ### Bit operation
+- **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 
 ### System design
