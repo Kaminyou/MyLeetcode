@@ -18,6 +18,7 @@
 
 ### Array
 #### Prefix sum
+- **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 #### Misc
 - **E** [485. Max Consecutive Ones](./solutions/485.cpp)
