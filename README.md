@@ -10,6 +10,7 @@
 - **E** [2264. Largest 3-Same-Digit Number in String](./solutions/2264.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
+- **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
 ### String
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
