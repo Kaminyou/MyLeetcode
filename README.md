@@ -36,6 +36,7 @@
 - **H** [759. Employee Free Time](./solutions/759.cpp)
 
 ### Two pointers
+- **M** [647. Palindromic Substrings](./solutions/647.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
