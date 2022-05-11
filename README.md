@@ -111,6 +111,7 @@
 
 ### Self balanced tree
 - **H** [715. Range Module](./solutions/715.cpp)
+- **M** [729. My Calendar I](./solutions/729.cpp)
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
 
 ### Heap
