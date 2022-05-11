@@ -171,6 +171,9 @@
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 
+### Binary Index Tree (Fenwick tree)
+- **M** [307. Range Sum Query - Mutable](./solutions/307.cpp)
+
 ### System design
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
 
