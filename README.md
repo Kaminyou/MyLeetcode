@@ -32,6 +32,8 @@
 - **E** [463. Island Perimeter](./solutions/463.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
+#### Prefix sum
+- **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 
 ### Interval
 - **M** [56. Merge Intervals](./solutions/56.cpp)
