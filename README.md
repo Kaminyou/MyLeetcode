@@ -103,6 +103,7 @@
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
+- **M** [379. Design Phone Directory](./solutions/379.cpp)
 
 ### Deque
 - **M** [950. Reveal Cards In Increasing Order](./solutions/950.cpp)
