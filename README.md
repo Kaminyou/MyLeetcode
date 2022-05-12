@@ -135,6 +135,7 @@
 
 
 ### Dynamic programming
+- **M** [64. Minimum Path Sum](./solutions/64.cpp)
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
 - **M** [152. Maximum Product Subarray](./solutions/152.cpp)
 - **M** [198. House Robber](./solutions/198.cpp)
