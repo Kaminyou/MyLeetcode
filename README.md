@@ -179,6 +179,7 @@
 
 ### Binary Index Tree (Fenwick tree)
 - **M** [307. Range Sum Query - Mutable](./solutions/307.cpp)
+- **H** [315. Count of Smaller Numbers After Self](./solutions/315.cpp)
 
 ### System design
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
