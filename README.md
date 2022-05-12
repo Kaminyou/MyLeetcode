@@ -193,6 +193,7 @@
 - **H** [753. Cracking the Safe](./solutions/753.cpp)
 #### Boyer-Moore Voting Algorithm
 - **E** [169. Majority Element](./solutions/169.cpp)
+- **M** [229. Majority Element II](./solutions/229.cpp)
 
 ### Math
 - **H** [660. Remove 9](./solutions/660.cpp)
