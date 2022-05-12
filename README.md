@@ -173,6 +173,9 @@
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
 
+### Divide and conquer
+- **H** [327. Count of Range Sum](./solutions/327.cpp)
+
 ### Bit operation
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
