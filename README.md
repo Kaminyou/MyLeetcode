@@ -101,6 +101,7 @@
 - **M** [456. 132 Pattern](./solutions/456.cpp)
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
 - **H** [1776. Car Fleet II](./solutions/1776.cpp)
+- **H** [1944. Number of Visible People in a Queue](./solutions/1944.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
