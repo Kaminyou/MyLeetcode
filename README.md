@@ -148,6 +148,7 @@
 - **M** [256. Paint House](./solutions/256.cpp)
 - **H** [265. Paint House II](./solutions/265.cpp)
 - **M** [309. Best Time to Buy and Sell Stock with Cooldown](./solutions/309.cpp)
+- **M** [343. Integer Break](./solutions/343.cpp)
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
