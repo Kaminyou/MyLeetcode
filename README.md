@@ -134,6 +134,8 @@
 - **H** [499. The Maze III](./solutions/499.cpp)
 - **M** [505. The Maze II](./solutions/505.cpp)
 - **M** [743. Network Delay Time](./solutions/743.cpp)
+#### Topological sort
+- **H** [329. Longest Increasing Path in a Matrix](./solutions/329.cpp)
 
 ### Binary search
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
