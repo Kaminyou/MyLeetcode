@@ -54,6 +54,7 @@
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
 - **M** [47. Permutations II](./solutions/47.cpp)
 - **M** [216. Combination Sum III](./solutions/216.cpp)
+- **M** [254. Factor Combinations](./solutions/254.cpp)
 - **E** [267. Palindrome Permutation II](./solutions/267.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
 
