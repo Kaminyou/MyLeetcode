@@ -10,6 +10,7 @@
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
 - **E** [2176. Count Equal and Divisible Pairs in an Array](./solutions/2176.cpp)
 - **E** [2264. Largest 3-Same-Digit Number in String](./solutions/2264.cpp)
+- **E** [2269. Find the K-Beauty of a Number](./solutions/2269.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
