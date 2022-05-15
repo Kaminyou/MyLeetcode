@@ -128,6 +128,7 @@
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
+- **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
 
 ### Heap
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
