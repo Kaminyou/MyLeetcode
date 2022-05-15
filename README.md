@@ -154,6 +154,7 @@
 
 ### Dynamic programming
 - **M** [62. Unique Paths](./solutions/62.cpp)
+- **M** [63. Unique Paths II](./solutions/63.cpp)
 - **M** [64. Minimum Path Sum](./solutions/64.cpp)
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
 - **M** [139. Word Break](./solutions/139.cpp)
