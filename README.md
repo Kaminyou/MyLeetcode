@@ -147,6 +147,7 @@
 - **M** [505. The Maze II](./solutions/505.cpp)
 - **M** [743. Network Delay Time](./solutions/743.cpp)
 #### Topological sort
+- **H** [269. Alien Dictionary](./solutions/269.cpp)
 - **H** [329. Longest Increasing Path in a Matrix](./solutions/329.cpp)
 
 ### Binary search
