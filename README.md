@@ -168,6 +168,7 @@
 - **M** [63. Unique Paths II](./solutions/63.cpp)
 - **M** [64. Minimum Path Sum](./solutions/64.cpp)
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
+- **M** [96. Unique Binary Search Trees](./solutions/96.cpp)
 - **M** [139. Word Break](./solutions/139.cpp)
 - **M** [152. Maximum Product Subarray](./solutions/152.cpp)
 - **M** [198. House Robber](./solutions/198.cpp)
