@@ -25,22 +25,22 @@ public:
         }
         curr->isEnd = true;
     }
-    void backtracking(int x, int y, vector<vector<char>>& board, vector<string>& res, string& path, int M, int N, unordered_set<string>& st) {
+    void backtracking(int x, int y, vector<vector<char>>& board, vector<string>& res, string& path, int M, int N) {
         TrieNode* curr = root;
         char c = board[x][y];
         if (curr->children[c - 'a'] != nullptr) {
             board[x][y] = '#';
             path.push_back(c);
-            if (curr->children[c - 'a']->isEnd && st.find(path) == st.end()) {
+            if (curr->children[c - 'a']->isEnd) {
                 res.push_back(path);
-                st.insert(path);
+                curr->children[c - 'a']->isEnd = false;
             }
-            _backtracking(curr->children[c - 'a'], x, y, board, res, path, M, N, st);
+            _backtracking(curr->children[c - 'a'], x, y, board, res, path, M, N);
             path.pop_back();
             board[x][y] = c;
         }
     }
-    void _backtracking(TrieNode* curr, int x, int y, vector<vector<char>>& board, vector<string>& res, string& path, int M, int N, unordered_set<string>& st) {
+    void _backtracking(TrieNode* curr, int x, int y, vector<vector<char>>& board, vector<string>& res, string& path, int M, int N) {
         for (auto direction : directions) {
             int _x = x + direction.first;
             int _y = y + direction.second;
@@ -50,11 +50,11 @@ public:
                 if (curr->children[c - 'a'] != nullptr){
                     board[_x][_y] = '#';
                     path.push_back(c);
-                    if (curr->children[c - 'a']->isEnd && st.find(path) == st.end()) {
+                    if (curr->children[c - 'a']->isEnd) {
                         res.push_back(path);
-                        st.insert(path);
+                        curr->children[c - 'a']->isEnd = false;
                     }
-                    _backtracking(curr->children[c - 'a'], _x, _y, board, res, path, M, N, st);
+                    _backtracking(curr->children[c - 'a'], _x, _y, board, res, path, M, N);
                     path.pop_back();
                     board[_x][_y] = c;
                 }
@@ -65,7 +65,6 @@ public:
 class Solution {
 public:
     vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
-        unordered_set<string> st;
         Trie* trie = new Trie();
         for (auto word : words) trie->insert(word);
         int M = board.size();
@@ -75,7 +74,7 @@ public:
         string path;
         for (int i = 0; i < M; ++i) {
             for (int j = 0; j < N; ++j) {
-                trie->backtracking(i, j, board, res, path, M, N, st);
+                trie->backtracking(i, j, board, res, path, M, N);
             }
         }
         return res;
