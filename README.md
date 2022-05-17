@@ -220,6 +220,7 @@
 - **H** [327. Count of Range Sum](./solutions/327.cpp)
 
 ### Bit operation
+- **E** [190. Reverse Bits](./solutions/190.cpp)
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 - **M** [2275. Largest Combination With Bitwise AND Greater Than Zero](./solutions/2275.cpp)
