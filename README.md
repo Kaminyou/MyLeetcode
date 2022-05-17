@@ -47,6 +47,8 @@
 #### Prefix sum
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 
+### Linked list
+- **M** [143. Reorder List](./solutions/143.cpp)
 
 ### Two pointers
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
