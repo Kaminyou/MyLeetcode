@@ -26,6 +26,7 @@
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
 #### Misc
+- **M** [57. Insert Interval](./solutions/57.cpp)
 - **E** [485. Max Consecutive Ones](./solutions/485.cpp)
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
