@@ -25,8 +25,11 @@
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
-#### Misc
+#### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
+- **M** [56. Merge Intervals](./solutions/56.cpp)
+- **H** [759. Employee Free Time](./solutions/759.cpp)
+#### Misc
 - **E** [485. Max Consecutive Ones](./solutions/485.cpp)
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
@@ -44,9 +47,6 @@
 #### Prefix sum
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 
-### Interval
-- **M** [56. Merge Intervals](./solutions/56.cpp)
-- **H** [759. Employee Free Time](./solutions/759.cpp)
 
 ### Two pointers
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
