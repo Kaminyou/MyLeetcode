@@ -158,6 +158,8 @@
 #### Topological sort
 - **H** [269. Alien Dictionary](./solutions/269.cpp)
 - **H** [329. Longest Increasing Path in a Matrix](./solutions/329.cpp)
+#### Tarjan's algorithm
+- **H** [1192. Critical Connections in a Network](./solutions/1192.cpp)
 
 ### Binary search
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
