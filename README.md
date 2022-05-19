@@ -63,6 +63,7 @@
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
+- **M** [39. Combination Sum](./solutions/39.cpp)
 - **M** [47. Permutations II](./solutions/47.cpp)
 - **H** [140. Word Break II](./solutions/140.cpp)
 - **M** [216. Combination Sum III](./solutions/216.cpp)
