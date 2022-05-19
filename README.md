@@ -148,6 +148,7 @@
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
+- **M** [2015. Average Height of Buildings in Each Segment](./solutions/2015.cpp)
 - **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
 
 ### Heap
