@@ -150,6 +150,7 @@
 - **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
 
 ### Heap
+- **H** [295. Find Median from Data Stream](./solutions/295.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
