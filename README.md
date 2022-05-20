@@ -198,6 +198,7 @@
 - **M** [343. Integer Break](./solutions/343.cpp)
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
+- **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **M** [516. Longest Palindromic Subsequence](./solutions/516.cpp)
