@@ -58,6 +58,7 @@
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
+- **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
