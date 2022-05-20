@@ -4,6 +4,7 @@
 ### Simple coding
 - **E** [58. Length of Last Word](./solutions/58.cpp)
 - **M** [161. One Edit Distance](./solutions/161.cpp)
+- **E** [163. Missing Ranges](./solutions/163.cpp)
 - **E** [482. License Key Formatting](./solutions/482.cpp)
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
 - **E** [661. Image Smoother](./solutions/661.cpp)
