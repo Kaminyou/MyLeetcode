@@ -200,6 +200,7 @@
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
+- **M** [494. Target Sum](./solutions/494.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **M** [516. Longest Palindromic Subsequence](./solutions/516.cpp)
 - **M** [518. Coin Change 2](./solutions/518.cpp)
