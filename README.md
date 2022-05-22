@@ -260,6 +260,9 @@
 - **H** [315. Count of Smaller Numbers After Self](./solutions/315.cpp)
 - **H** [2179. Count Good Triplets in an Array](./solutions/2179.cpp)
 
+### Geometry
+- **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
+
 ### System design
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
 
