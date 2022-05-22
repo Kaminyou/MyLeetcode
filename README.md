@@ -17,6 +17,7 @@
 - **E** [2264. Largest 3-Same-Digit Number in String](./solutions/2264.cpp)
 - **E** [2269. Find the K-Beauty of a Number](./solutions/2269.cpp)
 - **E** [2273. Find Resultant Array After Removing Anagrams](./solutions/2273.cpp)
+- **E** [2278. Percentage of Letter in String](./solutions/2278.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
