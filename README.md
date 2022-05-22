@@ -133,6 +133,7 @@
 - **H** [1776. Car Fleet II](./solutions/1776.cpp)
 - **M** [1856. Maximum Subarray Min-Product](./solutions/1856.cpp)
 - **H** [1944. Number of Visible People in a Queue](./solutions/1944.cpp)
+- **H** [2281. Sum of Total Strength of Wizards](./solutions/2281.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
