@@ -126,6 +126,7 @@
 - **E** [1047. Remove All Adjacent Duplicates In String](./solutions/1047.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./solutions/1209.cpp)
 #### Monotonic stack
+- **H** [84. Largest Rectangle in Histogram](./solutions/84.cpp)
 - **M** [456. 132 Pattern](./solutions/456.cpp)
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./solutions/1130.cpp)
