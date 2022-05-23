@@ -213,6 +213,7 @@
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
+- **M** [474. Ones and Zeroes](./solutions/474.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
 - **M** [494. Target Sum](./solutions/494.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
