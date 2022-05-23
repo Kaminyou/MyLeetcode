@@ -235,6 +235,7 @@
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
+- **H** [1235. Maximum Profit in Job Scheduling](./solutions/1235.cpp)
 - **H** [1259. Handshakes That Don't Cross](./solutions/1259.cpp)
 - **H** [1463. Cherry Pickup II](./solutions/1463.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
