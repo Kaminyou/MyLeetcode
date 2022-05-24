@@ -58,6 +58,7 @@
 - **M** [143. Reorder List](./solutions/143.cpp)
 
 ### Two pointers
+- **M** [3. Longest Substring Without Repeating Characters](./solutions/3.cpp)
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
