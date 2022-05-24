@@ -239,6 +239,7 @@
 - **H** [1235. Maximum Profit in Job Scheduling](./solutions/1235.cpp)
 - **H** [1259. Handshakes That Don't Cross](./solutions/1259.cpp)
 - **H** [1463. Cherry Pickup II](./solutions/1463.cpp)
+- **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
 - **M** [1641. Count Sorted Vowel Strings](./solutions/1641.cpp)
 - **H** [1691. Maximum Height by Stacking Cuboids](./solutions/1691.cpp)
