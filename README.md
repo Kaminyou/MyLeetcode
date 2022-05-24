@@ -99,6 +99,7 @@
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 
 ### Greedy
+- **H** [32. Longest Valid Parentheses](./solutions/32.cpp)
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
