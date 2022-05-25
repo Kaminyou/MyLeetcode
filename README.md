@@ -104,6 +104,7 @@
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
+- **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
 - **M** [646. Maximum Length of Pair Chain](./solutions/646.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
 - **M** [926. Flip String to Monotone Increasing](./solutions/926.cpp)
