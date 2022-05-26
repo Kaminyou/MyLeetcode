@@ -281,6 +281,7 @@
 
 ### Geometry
 - **H** [149. Max Points on a Line](./solutions/149.cpp)
+- **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
 
 ### System design
