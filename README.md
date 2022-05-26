@@ -278,6 +278,7 @@
 - **H** [2179. Count Good Triplets in an Array](./solutions/2179.cpp)
 
 ### Geometry
+- **H** [149. Max Points on a Line](./solutions/149.cpp)
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
 
 ### System design
