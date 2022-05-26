@@ -261,6 +261,7 @@
 ### Bit operation
 - **M** [137. Single Number II](./solutions/137.cpp)
 - **E** [190. Reverse Bits](./solutions/190.cpp)
+- **E** [191. Number of 1 Bits](./solutions/191.cpp)
 - **M** [371. Sum of Two Integers](./solutions/371.cpp)
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
