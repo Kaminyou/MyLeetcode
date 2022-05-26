@@ -200,6 +200,7 @@
 - **M** [63. Unique Paths II](./solutions/63.cpp)
 - **M** [64. Minimum Path Sum](./solutions/64.cpp)
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
+- **H** [72. Edit Distance](./solutions/72.cpp)
 - **M** [96. Unique Binary Search Trees](./solutions/96.cpp)
 - **H** [115. Distinct Subsequences](./solutions/115.cpp)
 - **H** [123. Best Time to Buy and Sell Stock III](./solutions/123.cpp)
