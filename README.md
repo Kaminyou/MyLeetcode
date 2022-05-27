@@ -189,6 +189,7 @@
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
 - **M** [378. Kth Smallest Element in a Sorted Matrix](./solutions/378.cpp)
 - **E** [441. Arranging Coins](./solutions/441.cpp)
+- **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
 - **M** [2271. Maximum White Tiles Covered by a Carpet](./solutions/2271.cpp)
 #### Longest Increasing Subsequence
