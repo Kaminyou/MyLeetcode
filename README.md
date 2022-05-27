@@ -248,6 +248,7 @@
 - **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
 - **M** [1641. Count Sorted Vowel Strings](./solutions/1641.cpp)
+- **M** [1682. Longest Palindromic Subsequence II](./solutions/1682.cpp)
 - **H** [1691. Maximum Height by Stacking Cuboids](./solutions/1691.cpp)
 - **M** [1746. Maximum Subarray Sum After One Operation](./solutions/1746.cpp)
 - **H** [1751. Maximum Number of Events That Can Be Attended II](./solutions/1751.cpp)
