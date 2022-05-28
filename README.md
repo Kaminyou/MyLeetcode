@@ -18,6 +18,7 @@
 - **E** [2269. Find the K-Beauty of a Number](./solutions/2269.cpp)
 - **E** [2273. Find Resultant Array After Removing Anagrams](./solutions/2273.cpp)
 - **E** [2278. Percentage of Letter in String](./solutions/2278.cpp)
+- **E** [2283. Check if Number Has Equal Digit Count and Digit Value](./solutions/2283.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
