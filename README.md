@@ -144,6 +144,7 @@
 - **M** [1856. Maximum Subarray Min-Product](./solutions/1856.cpp)
 - **H** [1944. Number of Visible People in a Queue](./solutions/1944.cpp)
 - **H** [2281. Sum of Total Strength of Wizards](./solutions/2281.cpp)
+- **M** [2289. Steps to Make Array Non-decreasing](./solutions/2289.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
