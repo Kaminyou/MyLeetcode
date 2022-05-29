@@ -28,6 +28,7 @@
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 - **M** [2284. Sender With Largest Word Count](./solutions/2284.cpp)
+- **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
 
 ### Array
 #### Prefix sum
