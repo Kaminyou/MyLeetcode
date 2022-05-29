@@ -159,6 +159,7 @@
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
 - **H** [297. Serialize and Deserialize Binary Tree](./solutions/297.cpp)
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
+- **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 - **E** [993. Cousins in Binary Tree](./solutions/993.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
