@@ -159,6 +159,7 @@
 - **H** [124. Binary Tree Maximum Path Sum](./solutions/124.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
 - **H** [297. Serialize and Deserialize Binary Tree](./solutions/297.cpp)
+- **M** [298. Binary Tree Longest Consecutive Sequence](./solutions/298.cpp)
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
 - **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
