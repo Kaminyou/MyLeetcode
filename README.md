@@ -207,6 +207,7 @@
 
 ### Dynamic programming
 - **H** [10. Regular Expression Matching](./solutions/10.cpp)
+- **H** [44. Wildcard Matching](./solutions/44.cpp)
 - **M** [62. Unique Paths](./solutions/62.cpp)
 - **M** [63. Unique Paths II](./solutions/63.cpp)
 - **M** [64. Minimum Path Sum](./solutions/64.cpp)
