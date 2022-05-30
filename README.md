@@ -149,6 +149,7 @@
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
+- **E** [346. Moving Average from Data Stream](./solutions/346.cpp)
 - **M** [379. Design Phone Directory](./solutions/379.cpp)
 
 ### Deque
