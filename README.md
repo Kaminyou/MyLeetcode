@@ -90,6 +90,7 @@
 - **M** [490. The Maze](./solutions/490.cpp)
 - **M** [1091. Shortest Path in Binary Matrix](./solutions/1091.cpp)
 - **M** [1197. Minimum Knight Moves](./solutions/1197.cpp)
+- **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
 
 ### DFS
 - **M** [323. Number of Connected Components in an Undirected Graph](./solutions/323.cpp)
