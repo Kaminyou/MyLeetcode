@@ -291,6 +291,7 @@
 - **E** [268. Missing Number](./solutions/268.cpp)
 - **M** [318. Maximum Product of Word Lengths](./solutions/318.cpp)
 - **M** [371. Sum of Two Integers](./solutions/371.cpp)
+- **E** [476. Number Complement](./solutions/476.cpp)
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 - **E** [1342. Number of Steps to Reduce a Number to Zero](./solutions/1342.cpp)
