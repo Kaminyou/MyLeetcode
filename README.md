@@ -34,6 +34,7 @@
 ### Array
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
+- **E** [1480. Running Sum of 1d Array](./solutions/1480.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
 #### Interval
