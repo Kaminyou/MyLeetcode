@@ -249,6 +249,7 @@
 - **M** [576. Out of Boundary Paths](./solutions/576.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
 - **M** [673. Number of Longest Increasing Subsequence](./solutions/673.cpp)
+- **M** [688. Knight Probability in Chessboard](./solutions/688.cpp)
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **H** [727. Minimum Window Subsequence](./solutions/727.cpp)
