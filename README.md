@@ -54,6 +54,7 @@
 #### Misc
 - **M** [361. Bomb Enemy](./solutions/361.cpp)
 - **E** [463. Island Perimeter](./solutions/463.cpp)
+- **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 #### Prefix sum
