@@ -66,6 +66,7 @@
 ### Two pointers
 - **M** [3. Longest Substring Without Repeating Characters](./solutions/3.cpp)
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
+- **M** [395. Longest Substring with At Least K Repeating Characters](./solutions/395.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
