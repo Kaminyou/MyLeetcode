@@ -316,6 +316,9 @@
 - **H** [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505.cpp)
 - **H** [2179. Count Good Triplets in an Array](./solutions/2179.cpp)
 
+### Segment tree
+- **H** [2286. Booking Concert Tickets in Groups](./solutions/2286.cpp)
+
 ### Geometry
 - **H** [149. Max Points on a Line](./solutions/149.cpp)
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
