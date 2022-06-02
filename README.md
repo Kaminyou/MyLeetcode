@@ -243,6 +243,7 @@
 - **M** [343. Integer Break](./solutions/343.cpp)
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
+- **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **M** [474. Ones and Zeroes](./solutions/474.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
