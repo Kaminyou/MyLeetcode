@@ -315,6 +315,7 @@
 
 ### Binary Index Tree (Fenwick tree)
 - **M** [307. Range Sum Query - Mutable](./solutions/307.cpp)
+- **H** [308. Range Sum Query 2D - Mutable](./solutions/308.cpp)
 - **H** [315. Count of Smaller Numbers After Self](./solutions/315.cpp)
 - **H** [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505.cpp)
 - **H** [2179. Count Good Triplets in an Array](./solutions/2179.cpp)
