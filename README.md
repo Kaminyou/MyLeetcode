@@ -66,6 +66,7 @@
 
 ### Linked list
 - **M** [143. Reorder List](./solutions/143.cpp)
+- **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
 
 ### Two pointers
 - **M** [3. Longest Substring Without Repeating Characters](./solutions/3.cpp)
