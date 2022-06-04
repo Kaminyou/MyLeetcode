@@ -77,6 +77,7 @@
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
+- **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
