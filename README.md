@@ -172,6 +172,7 @@
 - **M** [117. Populating Next Right Pointers in Each Node II](./solutions/117.cpp)
 - **H** [124. Binary Tree Maximum Path Sum](./solutions/124.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
+- **M** [250. Count Univalue Subtrees](./solutions/250.cpp)
 - **H** [297. Serialize and Deserialize Binary Tree](./solutions/297.cpp)
 - **M** [298. Binary Tree Longest Consecutive Sequence](./solutions/298.cpp)
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
