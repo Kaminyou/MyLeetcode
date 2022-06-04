@@ -209,6 +209,8 @@
 - **M** [1136. Parallel Courses](./solutions/1136.cpp)
 #### Tarjan's algorithm
 - **H** [1192. Critical Connections in a Network](./solutions/1192.cpp)
+#### Hierholzer's algorithm
+- **H** [2097. Valid Arrangement of Pairs](./solutions/2097.cpp)
 
 ### Binary search
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
