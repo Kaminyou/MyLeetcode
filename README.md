@@ -151,6 +151,7 @@
 - **H** [84. Largest Rectangle in Histogram](./solutions/84.cpp)
 - **M** [456. 132 Pattern](./solutions/456.cpp)
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
+- **H** [768. Max Chunks To Make Sorted II](./solutions/768.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./solutions/1130.cpp)
 - **H** [1776. Car Fleet II](./solutions/1776.cpp)
 - **M** [1856. Maximum Subarray Min-Product](./solutions/1856.cpp)
