@@ -279,6 +279,7 @@
 - **H** [1216. Valid Palindrome III](./solutions/1216.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
 - **H** [1235. Maximum Profit in Job Scheduling](./solutions/1235.cpp)
+- **H** [1246. Palindrome Removal](./solutions/1246.cpp)
 - **H** [1259. Handshakes That Don't Cross](./solutions/1259.cpp)
 - **H** [1463. Cherry Pickup II](./solutions/1463.cpp)
 - **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
