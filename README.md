@@ -182,6 +182,7 @@
 - **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
 
 ### Self balanced tree
+- **H** [699. Falling Squares](./solutions/699.cpp)
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
 - **H** [975. Odd Even Jump](./solutions/975.cpp)
