@@ -20,6 +20,7 @@
 - **E** [2273. Find Resultant Array After Removing Anagrams](./solutions/2273.cpp)
 - **E** [2278. Percentage of Letter in String](./solutions/2278.cpp)
 - **E** [2283. Check if Number Has Equal Digit Count and Digit Value](./solutions/2283.cpp)
+- **E** [2293. Min Max Game](./solutions/2293.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
@@ -67,6 +68,7 @@
 ### Linked list
 - **M** [143. Reorder List](./solutions/143.cpp)
 - **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
+- **H** [2296. Design a Text Editor](./solutions/2296.cpp)
 
 ### Two pointers
 - **M** [3. Longest Substring Without Repeating Characters](./solutions/3.cpp)
@@ -143,6 +145,8 @@
 - **M** [2023. Number of Pairs of Strings With Concatenation Equal to Target](./solutions/2023.cpp)
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./solutions/2131.cpp)
 - **E** [2287. Rearrange Characters to Make Target String](./solutions/2287.cpp)
+- **M** [2294. Partition Array Such That Maximum Difference Is K](./solutions/2294.cpp)
+- **M** [2295. Replace Elements in an Array](./solutions/2295.cpp)
 
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
