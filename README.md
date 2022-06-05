@@ -190,6 +190,7 @@
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 - **E** [993. Cousins in Binary Tree](./solutions/993.cpp)
+- **M** [1008. Construct Binary Search Tree from Preorder Traversal](./solutions/1008.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379.cpp)
 - **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
