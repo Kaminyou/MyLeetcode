@@ -105,6 +105,7 @@
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
+- **M** [994. Rotting Oranges](./solutions/994.cpp)
 - **M** [1091. Shortest Path in Binary Matrix](./solutions/1091.cpp)
 - **M** [1197. Minimum Knight Moves](./solutions/1197.cpp)
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
