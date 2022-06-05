@@ -88,6 +88,7 @@
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
 - **M** [39. Combination Sum](./solutions/39.cpp)
+- **M** [40. Combination Sum II](./solutions/40.cpp)
 - **M** [47. Permutations II](./solutions/47.cpp)
 - **H** [51. N-Queens](./solutions/51.cpp)
 - **H** [52. N-Queens II](./solutions/52.cpp)
