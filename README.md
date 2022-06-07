@@ -125,6 +125,7 @@
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
 - **M** [684. Redundant Connection](./solutions/684.cpp)
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
+- **H** [839. Similar String Groups](./solutions/839.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 
 ### Greedy
