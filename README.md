@@ -273,6 +273,7 @@
 - **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **M** [474. Ones and Zeroes](./solutions/474.cpp)
+- **M** [486. Predict the Winner](./solutions/486.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
 - **M** [494. Target Sum](./solutions/494.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
