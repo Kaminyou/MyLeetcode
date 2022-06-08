@@ -275,6 +275,7 @@
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
+- **M** [464. Can I Win](./solutions/464.cpp)
 - **M** [474. Ones and Zeroes](./solutions/474.cpp)
 - **M** [486. Predict the Winner](./solutions/486.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
