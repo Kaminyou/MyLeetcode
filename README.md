@@ -301,6 +301,7 @@
 - **M** [1048. Longest String Chain](./solutions/1048.cpp)
 - **M** [1049. Last Stone Weight II](./solutions/1049.cpp)
 - **H** [1092. Shortest Common Supersequence](./solutions/1092.cpp)
+- **M** [1140. Stone Game II](./solutions/1140.cpp)
 - **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
