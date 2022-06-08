@@ -312,6 +312,7 @@
 - **H** [1246. Palindrome Removal](./solutions/1246.cpp)
 - **H** [1259. Handshakes That Don't Cross](./solutions/1259.cpp)
 - **H** [1406. Stone Game III](./solutions/1406.cpp)
+- **H** [1434. Number of Ways to Wear Different Hats to Each Other](./solutions/1434.cpp)
 - **H** [1463. Cherry Pickup II](./solutions/1463.cpp)
 - **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
 - **H** [1494. Parallel Courses II](./solutions/1494.cpp)
