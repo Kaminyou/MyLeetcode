@@ -12,6 +12,7 @@
 - **E** [937. Reorder Data in Log Files](./solutions/937.cpp)
 - **E** [1189. Maximum Number of Balloons](./solutions/1189.cpp)
 - **E** [1304. Find N Unique Integers Sum up to Zero](./solutions/1304.cpp)
+- **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
 - **E** [1822. Sign of the Product of an Array](./solutions/1822.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
