@@ -79,6 +79,7 @@
 - **M** [3. Longest Substring Without Repeating Characters](./solutions/3.cpp)
 - **M** [5. Longest Palindromic Substring](./solutions/5.cpp)
 - **E** [88. Merge Sorted Array](./solutions/88.cpp)
+- **M** [167. Two Sum II - Input Array Is Sorted](./solutions/167.cpp)
 - **M** [395. Longest Substring with At Least K Repeating Characters](./solutions/395.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
 - **M** [611. Valid Triangle Number](./solutions/611.cpp)
