@@ -394,6 +394,7 @@
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
 
 ## Learning materials
+- [OI Wiki](https://oi-wiki.org/)
 - [Competitive programming](https://github.com/OI-wiki/OI-wiki)
 - [Binary serach](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - [Monotonic stack](https://www.cnblogs.com/grandyang/p/8887985.html)
