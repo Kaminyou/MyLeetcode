@@ -289,6 +289,7 @@
 - **M** [518. Coin Change 2](./solutions/518.cpp)
 - **M** [562. Longest Line of Consecutive One in Matrix](./solutions/562.cpp)
 - **M** [576. Out of Boundary Paths](./solutions/576.cpp)
+- **H** [600. Non-negative Integers without Consecutive Ones](./solutions/600.cpp)
 - **M** [634. Find the Derangement of An Array](./solutions/634.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
 - **M** [651. 4 Keys Keyboard](./solutions/651.cpp)
