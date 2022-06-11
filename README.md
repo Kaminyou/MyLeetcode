@@ -23,6 +23,7 @@
 - **E** [2278. Percentage of Letter in String](./solutions/2278.cpp)
 - **E** [2283. Check if Number Has Equal Digit Count and Digit Value](./solutions/2283.cpp)
 - **E** [2293. Min Max Game](./solutions/2293.cpp)
+- **E** [2299. Strong Password Checker II](./solutions/2299.cpp)
 #### Recursive
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
