@@ -248,6 +248,7 @@
 - **H** [1231. Divide Chocolate](./solutions/1231.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
 - **M** [2271. Maximum White Tiles Covered by a Carpet](./solutions/2271.cpp)
+- **M** [2300. Successful Pairs of Spells and Potions](./solutions/2300.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1964. Find the Longest Valid Obstacle Course at Each Position](./solutions/1964.cpp)
