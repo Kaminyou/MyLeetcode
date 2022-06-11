@@ -38,6 +38,15 @@
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
 
 ### Array
+- **M** [442. Find All Duplicates in an Array](./solutions/442.cpp)
+- **E** [448. Find All Numbers Disappeared in an Array](./solutions/448.cpp)
+- **E** [485. Max Consecutive Ones](./solutions/485.cpp)
+- **E** [495. Teemo Attacking](./solutions/495.cpp)
+- **E** [896. Monotonic Array](./solutions/896.cpp)
+- **M** [1395. Count Number of Teams](./solutions/1395.cpp)
+- **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
+- **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
+- **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **E** [1480. Running Sum of 1d Array](./solutions/1480.cpp)
@@ -48,16 +57,6 @@
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
 - **H** [759. Employee Free Time](./solutions/759.cpp)
-#### Misc
-- **M** [442. Find All Duplicates in an Array](./solutions/442.cpp)
-- **E** [448. Find All Numbers Disappeared in an Array](./solutions/448.cpp)
-- **E** [485. Max Consecutive Ones](./solutions/485.cpp)
-- **E** [495. Teemo Attacking](./solutions/495.cpp)
-- **E** [896. Monotonic Array](./solutions/896.cpp)
-- **M** [1395. Count Number of Teams](./solutions/1395.cpp)
-- **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
-- **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
-- **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
 
 ### Matrix
 #### Misc
