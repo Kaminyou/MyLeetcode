@@ -163,6 +163,7 @@
 - **E** [2287. Rearrange Characters to Make Target String](./solutions/2287.cpp)
 - **M** [2294. Partition Array Such That Maximum Difference Is K](./solutions/2294.cpp)
 - **M** [2295. Replace Elements in an Array](./solutions/2295.cpp)
+- **H** [2301. Match Substring After Replacement](./solutions/2301.cpp)
 
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
