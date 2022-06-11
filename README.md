@@ -109,6 +109,7 @@
 - **M** [254. Factor Combinations](./solutions/254.cpp)
 - **E** [267. Palindrome Permutation II](./solutions/267.cpp)
 - **M** [291. Word Pattern II](./solutions/291.cpp)
+- **H** [301. Remove Invalid Parentheses](./solutions/301.cpp)
 - **M** [351. Android Unlock Patterns](./solutions/351.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
 
