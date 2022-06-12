@@ -343,6 +343,7 @@
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./solutions/1884.cpp)
 - **M** [2266. Count Number of Texts](./solutions/2266.cpp)
 - **H** [2267. Check if There Is a Valid Parentheses String Path](./solutions/2267.cpp)
+- **M** [2304. Minimum Path Cost in a Grid](./solutions/2304.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
