@@ -46,6 +46,7 @@
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
 - **M** [1395. Count Number of Teams](./solutions/1395.cpp)
+- **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
 - **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
 - **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
 - **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
