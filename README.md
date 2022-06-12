@@ -167,6 +167,7 @@
 - **M** [2294. Partition Array Such That Maximum Difference Is K](./solutions/2294.cpp)
 - **M** [2295. Replace Elements in an Array](./solutions/2295.cpp)
 - **H** [2301. Match Substring After Replacement](./solutions/2301.cpp)
+- **H** [2306. Naming a Company](./solutions/2306.cpp)
 
 ### Stack
 - **M** [484. Find Permutation](./solutions/484.cpp)
