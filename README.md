@@ -94,6 +94,7 @@
 - **M** [1151. Minimum Swaps to Group All 1's Together](./solutions/1151.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./solutions/1658.cpp)
+- **M** [1695. Maximum Erasure Value](./solutions/1695.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 - **H** [2302. Count Subarrays With Score Less Than K](./solutions/2302.cpp)
