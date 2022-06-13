@@ -315,6 +315,7 @@
 - **M** [651. 4 Keys Keyboard](./solutions/651.cpp)
 - **M** [673. Number of Longest Increasing Subsequence](./solutions/673.cpp)
 - **M** [688. Knight Probability in Chessboard](./solutions/688.cpp)
+- **H** [691. Stickers to Spell Word](./solutions/691.cpp)
 - **M** [698. Partition to K Equal Sum Subsets](./solutions/698.cpp)
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
