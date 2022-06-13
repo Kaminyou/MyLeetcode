@@ -276,6 +276,7 @@
 - **H** [72. Edit Distance](./solutions/72.cpp)
 - **M** [96. Unique Binary Search Trees](./solutions/96.cpp)
 - **H** [115. Distinct Subsequences](./solutions/115.cpp)
+- **M** [120. Triangle](./solutions/120.cpp)
 - **H** [123. Best Time to Buy and Sell Stock III](./solutions/123.cpp)
 - **M** [139. Word Break](./solutions/139.cpp)
 - **M** [152. Maximum Product Subarray](./solutions/152.cpp)
