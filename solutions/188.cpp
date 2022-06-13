@@ -1,24 +1,20 @@
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
-        if (prices.size() == 0) return 0;
         int n = prices.size();
-        int operation = 2 * k + 1;
-        vector<vector<int>> dp(n, vector<int>(operation + 1, 0));
-        for (int i = 1; i < operation; i += 2) {
-            dp[0][i] = -prices[0];
-        }
+        if (n == 0) return 0;
+        vector<int> dp(k * 2 + 1, 0);
+        for (int i = 0; i < k; ++i) dp[i * 2 + 1] = -prices[0];
+        
         for (int i = 1; i < n; ++i) {
-            dp[i][0] = dp[i - 1][0];
-            for (int j = 1; j < operation; j++) {
-                if (j & 1) dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - 1] - prices[i]);
-                else dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - 1] + prices[i]);
+            vector<int> dpTemp(k * 2 + 1, 0);
+            dpTemp[0] = 0;
+            for (int j = 0; j < k; ++j) {
+                dpTemp[j * 2 + 1] = max(dp[j * 2 + 1], dp[j * 2] - prices[i]);
+                dpTemp[j * 2 + 2] = max(dp[j * 2 + 2], dp[j * 2 + 1] + prices[i]);
             }
+            dp = dpTemp;
         }
-        int res = 0;
-        for (int i = 2; i < operation; i += 2) {
-            res = max(res, dp[n - 1][i]);
-        } 
-        return res;
+        return *max_element(dp.begin(), dp.end());
     }
 };
