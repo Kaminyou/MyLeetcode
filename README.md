@@ -31,6 +31,7 @@
 
 ### String
 - **M** [271. Encode and Decode Strings](./solutions/271.cpp)
+- **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
 - **M** [443. String Compression](./solutions/443.cpp)
 - **H** [902. Numbers At Most N Given Digit Set](./solutions/902.cpp)
