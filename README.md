@@ -151,6 +151,7 @@
 - **M** [452. Minimum Number of Arrows to Burst Balloons](./solutions/452.cpp)
 - **M** [646. Maximum Length of Pair Chain](./solutions/646.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
+- **M** [921. Minimum Add to Make Parentheses Valid](./solutions/921.cpp)
 - **M** [926. Flip String to Monotone Increasing](./solutions/926.cpp)
 - **M** [1055. Shortest Way to Form String](./solutions/1055.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
