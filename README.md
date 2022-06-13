@@ -26,6 +26,7 @@
 - **E** [2299. Strong Password Checker II](./solutions/2299.cpp)
 - **E** [2303. Calculate Amount Paid in Taxes](./solutions/2303.cpp)
 #### Recursive
+- **M** [339. Nested List Weight Sum](./solutions/339.cpp)
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
