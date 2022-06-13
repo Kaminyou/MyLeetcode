@@ -185,6 +185,7 @@
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
 - **H** [768. Max Chunks To Make Sorted II](./solutions/768.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./solutions/1130.cpp)
+- **M** [1762. Buildings With an Ocean View](./solutions/1762.cpp)
 - **H** [1776. Car Fleet II](./solutions/1776.cpp)
 - **M** [1856. Maximum Subarray Min-Product](./solutions/1856.cpp)
 - **H** [1944. Number of Visible People in a Queue](./solutions/1944.cpp)
