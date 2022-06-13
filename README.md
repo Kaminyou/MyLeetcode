@@ -134,6 +134,7 @@
 
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
+- **H** [305. Number of Islands II](./solutions/305.cpp)
 - **M** [684. Redundant Connection](./solutions/684.cpp)
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
