@@ -315,6 +315,7 @@
 - **M** [562. Longest Line of Consecutive One in Matrix](./solutions/562.cpp)
 - **H** [568. Maximum Vacation Days](./solutions/568.cpp)
 - **M** [576. Out of Boundary Paths](./solutions/576.cpp)
+- **M** [583. Delete Operation for Two Strings](./solutions/583.cpp)
 - **H** [600. Non-negative Integers without Consecutive Ones](./solutions/600.cpp)
 - **M** [634. Find the Derangement of An Array](./solutions/634.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
