@@ -31,6 +31,7 @@
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
 ### String
+- **M** [43. Multiply Strings](./solutions/43.cpp)
 - **M** [271. Encode and Decode Strings](./solutions/271.cpp)
 - **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
