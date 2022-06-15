@@ -55,6 +55,7 @@
 - **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
+- **M** [930. Binary Subarrays With Sum](./solutions/930.cpp)
 - **E** [1480. Running Sum of 1d Array](./solutions/1480.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./solutions/2031.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
