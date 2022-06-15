@@ -393,6 +393,7 @@
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
+- **H** [527. Word Abbreviation](./solutions/527.cpp)
 
 ### Binary Index Tree (Fenwick tree)
 - **M** [307. Range Sum Query - Mutable](./solutions/307.cpp)
