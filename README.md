@@ -436,3 +436,4 @@
 - [Competitive programming](https://github.com/OI-wiki/OI-wiki)
 - [Binary serach](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - [Monotonic stack](https://www.cnblogs.com/grandyang/p/8887985.html)
+- [Collision issues in unordered_map](https://codeforces.com/blog/entry/62393)
