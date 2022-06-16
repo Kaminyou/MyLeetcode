@@ -77,6 +77,7 @@
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
+- **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 
 ### Linked list
