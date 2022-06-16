@@ -345,6 +345,7 @@
 - **M** [1066. Campus Bikes II](./solutions/1066.cpp)
 - **H** [1067. Digit Count in Range](./solutions/1067.cpp)
 - **H** [1092. Shortest Common Supersequence](./solutions/1092.cpp)
+- **M** [1105. Filling Bookcase Shelves](./solutions/1105.cpp)
 - **M** [1140. Stone Game II](./solutions/1140.cpp)
 - **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
