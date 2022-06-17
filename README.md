@@ -219,6 +219,7 @@
 - **H** [124. Binary Tree Maximum Path Sum](./solutions/124.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
 - **M** [250. Count Univalue Subtrees](./solutions/250.cpp)
+- **M** [285. Inorder Successor in BST](./solutions/285.cpp)
 - **H** [297. Serialize and Deserialize Binary Tree](./solutions/297.cpp)
 - **M** [298. Binary Tree Longest Consecutive Sequence](./solutions/298.cpp)
 - **M** [314. Binary Tree Vertical Order Traversal](./solutions/314.cpp)
