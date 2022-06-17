@@ -84,6 +84,7 @@
 - **M** [143. Reorder List](./solutions/143.cpp)
 - **E** [160. Intersection of Two Linked Lists](./solutions/160.cpp)
 - **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
+- **M** [328. Odd Even Linked List](./solutions/328.cpp)
 - **H** [2296. Design a Text Editor](./solutions/2296.cpp)
 
 ### Two pointers
