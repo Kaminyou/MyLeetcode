@@ -229,6 +229,7 @@
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
+- **M** [979. Distribute Coins in Binary Tree](./solutions/979.cpp)
 - **E** [993. Cousins in Binary Tree](./solutions/993.cpp)
 - **M** [1008. Construct Binary Search Tree from Preorder Traversal](./solutions/1008.cpp)
 - **M** [1273. Delete Tree Nodes](./solutions/1273.cpp)
