@@ -16,6 +16,7 @@
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
 - **E** [1822. Sign of the Product of an Array](./solutions/1822.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
+- **M** [2162. Minimum Cost to Set Cooking Time](./solutions/2162.cpp)
 - **E** [2176. Count Equal and Divisible Pairs in an Array](./solutions/2176.cpp)
 - **E** [2264. Largest 3-Same-Digit Number in String](./solutions/2264.cpp)
 - **E** [2269. Find the K-Beauty of a Number](./solutions/2269.cpp)
