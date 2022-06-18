@@ -128,6 +128,7 @@
 - **H** [301. Remove Invalid Parentheses](./solutions/301.cpp)
 - **M** [351. Android Unlock Patterns](./solutions/351.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
+- **H** [1088. Confusing Number II](./solutions/1088.cpp)
 
 ### BFS
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
