@@ -358,6 +358,7 @@
 - **M** [1105. Filling Bookcase Shelves](./solutions/1105.cpp)
 - **M** [1140. Stone Game II](./solutions/1140.cpp)
 - **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
+- **M** [1155. Number of Dice Rolls With Target Sum](./solutions/1155.cpp)
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
 - **H** [1216. Valid Palindrome III](./solutions/1216.cpp)
