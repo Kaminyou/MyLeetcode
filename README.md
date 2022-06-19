@@ -456,6 +456,7 @@
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
+- **M** [2310. Sum of Numbers With Units Digit K](./solutions/2310.cpp)
 
 ## Learning materials
 - [OI Wiki](https://oi-wiki.org/)
