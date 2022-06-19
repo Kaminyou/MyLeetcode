@@ -34,6 +34,7 @@
 
 ### String
 - **M** [43. Multiply Strings](./solutions/43.cpp)
+- **H** [65. Valid Number](./solutions/65.cpp)
 - **M** [271. Encode and Decode Strings](./solutions/271.cpp)
 - **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
