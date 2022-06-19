@@ -3,6 +3,7 @@
 ## Problem list
 ### Simple coding
 - **E** [58. Length of Last Word](./solutions/58.cpp)
+- **E** [66. Plus One](./solutions/66.cpp)
 - **M** [161. One Edit Distance](./solutions/161.cpp)
 - **E** [163. Missing Ranges](./solutions/163.cpp)
 - **E** [482. License Key Formatting](./solutions/482.cpp)
