@@ -48,6 +48,7 @@
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
 
 ### Array
+- **M** [31. Next Permutation](./solutions/31.cpp)
 - **M** [324. Wiggle Sort II](./solutions/324.cpp)
 - **M** [442. Find All Duplicates in an Array](./solutions/442.cpp)
 - **E** [448. Find All Numbers Disappeared in an Array](./solutions/448.cpp)
