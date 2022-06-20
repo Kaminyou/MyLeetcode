@@ -359,6 +359,7 @@
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **H** [879. Profitable Schemes](./solutions/879.cpp)
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
+- **H** [940. Distinct Subsequences II](./solutions/940.cpp)
 - **M** [983. Minimum Cost For Tickets](./solutions/983.cpp)
 - **M** [1035. Uncrossed Lines](./solutions/1035.cpp)
 - **M** [1048. Longest String Chain](./solutions/1048.cpp)
