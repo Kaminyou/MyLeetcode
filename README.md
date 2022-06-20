@@ -381,6 +381,7 @@
 - **H** [1269. Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269.cpp)
 - **M** [1277. Count Square Submatrices with All Ones](./solutions/1277.cpp)
 - **H** [1406. Stone Game III](./solutions/1406.cpp)
+- **H** [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./solutions/1420.cpp)
 - **H** [1434. Number of Ways to Wear Different Hats to Each Other](./solutions/1434.cpp)
 - **H** [1463. Cherry Pickup II](./solutions/1463.cpp)
 - **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
