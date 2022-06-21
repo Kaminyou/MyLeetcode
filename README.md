@@ -58,6 +58,7 @@
 - **E** [448. Find All Numbers Disappeared in an Array](./solutions/448.cpp)
 - **E** [485. Max Consecutive Ones](./solutions/485.cpp)
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
+- **M** [849. Maximize Distance to Closest Person](./solutions/849.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
 - **M** [1395. Count Number of Teams](./solutions/1395.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
