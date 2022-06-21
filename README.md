@@ -273,6 +273,7 @@
 
 ### Heap
 - **H** [23. Merge k Sorted Lists](./solutions/23.cpp)
+- **M** [215. Kth Largest Element in an Array](./solutions/215.cpp)
 - **H** [295. Find Median from Data Stream](./solutions/295.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
