@@ -40,6 +40,7 @@
 - **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
 - **M** [443. String Compression](./solutions/443.cpp)
+- **M** [681. Next Closest Time](./solutions/681.cpp)
 - **M** [722. Remove Comments](./solutions/722.cpp)
 - **M** [791. Custom Sort String](./solutions/791.cpp)
 - **H** [902. Numbers At Most N Given Digit Set](./solutions/902.cpp)
