@@ -360,6 +360,7 @@
 - **H** [727. Minimum Window Subsequence](./solutions/727.cpp)
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
+- **M** [837. New 21 Game](./solutions/837.cpp)
 - **H** [879. Profitable Schemes](./solutions/879.cpp)
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
