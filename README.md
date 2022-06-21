@@ -270,6 +270,7 @@
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
 - **M** [1167. Minimum Cost to Connect Sticks](./solutions/1167.cpp)
+- **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 
 ### Graph
