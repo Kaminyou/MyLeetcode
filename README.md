@@ -400,6 +400,7 @@
 - **H** [1478. Allocate Mailboxes](./solutions/1478.cpp)
 - **H** [1494. Parallel Courses II](./solutions/1494.cpp)
 - **H** [1510. Stone Game IV](./solutions/1510.cpp)
+- **H** [1547. Minimum Cost to Cut a Stick](./solutions/1547.cpp)
 - **H** [1575. Count All Possible Routes](./solutions/1575.cpp)
 - **M** [1626. Best Team With No Conflicts](./solutions/1626.cpp)
 - **H** [1639. Number of Ways to Form a Target String Given a Dictionary](./solutions/1639.cpp)
