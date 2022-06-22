@@ -95,6 +95,7 @@
 ### Linked list
 - **M** [2. Add Two Numbers](./solutions/2.cpp)
 - **M** [19. Remove Nth Node From End of List](./solutions/19.cpp)
+- **M** [21. Merge Two Sorted Lists](./solutions/21.cpp)
 - **M** [143. Reorder List](./solutions/143.cpp)
 - **E** [160. Intersection of Two Linked Lists](./solutions/160.cpp)
 - **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
