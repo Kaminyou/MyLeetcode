@@ -118,7 +118,6 @@
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
 - **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
 - **M** [1151. Minimum Swaps to Group All 1's Together](./solutions/1151.cpp)
-- **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./solutions/1658.cpp)
 - **M** [1695. Maximum Erasure Value](./solutions/1695.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
@@ -279,6 +278,7 @@
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
 - **M** [1167. Minimum Cost to Connect Sticks](./solutions/1167.cpp)
+- **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 
