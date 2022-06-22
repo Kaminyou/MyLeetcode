@@ -93,6 +93,7 @@
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 
 ### Linked list
+- **M** [2. Add Two Numbers](./solutions/2.cpp)
 - **M** [143. Reorder List](./solutions/143.cpp)
 - **E** [160. Intersection of Two Linked Lists](./solutions/160.cpp)
 - **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
