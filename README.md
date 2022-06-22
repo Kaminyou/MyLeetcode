@@ -146,6 +146,7 @@
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
 
 ### BFS
+- **H** [127. Word Ladder](./solutions/127.cpp)
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
