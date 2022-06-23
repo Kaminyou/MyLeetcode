@@ -156,6 +156,7 @@
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
 
 ### DFS
+- **M** [200. Number of Islands](./solutions/200.cpp)
 - **M** [323. Number of Connected Components in an Undirected Graph](./solutions/323.cpp)
 - **H** [489. Robot Room Cleaner](./solutions/489.cpp)
 - **M** [694. Number of Distinct Islands](./solutions/694.cpp)
