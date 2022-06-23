@@ -302,6 +302,7 @@
 #### Topological sort
 - **M** [210. Course Schedule II](./solutions/210.cpp)
 - **H** [269. Alien Dictionary](./solutions/269.cpp)
+- **M** [310. Minimum Height Trees](./solutions/310.cpp)
 - **H** [329. Longest Increasing Path in a Matrix](./solutions/329.cpp)
 - **M** [1136. Parallel Courses](./solutions/1136.cpp)
 #### Tarjan's algorithm
