@@ -381,6 +381,7 @@
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
 - **M** [983. Minimum Cost For Tickets](./solutions/983.cpp)
+- **H** [1000. Minimum Cost to Merge Stones](./solutions/1000.cpp)
 - **M** [1035. Uncrossed Lines](./solutions/1035.cpp)
 - **M** [1048. Longest String Chain](./solutions/1048.cpp)
 - **M** [1049. Last Stone Weight II](./solutions/1049.cpp)
