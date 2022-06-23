@@ -46,3 +46,42 @@ public:
         return res;
     }
 };
+
+// DFS version
+// class Solution {
+// public:
+//     void dfs(string from, string to, double curr, unordered_map<string, vector<pair<string, double>>>& mp, unordered_set<string>& visited, double& ans) {
+//         visited.insert(from);
+//         if (mp.find(from) == mp.end()) return;
+//         if (mp.find(to) == mp.end()) return;
+//         if (from == to) {
+//             ans = curr;
+//         }
+//         for (auto [neighbor, value] : mp[from]) {
+//             if (neighbor == to) {
+//                 ans = value * curr;
+//                 return;
+//             }
+//             if (visited.find(neighbor) == visited.end()) dfs(neighbor, to, curr * value, mp, visited, ans);
+//         }
+//         return;
+//     }
+//     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
+//         unordered_map<string, vector<pair<string, double>>> mp;
+//         int n = equations.size();
+//         for (int i = 0; i < n; ++i) {
+//             mp[equations[i][0]].push_back(make_pair(equations[i][1], values[i]));
+//             mp[equations[i][1]].push_back(make_pair(equations[i][0], 1 / values[i]));
+//         }
+//         vector<double> res;
+//         for (auto& query : queries) {
+//             string from = query[0];
+//             string to = query[1];
+//             unordered_set<string> visited;
+//             double ans = -1.0;
+//             dfs(from, to, 1.0, mp, visited, ans);
+//             res.push_back(ans);
+//         }
+//         return res;
+//     }
+// };
