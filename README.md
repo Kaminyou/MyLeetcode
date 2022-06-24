@@ -500,6 +500,7 @@
 ### Math
 - **M** [166. Fraction to Recurring Decimal](./solutions/166.cpp)
 - **M** [172. Factorial Trailing Zeroes](./solutions/172.cpp)
+- **E** [292. Nim Game](./solutions/292.cpp)
 - **M** [390. Elimination Game](./solutions/390.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
