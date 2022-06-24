@@ -374,6 +374,7 @@
 - **M** [634. Find the Derangement of An Array](./solutions/634.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
 - **M** [651. 4 Keys Keyboard](./solutions/651.cpp)
+- **H** [664. Strange Printer](./solutions/664.cpp)
 - **M** [673. Number of Longest Increasing Subsequence](./solutions/673.cpp)
 - **M** [688. Knight Probability in Chessboard](./solutions/688.cpp)
 - **H** [691. Stickers to Spell Word](./solutions/691.cpp)
