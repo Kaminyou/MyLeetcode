@@ -317,6 +317,7 @@
 
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./solutions/4.cpp)
+- **M** [34. Find First and Last Position of Element in Sorted Array](./solutions/34.cpp)
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
 - **E** [374. Guess Number Higher or Lower](./solutions/374.cpp)
 - **M** [378. Kth Smallest Element in a Sorted Matrix](./solutions/378.cpp)
