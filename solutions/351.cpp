@@ -40,3 +40,45 @@ public:
         return res;
     }
 };
+
+// V2
+// class Solution {
+// public:
+//     vector<vector<int>> check;
+    
+//     void _backtracking(int from, int curr, vector<bool>& visited, int m, int n, int& res) {
+//         if (curr >= m && curr <= n) {
+//             res++;
+//         }
+//         if (curr > 9) return;
+//         for (int to = 1; to <= 9; ++to) {
+//             if (visited[to] == true) continue;
+//             if (check[from][to] != -1 && visited[check[from][to]] == false) continue;
+//             visited[to] = true;
+//             _backtracking(to, curr + 1, visited, m, n, res);
+//             visited[to] = false;
+//         }
+//     }
+//     int backtracking(int from, int curr, vector<bool>& visited, int m, int n) {
+//         int res = 0;
+//         visited[from] = true;
+//         _backtracking(from, 1, visited, m, n, res);
+//         visited[from] = false;
+//         return res;
+//     }
+//     int numberOfPatterns(int m, int n) {
+//         check.resize(10, vector<int>(10, -1));
+//         check[1][3] = check[3][1] = 2;
+//         check[4][6] = check[6][4] = check[1][9] = check[9][1] = check[3][7] = check[7][3]  = 5;
+//         check[7][9] = check[9][7] = 8;
+//         check[1][7] = check[7][1] = 4;
+//         check[2][8] = check[8][2] = 5;
+//         check[3][9] = check[9][3] = 6;
+
+//         vector<bool> visited(10, false);
+//         int a = backtracking(1, 0, visited, m, n);
+//         int b = backtracking(2, 0, visited, m, n);
+//         int c = backtracking(5, 0, visited, m, n);
+//         return a * 4 + b * 4 + c;
+//     }
+// };
