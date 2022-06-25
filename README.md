@@ -176,6 +176,7 @@
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
+- **M** [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316.cpp)
 
 ### Greedy
 - **H** [32. Longest Valid Parentheses](./solutions/32.cpp)
