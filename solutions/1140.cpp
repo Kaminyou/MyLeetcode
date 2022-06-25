@@ -18,3 +18,29 @@ public:
         return dp(0, 1, memo, prefix);
     }
 };
+
+// class Solution {
+// public:
+//     int dp(vector<int>& piles, vector<vector<int>>& memo, int curr, int m) {
+//         if (curr >= piles.size()) return 0;
+//         if (memo[curr][m] != INT_MIN) return memo[curr][m];
+//         int sum = 0;
+//         int res = INT_MIN;
+//         for (int i = 0; i < 2 * m && curr + i < piles.size(); ++i) {
+//             sum += piles[curr + i];
+//             res = max(res, sum - dp(piles, memo, curr + i + 1, max(m, i + 1)));
+//         }
+//         return memo[curr][m] = res;
+//     }
+//     int stoneGameII(vector<int>& piles) {
+//         int n = piles.size();
+//         vector<vector<int>> memo(n, vector<int>(n + 1, INT_MIN));
+//         // alice - bob = ans
+//         // alice + bob = sum
+//         // alice = (ans + sum) / 2
+//         int ans = dp(piles, memo, 0, 1);
+//         int sum = 0;
+//         for (auto& pile : piles) sum += pile;
+//         return (ans + sum) / 2;
+//     }
+// };
