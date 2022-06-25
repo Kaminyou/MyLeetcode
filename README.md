@@ -325,6 +325,7 @@
 - **E** [374. Guess Number Higher or Lower](./solutions/374.cpp)
 - **M** [378. Kth Smallest Element in a Sorted Matrix](./solutions/378.cpp)
 - **E** [441. Arranging Coins](./solutions/441.cpp)
+- **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
 - **H** [1231. Divide Chocolate](./solutions/1231.cpp)
