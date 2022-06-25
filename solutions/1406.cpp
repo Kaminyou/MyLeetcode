@@ -1,23 +1,21 @@
 class Solution {
 public:
-    int dp(int curr, vector<int>& stoneValue, vector<int>& memo) {
+    int dp(vector<int>& stoneValue, int curr, vector<int>& memo) {
         if (curr >= stoneValue.size()) return 0;
         if (memo[curr] != INT_MIN) return memo[curr];
-        
-        for (int i = 0, sum = 0; curr + i < stoneValue.size() && i < 3; i++) {
-            sum += stoneValue[curr + i];
-            memo[curr] = max(memo[curr], sum - dp(curr + i + 1, stoneValue, memo));
+        int sum = 0;
+        int res = INT_MIN;
+        for (int i = curr; i < curr + 3 && i < stoneValue.size(); ++i) {
+            sum += stoneValue[i];
+            res = max(res, sum - dp(stoneValue, i + 1, memo));
         }
-        return memo[curr];
+        return memo[curr] = res;
     }
     string stoneGameIII(vector<int>& stoneValue) {
-        int n = stoneValue.size();
-        int sum = 0;
-        for (auto value : stoneValue) sum += value;
-        vector<int> memo(n, INT_MIN);
-        int alice = dp(0, stoneValue, memo);
-        if (alice == 0) return "Tie";
-        else if (alice > 0) return "Alice";
-        else return "Bob";
+        vector<int> memo(stoneValue.size(), INT_MIN);
+        int ans = dp(stoneValue, 0, memo);
+        if (ans > 0) return "Alice";
+        else if (ans < 0) return "Bob";
+        else return "Tie";
     }
 };
