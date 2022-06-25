@@ -444,6 +444,7 @@
 - **H** [2267. Check if There Is a Valid Parentheses String Path](./solutions/2267.cpp)
 - **M** [2304. Minimum Path Cost in a Grid](./solutions/2304.cpp)
 - **H** [2312. Selling Pieces of Wood](./solutions/2312.cpp)
+- **H** [2318. Number of Distinct Roll Sequences](./solutions/2318.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
