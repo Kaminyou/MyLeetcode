@@ -380,6 +380,7 @@
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
 - **M** [516. Longest Palindromic Subsequence](./solutions/516.cpp)
 - **M** [518. Coin Change 2](./solutions/518.cpp)
+- **M** [526. Beautiful Arrangement](./solutions/526.cpp)
 - **H** [546. Remove Boxes](./solutions/546.cpp)
 - **M** [562. Longest Line of Consecutive One in Matrix](./solutions/562.cpp)
 - **H** [568. Maximum Vacation Days](./solutions/568.cpp)
