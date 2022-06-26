@@ -507,6 +507,7 @@
 - **M** [229. Majority Element II](./solutions/229.cpp)
 #### Kadane's algorithm
 - **H** [2272. Substring With Largest Variance](./solutions/2272.cpp)
+- **H** [2321. Maximum Score Of Spliced Array](./solutions/2321.cpp)
 #### Sieve of Eratosthenes
 - **H** [204. Count Primes](./solutions/204.cpp)
 
