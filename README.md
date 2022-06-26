@@ -281,6 +281,7 @@
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./solutions/1650.cpp)
 - **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
+- **H** [2277. Closest Node to Path in Tree](./solutions/2277.cpp)
 - **H** [2322. Minimum Score After Removals on a Tree](./solutions/2322.cpp)
 
 ### Self balanced tree
