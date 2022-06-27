@@ -487,6 +487,7 @@
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
 - **H** [527. Word Abbreviation](./solutions/527.cpp)
+- **H** [642. Design Search Autocomplete System](./solutions/642.cpp)
 - **H** [745. Prefix and Suffix Search](./solutions/745.cpp)
 - **M** [820. Short Encoding of Words](./solutions/820.cpp)
 
