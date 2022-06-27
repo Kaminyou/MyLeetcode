@@ -503,6 +503,7 @@
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
 
 ### System design
+- **M** [146. LRU Cache](./solutions/146.cpp)
 - **H** [158. Read N Characters Given read4 II - Call Multiple Times](./solutions/158.cpp)
 - **M** [251. Flatten 2D Vector](./solutions/251.cpp)
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
