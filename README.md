@@ -16,6 +16,7 @@
 - **E** [1304. Find N Unique Integers Sum up to Zero](./solutions/1304.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
+- **M** [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689.cpp)
 - **E** [1822. Sign of the Product of an Array](./solutions/1822.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
 - **M** [2162. Minimum Cost to Set Cooking Time](./solutions/2162.cpp)
