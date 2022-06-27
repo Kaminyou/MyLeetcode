@@ -299,6 +299,9 @@
 - **M** [2015. Average Height of Buildings in Each Segment](./solutions/2015.cpp)
 - **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
 
+### Multiset
+- **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
+
 ### Heap
 - **H** [23. Merge k Sorted Lists](./solutions/23.cpp)
 - **M** [215. Kth Largest Element in an Array](./solutions/215.cpp)
