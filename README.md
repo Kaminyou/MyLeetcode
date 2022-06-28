@@ -189,6 +189,7 @@
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **M** [55. Jump Game](./solutions/55.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
+- **H** [135. Candy](./solutions/135.cpp)
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
 - **M** [334. Increasing Triplet Subsequence](./solutions/334.cpp)
 - **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
