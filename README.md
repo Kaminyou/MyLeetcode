@@ -300,6 +300,7 @@
 - **H** [699. Falling Squares](./solutions/699.cpp)
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
+- **M** [731. My Calendar II](./solutions/731.cpp)
 - **H** [975. Odd Even Jump](./solutions/975.cpp)
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
 - **M** [2015. Average Height of Buildings in Each Segment](./solutions/2015.cpp)
