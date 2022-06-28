@@ -213,6 +213,7 @@
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
+- **E** [205. Isomorphic Strings](./solutions/205.cpp)
 - **E** [242. Valid Anagram](./solutions/242.cpp)
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
 - **M** [560. Subarray Sum Equals K](./solutions/560.cpp)
