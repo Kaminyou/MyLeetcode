@@ -486,6 +486,7 @@
 - **E** [1290. Convert Binary Number in a Linked List to Integer](./solutions/1290.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 - **E** [1342. Number of Steps to Reduce a Number to Zero](./solutions/1342.cpp)
+- **M** [1386. Cinema Seat Allocation](./solutions/1386.cpp)
 - **M** [2275. Largest Combination With Bitwise AND Greater Than Zero](./solutions/2275.cpp)
 - **E** [2317. Maximum XOR After Operations](./solutions/2317.cpp)
 
