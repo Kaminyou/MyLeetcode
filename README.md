@@ -562,3 +562,11 @@
 - [Binary serach](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - [Monotonic stack](https://www.cnblogs.com/grandyang/p/8887985.html)
 - [Collision issues in unordered_map](https://codeforces.com/blog/entry/62393)
+
+## Tricks
+```cpp
+// to iterate subset
+for (int subset = state; subset; subset = (subset - 1) & state) {}
+// to get difference set
+int differentSet = state ^ subset;
+```
