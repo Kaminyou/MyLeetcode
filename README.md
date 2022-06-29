@@ -570,4 +570,6 @@
 for (int subset = state; subset; subset = (subset - 1) & state) {}
 // to get difference set
 int differentSet = state ^ subset;
+// A is B's subset?
+bool isSubset = (A & B) == A;
 ```
