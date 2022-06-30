@@ -472,6 +472,7 @@
 - **M** [1746. Maximum Subarray Sum After One Operation](./solutions/1746.cpp)
 - **H** [1751. Maximum Number of Events That Can Be Attended II](./solutions/1751.cpp)
 - **H** [1799. Maximize Score After N Operations](./solutions/1799.cpp)
+- **H** [1815. Maximum Number of Groups Getting Fresh Donuts](./solutions/1815.cpp)
 - **H** [1879. Minimum XOR Sum of Two Arrays](./solutions/1879.cpp)
 - **H** [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](./solutions/1866.cpp)
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./solutions/1884.cpp)
