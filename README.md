@@ -212,6 +212,7 @@
 - **H** [1354. Construct Target Array With Multiple Sums](./solutions/1354.cpp)
 - **M** [1564. Put Boxes Into the Warehouse I](./solutions/1564.cpp)
 - **M** [1647. Minimum Deletions to Make Character Frequencies Unique](./solutions/1647.cpp)
+- **E** [1710. Maximum Units on a Truck](./solutions/1710.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./solutions/2279.cpp)
 - **M** [2285. Maximum Total Importance of Roads](./solutions/2285.cpp)
