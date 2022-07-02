@@ -1,22 +1,24 @@
 class Solution {
 public:
     int shortestWay(string source, string target) {
-        int count = 1;
-        int flag = 0;
+        int m = source.size();
+        int n = target.size();
         int sourceIdx = 0;
         int targetIdx = 0;
-        while (targetIdx < target.size()) {
+        int penalty = 0;
+        int count = 1;
+        while (targetIdx < n) {
             if (source[sourceIdx] == target[targetIdx]) {
-                targetIdx++;
                 sourceIdx++;
-                flag = 0;
+                targetIdx++;
+                penalty = 0;
             }
             else {
                 sourceIdx++;
-                flag++;
-                if (flag == source.size()) return -1;
+                penalty++;
             }
-            if (sourceIdx == source.size() && targetIdx < target.size()) {
+            if (penalty == m) return -1;
+            if (sourceIdx == m && targetIdx < n) {
                 sourceIdx = 0;
                 count++;
             }
