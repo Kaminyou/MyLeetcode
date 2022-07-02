@@ -231,6 +231,7 @@
 - **M** [567. Permutation in String](./solutions/567.cpp)
 - **E** [599. Minimum Index Sum of Two Lists](./solutions/599.cpp)
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
+- **M** [939. Minimum Area Rectangle](./solutions/939.cpp)
 - **M** [1152. Analyze User Website Visit Pattern](./solutions/1152.cpp)
 - **H** [1153. String Transforms Into Another String](./solutions/1153.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
