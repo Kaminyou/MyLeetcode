@@ -211,6 +211,7 @@
 - **H** [968. Binary Tree Cameras](./solutions/968.cpp)
 - **M** [1055. Shortest Way to Form String](./solutions/1055.cpp)
 - **H** [1354. Construct Target Array With Multiple Sums](./solutions/1354.cpp)
+- **M** [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./solutions/1465.cpp)
 - **M** [1564. Put Boxes Into the Warehouse I](./solutions/1564.cpp)
 - **M** [1647. Minimum Deletions to Make Character Frequencies Unique](./solutions/1647.cpp)
 - **E** [1710. Maximum Units on a Truck](./solutions/1710.cpp)
