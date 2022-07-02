@@ -291,6 +291,7 @@
 - **M** [549. Binary Tree Longest Consecutive Sequence II](./solutions/549.cpp)
 - **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
+- **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 - **M** [979. Distribute Coins in Binary Tree](./solutions/979.cpp)
