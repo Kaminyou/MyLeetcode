@@ -275,6 +275,8 @@
 
 ### Deque
 - **M** [950. Reveal Cards In Increasing Order](./solutions/950.cpp)
+#### Monotonic deque
+- **H** [239. Sliding Window Maximum](./solutions/239.cpp)
 
 ### Tree
 - **M** [117. Populating Next Right Pointers in Each Node II](./solutions/117.cpp)
