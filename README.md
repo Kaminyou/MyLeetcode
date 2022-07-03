@@ -245,6 +245,7 @@
 - **M** [2295. Replace Elements in an Array](./solutions/2295.cpp)
 - **H** [2301. Match Substring After Replacement](./solutions/2301.cpp)
 - **H** [2306. Naming a Company](./solutions/2306.cpp)
+- **E** [2325. Decode the Message](./solutions/2325.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
