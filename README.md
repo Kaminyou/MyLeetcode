@@ -57,6 +57,8 @@
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 - **M** [2284. Sender With Largest Word Count](./solutions/2284.cpp)
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
+#### Rabin-Karp
+- **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
 
 ### Array
 - **M** [31. Next Permutation](./solutions/31.cpp)
