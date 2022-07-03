@@ -497,6 +497,7 @@
 - **H** [2312. Selling Pieces of Wood](./solutions/2312.cpp)
 - **H** [2318. Number of Distinct Roll Sequences](./solutions/2318.cpp)
 - **M** [2320. Count Number of Ways to Place Houses](./solutions/2320.cpp)
+- **M** [2327. Number of People Aware of a Secret](./solutions/2327.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
