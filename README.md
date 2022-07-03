@@ -9,6 +9,7 @@
 - **E** [246. Strobogrammatic Number](./solutions/246.cpp)
 - **E** [293. Flip Game](./solutions/293.cpp)
 - **E** [482. License Key Formatting](./solutions/482.cpp)
+- **E** [492. Construct the Rectangle](./solutions/492.cpp)
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
 - **E** [661. Image Smoother](./solutions/661.cpp)
 - **E** [929. Unique Email Addresses](./solutions/929.cpp)
