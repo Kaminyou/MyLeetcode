@@ -167,6 +167,7 @@
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
+- **H** [815. Bus Routes](./solutions/815.cpp)
 - **H** [847. Shortest Path Visiting All Nodes](./solutions/847.cpp)
 - **M** [994. Rotting Oranges](./solutions/994.cpp)
 - **M** [1091. Shortest Path in Binary Matrix](./solutions/1091.cpp)
