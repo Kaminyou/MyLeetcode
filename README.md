@@ -228,6 +228,7 @@
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
+- **M** [128. Longest Consecutive Sequence](./solutions/128.cpp)
 - **E** [205. Isomorphic Strings](./solutions/205.cpp)
 - **E** [242. Valid Anagram](./solutions/242.cpp)
 - **M** [299. Bulls and Cows](./solutions/299.cpp)
