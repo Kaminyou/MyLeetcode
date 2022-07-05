@@ -573,6 +573,8 @@
 - **H** [2321. Maximum Score Of Spliced Array](./solutions/2321.cpp)
 #### Sieve of Eratosthenes
 - **H** [204. Count Primes](./solutions/204.cpp)
+#### Binary lifting
+- **H** [1483. Kth Ancestor of a Tree Node](./solutions/1483.cpp)
 
 ### Math
 - **M** [7. Reverse Integer](./solutions/7.cpp)
