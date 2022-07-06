@@ -11,3 +11,20 @@ public:
         return dp[n];
     }
 };
+
+// class Solution {
+// public:
+//     int fib(int n) {
+//         if (n == 0) return 0;
+//         int prev = 0;
+//         int curr = 1;
+//         n -= 1;
+//         while (n) {
+//             int next = prev + curr;
+//             prev = curr;
+//             curr = next;
+//             n--;
+//         }
+//         return curr;
+//     }
+// };
