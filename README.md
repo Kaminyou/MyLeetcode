@@ -406,6 +406,7 @@
 - **H** [123. Best Time to Buy and Sell Stock III](./solutions/123.cpp)
 - **M** [139. Word Break](./solutions/139.cpp)
 - **M** [152. Maximum Product Subarray](./solutions/152.cpp)
+- **H** [174. Dungeon Game](./solutions/174.cpp)
 - **H** [188. Best Time to Buy and Sell Stock IV](./solutions/188.cpp)
 - **M** [198. House Robber](./solutions/198.cpp)
 - **M** [213. House Robber II](./solutions/213.cpp)
