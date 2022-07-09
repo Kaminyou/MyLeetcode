@@ -433,6 +433,7 @@
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
 - **M** [494. Target Sum](./solutions/494.cpp)
 - **E** [509. Fibonacci Number](./solutions/509.cpp)
+- **H** [514. Freedom Trail](./solutions/514.cpp)
 - **M** [516. Longest Palindromic Subsequence](./solutions/516.cpp)
 - **M** [518. Coin Change 2](./solutions/518.cpp)
 - **M** [526. Beautiful Arrangement](./solutions/526.cpp)
