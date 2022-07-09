@@ -519,6 +519,7 @@
 - **H** [1879. Minimum XOR Sum of Two Arrays](./solutions/1879.cpp)
 - **H** [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](./solutions/1866.cpp)
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./solutions/1884.cpp)
+- **M** [1937. Maximum Number of Points with Cost](./solutions/1937.cpp)
 - **M** [2266. Count Number of Texts](./solutions/2266.cpp)
 - **H** [2267. Check if There Is a Valid Parentheses String Path](./solutions/2267.cpp)
 - **M** [2304. Minimum Path Cost in a Grid](./solutions/2304.cpp)
