@@ -144,6 +144,7 @@
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 - **H** [2302. Count Subarrays With Score Less Than K](./solutions/2302.cpp)
+- **M** [2332. The Latest Time to Catch a Bus](./solutions/2332.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
