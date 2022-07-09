@@ -340,6 +340,7 @@
 ### Multiset
 - **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
 - **H** [1825. Finding MK Average](./solutions/1825.cpp)
+- **M** [2034. Stock Price Fluctuation](./solutions/2034.cpp)
 
 ### Heap
 - **H** [23. Merge k Sorted Lists](./solutions/23.cpp)
