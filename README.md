@@ -327,6 +327,7 @@
 - **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
 - **H** [2277. Closest Node to Path in Tree](./solutions/2277.cpp)
 - **H** [2322. Minimum Score After Removals on a Tree](./solutions/2322.cpp)
+- **E** [2331. Evaluate Boolean Binary Tree](./solutions/2331.cpp)
 
 ### Self balanced tree
 - **H** [699. Falling Squares](./solutions/699.cpp)
