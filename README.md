@@ -277,6 +277,7 @@
 - **H** [1944. Number of Visible People in a Queue](./solutions/1944.cpp)
 - **H** [2281. Sum of Total Strength of Wizards](./solutions/2281.cpp)
 - **M** [2289. Steps to Make Array Non-decreasing](./solutions/2289.cpp)
+- **H** [2334. Subarray With Elements Greater Than Varying Threshold](./solutions/2334.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
