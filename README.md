@@ -589,6 +589,7 @@
 - **H** [158. Read N Characters Given read4 II - Call Multiple Times](./solutions/158.cpp)
 - **M** [251. Flatten 2D Vector](./solutions/251.cpp)
 - **M** [380. Insert Delete GetRandom O(1)](./solutions/380.cpp)
+- **M** [1146. Snapshot Array](./solutions/1146.cpp)
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
 
 ### Special
