@@ -250,6 +250,7 @@
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
+- **M** [2013. Detect Squares](./solutions/2013.cpp)
 - **M** [2023. Number of Pairs of Strings With Concatenation Equal to Target](./solutions/2023.cpp)
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./solutions/2131.cpp)
 - **E** [2287. Rearrange Characters to Make Target String](./solutions/2287.cpp)
