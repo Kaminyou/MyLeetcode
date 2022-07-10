@@ -43,3 +43,41 @@ public:
         }
     }
 };
+
+
+// V2
+// /**
+//  * // This is the Master's API interface.
+//  * // You should not implement it, or speculate about its implementation
+//  * class Master {
+//  *   public:
+//  *     int guess(string word);
+//  * };
+//  */
+// class Solution {
+// public:
+//     int compare(const string& s1, const string& s2) {
+//         int count = 0;
+//         for (int i = 0; i < 6; ++i) {
+//             if (s1[i] == s2[i]) count++;
+//         }
+//         return count;
+//     }
+//     void findSecretWord(vector<string>& wordlist, Master& master) {
+//         // each time
+//         // random pick one and use the response to filter those
+//         // are not the same
+//         sort(wordlist.begin(), wordlist.end());
+//         while (true) {
+//             int rnd = rand() % wordlist.size();
+//             string query = wordlist[rnd];
+//             int response = master.guess(query);
+//             if (response == 6) break;
+//             vector<string> newWordlist;
+//             for (auto& s : wordlist) {
+//                 if (compare(s, query) == response) newWordlist.push_back(s);
+//             }
+//             wordlist = newWordlist;
+//         }
+//     }
+// };
