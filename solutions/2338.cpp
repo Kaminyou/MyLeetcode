@@ -34,9 +34,9 @@ public:
         prefixSum.resize(maxUnique + 1, vector<long long>(n + 1, 0));
         choiceDp.resize(maxUnique + 1, 0);
         
-        // Compute the # of unique sequences
+        // Compute the # of unique sequences with i unique values and length = j
         // We don't care about what their values should be here
-        // just [a,b,c,d] and a <= b <= c <= d and b % a == 0, c % a == 0 ...
+        // just [a,b,c,d] and a <= b <= c <= d
         for (int j = 1; j <= n; ++j) {
             dp[1][j] = 1;
             prefixSum[1][j] = j;
