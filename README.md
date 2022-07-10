@@ -371,6 +371,7 @@
 - **H** [499. The Maze III](./solutions/499.cpp)
 - **M** [505. The Maze II](./solutions/505.cpp)
 - **M** [743. Network Delay Time](./solutions/743.cpp)
+- **H** [778. Swim in Rising Water](./solutions/778.cpp)
 #### Topological sort
 - **M** [210. Course Schedule II](./solutions/210.cpp)
 - **H** [269. Alien Dictionary](./solutions/269.cpp)
