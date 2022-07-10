@@ -490,6 +490,7 @@
 - **H** [1216. Valid Palindrome III](./solutions/1216.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
 - **H** [1235. Maximum Profit in Job Scheduling](./solutions/1235.cpp)
+- **H** [1240. Tiling a Rectangle with the Fewest Squares](./solutions/1240.cpp)
 - **H** [1246. Palindrome Removal](./solutions/1246.cpp)
 - **H** [1259. Handshakes That Don't Cross](./solutions/1259.cpp)
 - **H** [1269. Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269.cpp)
