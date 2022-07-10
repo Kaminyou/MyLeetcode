@@ -228,7 +228,8 @@
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./solutions/2279.cpp)
 - **M** [2285. Maximum Total Importance of Roads](./solutions/2285.cpp)
-- **M** [Longest Binary Subsequence Less Than or Equal to K](./solutions/2311.cpp)
+- **M** [2311. Longest Binary Subsequence Less Than or Equal to K](./solutions/2311.cpp)
+- **M** [2337. 2337. Move Pieces to Obtain a String](./solutions/2337.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
