@@ -532,6 +532,7 @@
 - **M** [2320. Count Number of Ways to Place Houses](./solutions/2320.cpp)
 - **M** [2327. Number of People Aware of a Secret](./solutions/2327.cpp)
 - **H** [2328. Number of Increasing Paths in a Grid](./solutions/2328.cpp)
+- **H** [2338. Count the Number of Ideal Arrays](./solutions/2338.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
