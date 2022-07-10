@@ -342,6 +342,7 @@
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
 - **M** [2015. Average Height of Buildings in Each Segment](./solutions/2015.cpp)
 - **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
+- **M** [2336. Smallest Number in Infinite Set](./solutions/2336.cpp)
 
 ### Multiset
 - **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
