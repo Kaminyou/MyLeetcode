@@ -139,6 +139,7 @@
 - **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
 - **M** [1151. Minimum Swaps to Group All 1's Together](./solutions/1151.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./solutions/1423.cpp)
+- **H** [1610. Maximum Number of Visible Points](./solutions/1610.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./solutions/1658.cpp)
 - **M** [1695. Maximum Erasure Value](./solutions/1695.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
