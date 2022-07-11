@@ -61,6 +61,7 @@
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
 #### Rabin-Karp
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
+- **M** [1554. Strings Differ by One Character](./solutions/1554.cpp)
 
 ### Array
 - **M** [31. Next Permutation](./solutions/31.cpp)
