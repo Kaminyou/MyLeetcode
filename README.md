@@ -361,6 +361,7 @@
 - **M** [253. Meeting Rooms II](./solutions/253.cpp)
 - **H** [295. Find Median from Data Stream](./solutions/295.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
+- **M** [767. Reorganize String](./solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
 - **M** [1167. Minimum Cost to Connect Sticks](./solutions/1167.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
