@@ -190,6 +190,7 @@
 - **H** [489. Robot Room Cleaner](./solutions/489.cpp)
 - **M** [694. Number of Distinct Islands](./solutions/694.cpp)
 - **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
+- **M** [1376. Time Needed to Inform All Employees](./solutions/1376.cpp)
 - **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
 
 ### Disjoint set
