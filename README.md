@@ -450,6 +450,7 @@
 - **H** [446. Arithmetic Slices II - Subsequence](./solutions/446.cpp)
 - **M** [464. Can I Win](./solutions/464.cpp)
 - **H** [471. Encode String with Shortest Length](./solutions/471.cpp)
+- **M** [473. Matchsticks to Square](./solutions/473.cpp)
 - **M** [474. Ones and Zeroes](./solutions/474.cpp)
 - **M** [486. Predict the Winner](./solutions/486.cpp)
 - **M** [487. Max Consecutive Ones II](./solutions/487.cpp)
