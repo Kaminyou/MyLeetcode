@@ -370,6 +370,7 @@
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
 - **M** [1167. Minimum Cost to Connect Sticks](./solutions/1167.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
+- **H** [1606. Find Servers That Handled Most Number of Requests](./solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 
