@@ -133,6 +133,7 @@
 - **M** [340. Longest Substring with At Most K Distinct Characters](./solutions/340.cpp)
 - **M** [395. Longest Substring with At Least K Repeating Characters](./solutions/395.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
+- **H** [548. Split Array with Equal Sum](./solutions/548.cpp)
 - **M** [611. Valid Triangle Number](./solutions/611.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
