@@ -201,6 +201,7 @@
 - **M** [684. Redundant Connection](./solutions/684.cpp)
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
+- **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 - **M** [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316.cpp)
 
