@@ -75,6 +75,7 @@
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
 - **M** [849. Maximize Distance to Closest Person](./solutions/849.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
+- **E** [1122. Relative Sort Array](./solutions/1122.cpp)
 - **M** [1395. Count Number of Teams](./solutions/1395.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
 - **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
