@@ -247,6 +247,7 @@
 - **E** [242. Valid Anagram](./solutions/242.cpp)
 - **M** [299. Bulls and Cows](./solutions/299.cpp)
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
+- **M** [398. Random Pick Index](./solutions/398.cpp)
 - **M** [560. Subarray Sum Equals K](./solutions/560.cpp)
 - **M** [567. Permutation in String](./solutions/567.cpp)
 - **E** [599. Minimum Index Sum of Two Lists](./solutions/599.cpp)
