@@ -208,6 +208,7 @@
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 - **H** [1697. Checking Existence of Edge Length Limited Paths](./solutions/1697.cpp)
+- **H** [1724. Checking Existence of Edge Length Limited Paths II](./solutions/1724.cpp)
 - **M** [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](./solutions/2316.cpp)
 
 ### Greedy
