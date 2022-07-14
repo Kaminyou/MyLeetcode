@@ -312,6 +312,7 @@
 - **M** [1696. Jump Game VI](./solutions/1696.cpp)
 
 ### Tree
+- **M** [105. Construct Binary Tree from Preorder and Inorder Traversal](./solutions/105.cpp)
 - **M** [117. Populating Next Right Pointers in Each Node II](./solutions/117.cpp)
 - **H** [124. Binary Tree Maximum Path Sum](./solutions/124.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
