@@ -41,6 +41,7 @@
 
 ### String
 - **M** [43. Multiply Strings](./solutions/43.cpp)
+- **H** [60. Permutation Sequence](./solutions/60.cpp)
 - **H** [65. Valid Number](./solutions/65.cpp)
 - **H** [68. Text Justification](./solutions/68.cpp)
 - **M** [271. Encode and Decode Strings](./solutions/271.cpp)
