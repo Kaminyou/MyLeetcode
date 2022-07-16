@@ -399,6 +399,7 @@
 - **H** [1606. Find Servers That Handled Most Number of Requests](./solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
+- **H** [2163. Minimum Difference in Sums After Removal of Elements](./solutions/2163.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
