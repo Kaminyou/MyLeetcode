@@ -316,6 +316,7 @@
 #### Monotonic deque
 - **H** [239. Sliding Window Maximum](./solutions/239.cpp)
 - **H** [1425. Constrained Subsequence Sum](./solutions/1425.cpp)
+- **M** [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./solutions/1438.cpp)
 - **H** [1499. Max Value of Equation](./solutions/1499.cpp)
 - **M** [1696. Jump Game VI](./solutions/1696.cpp)
 
