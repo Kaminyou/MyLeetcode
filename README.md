@@ -205,6 +205,7 @@
 - **M** [1376. Time Needed to Inform All Employees](./solutions/1376.cpp)
 - **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
 - **E** [1971. Find if Path Exists in Graph](./solutions/1971.cpp)
+- **M** [2101. Detonate the Maximum Bombs](./solutions/2101.cpp)
 
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
