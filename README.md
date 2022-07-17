@@ -299,6 +299,7 @@
 - **E** [155. Min Stack](./solutions/155.cpp)
 - **M** [484. Find Permutation](./solutions/484.cpp)
 - **M** [636. Exclusive Time of Functions](./solutions/636.cpp)
+- **M** [678. Valid Parenthesis String](./solutions/678.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
 - **E** [1047. Remove All Adjacent Duplicates In String](./solutions/1047.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./solutions/1209.cpp)
