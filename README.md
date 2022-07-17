@@ -527,6 +527,7 @@
 - **H** [879. Profitable Schemes](./solutions/879.cpp)
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
 - **M** [894. All Possible Full Binary Trees](./solutions/894.cpp)
+- **M** [935. Knight Dialer](./solutions/935.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
 - **M** [983. Minimum Cost For Tickets](./solutions/983.cpp)
 - **H** [1000. Minimum Cost to Merge Stones](./solutions/1000.cpp)
