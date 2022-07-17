@@ -504,6 +504,7 @@
 - **M** [576. Out of Boundary Paths](./solutions/576.cpp)
 - **M** [583. Delete Operation for Two Strings](./solutions/583.cpp)
 - **H** [600. Non-negative Integers without Consecutive Ones](./solutions/600.cpp)
+- **H** [629. K Inverse Pairs Array](./solutions/629.cpp)
 - **M** [634. Find the Derangement of An Array](./solutions/634.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
 - **M** [651. 4 Keys Keyboard](./solutions/651.cpp)
