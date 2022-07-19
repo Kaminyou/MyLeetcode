@@ -470,6 +470,7 @@
 - **M** [96. Unique Binary Search Trees](./solutions/96.cpp)
 - **M** [97. Interleaving String](./solutions/97.cpp)
 - **H** [115. Distinct Subsequences](./solutions/115.cpp)
+- **E** [118. Pascal's Triangle](./solutions/118.cpp)
 - **M** [120. Triangle](./solutions/120.cpp)
 - **H** [123. Best Time to Buy and Sell Stock III](./solutions/123.cpp)
 - **M** [139. Word Break](./solutions/139.cpp)
