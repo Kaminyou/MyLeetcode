@@ -367,6 +367,7 @@
 - **M** [979. Distribute Coins in Binary Tree](./solutions/979.cpp)
 - **E** [993. Cousins in Binary Tree](./solutions/993.cpp)
 - **M** [1008. Construct Binary Search Tree from Preorder Traversal](./solutions/1008.cpp)
+- **M** [1038. Binary Search Tree to Greater Sum Tree](./solutions/1038.cpp)
 - **M** [1123. Lowest Common Ancestor of Deepest Leaves](./solutions/1123.cpp)
 - **M** [1273. Delete Tree Nodes](./solutions/1273.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
