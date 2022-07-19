@@ -559,6 +559,7 @@
 - **H** [1269. Number of Ways to Stay in the Same Place After Some Steps](./solutions/1269.cpp)
 - **M** [1277. Count Square Submatrices with All Ones](./solutions/1277.cpp)
 - **H** [1278. Palindrome Partitioning III](./solutions/1278.cpp)
+- **H** [1289. Minimum Falling Path Sum II](./solutions/1289.cpp)
 - **H** [1312. Minimum Insertion Steps to Make a String Palindrome](./solutions/1312.cpp)
 - **H** [1349. Maximum Students Taking Exam](./solutions/1349.cpp)
 - **M** [1387. Sort Integers by The Power Value](./solutions/1387.cpp)
