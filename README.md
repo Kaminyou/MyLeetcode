@@ -184,6 +184,7 @@
 - **H** [679. 24 Game](./solutions/679.cpp)
 - **H** [980. Unique Paths III](./solutions/980.cpp)
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
+- **M** [1774. Closest Dessert Cost](./solutions/1774.cpp)
 
 ### BFS
 - **M** [102. Binary Tree Level Order Traversal](./solutions/102.cpp)
