@@ -223,6 +223,7 @@
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
+- **M** [1258. Synonymous Sentences](./solutions/1258.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 - **H** [1697. Checking Existence of Edge Length Limited Paths](./solutions/1697.cpp)
 - **H** [1724. Checking Existence of Edge Length Limited Paths II](./solutions/1724.cpp)
