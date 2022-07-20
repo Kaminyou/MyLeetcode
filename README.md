@@ -452,6 +452,7 @@
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
 - **H** [1231. Divide Chocolate](./solutions/1231.cpp)
 - **M** [1428. Leftmost Column with at Least a One](./solutions/1428.cpp)
+- **H** [1755. Closest Subsequence Sum](./solutions/1755.cpp)
 - **H** [1847. Closest Room](./solutions/1847.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
 - **M** [2271. Maximum White Tiles Covered by a Carpet](./solutions/2271.cpp)
