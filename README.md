@@ -596,6 +596,7 @@
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./solutions/1884.cpp)
 - **M** [1937. Maximum Number of Points with Cost](./solutions/1937.cpp)
 - **M** [1986. Minimum Number of Work Sessions to Finish the Tasks](./solutions/1986.cpp)
+- **H** [2088. Count Fertile Pyramids in a Land](./solutions/2088.cpp)
 - **M** [2174. Remove All Ones With Row and Column Flips II](./solutions/2174.cpp)
 - **M** [2266. Count Number of Texts](./solutions/2266.cpp)
 - **H** [2267. Check if There Is a Valid Parentheses String Path](./solutions/2267.cpp)
