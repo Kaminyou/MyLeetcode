@@ -44,6 +44,7 @@
 
 ### String
 - **M** [6. Zigzag Conversion](./solutions/6.cpp)
+- **E** [9. Palindrome Number](./solutions/9.cpp)
 - **M** [43. Multiply Strings](./solutions/43.cpp)
 - **H** [60. Permutation Sequence](./solutions/60.cpp)
 - **H** [65. Valid Number](./solutions/65.cpp)
