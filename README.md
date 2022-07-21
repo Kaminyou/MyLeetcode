@@ -130,6 +130,7 @@
 - **M** [19. Remove Nth Node From End of List](./solutions/19.cpp)
 - **M** [21. Merge Two Sorted Lists](./solutions/21.cpp)
 - **H** [25. Reverse Nodes in k-Group](./solutions/25.cpp)
+- **M** [86. Partition List](./solutions/86.cpp)
 - **M** [92. Reverse Linked List II](./solutions/92.cpp)
 - **M** [138. Copy List with Random Pointer](./solutions/138.cpp)
 - **M** [143. Reorder List](./solutions/143.cpp)
