@@ -43,6 +43,7 @@
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
 ### String
+- **M** [6. Zigzag Conversion](./solutions/6.cpp)
 - **M** [43. Multiply Strings](./solutions/43.cpp)
 - **H** [60. Permutation Sequence](./solutions/60.cpp)
 - **H** [65. Valid Number](./solutions/65.cpp)
