@@ -689,6 +689,7 @@
 
 ### Math
 - **M** [7. Reverse Integer](./solutions/7.cpp)
+- **M** [89. Gray Code](./solutions/89.cpp)
 - **M** [166. Fraction to Recurring Decimal](./solutions/166.cpp)
 - **M** [172. Factorial Trailing Zeroes](./solutions/172.cpp)
 - **E** [292. Nim Game](./solutions/292.cpp)
