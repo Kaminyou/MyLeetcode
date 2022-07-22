@@ -354,6 +354,7 @@
 ### Tree
 - **M** [105. Construct Binary Tree from Preorder and Inorder Traversal](./solutions/105.cpp)
 - **M** [109. Convert Sorted List to Binary Search Tree](./solutions/109.cpp)
+- **M** [114. Flatten Binary Tree to Linked List](./solutions/114.cpp)
 - **M** [117. Populating Next Right Pointers in Each Node II](./solutions/117.cpp)
 - **H** [124. Binary Tree Maximum Path Sum](./solutions/124.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
