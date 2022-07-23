@@ -95,6 +95,7 @@
 - **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
 - **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
 - **M** [2342. Max Sum of a Pair With Equal Sum of Digits](./solutions/2342.cpp)
+- **M** [2348. Number of Zero-Filled Subarrays](./solutions/2348.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [930. Binary Subarrays With Sum](./solutions/930.cpp)
