@@ -37,6 +37,7 @@
 - **E** [2309. Greatest English Letter in Upper and Lower Case](./solutions/2309.cpp)
 - **E** [2315. Count Asterisks](./solutions/2315.cpp)
 - **E** [2341. Maximum Number of Pairs in Array](./solutions/2341.cpp)
+- **E** [2347. Best Poker Hand](./solutions/2347.cpp)
 #### Recursive
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
