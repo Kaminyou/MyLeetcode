@@ -39,6 +39,7 @@
 - **E** [2341. Maximum Number of Pairs in Array](./solutions/2341.cpp)
 - **E** [2347. Best Poker Hand](./solutions/2347.cpp)
 #### Recursive
+- **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **M** [394. Decode String](./solutions/394.cpp)
