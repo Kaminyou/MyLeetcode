@@ -7,6 +7,7 @@
 - **E** [66. Plus One](./solutions/66.cpp)
 - **M** [161. One Edit Distance](./solutions/161.cpp)
 - **E** [163. Missing Ranges](./solutions/163.cpp)
+- **E** [168. Excel Sheet Column Title](./solutions/168.cpp)
 - **E** [246. Strobogrammatic Number](./solutions/246.cpp)
 - **E** [293. Flip Game](./solutions/293.cpp)
 - **E** [482. License Key Formatting](./solutions/482.cpp)
