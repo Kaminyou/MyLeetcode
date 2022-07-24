@@ -313,6 +313,7 @@
 - **H** [2301. Match Substring After Replacement](./solutions/2301.cpp)
 - **H** [2306. Naming a Company](./solutions/2306.cpp)
 - **E** [2325. Decode the Message](./solutions/2325.cpp)
+- **E** [2351. First Letter to Appear Twice](./solutions/2351.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
