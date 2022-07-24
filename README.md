@@ -113,6 +113,7 @@
 #### Misc
 - **M** [48. Rotate Image](./solutions/48.cpp)
 - **M** [59. Spiral Matrix II](./solutions/59.cpp)
+- **M** [240. Search a 2D Matrix II](./solutions/240.cpp)
 - **M** [361. Bomb Enemy](./solutions/361.cpp)
 - **E** [463. Island Perimeter](./solutions/463.cpp)
 - **M** [498. Diagonal Traverse](./solutions/498.cpp)
