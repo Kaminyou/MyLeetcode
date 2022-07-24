@@ -496,6 +496,7 @@
 - **M** [64. Minimum Path Sum](./solutions/64.cpp)
 - **E** [70. Climbing Stairs](./solutions/70.cpp)
 - **H** [72. Edit Distance](./solutions/72.cpp)
+- **H** [87. Scramble String](./solutions/87.cpp)
 - **M** [96. Unique Binary Search Trees](./solutions/96.cpp)
 - **M** [97. Interleaving String](./solutions/97.cpp)
 - **H** [115. Distinct Subsequences](./solutions/115.cpp)
