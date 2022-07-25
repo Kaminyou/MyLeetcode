@@ -75,6 +75,8 @@
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
 - **M** [1554. Strings Differ by One Character](./solutions/1554.cpp)
+#### KMP
+- **H** [1392. Longest Happy Prefix](./solutions/1392.cpp)
 
 ### Array
 - **M** [31. Next Permutation](./solutions/31.cpp)
