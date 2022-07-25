@@ -257,6 +257,7 @@
 - **M** [55. Jump Game](./solutions/55.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
 - **H** [135. Candy](./solutions/135.cpp)
+- **M** [245. Shortest Word Distance III](./solutions/245.cpp)
 - **E** [266. Palindrome Permutation](./solutions/266.cpp)
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
 - **H** [296. Best Meeting Point](./solutions/296.cpp)
