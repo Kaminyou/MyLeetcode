@@ -110,6 +110,8 @@
 - **M** [56. Merge Intervals](./solutions/56.cpp)
 - **H** [759. Employee Free Time](./solutions/759.cpp)
 - **H** [2158. Amount of New Area Painted Each Day](./solutions/2158.cpp)
+#### Bucket sort
+- **H** [164. Maximum Gap](./solutions/164.cpp)
 
 ### Matrix
 #### Misc
