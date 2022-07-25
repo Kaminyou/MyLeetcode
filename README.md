@@ -76,6 +76,7 @@
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
 - **M** [1554. Strings Differ by One Character](./solutions/1554.cpp)
 #### KMP
+- **H** [214. Shortest Palindrome](./solutions/214.cpp)
 - **H** [1392. Longest Happy Prefix](./solutions/1392.cpp)
 
 ### Array
