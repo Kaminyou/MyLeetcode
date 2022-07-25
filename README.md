@@ -428,6 +428,7 @@
 - **M** [2349. Design a Number Container System](./solutions/2349.cpp)
 
 ### Multiset
+- **M** [220. Contains Duplicate III](./solutions/220.cpp)
 - **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
 - **H** [1825. Finding MK Average](./solutions/1825.cpp)
 - **M** [2034. Stock Price Fluctuation](./solutions/2034.cpp)
