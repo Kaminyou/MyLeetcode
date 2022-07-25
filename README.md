@@ -78,6 +78,7 @@
 
 ### Array
 - **M** [31. Next Permutation](./solutions/31.cpp)
+- **M** [186. Reverse Words in a String II](./solutions/186.cpp)
 - **M** [324. Wiggle Sort II](./solutions/324.cpp)
 - **M** [370. Range Addition](./solutions/370.cpp)
 - **M** [442. Find All Duplicates in an Array](./solutions/442.cpp)
