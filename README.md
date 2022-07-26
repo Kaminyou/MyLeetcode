@@ -195,6 +195,7 @@
 - **M** [95. Unique Binary Search Trees II](./solutions/95.cpp)
 - **H** [140. Word Break II](./solutions/140.cpp)
 - **M** [216. Combination Sum III](./solutions/216.cpp)
+- **M** [241. Different Ways to Add Parentheses](./solutions/241.cpp)
 - **M** [247. Strobogrammatic Number II](./solutions/247.cpp)
 - **M** [254. Factor Combinations](./solutions/254.cpp)
 - **E** [267. Palindrome Permutation II](./solutions/267.cpp)
