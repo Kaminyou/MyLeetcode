@@ -57,6 +57,7 @@
 - **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
 - **M** [443. String Compression](./solutions/443.cpp)
+- **E** [459. Repeated Substring Pattern](./solutions/459.cpp)
 - **M** [539. Minimum Time Difference](./solutions/539.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
 - **M** [681. Next Closest Time](./solutions/681.cpp)
