@@ -301,6 +301,7 @@
 - **E** [170. Two Sum III - Data structure design](./solutions/170.cpp)
 - **E** [205. Isomorphic Strings](./solutions/205.cpp)
 - **E** [242. Valid Anagram](./solutions/242.cpp)
+- **M** [288. Unique Word Abbreviation](./solutions/288.cpp)
 - **M** [299. Bulls and Cows](./solutions/299.cpp)
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
 - **M** [398. Random Pick Index](./solutions/398.cpp)
