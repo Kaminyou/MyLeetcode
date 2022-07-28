@@ -200,6 +200,7 @@
 - **M** [247. Strobogrammatic Number II](./solutions/247.cpp)
 - **M** [254. Factor Combinations](./solutions/254.cpp)
 - **E** [267. Palindrome Permutation II](./solutions/267.cpp)
+- **H** [282. Expression Add Operators](./solutions/282.cpp)
 - **M** [291. Word Pattern II](./solutions/291.cpp)
 - **H** [301. Remove Invalid Parentheses](./solutions/301.cpp)
 - **M** [351. Android Unlock Patterns](./solutions/351.cpp)
