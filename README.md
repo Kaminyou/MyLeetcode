@@ -264,6 +264,7 @@
 - **M** [245. Shortest Word Distance III](./solutions/245.cpp)
 - **E** [266. Palindrome Permutation](./solutions/266.cpp)
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
+- **M** [280. Wiggle Sort](./solutions/280.cpp)
 - **H** [296. Best Meeting Point](./solutions/296.cpp)
 - **M** [334. Increasing Triplet Subsequence](./solutions/334.cpp)
 - **M** [406. Queue Reconstruction by Height](./solutions/406.cpp)
