@@ -268,6 +268,7 @@
 - **M** [277. Find the Celebrity](./solutions/277.cpp)
 - **M** [280. Wiggle Sort](./solutions/280.cpp)
 - **H** [296. Best Meeting Point](./solutions/296.cpp)
+- **H** [330. Patching Array](./solutions/330.cpp)
 - **M** [334. Increasing Triplet Subsequence](./solutions/334.cpp)
 - **M** [406. Queue Reconstruction by Height](./solutions/406.cpp)
 - **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
