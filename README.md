@@ -10,6 +10,7 @@
 - **E** [168. Excel Sheet Column Title](./solutions/168.cpp)
 - **E** [246. Strobogrammatic Number](./solutions/246.cpp)
 - **E** [293. Flip Game](./solutions/293.cpp)
+- **E** [345. Reverse Vowels of a String](./solutions/345.cpp)
 - **E** [482. License Key Formatting](./solutions/482.cpp)
 - **E** [492. Construct the Rectangle](./solutions/492.cpp)
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
