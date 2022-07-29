@@ -744,6 +744,7 @@
 - **M** [172. Factorial Trailing Zeroes](./solutions/172.cpp)
 - **H** [233. Number of Digit One](./solutions/233.cpp)
 - **E** [292. Nim Game](./solutions/292.cpp)
+- **M** [319. Bulb Switcher](./solutions/319.cpp)
 - **M** [390. Elimination Game](./solutions/390.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
