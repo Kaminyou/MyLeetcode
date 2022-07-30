@@ -753,6 +753,7 @@
 - **M** [319. Bulb Switcher](./solutions/319.cpp)
 - **M** [390. Elimination Game](./solutions/390.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
+- **M** [754. Reach a Number](./solutions/754.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
