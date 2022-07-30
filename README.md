@@ -402,6 +402,7 @@
 - **H** [297. Serialize and Deserialize Binary Tree](./solutions/297.cpp)
 - **M** [298. Binary Tree Longest Consecutive Sequence](./solutions/298.cpp)
 - **M** [314. Binary Tree Vertical Order Traversal](./solutions/314.cpp)
+- **M** [331. Verify Preorder Serialization of a Binary Tree](./solutions/331.cpp)
 - **M** [333. Largest BST Subtree](./solutions/333.cpp)
 - **M** [337. House Robber III](./solutions/337.cpp)
 - **M** [366. Find Leaves of Binary Tree](./solutions/366.cpp)
