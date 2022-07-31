@@ -378,6 +378,7 @@
 - **E** [225. Implement Stack using Queues](./solutions/225.cpp)
 - **M** [281. Zigzag Iterator](./solutions/281.cpp)
 - **E** [346. Moving Average from Data Stream](./solutions/346.cpp)
+- **M** [353. Design Snake Game](./solutions/353.cpp)
 - **M** [362. Design Hit Counter](./solutions/362.cpp)
 - **M** [379. Design Phone Directory](./solutions/379.cpp)
 
