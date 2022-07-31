@@ -440,6 +440,7 @@
 - **E** [2331. Evaluate Boolean Binary Tree](./solutions/2331.cpp)
 
 ### Self balanced tree
+- **H** [352. Data Stream as Disjoint Intervals](./solutions/352.cpp)
 - **H** [699. Falling Squares](./solutions/699.cpp)
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
