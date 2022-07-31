@@ -467,6 +467,7 @@
 - **M** [253. Meeting Rooms II](./solutions/253.cpp)
 - **H** [295. Find Median from Data Stream](./solutions/295.cpp)
 - **M** [313. Super Ugly Number](./solutions/313.cpp)
+- **M** [355. Design Twitter](./solutions/355.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [767. Reorganize String](./solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
