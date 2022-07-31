@@ -480,6 +480,7 @@
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
 - **M** [2359. Find Closest Node to Given Two Nodes](./solutions/2359.cpp)
+- **H** [2360. Longest Cycle in a Graph](./solutions/2360.cpp)
 #### Dijkstra's algorithm
 - **H** [499. The Maze III](./solutions/499.cpp)
 - **M** [505. The Maze II](./solutions/505.cpp)
