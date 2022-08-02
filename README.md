@@ -512,6 +512,7 @@
 - **E** [278. First Bad Version](./solutions/278.cpp)
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
 - **H** [363. Max Sum of Rectangle No Larger Than K](./solutions/363.cpp)
+- **E** [367. Valid Perfect Square](./solutions/367.cpp)
 - **E** [374. Guess Number Higher or Lower](./solutions/374.cpp)
 - **M** [378. Kth Smallest Element in a Sorted Matrix](./solutions/378.cpp)
 - **E** [441. Arranging Coins](./solutions/441.cpp)
