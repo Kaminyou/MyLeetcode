@@ -778,6 +778,8 @@
 - **M** [2310. Sum of Numbers With Units Digit K](./solutions/2310.cpp)
 - **E** [2335. Minimum Amount of Time to Fill Cups](./solutions/2335.cpp)
 - **H** [2344. Minimum Deletions to Make Array Divisible](./solutions/2344.cpp)
+#### Bézout's identity
+- **M** [365. Water and Jug Problem](./solutions/365.cpp)
 
 ## Learning materials
 - [OI Wiki](https://oi-wiki.org/)
