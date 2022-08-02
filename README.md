@@ -236,6 +236,7 @@
 ### DFS
 - **M** [200. Number of Islands](./solutions/200.cpp)
 - **M** [323. Number of Connected Components in an Undirected Graph](./solutions/323.cpp)
+- **M** [364. Nested List Weight Sum II](./solutions/364.cpp)
 - **H** [489. Robot Room Cleaner](./solutions/489.cpp)
 - **M** [694. Number of Distinct Islands](./solutions/694.cpp)
 - **M** [695. Max Area of Island](./solutions/695.cpp)
