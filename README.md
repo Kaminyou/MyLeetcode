@@ -570,6 +570,7 @@
 - **M** [322. Coin Change](./solutions/322.cpp)
 - **M** [343. Integer Break](./solutions/343.cpp)
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
+- **M** [375. Guess Number Higher or Lower II](./solutions/375.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
