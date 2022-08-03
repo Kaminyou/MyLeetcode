@@ -784,6 +784,8 @@
 - **H** [2344. Minimum Deletions to Make Array Divisible](./solutions/2344.cpp)
 #### Bézout's identity
 - **M** [365. Water and Jug Problem](./solutions/365.cpp)
+#### Algorithm R (for Reservoir sampling)
+- **M** [382. Linked List Random Node](./solutions/382.cpp)
 
 ## Learning materials
 - [OI Wiki](https://oi-wiki.org/)
