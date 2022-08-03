@@ -771,6 +771,7 @@
 - **M** [319. Bulb Switcher](./solutions/319.cpp)
 - **M** [357. Count Numbers with Unique Digits](./solutions/357.cpp)
 - **M** [360. Sort Transformed Array](./solutions/360.cpp)
+- **M** [386. Lexicographical Numbers](./solutions/386.cpp)
 - **M** [390. Elimination Game](./solutions/390.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [754. Reach a Number](./solutions/754.cpp)
