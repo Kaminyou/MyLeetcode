@@ -572,6 +572,7 @@
 - **M** [368. Largest Divisible Subset](./solutions/368.cpp)
 - **M** [375. Guess Number Higher or Lower II](./solutions/375.cpp)
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
+- **M** [396. Rotate Function](./solutions/396.cpp)
 - **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **H** [446. Arithmetic Slices II - Subsequence](./solutions/446.cpp)
