@@ -737,6 +737,7 @@
 - **M** [223. Rectangle Area](./solutions/223.cpp)
 - **H** [335. Self Crossing](./solutions/335.cpp)
 - **M** [356. Line Reflection](./solutions/356.cpp)
+- **H** [391. Perfect Rectangle](./solutions/391.cpp)
 - **M** [858. Mirror Reflection](./solutions/858.cpp)
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
