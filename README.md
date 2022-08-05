@@ -705,6 +705,7 @@
 - **M** [318. Maximum Product of Word Lengths](./solutions/318.cpp)
 - **M** [371. Sum of Two Integers](./solutions/371.cpp)
 - **M** [393. UTF-8 Validation](./solutions/393.cpp)
+- **E** [401. Binary Watch](./solutions/401.cpp)
 - **E** [461. Hamming Distance](./solutions/461.cpp)
 - **E** [476. Number Complement](./solutions/476.cpp)
 - **M** [477. Total Hamming Distance](./solutions/477.cpp)
