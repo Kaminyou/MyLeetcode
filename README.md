@@ -790,6 +790,7 @@
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
+- **H** [1643. Kth Smallest Instructions](./solutions/1643.cpp)
 - **M** [2128. Remove All Ones With Row and Column Flips](./solutions/2128.cpp)
 - **M** [2178. Maximum Split of Positive Even Integers](./solutions/2178.cpp)
 - **M** [2310. Sum of Numbers With Units Digit K](./solutions/2310.cpp)
