@@ -472,6 +472,7 @@
 - **M** [313. Super Ugly Number](./solutions/313.cpp)
 - **M** [355. Design Twitter](./solutions/355.cpp)
 - **H** [358. Rearrange String k Distance Apart](./solutions/358.cpp)
+- **H** [407. Trapping Rain Water II](./solutions/407.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [767. Reorganize String](./solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
