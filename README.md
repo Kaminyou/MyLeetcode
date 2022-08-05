@@ -575,6 +575,7 @@
 - **M** [376. Wiggle Subsequence](./solutions/376.cpp)
 - **M** [377. Combination Sum IV](./solutions/377.cpp)
 - **M** [396. Rotate Function](./solutions/396.cpp)
+- **M** [397. Integer Replacement](./solutions/397.cpp)
 - **H** [403. Frog Jump](./solutions/403.cpp)
 - **M** [416. Partition Equal Subset Sum](./solutions/416.cpp)
 - **H** [446. Arithmetic Slices II - Subsequence](./solutions/446.cpp)
