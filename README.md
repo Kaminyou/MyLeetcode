@@ -308,6 +308,7 @@
 - **H** [2350. Shortest Impossible Sequence of Rolls](./solutions/2350.cpp)
 - **M** [2358. Maximum Number of Groups Entering a Competition](./solutions/2358.cpp)
 - **M** [2365. Task Scheduler II](./solutions/2365.cpp)
+- **H** [2366. Minimum Replacements to Sort the Array](./solutions/2366.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
