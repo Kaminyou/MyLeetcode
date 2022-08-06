@@ -800,6 +800,8 @@
 - **M** [365. Water and Jug Problem](./solutions/365.cpp)
 #### Algorithm R (for Reservoir sampling)
 - **M** [382. Linked List Random Node](./solutions/382.cpp)
+#### Qubit
+- **H** [458. Poor Pigs](./solutions/458.cpp)
 
 ## Learning materials
 - [OI Wiki](https://oi-wiki.org/)
