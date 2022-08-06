@@ -279,6 +279,7 @@
 - **H** [321. Create Maximum Number](./solutions/321.cpp)
 - **M** [334. Increasing Triplet Subsequence](./solutions/334.cpp)
 - **M** [406. Queue Reconstruction by Height](./solutions/406.cpp)
+- **H** [420. Strong Password Checker](./solutions/420.cpp)
 - **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
 - **M** [452. Minimum Number of Arrows to Burst Balloons](./solutions/452.cpp)
 - **H** [630. Course Schedule III](./solutions/630.cpp)
