@@ -459,6 +459,7 @@
 - **H** [2276. Count Integers in Intervals](./solutions/2276.cpp)
 - **M** [2336. Smallest Number in Infinite Set](./solutions/2336.cpp)
 - **M** [2349. Design a Number Container System](./solutions/2349.cpp)
+- **E** [2363. Merge Similar Items](./solutions/2363.cpp)
 
 ### Multiset
 - **M** [220. Contains Duplicate III](./solutions/220.cpp)
