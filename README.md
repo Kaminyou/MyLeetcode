@@ -307,6 +307,7 @@
 - **M** [2337. 2337. Move Pieces to Obtain a String](./solutions/2337.cpp)
 - **H** [2350. Shortest Impossible Sequence of Rolls](./solutions/2350.cpp)
 - **M** [2358. Maximum Number of Groups Entering a Competition](./solutions/2358.cpp)
+- **M** [2365. Task Scheduler II](./solutions/2365.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
