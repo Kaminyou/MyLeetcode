@@ -451,6 +451,8 @@
 - **H** [2322. Minimum Score After Removals on a Tree](./solutions/2322.cpp)
 - **E** [2331. Evaluate Boolean Binary Tree](./solutions/2331.cpp)
 - **M** [2368. Reachable Nodes With Restrictions](./solutions/2368.cpp)
+#### Quad Tree
+- **M** [427. Construct Quad Tree](./solutions/427.cpp)
 
 ### Self balanced tree
 - **H** [352. Data Stream as Disjoint Intervals](./solutions/352.cpp)
