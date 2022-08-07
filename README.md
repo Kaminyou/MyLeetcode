@@ -798,6 +798,7 @@
 - **M** [386. Lexicographical Numbers](./solutions/386.cpp)
 - **M** [390. Elimination Game](./solutions/390.cpp)
 - **M** [400. Nth Digit](./solutions/400.cpp)
+- **H** [440. K-th Smallest in Lexicographical Order](./solutions/440.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [754. Reach a Number](./solutions/754.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
