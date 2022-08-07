@@ -697,6 +697,7 @@
 - **H** [2328. Number of Increasing Paths in a Grid](./solutions/2328.cpp)
 - **H** [2338. Count the Number of Ideal Arrays](./solutions/2338.cpp)
 - **M** [2369. Check if There is a Valid Partition For The Array](./solutions/2369.cpp)
+- **M** [2370. Longest Ideal Subsequence](./solutions/2370.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
