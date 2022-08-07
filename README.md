@@ -645,6 +645,7 @@
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
 - **H** [1216. Valid Palindrome III](./solutions/1216.cpp)
+- **H** [1220. Count Vowels Permutation](./solutions/1220.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
 - **H** [1235. Maximum Profit in Job Scheduling](./solutions/1235.cpp)
 - **H** [1240. Tiling a Rectangle with the Fewest Squares](./solutions/1240.cpp)
