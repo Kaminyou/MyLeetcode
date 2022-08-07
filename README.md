@@ -156,6 +156,7 @@
 - **E** [237. Delete Node in a Linked List](./solutions/237.cpp)
 - **M** [328. Odd Even Linked List](./solutions/328.cpp)
 - **M** [369. Plus One Linked List](./solutions/369.cpp)
+- **M** [430. Flatten a Multilevel Doubly Linked List](./solutions/430.cpp)
 - **H** [2296. Design a Text Editor](./solutions/2296.cpp)
 
 ### Two pointers
