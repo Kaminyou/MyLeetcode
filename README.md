@@ -458,6 +458,7 @@
 
 ### Self balanced tree
 - **H** [352. Data Stream as Disjoint Intervals](./solutions/352.cpp)
+- **M** [436. Find Right Interval](./solutions/436.cpp)
 - **H** [699. Falling Squares](./solutions/699.cpp)
 - **H** [715. Range Module](./solutions/715.cpp)
 - **M** [729. My Calendar I](./solutions/729.cpp)
