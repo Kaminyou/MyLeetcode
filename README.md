@@ -225,6 +225,7 @@
 - **H** [127. Word Ladder](./solutions/127.cpp)
 - **H** [317. Shortest Distance from All Buildings](./solutions/317.cpp)
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
+- **M** [433. Minimum Genetic Mutation](./solutions/433.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
 - **M** [752. Open the Lock](./solutions/752.cpp)
 - **H** [815. Bus Routes](./solutions/815.cpp)
