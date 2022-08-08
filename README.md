@@ -61,6 +61,7 @@
 - **M** [385. Mini Parser](./solutions/385.cpp)
 - **E** [408. Valid Word Abbreviation](./solutions/408.cpp)
 - **M** [418. Sentence Screen Fitting](./solutions/418.cpp)
+- **E** [434. Number of Segments in a String](./solutions/434.cpp)
 - **M** [443. String Compression](./solutions/443.cpp)
 - **E** [459. Repeated Substring Pattern](./solutions/459.cpp)
 - **M** [539. Minimum Time Difference](./solutions/539.cpp)
