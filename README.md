@@ -517,6 +517,7 @@
 - **H** [269. Alien Dictionary](./solutions/269.cpp)
 - **M** [310. Minimum Height Trees](./solutions/310.cpp)
 - **H** [329. Longest Increasing Path in a Matrix](./solutions/329.cpp)
+- **M** [444. Sequence Reconstruction](./solutions/444.cpp)
 - **M** [1136. Parallel Courses](./solutions/1136.cpp)
 - **H** [2115. Find All Possible Recipes from Given Supplies](./solutions/2115.cpp)
 #### Tarjan's algorithm
