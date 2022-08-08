@@ -428,6 +428,7 @@
 - **M** [366. Find Leaves of Binary Tree](./solutions/366.cpp)
 - **M** [426. Convert Binary Search Tree to Sorted Doubly Linked List](./solutions/426.cpp)
 - **H** [428. Serialize and Deserialize N-ary Tree](./solutions/428.cpp)
+- **M** [449. Serialize and Deserialize BST](./solutions/449.cpp)
 - **M** [510. Inorder Successor in BST II](./solutions/510.cpp)
 - **E** [543. Diameter of Binary Tree](./solutions/543.cpp)
 - **M** [549. Binary Tree Longest Consecutive Sequence II](./solutions/549.cpp)
