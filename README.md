@@ -634,6 +634,7 @@
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **H** [818. Race Car](./solutions/818.cpp)
+- **M** [823. Binary Trees With Factors](./solutions/823.cpp)
 - **M** [837. New 21 Game](./solutions/837.cpp)
 - **H** [879. Profitable Schemes](./solutions/879.cpp)
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
