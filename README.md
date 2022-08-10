@@ -330,6 +330,7 @@
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
 - **M** [398. Random Pick Index](./solutions/398.cpp)
 - **M** [451. Sort Characters By Frequency](./solutions/451.cpp)
+- **E** [500. Keyboard Row](./solutions/500.cpp)
 - **M** [560. Subarray Sum Equals K](./solutions/560.cpp)
 - **M** [567. Permutation in String](./solutions/567.cpp)
 - **E** [599. Minimum Index Sum of Two Lists](./solutions/599.cpp)
