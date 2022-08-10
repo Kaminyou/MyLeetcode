@@ -409,6 +409,7 @@
 
 ### Tree
 - **M** [105. Construct Binary Tree from Preorder and Inorder Traversal](./solutions/105.cpp)
+- **E** [108. Convert Sorted Array to Binary Search Tree](./solutions/108.cpp)
 - **M** [109. Convert Sorted List to Binary Search Tree](./solutions/109.cpp)
 - **M** [114. Flatten Binary Tree to Linked List](./solutions/114.cpp)
 - **M** [117. Populating Next Right Pointers in Each Node II](./solutions/117.cpp)
