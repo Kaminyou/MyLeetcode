@@ -9,7 +9,6 @@ public:
         }
                 
         if (nums[0] == nums[1]) dp[1][0] = true;
-        if (nums[1] == nums[2]) dp[2][0] = true;
         if ((nums[0] == nums[1]) && (nums[1] == nums[2])) dp[2][1] = true;
         if ((nums[1] - nums[0] == 1) && (nums[2] - nums[1] == 1)) dp[2][2] = true;
         
