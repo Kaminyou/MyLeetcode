@@ -420,6 +420,7 @@
 - **M** [156. Binary Tree Upside Down](./solutions/156.cpp)
 - **M** [199. Binary Tree Right Side View](./solutions/199.cpp)
 - **M** [222. Count Complete Tree Nodes](./solutions/222.cpp)
+- **E** [235. Lowest Common Ancestor of a Binary Search Tree](./solutions/235.cpp)
 - **M** [236. Lowest Common Ancestor of a Binary Tree](./solutions/236.cpp)
 - **M** [250. Count Univalue Subtrees](./solutions/250.cpp)
 - **M** [255. Verify Preorder Sequence in Binary Search Tree](./solutions/255.cpp)
