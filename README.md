@@ -178,6 +178,7 @@
 - **M** [395. Longest Substring with At Least K Repeating Characters](./solutions/395.cpp)
 - **M** [424. Longest Repeating Character Replacement](./solutions/424.cpp)
 - **M** [457. Circular Array Loop](./solutions/457.cpp)
+- **M** [481. Magical String](./solutions/481.cpp)
 - **H** [548. Split Array with Equal Sum](./solutions/548.cpp)
 - **M** [611. Valid Triangle Number](./solutions/611.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
