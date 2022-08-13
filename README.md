@@ -486,6 +486,7 @@
 
 ### Multiset
 - **M** [220. Contains Duplicate III](./solutions/220.cpp)
+- **H** [480. Sliding Window Median](./solutions/480.cpp)
 - **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
 - **H** [1825. Finding MK Average](./solutions/1825.cpp)
 - **M** [2034. Stock Price Fluctuation](./solutions/2034.cpp)
