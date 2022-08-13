@@ -66,6 +66,7 @@
 - **M** [439. Ternary Expression Parser](./solutions/439.cpp)
 - **M** [443. String Compression](./solutions/443.cpp)
 - **E** [459. Repeated Substring Pattern](./solutions/459.cpp)
+- **H** [466. Count The Repetitions](./solutions/466.cpp)
 - **M** [468. Validate IP Address](./solutions/468.cpp)
 - **M** [539. Minimum Time Difference](./solutions/539.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
