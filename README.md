@@ -549,6 +549,7 @@
 - **M** [378. Kth Smallest Element in a Sorted Matrix](./solutions/378.cpp)
 - **E** [441. Arranging Coins](./solutions/441.cpp)
 - **M** [475. Heaters](./solutions/475.cpp)
+- **H** [483. Smallest Good Base](./solutions/483.cpp)
 - **M** [528. Random Pick with Weight](./solutions/528.cpp)
 - **M** [702. Search in a Sorted Array of Unknown Size](./solutions/702.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
