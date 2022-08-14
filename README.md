@@ -141,6 +141,7 @@
 - **M** [361. Bomb Enemy](./solutions/361.cpp)
 - **E** [463. Island Perimeter](./solutions/463.cpp)
 - **M** [498. Diagonal Traverse](./solutions/498.cpp)
+- **M** [531. Lonely Pixel I](./solutions/531.cpp)
 - **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./solutions/1351.cpp)
