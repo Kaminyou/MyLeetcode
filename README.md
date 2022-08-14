@@ -102,6 +102,7 @@
 - **M** [462. Minimum Moves to Equal Array Elements II](./solutions/462.cpp)
 - **E** [485. Max Consecutive Ones](./solutions/485.cpp)
 - **E** [495. Teemo Attacking](./solutions/495.cpp)
+- **E** [506. Relative Ranks](./solutions/506.cpp)
 - **M** [849. Maximize Distance to Closest Person](./solutions/849.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
 - **E** [1122. Relative Sort Array](./solutions/1122.cpp)
