@@ -567,6 +567,7 @@
 - **H** [483. Smallest Good Base](./solutions/483.cpp)
 - **M** [497. Random Point in Non-overlapping Rectangles](./solutions/497.cpp)
 - **M** [528. Random Pick with Weight](./solutions/528.cpp)
+- **M** [540. Single Element in a Sorted Array](./solutions/540.cpp)
 - **M** [702. Search in a Sorted Array of Unknown Size](./solutions/702.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
