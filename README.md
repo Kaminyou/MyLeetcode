@@ -70,6 +70,7 @@
 - **E** [459. Repeated Substring Pattern](./solutions/459.cpp)
 - **H** [466. Count The Repetitions](./solutions/466.cpp)
 - **M** [468. Validate IP Address](./solutions/468.cpp)
+- **M** [522. Longest Uncommon Subsequence II](./solutions/522.cpp)
 - **M** [539. Minimum Time Difference](./solutions/539.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
 - **M** [681. Next Closest Time](./solutions/681.cpp)
