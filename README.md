@@ -143,6 +143,7 @@
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 - **E** [2319. Check if Matrix Is X-Matrix](./solutions/2319.cpp)
 - **M** [2326. Spiral Matrix IV](./solutions/2326.cpp)
+- **E** [2373. Largest Local Values in a Matrix](./solutions/2373.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
