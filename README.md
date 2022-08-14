@@ -806,6 +806,7 @@
 - **H** [381. Insert Delete GetRandom O(1) - Duplicates allowed](./solutions/381.cpp)
 - **H** [432. All O`one Data Structure](./solutions/432.cpp)
 - **H** [460. LFU Cache](./solutions/460.cpp)
+- **M** [519. Random Flip Matrix](./solutions/519.cpp)
 - **M** [1146. Snapshot Array](./solutions/1146.cpp)
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
 - **M** [2353. Design a Food Rating System](./solutions/2353.cpp)
