@@ -222,6 +222,7 @@
 - **M** [351. Android Unlock Patterns](./solutions/351.cpp)
 - **H** [425. Word Squares](./solutions/425.cpp)
 - **H** [472. Concatenated Words](./solutions/472.cpp)
+- **H** [488. Zuma Game](./solutions/488.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
 - **H** [980. Unique Paths III](./solutions/980.cpp)
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
