@@ -52,6 +52,7 @@
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
 - **M** [394. Decode String](./solutions/394.cpp)
+- **M** [544. Output Contest Matches](./solutions/544.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
 ### String
