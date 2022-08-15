@@ -355,6 +355,7 @@
 - **M** [554. Brick Wall](./solutions/554.cpp)
 - **M** [560. Subarray Sum Equals K](./solutions/560.cpp)
 - **M** [567. Permutation in String](./solutions/567.cpp)
+- **E** [575. Distribute Candies](./solutions/575.cpp)
 - **E** [599. Minimum Index Sum of Two Lists](./solutions/599.cpp)
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
