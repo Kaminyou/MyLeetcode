@@ -2,6 +2,7 @@
 
 ## Problem list
 ### Simple coding
+- **E** [13. Roman to Integer](./solutions/13.cpp)
 - **E** [14. Longest Common Prefix](./solutions/14.cpp)
 - **E** [58. Length of Last Word](./solutions/58.cpp)
 - **E** [66. Plus One](./solutions/66.cpp)
