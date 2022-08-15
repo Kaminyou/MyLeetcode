@@ -457,6 +457,7 @@
 - **M** [508. Most Frequent Subtree Sum](./solutions/508.cpp)
 - **M** [510. Inorder Successor in BST II](./solutions/510.cpp)
 - **M** [515. Find Largest Value in Each Tree Row](./solutions/515.cpp)
+- **M** [536. Construct Binary Tree from String](./solutions/536.cpp)
 - **E** [543. Diameter of Binary Tree](./solutions/543.cpp)
 - **M** [549. Binary Tree Longest Consecutive Sequence II](./solutions/549.cpp)
 - **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
