@@ -244,6 +244,7 @@
 - **M** [417. Pacific Atlantic Water Flow](./solutions/417.cpp)
 - **M** [433. Minimum Genetic Mutation](./solutions/433.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
+- **M** [529. Minesweeper](./solutions/529.cpp)
 - **M** [752. Open the Lock](./solutions/752.cpp)
 - **H** [815. Bus Routes](./solutions/815.cpp)
 - **H** [847. Shortest Path Visiting All Nodes](./solutions/847.cpp)
