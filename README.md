@@ -464,6 +464,7 @@
 - **M** [545. Boundary of Binary Tree](./solutions/545.cpp)
 - **M** [549. Binary Tree Longest Consecutive Sequence II](./solutions/549.cpp)
 - **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
+- **E** [563. Binary Tree Tilt](./solutions/563.cpp)
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
