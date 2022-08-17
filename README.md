@@ -195,6 +195,7 @@
 - **M** [481. Magical String](./solutions/481.cpp)
 - **H** [548. Split Array with Equal Sum](./solutions/548.cpp)
 - **M** [611. Valid Triangle Number](./solutions/611.cpp)
+- **E** [643. Maximum Average Subarray I](./solutions/643.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
