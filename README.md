@@ -374,6 +374,7 @@
 - **E** [1160. Find Words That Can Be Formed by Characters](./solutions/1160.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
+- **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
