@@ -76,6 +76,7 @@
 - **M** [522. Longest Uncommon Subsequence II](./solutions/522.cpp)
 - **M** [539. Minimum Time Difference](./solutions/539.cpp)
 - **M** [553. Optimal Division](./solutions/553.cpp)
+- **M** [555. Split Concatenated Strings](./solutions/555.cpp)
 - **E** [557. Reverse Words in a String III](./solutions/557.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
 - **M** [681. Next Closest Time](./solutions/681.cpp)
