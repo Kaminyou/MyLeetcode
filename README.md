@@ -115,6 +115,7 @@
 - **E** [506. Relative Ranks](./solutions/506.cpp)
 - **E** [561. Array Partition](./solutions/561.cpp)
 - **M** [565. Array Nesting](./solutions/565.cpp)
+- **E** [645. Set Mismatch](./solutions/645.cpp)
 - **M** [849. Maximize Distance to Closest Person](./solutions/849.cpp)
 - **E** [896. Monotonic Array](./solutions/896.cpp)
 - **E** [1122. Relative Sort Array](./solutions/1122.cpp)
