@@ -143,6 +143,8 @@
 - **H** [2158. Amount of New Area Painted Each Day](./solutions/2158.cpp)
 #### Bucket sort
 - **H** [164. Maximum Gap](./solutions/164.cpp)
+#### Difference array
+- **M** [2381. Shifting Letters II](./solutions/2381.cpp)
 
 ### Matrix
 #### Misc
