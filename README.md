@@ -529,6 +529,7 @@
 - **M** [2336. Smallest Number in Infinite Set](./solutions/2336.cpp)
 - **M** [2349. Design a Number Container System](./solutions/2349.cpp)
 - **E** [2363. Merge Similar Items](./solutions/2363.cpp)
+- **H** [2382. Maximum Segment Sum After Removals](./solutions/2382.cpp)
 
 ### Multiset
 - **M** [220. Contains Duplicate III](./solutions/220.cpp)
