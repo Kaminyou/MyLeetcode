@@ -79,6 +79,7 @@
 - **M** [555. Split Concatenated Strings](./solutions/555.cpp)
 - **E** [557. Reverse Words in a String III](./solutions/557.cpp)
 - **H** [564. Find the Closest Palindrome](./solutions/564.cpp)
+- **M** [592. Fraction Addition and Subtraction](./solutions/592.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
 - **M** [681. Next Closest Time](./solutions/681.cpp)
 - **M** [722. Remove Comments](./solutions/722.cpp)
