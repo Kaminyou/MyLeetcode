@@ -405,6 +405,7 @@
 - **M** [150. Evaluate Reverse Polish Notation](./solutions/150.cpp)
 - **E** [155. Min Stack](./solutions/155.cpp)
 - **M** [484. Find Permutation](./solutions/484.cpp)
+- **H** [591. Tag Validator](./solutions/591.cpp)
 - **M** [636. Exclusive Time of Functions](./solutions/636.cpp)
 - **M** [678. Valid Parenthesis String](./solutions/678.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
