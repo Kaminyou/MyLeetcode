@@ -882,6 +882,7 @@
 - **M** [470. Implement Rand10() Using Rand7()](./solutions/470.cpp)
 - **H** [479. Largest Palindrome Product](./solutions/479.cpp)
 - **E** [504. Base 7](./solutions/504.cpp)
+- **M** [633. Sum of Square Numbers](./solutions/633.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [754. Reach a Number](./solutions/754.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
