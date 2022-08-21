@@ -562,6 +562,7 @@
 - **M** [1962. Remove Stones to Minimize the Total](./solutions/1962.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 - **H** [2163. Minimum Difference in Sums After Removal of Elements](./solutions/2163.cpp)
+- **H** [2386. Find the K-Sum of an Array](./solutions/2386.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
