@@ -320,6 +320,7 @@
 - **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
 - **M** [452. Minimum Number of Arrows to Burst Balloons](./solutions/452.cpp)
 - **H** [517. Super Washing Machines](./solutions/517.cpp)
+- **M** [624. Maximum Distance in Arrays](./solutions/624.cpp)
 - **H** [630. Course Schedule III](./solutions/630.cpp)
 - **M** [646. Maximum Length of Pair Chain](./solutions/646.cpp)
 - **M** [659. Split Array into Consecutive Subsequences](./solutions/659.cpp)
