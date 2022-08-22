@@ -819,6 +819,7 @@
 - **M** [616. Add Bold Tag in String](./solutions/616.cpp)
 - **H** [642. Design Search Autocomplete System](./solutions/642.cpp)
 - **H** [745. Prefix and Suffix Search](./solutions/745.cpp)
+- **M** [758. Bold Words in String](./solutions/758.cpp)
 - **M** [820. Short Encoding of Words](./solutions/820.cpp)
 
 ### Binary Index Tree (Fenwick tree)
