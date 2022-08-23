@@ -84,6 +84,7 @@
 - **M** [681. Next Closest Time](./solutions/681.cpp)
 - **M** [722. Remove Comments](./solutions/722.cpp)
 - **M** [791. Custom Sort String](./solutions/791.cpp)
+- **E** [796. Rotate String](./solutions/796.cpp)
 - **M** [809. Expressive Words](./solutions/809.cpp)
 - **M** [833. Find And Replace in String](./solutions/833.cpp)
 - **H** [843. Guess the Word](./solutions/843.cpp)
