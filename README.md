@@ -696,6 +696,7 @@
 - **H** [600. Non-negative Integers without Consecutive Ones](./solutions/600.cpp)
 - **H** [629. K Inverse Pairs Array](./solutions/629.cpp)
 - **M** [634. Find the Derangement of An Array](./solutions/634.cpp)
+- **M** [638. Shopping Offers](./solutions/638.cpp)
 - **M** [650. 2 Keys Keyboard](./solutions/650.cpp)
 - **M** [651. 4 Keys Keyboard](./solutions/651.cpp)
 - **H** [664. Strange Printer](./solutions/664.cpp)
