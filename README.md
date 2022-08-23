@@ -499,6 +499,7 @@
 - **E** [563. Binary Tree Tilt](./solutions/563.cpp)
 - **M** [623. Add One Row to Tree](./solutions/623.cpp)
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
+- **E** [653. Two Sum IV - Input is a BST](./solutions/653.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
