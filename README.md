@@ -606,6 +606,7 @@
 - **M** [34. Find First and Last Position of Element in Sorted Array](./solutions/34.cpp)
 - **M** [275. H-Index II](./solutions/275.cpp)
 - **E** [278. First Bad Version](./solutions/278.cpp)
+- **E** [326. Power of Three](./solutions/326.cpp)
 - **H** [354. Russian Doll Envelopes](./solutions/354.cpp)
 - **H** [363. Max Sum of Rectangle No Larger Than K](./solutions/363.cpp)
 - **E** [367. Valid Perfect Square](./solutions/367.cpp)
