@@ -329,6 +329,7 @@
 - **M** [625. Minimum Factorization](./solutions/625.cpp)
 - **H** [630. Course Schedule III](./solutions/630.cpp)
 - **M** [646. Maximum Length of Pair Chain](./solutions/646.cpp)
+- **M** [649. Dota2 Senate](./solutions/649.cpp)
 - **M** [659. Split Array into Consecutive Subsequences](./solutions/659.cpp)
 - **M** [665. Non-decreasing Array](./solutions/665.cpp)
 - **M** [777. Swap Adjacent in LR String](./solutions/777.cpp)
