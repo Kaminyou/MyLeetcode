@@ -507,6 +507,7 @@
 - **E** [653. Two Sum IV - Input is a BST](./solutions/653.cpp)
 - **M** [655. Print Binary Tree](./solutions/655.cpp)
 - **M** [663. Equal Tree Partition](./solutions/663.cpp)
+- **M** [666. Path Sum IV](./solutions/666.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
