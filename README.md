@@ -372,6 +372,7 @@
 - **M** [299. Bulls and Cows](./solutions/299.cpp)
 - **H** [336. Palindrome Pairs](./solutions/336.cpp)
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
+- **E** [383. Ransom Note](./solutions/383.cpp)
 - **E** [387. First Unique Character in a String](./solutions/387.cpp)
 - **M** [398. Random Pick Index](./solutions/398.cpp)
 - **M** [451. Sort Characters By Frequency](./solutions/451.cpp)
