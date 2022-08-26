@@ -389,6 +389,7 @@
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
+- **M** [869. Reordered Power of 2](./solutions/869.cpp)
 - **M** [890. Find and Replace Pattern](./solutions/890.cpp)
 - **M** [916. Word Subsets](./solutions/916.cpp)
 - **M** [939. Minimum Area Rectangle](./solutions/939.cpp)
