@@ -361,6 +361,7 @@
 - **M** [2375. Construct Smallest Number From DI String](./solutions/2375.cpp)
 - **M** [2380. Time Needed to Rearrange a Binary String](./solutions/2380.cpp)
 - **E** [2383. Minimum Hours of Training to Win a Competition](./solutions/2383.cpp)
+- **M** [2390. Removing Stars From a String](./solutions/2390.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
