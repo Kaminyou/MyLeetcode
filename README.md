@@ -212,6 +212,7 @@
 - **H** [632. Smallest Range Covering Elements from K Lists](./solutions/632.cpp)
 - **E** [643. Maximum Average Subarray I](./solutions/643.cpp)
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
+- **H** [683. K Empty Slots](./solutions/683.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
