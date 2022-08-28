@@ -164,6 +164,7 @@
 - **E** [566. Reshape the Matrix](./solutions/566.cpp)
 - **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
+- **M** [1329. Sort the Matrix Diagonally](./solutions/1329.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./solutions/1351.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 - **E** [2319. Check if Matrix Is X-Matrix](./solutions/2319.cpp)
