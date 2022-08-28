@@ -517,6 +517,7 @@
 - **M** [663. Equal Tree Partition](./solutions/663.cpp)
 - **M** [666. Path Sum IV](./solutions/666.cpp)
 - **E** [671. Second Minimum Node In a Binary Tree](./solutions/671.cpp)
+- **M** [687. Longest Univalue Path](./solutions/687.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
