@@ -726,6 +726,7 @@
 - **H** [664. Strange Printer](./solutions/664.cpp)
 - **M** [673. Number of Longest Increasing Subsequence](./solutions/673.cpp)
 - **M** [688. Knight Probability in Chessboard](./solutions/688.cpp)
+- **H** [689. Maximum Sum of 3 Non-Overlapping Subarrays](./solutions/689.cpp)
 - **H** [691. Stickers to Spell Word](./solutions/691.cpp)
 - **M** [698. Partition to K Equal Sum Subsets](./solutions/698.cpp)
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
