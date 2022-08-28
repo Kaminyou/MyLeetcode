@@ -929,6 +929,7 @@
 - **M** [633. Sum of Square Numbers](./solutions/633.cpp)
 - **H** [660. Remove 9](./solutions/660.cpp)
 - **M** [667. Beautiful Arrangement II](./solutions/667.cpp)
+- **M** [672. Bulb Switcher II](./solutions/672.cpp)
 - **M** [754. Reach a Number](./solutions/754.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
