@@ -84,6 +84,7 @@
 - **M** [640. Solve the Equation](./solutions/640.cpp)
 - **M** [670. Maximum Swap](./solutions/670.cpp)
 - **M** [681. Next Closest Time](./solutions/681.cpp)
+- **M** [686. Repeated String Match](./solutions/686.cpp)
 - **M** [722. Remove Comments](./solutions/722.cpp)
 - **M** [791. Custom Sort String](./solutions/791.cpp)
 - **E** [796. Rotate String](./solutions/796.cpp)
