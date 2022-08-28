@@ -607,6 +607,7 @@
 - **M** [444. Sequence Reconstruction](./solutions/444.cpp)
 - **M** [1136. Parallel Courses](./solutions/1136.cpp)
 - **H** [2115. Find All Possible Recipes from Given Supplies](./solutions/2115.cpp)
+- **H** [2392. Build a Matrix With Conditions](./solutions/2392.cpp)
 #### Tarjan's algorithm
 - **H** [1192. Critical Connections in a Network](./solutions/1192.cpp)
 #### Hierholzer's algorithm
