@@ -22,6 +22,7 @@
 - **M** [573. Squirrel Simulation](./solutions/573.cpp)
 - **E** [657. Robot Return to Origin](./solutions/657.cpp)
 - **E** [661. Image Smoother](./solutions/661.cpp)
+- **E** [709. To Lower Case](./solutions/709.cpp)
 - **E** [929. Unique Email Addresses](./solutions/929.cpp)
 - **E** [937. Reorder Data in Log Files](./solutions/937.cpp)
 - **E** [1189. Maximum Number of Balloons](./solutions/1189.cpp)
