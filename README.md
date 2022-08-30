@@ -342,6 +342,7 @@
 - **M** [649. Dota2 Senate](./solutions/649.cpp)
 - **M** [659. Split Array into Consecutive Subsequences](./solutions/659.cpp)
 - **M** [665. Non-decreasing Array](./solutions/665.cpp)
+- **E** [717. 1-bit and 2-bit Characters](./solutions/717.cpp)
 - **M** [777. Swap Adjacent in LR String](./solutions/777.cpp)
 - **H** [857. Minimum Cost to Hire K Workers](./solutions/857.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
