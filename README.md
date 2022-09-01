@@ -884,6 +884,7 @@
 - **H** [391. Perfect Rectangle](./solutions/391.cpp)
 - **M** [469. Convex Polygon](./solutions/469.cpp)
 - **M** [478. Generate Random Point in a Circle](./solutions/478.cpp)
+- **H** [711. Number of Distinct Islands II](./solutions/711.cpp)
 - **M** [789. Escape The Ghosts](./solutions/789.cpp)
 - **M** [858. Mirror Reflection](./solutions/858.cpp)
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
