@@ -164,6 +164,7 @@
 - **M** [531. Lonely Pixel I](./solutions/531.cpp)
 - **M** [533. Lonely Pixel II](./solutions/533.cpp)
 - **E** [566. Reshape the Matrix](./solutions/566.cpp)
+- **M** [723. Candy Crush](./solutions/723.cpp)
 - **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **M** [1329. Sort the Matrix Diagonally](./solutions/1329.cpp)
