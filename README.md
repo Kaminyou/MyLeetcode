@@ -398,6 +398,7 @@
 - **E** [599. Minimum Index Sum of Two Lists](./solutions/599.cpp)
 - **M** [609. Find Duplicate File in System](./solutions/609.cpp)
 - **E** [697. Degree of an Array](./solutions/697.cpp)
+- **H** [710. Random Pick with Blacklist](./solutions/710.cpp)
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
