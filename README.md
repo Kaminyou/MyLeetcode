@@ -195,6 +195,7 @@
 - **M** [369. Plus One Linked List](./solutions/369.cpp)
 - **M** [430. Flatten a Multilevel Doubly Linked List](./solutions/430.cpp)
 - **M** [708. Insert into a Sorted Circular Linked List](./solutions/708.cpp)
+- **M** [725. Split Linked List in Parts](./solutions/725.cpp)
 - **H** [2296. Design a Text Editor](./solutions/2296.cpp)
 
 ### Two pointers
