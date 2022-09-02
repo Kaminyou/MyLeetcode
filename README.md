@@ -651,6 +651,7 @@
 - **H** [644. Maximum Average Subarray II](./solutions/644.cpp)
 - **M** [658. Find K Closest Elements](./solutions/658.cpp)
 - **M** [702. Search in a Sorted Array of Unknown Size](./solutions/702.cpp)
+- **E** [744. Find Smallest Letter Greater Than Target](./solutions/744.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
