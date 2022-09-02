@@ -310,6 +310,7 @@
 - **H** [305. Number of Islands II](./solutions/305.cpp)
 - **M** [684. Redundant Connection](./solutions/684.cpp)
 - **H** [685. Redundant Connection II](./solutions/685.cpp)
+- **M** [721. Accounts Merge](./solutions/721.cpp)
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
