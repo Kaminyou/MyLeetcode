@@ -52,6 +52,7 @@
 - **E** [2341. Maximum Number of Pairs in Array](./solutions/2341.cpp)
 - **E** [2347. Best Poker Hand](./solutions/2347.cpp)
 - **M** [2391. Minimum Amount of Time to Collect Garbage](./solutions/2391.cpp)
+- **E** [2395. Find Subarrays With Equal Sum](./solutions/2395.cpp)
 #### Recursive
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
