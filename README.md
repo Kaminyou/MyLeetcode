@@ -751,6 +751,7 @@
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
 - **H** [727. Minimum Window Subsequence](./solutions/727.cpp)
+- **H** [730. Count Different Palindromic Subsequences](./solutions/730.cpp)
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **H** [818. Race Car](./solutions/818.cpp)
