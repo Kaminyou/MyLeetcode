@@ -240,6 +240,7 @@
 - **H** [2302. Count Subarrays With Score Less Than K](./solutions/2302.cpp)
 - **M** [2332. The Latest Time to Catch a Bus](./solutions/2332.cpp)
 - **E** [2379. Minimum Recolors to Get K Consecutive Black Blocks](./solutions/2379.cpp)
+- **H** [2398. Maximum Number of Robots Within Budget](./solutions/2398.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
