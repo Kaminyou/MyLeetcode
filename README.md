@@ -868,6 +868,7 @@
 - **M** [1386. Cinema Seat Allocation](./solutions/1386.cpp)
 - **M** [2275. Largest Combination With Bitwise AND Greater Than Zero](./solutions/2275.cpp)
 - **E** [2317. Maximum XOR After Operations](./solutions/2317.cpp)
+- **M** [2397. Maximum Rows Covered by Columns](./solutions/2397.cpp)
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
