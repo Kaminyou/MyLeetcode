@@ -320,6 +320,7 @@
 - **H** [685. Redundant Connection II](./solutions/685.cpp)
 - **M** [721. Accounts Merge](./solutions/721.cpp)
 - **M** [737. Sentence Similarity II](./solutions/737.cpp)
+- **H** [765. Couples Holding Hands](./solutions/765.cpp)
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
