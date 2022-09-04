@@ -444,6 +444,7 @@
 - **M** [2364. Count Number of Bad Pairs](./solutions/2364.cpp)
 - **E** [2367. Number of Arithmetic Triplets](./solutions/2367.cpp)
 - **M** [2374. Node With Highest Edge Score](./solutions/2347.cpp)
+- **E** [2399. Check Distances Between Same Letters](./solutions/2399.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
