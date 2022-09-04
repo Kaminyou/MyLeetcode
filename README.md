@@ -985,6 +985,7 @@
 - [Binary serach](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - [Monotonic stack](https://www.cnblogs.com/grandyang/p/8887985.html)
 - [Collision issues in unordered_map](https://codeforces.com/blog/entry/62393)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 ## Tricks
 ```cpp
@@ -996,4 +997,21 @@ int differentSet = state ^ subset;
 bool isSubset = (A & B) == A;
 // to remove the rightest 1
 x = x & (x - 1)
+```
+
+### Combinations with module
+```cpp
+long long mod = 1e9 + 7;
+long long inv(long long a) {
+    if (a == 1) return 1;
+    return (mod - mod / a) * inv(mod % a) % mod;
+}
+int comb(int n, int k) {
+    long long res = 1L;
+    for (int i = 0; i < k; ++i) {
+        res = res * (n - i) % mod;
+        res = res * inv(i + 1) % mod;
+    } 
+    return (int)(res % mod);
+}
 ```
