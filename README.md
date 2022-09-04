@@ -285,6 +285,7 @@
 - **M** [529. Minesweeper](./solutions/529.cpp)
 - **M** [582. Kill Process](./solutions/582.cpp)
 - **H** [675. Cut Off Trees for Golf Event](./solutions/675.cpp)
+- **H** [749. Contain Virus](./solutions/749.cpp)
 - **M** [752. Open the Lock](./solutions/752.cpp)
 - **H** [773. Sliding Puzzle](./solutions/773.cpp)
 - **H** [815. Bus Routes](./solutions/815.cpp)
