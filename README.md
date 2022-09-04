@@ -576,6 +576,7 @@
 - **M** [731. My Calendar II](./solutions/731.cpp)
 - **H** [732. My Calendar III](./solutions/732.cpp)
 - **H** [975. Odd Even Jump](./solutions/975.cpp)
+- **H** [987. Vertical Order Traversal of a Binary Tree](./solutions/987.cpp)
 - **M** [1094. Car Pooling](./solutions/1094.cpp)
 - **E** [1854. Maximum Population Year](./solutions/1854.cpp)
 - **M** [2015. Average Height of Buildings in Each Segment](./solutions/2015.cpp)
