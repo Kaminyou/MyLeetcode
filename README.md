@@ -972,6 +972,7 @@
 - **E** [2335. Minimum Amount of Time to Fill Cups](./solutions/2335.cpp)
 - **H** [2344. Minimum Deletions to Make Array Divisible](./solutions/2344.cpp)
 - **M** [2396. Strictly Palindromic Number](./solutions/2396.cpp)
+- **M** [2400. Number of Ways to Reach a Position After Exactly k Steps](./solutions/2400.cpp)
 #### Bézout's identity
 - **M** [365. Water and Jug Problem](./solutions/365.cpp)
 #### Algorithm R (for Reservoir sampling)
