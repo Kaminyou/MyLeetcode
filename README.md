@@ -417,6 +417,7 @@
 - **E** [697. Degree of an Array](./solutions/697.cpp)
 - **H** [710. Random Pick with Blacklist](./solutions/710.cpp)
 - **E** [734. Sentence Similarity](./solutions/734.cpp)
+- **E** [760. Find Anagram Mappings](./solutions/760.cpp)
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
