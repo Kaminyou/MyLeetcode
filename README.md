@@ -362,6 +362,7 @@
 - **H** [757. Set Intersection Size At Least Two](./solutions/757.cpp)
 - **M** [777. Swap Adjacent in LR String](./solutions/777.cpp)
 - **H** [857. Minimum Cost to Hire K Workers](./solutions/857.cpp)
+- **M** [870. Advantage Shuffle](./solutions/870.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
 - **M** [921. Minimum Add to Make Parentheses Valid](./solutions/921.cpp)
 - **M** [926. Flip String to Monotone Increasing](./solutions/926.cpp)
