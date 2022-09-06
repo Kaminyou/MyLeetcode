@@ -771,6 +771,7 @@
 - **H** [730. Count Different Palindromic Subsequences](./solutions/730.cpp)
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
+- **M** [790. Domino and Tromino Tiling](./solutions/790.cpp)
 - **H** [818. Race Car](./solutions/818.cpp)
 - **M** [823. Binary Trees With Factors](./solutions/823.cpp)
 - **M** [837. New 21 Game](./solutions/837.cpp)
