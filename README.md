@@ -979,6 +979,7 @@
 - **M** [672. Bulb Switcher II](./solutions/672.cpp)
 - **M** [754. Reach a Number](./solutions/754.cpp)
 - **M** [775. Global and Local Inversions](./solutions/775.cpp)
+- **H** [780. Reaching Points](./solutions/780.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
