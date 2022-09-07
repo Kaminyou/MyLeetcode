@@ -539,6 +539,7 @@
 - **M** [549. Binary Tree Longest Consecutive Sequence II](./solutions/549.cpp)
 - **E** [559. Maximum Depth of N-ary Tree](./solutions/559.cpp)
 - **E** [563. Binary Tree Tilt](./solutions/563.cpp)
+- **E** [606. Construct String from Binary Tree](./solutions/606.cpp)
 - **M** [623. Add One Row to Tree](./solutions/623.cpp)
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
 - **E** [653. Two Sum IV - Input is a BST](./solutions/653.cpp)
