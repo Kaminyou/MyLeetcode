@@ -362,6 +362,7 @@
 - **E** [717. 1-bit and 2-bit Characters](./solutions/717.cpp)
 - **H** [757. Set Intersection Size At Least Two](./solutions/757.cpp)
 - **M** [777. Swap Adjacent in LR String](./solutions/777.cpp)
+- **M** [781. Rabbits in Forest](./solutions/781.cpp)
 - **H** [857. Minimum Cost to Hire K Workers](./solutions/857.cpp)
 - **M** [870. Advantage Shuffle](./solutions/870.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
