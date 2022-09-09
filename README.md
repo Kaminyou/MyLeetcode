@@ -781,6 +781,7 @@
 - **H** [818. Race Car](./solutions/818.cpp)
 - **M** [823. Binary Trees With Factors](./solutions/823.cpp)
 - **M** [837. New 21 Game](./solutions/837.cpp)
+- **M** [845. Longest Mountain in Array](./solutions/845.cpp)
 - **H** [879. Profitable Schemes](./solutions/879.cpp)
 - **H** [887. Super Egg Drop](./solutions/887.cpp)
 - **M** [894. All Possible Full Binary Trees](./solutions/894.cpp)
