@@ -271,6 +271,7 @@
 - **H** [472. Concatenated Words](./solutions/472.cpp)
 - **H** [488. Zuma Game](./solutions/488.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
+- **M** [756. Pyramid Transition Matrix](./solutions/756.cpp)
 - **M** [797. All Paths From Source to Target](./solutions/797.cpp)
 - **M** [967. Numbers With Same Consecutive Differences](./solutions/967.cpp)
 - **H** [980. Unique Paths III](./solutions/980.cpp)
