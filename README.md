@@ -922,6 +922,7 @@
 
 ### Segment tree
 - **H** [2286. Booking Concert Tickets in Groups](./solutions/2286.cpp)
+- **H** [2407. Longest Increasing Subsequence II](./solutions/2407.cpp)
 
 ### Geometry
 - **H** [149. Max Points on a Line](./solutions/149.cpp)
