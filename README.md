@@ -459,6 +459,7 @@
 - **M** [2374. Node With Highest Edge Score](./solutions/2347.cpp)
 - **E** [2399. Check Distances Between Same Letters](./solutions/2399.cpp)
 - **E** [2404. Most Frequent Even Element](./solutions/2404.cpp)
+- **M** [2405. Optimal Partition of String](./solutions/2405.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
