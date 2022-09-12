@@ -371,6 +371,7 @@
 - **M** [921. Minimum Add to Make Parentheses Valid](./solutions/921.cpp)
 - **M** [926. Flip String to Monotone Increasing](./solutions/926.cpp)
 - **H** [936. Stamping The Sequence](./solutions/936.cpp)
+- **M** [948. Bag of Tokens](./solutions/948.cpp)
 - **H** [968. Binary Tree Cameras](./solutions/968.cpp)
 - **M** [1055. Shortest Way to Form String](./solutions/1055.cpp)
 - **H** [1354. Construct Target Array With Multiple Sums](./solutions/1354.cpp)
