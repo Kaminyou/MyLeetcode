@@ -160,6 +160,7 @@
 #### Bucket sort
 - **H** [164. Maximum Gap](./solutions/164.cpp)
 #### Difference array
+- **H** [798. Smallest Rotation with Highest Score](./solutions/798.cpp)
 - **M** [2381. Shifting Letters II](./solutions/2381.cpp)
 
 ### Matrix
