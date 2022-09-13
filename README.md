@@ -561,6 +561,7 @@
 - **E** [671. Second Minimum Node In a Binary Tree](./solutions/671.cpp)
 - **M** [687. Longest Univalue Path](./solutions/687.cpp)
 - **M** [742. Closest Leaf in a Binary Tree](./solutions/742.cpp)
+- **M** [776. Split BST](./solutions/776.cpp)
 - **E** [783. Minimum Distance Between BST Nodes](./solutions/783.cpp)
 - **M** [814. Binary Tree Pruning](./solutions/814.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
