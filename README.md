@@ -578,6 +578,7 @@
 - **M** [1372. Longest ZigZag Path in a Binary Tree](./solutions/1372.cpp)
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379.cpp)
 - **M** [1448. Count Good Nodes in Binary Tree](./solutions/1448.cpp)
+- **M** [1457. Pseudo-Palindromic Paths in a Binary Tree](./solutions/1457.cpp)
 - **M** [1506. Find Root of N-Ary Tree](./solutions/1506.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./solutions/1650.cpp)
 - **M** [2096. Step-By-Step Directions From a Binary Tree Node to Another](./solutions/2096.cpp)
