@@ -97,6 +97,7 @@
 - **H** [736. Parse Lisp Expression](./solutions/736.cpp)
 - **M** [791. Custom Sort String](./solutions/791.cpp)
 - **E** [796. Rotate String](./solutions/796.cpp)
+- **E** [800. Similar RGB Color](./solutions/800.cpp)
 - **M** [809. Expressive Words](./solutions/809.cpp)
 - **M** [833. Find And Replace in String](./solutions/833.cpp)
 - **H** [843. Guess the Word](./solutions/843.cpp)
