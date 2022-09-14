@@ -792,6 +792,7 @@
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
 - **E** [746. Min Cost Climbing Stairs](./solutions/746.cpp)
 - **M** [764. Largest Plus Sign](./solutions/764.cpp)
+- **M** [788. Rotated Digits](./solutions/788.cpp)
 - **M** [790. Domino and Tromino Tiling](./solutions/790.cpp)
 - **M** [813. Largest Sum of Averages](./solutions/813.cpp)
 - **H** [818. Race Car](./solutions/818.cpp)
