@@ -694,6 +694,7 @@
 - **E** [744. Find Smallest Letter Greater Than Target](./solutions/744.cpp)
 - **H** [774. Minimize Max Distance to Gas Station](./solutions/774.cpp)
 - **M** [786. K-th Smallest Prime Fraction](./solutions/786.cpp)
+- **H** [793. Preimage Size of Factorial Zeroes Function](./solutions/793.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
