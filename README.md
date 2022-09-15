@@ -446,6 +446,7 @@
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
+- **M** [2007. Find Original Array From Doubled Array](./solutions/2007.cpp)
 - **M** [2013. Detect Squares](./solutions/2013.cpp)
 - **M** [2023. Number of Pairs of Strings With Concatenation Equal to Target](./solutions/2023.cpp)
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./solutions/2131.cpp)
