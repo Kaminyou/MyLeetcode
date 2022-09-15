@@ -149,6 +149,7 @@
 - **E** [2389. Longest Subsequence With Limited Sum](./solutions/2389.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
+- **M** [848. Shifting Letters](./solutions/848.cpp)
 - **M** [930. Binary Subarrays With Sum](./solutions/930.cpp)
 - **E** [1480. Running Sum of 1d Array](./solutions/1480.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./solutions/2031.cpp)
