@@ -861,6 +861,7 @@
 - **H** [1692. Count Ways to Distribute Candies](./solutions/1692.cpp)
 - **M** [1746. Maximum Subarray Sum After One Operation](./solutions/1746.cpp)
 - **H** [1751. Maximum Number of Events That Can Be Attended II](./solutions/1751.cpp)
+- **M** [1770. Maximum Score from Performing Multiplication Operations](./solutions/1770.cpp)
 - **H** [1799. Maximize Score After N Operations](./solutions/1799.cpp)
 - **H** [1815. Maximum Number of Groups Getting Fresh Donuts](./solutions/1815.cpp)
 - **H** [1879. Minimum XOR Sum of Two Arrays](./solutions/1879.cpp)
