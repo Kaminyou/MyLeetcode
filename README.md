@@ -109,6 +109,7 @@
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
 - **M** [2343. Query Kth Smallest Trimmed Number](./solutions/2343.cpp)
 - **M** [2384. Largest Palindromic Number](./solutions/2384.cpp)
+- **E** [2409. Count Days Spent Together](./solutions/2409.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
