@@ -20,3 +20,32 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int res = 0;
+        int left = 0;
+        int right = height.size() - 1;
+        int currentHeight = 0;
+        while (left < right) {
+            if (height[left] < height[right]) {
+                currentHeight = max(currentHeight, height[left]);
+                while (left + 1 < right && height[left + 1] <= currentHeight) {
+                    left++;
+                    res += currentHeight - height[left];
+                }
+                left++;
+            }
+            else {
+                currentHeight = max(currentHeight, height[right]);
+                while (right - 1 > left && height[right - 1] <= currentHeight) {
+                    right--;
+                    res += currentHeight - height[right];
+                }
+                right--;
+            }
+        }
+        return res;
+    }
+};
