@@ -599,6 +599,7 @@
 - **E** [2331. Evaluate Boolean Binary Tree](./solutions/2331.cpp)
 - **M** [2368. Reachable Nodes With Restrictions](./solutions/2368.cpp)
 - **M** [2385. Amount of Time for Binary Tree to Be Infected](./solutions/2385.cpp)
+- **M** [2415. Reverse Odd Levels of Binary Tree](./solutions/2415.cpp)
 #### Quad Tree
 - **M** [427. Construct Quad Tree](./solutions/427.cpp)
 - **M** [558. Logical OR of Two Binary Grids Represented as Quad-Trees](./solutions/558.cpp)
