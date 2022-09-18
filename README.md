@@ -962,6 +962,7 @@
 - **M** [478. Generate Random Point in a Circle](./solutions/478.cpp)
 - **H** [711. Number of Distinct Islands II](./solutions/711.cpp)
 - **M** [789. Escape The Ghosts](./solutions/789.cpp)
+- **E** [812. Largest Triangle Area](./solutions/812.cpp)
 - **E** [836. Rectangle Overlap](./solutions/836.cpp)
 - **M** [858. Mirror Reflection](./solutions/858.cpp)
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
