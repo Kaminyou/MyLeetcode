@@ -936,6 +936,7 @@
 - **H** [745. Prefix and Suffix Search](./solutions/745.cpp)
 - **M** [758. Bold Words in String](./solutions/758.cpp)
 - **M** [820. Short Encoding of Words](./solutions/820.cpp)
+- **H** [2416. Sum of Prefix Scores of Strings](./solutions/2416.cpp)
 
 ### Binary Index Tree (Fenwick tree)
 - **M** [307. Range Sum Query - Mutable](./solutions/307.cpp)
