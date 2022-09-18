@@ -96,6 +96,7 @@
 - **M** [686. Repeated String Match](./solutions/686.cpp)
 - **M** [722. Remove Comments](./solutions/722.cpp)
 - **H** [736. Parse Lisp Expression](./solutions/736.cpp)
+- **H** [770. Basic Calculator IV](./solutions/770.cpp)
 - **M** [791. Custom Sort String](./solutions/791.cpp)
 - **E** [796. Rotate String](./solutions/796.cpp)
 - **E** [800. Similar RGB Color](./solutions/800.cpp)
