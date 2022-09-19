@@ -812,6 +812,7 @@
 - **M** [788. Rotated Digits](./solutions/788.cpp)
 - **M** [790. Domino and Tromino Tiling](./solutions/790.cpp)
 - **H** [801. Minimum Swaps To Make Sequences Increasing](./solutions/801.cpp)
+- **H** [805. Split Array With Same Average](./solutions/805.cpp)
 - **M** [813. Largest Sum of Averages](./solutions/813.cpp)
 - **H** [818. Race Car](./solutions/818.cpp)
 - **M** [823. Binary Trees With Factors](./solutions/823.cpp)
