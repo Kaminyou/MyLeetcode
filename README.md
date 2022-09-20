@@ -804,6 +804,7 @@
 - **M** [698. Partition to K Equal Sum Subsets](./solutions/698.cpp)
 - **M** [712. Minimum ASCII Delete Sum for Two Strings](./solutions/712.cpp)
 - **M** [714. Best Time to Buy and Sell Stock with Transaction Fee](./solutions/714.cpp)
+- **M** [718. Maximum Length of Repeated Subarray](./solutions/718.cpp)
 - **H** [727. Minimum Window Subsequence](./solutions/727.cpp)
 - **H** [730. Count Different Palindromic Subsequences](./solutions/730.cpp)
 - **H** [741. Cherry Pickup](./solutions/741.cpp)
