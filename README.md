@@ -448,6 +448,7 @@
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
 - **M** [869. Reordered Power of 2](./solutions/869.cpp)
+- **E** [884. Uncommon Words from Two Sentences](./solutions/884.cpp)
 - **E** [888. Fair Candy Swap](./solutions/888.cpp)
 - **M** [890. Find and Replace Pattern](./solutions/890.cpp)
 - **M** [916. Word Subsets](./solutions/916.cpp)
