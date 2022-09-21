@@ -189,6 +189,7 @@
 - **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **H** [782. Transform to Chessboard](./solutions/782.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
+- **E** [883. Projection Area of 3D Shapes](./solutions/883.cpp)
 - **E** [892. Surface Area of 3D Shapes](./solutions/892.cpp)
 - **M** [1329. Sort the Matrix Diagonally](./solutions/1329.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./solutions/1351.cpp)
