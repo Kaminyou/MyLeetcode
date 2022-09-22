@@ -202,6 +202,8 @@
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
+#### Difference matrix
+- **H** [850. Rectangle Area II](./solutions/850.cpp)
 
 ### Linked list
 - **M** [2. Add Two Numbers](./solutions/2.cpp)
