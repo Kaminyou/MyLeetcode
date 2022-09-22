@@ -587,6 +587,7 @@
 - **M** [776. Split BST](./solutions/776.cpp)
 - **E** [783. Minimum Distance Between BST Nodes](./solutions/783.cpp)
 - **M** [814. Binary Tree Pruning](./solutions/814.cpp)
+- **H** [834. Sum of Distances in Tree](./solutions/834.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
