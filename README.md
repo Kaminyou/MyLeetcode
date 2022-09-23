@@ -250,6 +250,7 @@
 - **M** [647. Palindromic Substrings](./solutions/647.cpp)
 - **H** [683. K Empty Slots](./solutions/683.cpp)
 - **M** [713. Subarray Product Less Than K](./solutions/713.cpp)
+- **M** [825. Friends Of Appropriate Ages](./solutions/825.cpp)
 - **M** [826. Most Profit Assigning Work](./solutions/826.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
