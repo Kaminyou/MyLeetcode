@@ -455,6 +455,7 @@
 - **E** [771. Jewels and Stones](./solutions/771.cpp)
 - **M** [792. Number of Matching Subsequences](./solutions/792.cpp)
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
+- **M** [822. Card Flipping Game](./solutions/822.cpp)
 - **M** [869. Reordered Power of 2](./solutions/869.cpp)
 - **E** [884. Uncommon Words from Two Sentences](./solutions/884.cpp)
 - **E** [888. Fair Candy Swap](./solutions/888.cpp)
