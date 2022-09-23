@@ -27,6 +27,7 @@
 - **E** [747. Largest Number At Least Twice of Others](./solutions/747.cpp)
 - **E** [748. Shortest Completing Word](./solutions/748.cpp)
 - **E** [830. Positions of Large Groups](./solutions/830.cpp)
+- **M** [831. Masking Personal Information](./solutions/831.cpp)
 - **E** [859. Buddy Strings](./solutions/859.cpp)
 - **E** [929. Unique Email Addresses](./solutions/929.cpp)
 - **E** [937. Reorder Data in Log Files](./solutions/937.cpp)
