@@ -29,6 +29,7 @@
 - **E** [830. Positions of Large Groups](./solutions/830.cpp)
 - **M** [831. Masking Personal Information](./solutions/831.cpp)
 - **E** [859. Buddy Strings](./solutions/859.cpp)
+- **M** [874. Walking Robot Simulation](./solutions/874.cpp)
 - **E** [929. Unique Email Addresses](./solutions/929.cpp)
 - **E** [937. Reorder Data in Log Files](./solutions/937.cpp)
 - **E** [1189. Maximum Number of Balloons](./solutions/1189.cpp)
