@@ -465,6 +465,7 @@
 - **E** [884. Uncommon Words from Two Sentences](./solutions/884.cpp)
 - **E** [888. Fair Candy Swap](./solutions/888.cpp)
 - **M** [890. Find and Replace Pattern](./solutions/890.cpp)
+- **M** [893. Groups of Special-Equivalent Strings](./solutions/893.cpp)
 - **M** [916. Word Subsets](./solutions/916.cpp)
 - **M** [939. Minimum Area Rectangle](./solutions/939.cpp)
 - **M** [1010. Pairs of Songs With Total Durations Divisible by 60](./solutions/1010.cpp)
