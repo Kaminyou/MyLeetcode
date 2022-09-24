@@ -463,6 +463,7 @@
 - **E** [804. Unique Morse Code Words](./solutions/804.cpp)
 - **M** [822. Card Flipping Game](./solutions/822.cpp)
 - **M** [869. Reordered Power of 2](./solutions/869.cpp)
+- **M** [873. Length of Longest Fibonacci Subsequence](./solutions/873.cpp)
 - **E** [884. Uncommon Words from Two Sentences](./solutions/884.cpp)
 - **E** [888. Fair Candy Swap](./solutions/888.cpp)
 - **M** [890. Find and Replace Pattern](./solutions/890.cpp)
