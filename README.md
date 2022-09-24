@@ -952,6 +952,7 @@
 - **E** [693. Binary Number with Alternating Bits](./solutions/693.cpp)
 - **M** [751. IP to CIDR](./solutions/751.cpp)
 - **E** [762. Prime Number of Set Bits in Binary Representation](./solutions/762.cpp)
+- **E** [868. Binary Gap](./solutions/868.cpp)
 - **E** [1009. Complement of Base 10 Integer](./solutions/1009.cpp)
 - **E** [1290. Convert Binary Number in a Linked List to Integer](./solutions/1290.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
