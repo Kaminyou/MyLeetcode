@@ -193,6 +193,7 @@
 - **M** [723. Candy Crush](./solutions/723.cpp)
 - **M** [750. Number Of Corner Rectangles](./solutions/750.cpp)
 - **H** [782. Transform to Chessboard](./solutions/782.cpp)
+- **M** [835. Image Overlap](./solutions/835.cpp)
 - **M** [840. Magic Squares In Grid](./solutions/840.cpp)
 - **E** [867. Transpose Matrix](./solutions/867.cpp)
 - **E** [883. Projection Area of 3D Shapes](./solutions/883.cpp)
