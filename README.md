@@ -161,6 +161,7 @@
 - **M** [2342. Max Sum of a Pair With Equal Sum of Digits](./solutions/2342.cpp)
 - **M** [2348. Number of Zero-Filled Subarrays](./solutions/2348.cpp)
 - **E** [2389. Longest Subsequence With Limited Sum](./solutions/2389.cpp)
+- **M** [2419. Longest Subarray With Maximum Bitwise AND](./solutions/2419.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [848. Shifting Letters](./solutions/848.cpp)
