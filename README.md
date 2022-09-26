@@ -405,6 +405,7 @@
 - **H** [857. Minimum Cost to Hire K Workers](./solutions/857.cpp)
 - **M** [870. Advantage Shuffle](./solutions/870.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
+- **M** [910. Smallest Range II](./solutions/910.cpp)
 - **M** [921. Minimum Add to Make Parentheses Valid](./solutions/921.cpp)
 - **M** [926. Flip String to Monotone Increasing](./solutions/926.cpp)
 - **H** [936. Stamping The Sequence](./solutions/936.cpp)
