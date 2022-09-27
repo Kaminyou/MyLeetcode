@@ -704,6 +704,7 @@
 - **M** [505. The Maze II](./solutions/505.cpp)
 - **M** [743. Network Delay Time](./solutions/743.cpp)
 - **H** [778. Swim in Rising Water](./solutions/778.cpp)
+- **H** [882. Reachable Nodes In Subdivided Graph](./solutions/882.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./solutions/787.cpp)
 #### Topological sort
