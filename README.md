@@ -934,6 +934,7 @@
 - **M** [2327. Number of People Aware of a Secret](./solutions/2327.cpp)
 - **H** [2328. Number of Increasing Paths in a Grid](./solutions/2328.cpp)
 - **H** [2338. Count the Number of Ideal Arrays](./solutions/2338.cpp)
+- **H** [2355. Maximum Number of Books You Can Take](./solutions/2355.cpp)
 - **M** [2369. Check if There is a Valid Partition For The Array](./solutions/2369.cpp)
 - **M** [2370. Longest Ideal Subsequence](./solutions/2370.cpp)
 - **H** [2376. Count Special Integers](./solutions/2376.cpp)
