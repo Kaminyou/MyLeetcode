@@ -331,6 +331,7 @@
 - **H** [773. Sliding Puzzle](./solutions/773.cpp)
 - **H** [815. Bus Routes](./solutions/815.cpp)
 - **H** [847. Shortest Path Visiting All Nodes](./solutions/847.cpp)
+- **H** [854. K-Similar Strings](./solutions/854.cpp)
 - **H** [864. Shortest Path to Get All Keys](./solutions/864.cpp)
 - **M** [994. Rotting Oranges](./solutions/994.cpp)
 - **M** [1091. Shortest Path in Binary Matrix](./solutions/1091.cpp)
