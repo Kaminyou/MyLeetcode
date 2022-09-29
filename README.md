@@ -617,6 +617,7 @@
 - **H** [834. Sum of Distances in Tree](./solutions/834.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
+- **M** [889. Construct Binary Tree from Preorder and Postorder Traversal](./solutions/889.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
 - **M** [951. Flip Equivalent Binary Trees](./solutions/951.cpp)
 - **M** [979. Distribute Coins in Binary Tree](./solutions/979.cpp)
