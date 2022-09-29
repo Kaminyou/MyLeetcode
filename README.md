@@ -1079,6 +1079,7 @@
 - **H** [780. Reaching Points](./solutions/780.cpp)
 - **H** [810. Chalkboard XOR Game](./solutions/810.cpp)
 - **H** [829. Consecutive Numbers Sum](./solutions/829.cpp)
+- **M** [866. Prime Palindrome](./solutions/866.cpp)
 - **H** [891. Sum of Subsequence Widths](./solutions/891.cpp)
 - **H** [899. Orderly Queue](./solutions/899.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
