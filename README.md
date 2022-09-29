@@ -653,6 +653,7 @@
 - **M** [729. My Calendar I](./solutions/729.cpp)
 - **M** [731. My Calendar II](./solutions/731.cpp)
 - **H** [732. My Calendar III](./solutions/732.cpp)
+- **M** [855. Exam Room](./solutions/855.cpp)
 - **H** [975. Odd Even Jump](./solutions/975.cpp)
 - **H** [987. Vertical Order Traversal of a Binary Tree](./solutions/987.cpp)
 - **M** [1094. Car Pooling](./solutions/1094.cpp)
