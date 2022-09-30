@@ -669,6 +669,7 @@
 - **M** [2406. Divide Intervals Into Minimum Number of Groups](./solutions/2406.cpp)
 
 ### Multiset
+- **H** [218. The Skyline Problem](./solutions/218.cpp)
 - **M** [220. Contains Duplicate III](./solutions/220.cpp)
 - **H** [480. Sliding Window Median](./solutions/480.cpp)
 - **M** [1244. Design A Leaderboard](./solutions/1244.cpp)
