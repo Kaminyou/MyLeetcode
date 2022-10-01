@@ -112,6 +112,7 @@
 - **E** [824. Goat Latin](./solutions/824.cpp)
 - **M** [833. Find And Replace in String](./solutions/833.cpp)
 - **H** [843. Guess the Word](./solutions/843.cpp)
+- **M** [880. Decoded String at Index](./solutions/880.cpp)
 - **H** [902. Numbers At Most N Given Digit Set](./solutions/902.cpp)
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
