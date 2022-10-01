@@ -338,6 +338,7 @@
 - **M** [1091. Shortest Path in Binary Matrix](./solutions/1091.cpp)
 - **M** [1129. Shortest Path with Alternating Colors](./solutions/1129.cpp)
 - **M** [1197. Minimum Knight Moves](./solutions/1197.cpp)
+- **M** [1254. Number of Closed Islands](./solutions/1254.cpps)
 - **H** [1263. Minimum Moves to Move a Box to Their Target Location](./solutions/1263.cpp)
 - **H** [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284.cpp)
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./solutions/1293.cpp)
