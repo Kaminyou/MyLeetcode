@@ -505,6 +505,7 @@
 - **H** [2301. Match Substring After Replacement](./solutions/2301.cpp)
 - **H** [2306. Naming a Company](./solutions/2306.cpp)
 - **E** [2325. Decode the Message](./solutions/2325.cpp)
+- **M** [2345. Finding the Number of Visible Mountains](./solutions/2345.cpp)
 - **E** [2351. First Letter to Appear Twice](./solutions/2351.cpp)
 - **M** [2352. Equal Row and Column Pairs](./solutions/2352.cpp)
 - **E** [2357. Make Array Zero by Subtracting Equal Amounts](./solutions/2357.cpp)
