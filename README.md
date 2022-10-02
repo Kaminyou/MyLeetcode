@@ -1013,6 +1013,7 @@
 - **H** [493. Reverse Pairs](./solutions/493.cpp)
 - **H** [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](./solutions/1505.cpp)
 - **H** [2179. Count Good Triplets in an Array](./solutions/2179.cpp)
+- **H** [2426. Number of Pairs Satisfying Inequality](./solutions/2426.cpp)
 
 ### Segment tree
 - **H** [2286. Booking Concert Tickets in Groups](./solutions/2286.cpp)
