@@ -997,6 +997,7 @@
 - **E** [2317. Maximum XOR After Operations](./solutions/2317.cpp)
 - **M** [2397. Maximum Rows Covered by Columns](./solutions/2397.cpp)
 - **M** [2425. Bitwise XOR of All Pairings](./solutions/2425.cpp)
+- **M** [2429. Minimize XOR](./solutions/2429.cpp)
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
