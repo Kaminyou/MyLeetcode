@@ -132,6 +132,7 @@
 - **H** [214. Shortest Palindrome](./solutions/214.cpp)
 - **H** [1392. Longest Happy Prefix](./solutions/1392.cpp)
 - **M** [1764. Form Array by Concatenating Subarrays of Another Array](./solutions/1764.cpp)
+- **H** [2430. Maximum Deletions on a String](./solutions/2430.cpp)
 
 ### Array
 - **M** [31. Next Permutation](./solutions/31.cpp)
