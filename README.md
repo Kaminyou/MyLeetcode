@@ -59,6 +59,7 @@
 - **E** [2395. Find Subarrays With Equal Sum](./solutions/2395.cpp)
 - **E** [2413. Smallest Even Multiple](./solutions/2413.cpp)
 - **E** [2418. Sort the People](./solutions/2418.cpp)
+- **E** [2423. Remove Letter To Equalize Frequency](./solutions/2423.cpp)
 #### Recursive
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
