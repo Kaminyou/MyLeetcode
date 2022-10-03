@@ -347,6 +347,7 @@
 - **H** [1263. Minimum Moves to Move a Box to Their Target Location](./solutions/1263.cpp)
 - **H** [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284.cpp)
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./solutions/1293.cpp)
+- **H** [2258. Escape the Spreading Fire](./solutions/2258.cpp)
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
 
 ### DFS
