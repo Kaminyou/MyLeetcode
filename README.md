@@ -499,6 +499,7 @@
 - **H** [1153. String Transforms Into Another String](./solutions/1153.cpp)
 - **E** [1160. Find Words That Can Be Formed by Characters](./solutions/1160.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
+- **H** [1224. Maximum Equal Frequency](./solutions/1224.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
