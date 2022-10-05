@@ -504,6 +504,7 @@
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
+- **E** [1512. Number of Good Pairs](./solutions/1512.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
 - **M** [2007. Find Original Array From Doubled Array](./solutions/2007.cpp)
