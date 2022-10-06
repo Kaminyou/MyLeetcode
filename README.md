@@ -37,6 +37,7 @@
 - **E** [1304. Find N Unique Integers Sum up to Zero](./solutions/1304.cpp)
 - **E** [1313. Decompress Run-Length Encoded List](./solutions/1313.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
+- **E** [1431. Kids With the Greatest Number of Candies](./solutions/1431.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
 - **E** [1528. Shuffle String](./solutions/1528.cpp)
 - **M** [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689.cpp)
