@@ -575,6 +575,7 @@
 - **M** [362. Design Hit Counter](./solutions/362.cpp)
 - **M** [379. Design Phone Directory](./solutions/379.cpp)
 - **M** [622. Design Circular Queue](./solutions/622.cpp)
+- **M** [1823. Find the Winner of the Circular Game](./solutions/1823.cpp)
 
 ### Deque
 - **M** [950. Reveal Cards In Increasing Order](./solutions/950.cpp)
