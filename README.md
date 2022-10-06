@@ -276,6 +276,7 @@
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
+- **M** [1052. Grumpy Bookstore Owner](./solutions/1052.cpp)
 - **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
 - **M** [1151. Minimum Swaps to Group All 1's Together](./solutions/1151.cpp)
 - **M** [1237. Find Positive Integer Solution for a Given Equation](./solutions/1237.cpp)
