@@ -723,6 +723,7 @@
 - **H** [1383. Maximum Performance of a Team](./solutions/1383.cpp)
 - **H** [1606. Find Servers That Handled Most Number of Requests](./solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
+- **H** [1851. Minimum Interval to Include Each Query](./solutions/1851.cpp)
 - **M** [1962. Remove Stones to Minimize the Total](./solutions/1962.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
 - **H** [2163. Minimum Difference in Sums After Removal of Elements](./solutions/2163.cpp)
