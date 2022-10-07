@@ -328,6 +328,7 @@
 - **M** [967. Numbers With Same Consecutive Differences](./solutions/967.cpp)
 - **H** [980. Unique Paths III](./solutions/980.cpp)
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
+- **H** [1255. Maximum Score Words Formed by Letters](./solutions/1255.cpp)
 - **M** [1774. Closest Dessert Cost](./solutions/1774.cpp)
 
 ### BFS
