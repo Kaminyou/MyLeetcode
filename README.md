@@ -1127,6 +1127,7 @@
 - **M** [866. Prime Palindrome](./solutions/866.cpp)
 - **H** [891. Sum of Subsequence Widths](./solutions/891.cpp)
 - **H** [899. Orderly Queue](./solutions/899.cpp)
+- **H** [906. Super Palindromes](./solutions/906.cpp)
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
