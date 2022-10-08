@@ -32,6 +32,7 @@
 - **M** [874. Walking Robot Simulation](./solutions/874.cpp)
 - **E** [929. Unique Email Addresses](./solutions/929.cpp)
 - **E** [937. Reorder Data in Log Files](./solutions/937.cpp)
+- **E** [944. Delete Columns to Make Sorted](./solutions/944.cpp)
 - **E** [1189. Maximum Number of Balloons](./solutions/1189.cpp)
 - **E** [1281. Subtract the Product and Sum of Digits of an Integer](./solutions/1281.cpp)
 - **E** [1304. Find N Unique Integers Sum up to Zero](./solutions/1304.cpp)
