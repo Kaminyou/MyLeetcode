@@ -907,6 +907,7 @@
 - **M** [894. All Possible Full Binary Trees](./solutions/894.cpp)
 - **M** [898. Bitwise ORs of Subarrays](./solutions/898.cpp)
 - **H** [903. Valid Permutations for DI Sequence](./solutions/903.cpp)
+- **H** [913. Cat and Mouse](./solutions/913.cpp)
 - **M** [915. Partition Array into Disjoint Intervals](./solutions/915.cpp)
 - **M** [935. Knight Dialer](./solutions/935.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
