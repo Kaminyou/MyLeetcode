@@ -327,6 +327,7 @@
 - **M** [756. Pyramid Transition Matrix](./solutions/756.cpp)
 - **M** [797. All Paths From Source to Target](./solutions/797.cpp)
 - **M** [842. Split Array into Fibonacci Sequence](./solutions/842.cpp)
+- **M** [949. Largest Time for Given Digits](./solutions/949.cpp)
 - **M** [967. Numbers With Same Consecutive Differences](./solutions/967.cpp)
 - **H** [980. Unique Paths III](./solutions/980.cpp)
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
