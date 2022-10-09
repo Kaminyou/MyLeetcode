@@ -76,6 +76,7 @@
 - **M** [544. Output Contest Matches](./solutions/544.cpp)
 - **H** [761. Special Binary String](./solutions/761.cpp)
 - **M** [779. K-th Symbol in Grammar](./solutions/779.cpp)
+- **M** [984. String Without AAA or BBB](./solutions/984.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
 
 ### String
