@@ -66,6 +66,7 @@
 - **E** [2418. Sort the People](./solutions/2418.cpp)
 - **E** [2423. Remove Letter To Equalize Frequency](./solutions/2423.cpp)
 - **E** [2427. Number of Common Factors](./solutions/2427.cpp)
+- **E** [2432. The Employee That Worked on the Longest Task](./solutions/2432.cpp)
 #### Recursive
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
