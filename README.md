@@ -991,6 +991,7 @@
 - **M** [2370. Longest Ideal Subsequence](./solutions/2370.cpp)
 - **H** [2376. Count Special Integers](./solutions/2376.cpp)
 - **M** [2420. Find All Good Indices](./solutions/2420.cpp)
+- **H** [2435. Paths in Matrix Whose Sum Is Divisible by K](./solutions/2435.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
