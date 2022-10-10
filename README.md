@@ -165,6 +165,7 @@
 - **E** [896. Monotonic Array](./solutions/896.cpp)
 - **E** [908. Smallest Range I](./solutions/908.cpp)
 - **E** [922. Sort Array By Parity II](./solutions/922.cpp)
+- **H** [927. Three Equal Parts](./solutions/927.cpp)
 - **M** [985. Sum of Even Numbers After Queries](./solutions/985.cpp)
 - **E** [1122. Relative Sort Array](./solutions/1122.cpp)
 - **E** [1365. How Many Numbers Are Smaller Than the Current Number](./solutions/1365.cpp)
