@@ -125,6 +125,7 @@
 - **M** [880. Decoded String at Index](./solutions/880.cpp)
 - **H** [902. Numbers At Most N Given Digit Set](./solutions/902.cpp)
 - **E** [1021. Remove Outermost Parentheses](./solutions/1021.cpp)
+- **M** [1328. Break a Palindrome](./solutions/1328.cpp)
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 - **M** [2284. Sender With Largest Word Count](./solutions/2284.cpp)
