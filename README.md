@@ -395,6 +395,7 @@
 - **H** [803. Bricks Falling When Hit](./solutions/803.cpp)
 - **H** [839. Similar String Groups](./solutions/839.cpp)
 - **H** [924. Minimize Malware Spread](./solutions/924.cpp)
+- **H** [928. Minimize Malware Spread II](./solutions/928.cpp)
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
 - **M** [990. Satisfiability of Equality Equations](./solutions/990.cpp)
 - **M** [1101. The Earliest Moment When Everyone Become Friends](./solutions/1101.cpp)
