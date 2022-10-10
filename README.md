@@ -1003,6 +1003,7 @@
 ### Divide and conquer
 - **H** [327. Count of Range Sum](./solutions/327.cpp)
 - **M** [372. Super Pow](./solutions/372.cpp)
+- **M** [932. Beautiful Array](./solutions/932.cpp)
 
 ### Bit operation
 - **M** [29. Divide Two Integers](./solutions/29.cpp)
