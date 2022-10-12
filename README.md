@@ -519,6 +519,7 @@
 - **M** [893. Groups of Special-Equivalent Strings](./solutions/893.cpp)
 - **M** [916. Word Subsets](./solutions/916.cpp)
 - **M** [939. Minimum Area Rectangle](./solutions/939.cpp)
+- **E** [961. N-Repeated Element in Size 2N Array](./solutions/961.cpp)
 - **M** [1010. Pairs of Songs With Total Durations Divisible by 60](./solutions/1010.cpp)
 - **M** [1152. Analyze User Website Visit Pattern](./solutions/1152.cpp)
 - **H** [1153. String Transforms Into Another String](./solutions/1153.cpp)
