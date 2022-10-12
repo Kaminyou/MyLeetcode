@@ -927,6 +927,7 @@
 - **M** [935. Knight Dialer](./solutions/935.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
 - **H** [943. Find the Shortest Superstring](./solutions/943.cpp)
+- **H** [956. Tallest Billboard](./solutions/956.cpp)
 - **M** [983. Minimum Cost For Tickets](./solutions/983.cpp)
 - **H** [1000. Minimum Cost to Merge Stones](./solutions/1000.cpp)
 - **M** [1035. Uncrossed Lines](./solutions/1035.cpp)
