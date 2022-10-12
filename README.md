@@ -452,6 +452,7 @@
 - **M** [945. Minimum Increment to Make Array Unique](./solutions/945.cpp)
 - **M** [948. Bag of Tokens](./solutions/948.cpp)
 - **H** [968. Binary Tree Cameras](./solutions/968.cpp)
+- **E** [976. Largest Perimeter Triangle](./solutions/976.cpp)
 - **M** [1055. Shortest Way to Form String](./solutions/1055.cpp)
 - **H** [1354. Construct Target Array With Multiple Sums](./solutions/1354.cpp)
 - **M** [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./solutions/1465.cpp)
