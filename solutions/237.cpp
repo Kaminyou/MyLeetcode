@@ -14,3 +14,16 @@ public:
         delete temp;
     }
 };
+
+class Solution {
+public:
+    void deleteNode(ListNode* node) {
+        ListNode* temp;
+        while (node->next != nullptr) {
+            node->val = node->next->val;
+            temp = node;
+            node = node->next;
+        }
+        temp->next = nullptr;
+    }
+};
