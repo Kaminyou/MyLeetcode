@@ -965,6 +965,7 @@
 - **H** [1278. Palindrome Partitioning III](./solutions/1278.cpp)
 - **H** [1289. Minimum Falling Path Sum II](./solutions/1289.cpp)
 - **H** [1312. Minimum Insertion Steps to Make a String Palindrome](./solutions/1312.cpp)
+- **H** [1335. Minimum Difficulty of a Job Schedule](./solutions/1335.cpp)
 - **H** [1349. Maximum Students Taking Exam](./solutions/1349.cpp)
 - **M** [1387. Sort Integers by The Power Value](./solutions/1387.cpp)
 - **H** [1406. Stone Game III](./solutions/1406.cpp)
