@@ -309,6 +309,7 @@
 - **M** [2401. Longest Nice Subarray](./solutions/2401.cpp)
 - **M** [2410. Maximum Matching of Players With Trainers](./solutions/2410.cpp)
 - **M** [2411. Smallest Subarrays With Maximum Bitwise OR](./solutions/2411.cpp)
+- **H** [2444. Count Subarrays With Fixed Bounds](./solutions/2444.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
