@@ -71,6 +71,7 @@
 - **E** [2432. The Employee That Worked on the Longest Task](./solutions/2432.cpp)
 - **E** [2437. Number of Valid Clock Times](./solutions/2437.cpp)
 - **E** [2441. Largest Positive Integer That Exists With Its Negative](./solutions/2441.cpp)
+- **M** [2443. Sum of Number and Its Reverse](./solutions/2443.cpp)
 #### Recursive
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
