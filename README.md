@@ -73,6 +73,7 @@
 - **E** [2441. Largest Positive Integer That Exists With Its Negative](./solutions/2441.cpp)
 - **M** [2443. Sum of Number and Its Reverse](./solutions/2443.cpp)
 #### Recursive
+- **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
 - **M** [339. Nested List Weight Sum](./solutions/339.cpp)
 - **M** [341. Flatten Nested List Iterator](./solutions/341.cpp)
