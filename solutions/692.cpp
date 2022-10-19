@@ -23,3 +23,38 @@ public:
         return ans;
     }
 };
+
+// v2
+typedef pair<int, string> P;
+class Compare {
+public:
+    bool operator() (const P& p1, const P& p2) const {
+        if (p1.first == p2.first) return p1.second > p2.second;
+        return p1.first < p2.first;
+    }
+};
+class Solution {
+public:
+    vector<string> topKFrequent(vector<string>& words, int k) {
+        multiset<P, Compare> mst;
+        unordered_map<string, int> mp;
+        for (auto& word : words) {
+            if (mp.find(word) != mp.end()) {
+                const pair<int, string> p = {mp[word], word};
+                if (mst.find(p) != mst.end()) {
+                    mst.erase(mst.find(p));
+                }
+            }
+            mp[word]++;
+            mst.insert({mp[word], word});
+            while (mst.size() > k) mst.erase(mst.begin());
+        }
+        vector<string> res;
+        while (!mst.empty()) {
+            res.push_back(mst.begin()->second);
+            mst.erase(mst.begin());
+        }
+        reverse(res.begin(), res.end());
+        return res;
+    }
+};
