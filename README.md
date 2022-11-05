@@ -197,6 +197,7 @@
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./solutions/2031.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
+- **H** [2448. Minimum Cost to Make Array Equal](./solutions/2448.cpp)
 #### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
