@@ -491,6 +491,7 @@
 - **M** [2390. Removing Stars From a String](./solutions/2390.cpp)
 - **H** [2412. Minimum Money Required Before Transactions](./solutions/2412.cpp)
 - **M** [2439. Minimize Maximum of Array](./solutions/2439.cpp)
+- **H** [2449. Minimum Number of Operations to Make Arrays Similar](./solutions/2449.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
