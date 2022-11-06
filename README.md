@@ -772,6 +772,7 @@
 - **H** [2163. Minimum Difference in Sums After Removal of Elements](./solutions/2163.cpp)
 - **H** [2386. Find the K-Sum of an Array](./solutions/2386.cpp)
 - **H** [2402. Meeting Rooms III](./solutions/2402.cpp)
+- **M** [2462. Total Cost to Hire K Workers](./solutions/2462.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
