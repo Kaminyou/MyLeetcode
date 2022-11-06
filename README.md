@@ -75,6 +75,7 @@
 - **M** [2443. Sum of Number and Its Reverse](./solutions/2443.cpp)
 - **E** [2446. Determine if Two Events Have Conflict](./solutions/2446.cpp)
 - **E** [2451. Odd String Difference](./solutions/2451.cpp)
+- **E** [2460. Apply Operations to an Array](./solutions/2460.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
@@ -318,6 +319,7 @@
 - **M** [2410. Maximum Matching of Players With Trainers](./solutions/2410.cpp)
 - **M** [2411. Smallest Subarrays With Maximum Bitwise OR](./solutions/2411.cpp)
 - **H** [2444. Count Subarrays With Fixed Bounds](./solutions/2444.cpp)
+- **M** [2461. Maximum Sum of Distinct Subarrays With Length K](./solutions/2461.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
