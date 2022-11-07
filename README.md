@@ -482,6 +482,7 @@
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./solutions/1996.cpp)
 - **M** [2079. Watering Plants](./solutions/2079.cpp)
+- **H** [2136. Earliest Possible Day of Full Bloom](./solutions/2136.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./solutions/2279.cpp)
 - **M** [2285. Maximum Total Importance of Roads](./solutions/2285.cpp)
 - **M** [2311. Longest Binary Subsequence Less Than or Equal to K](./solutions/2311.cpp)
