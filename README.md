@@ -589,6 +589,7 @@
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
 - **E** [1047. Remove All Adjacent Duplicates In String](./solutions/1047.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./solutions/1209.cpp)
+- **E** [1544. Make The String Great](./solutions/1544.cpp)
 - **M** [2434. Using a Robot to Print the Lexicographically Smallest String](./solutions/2434.cpp)
 #### Monotonic stack
 - **H** [42. Trapping Rain Water](./solutions/42.cpp)
