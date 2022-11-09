@@ -599,6 +599,7 @@
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
 - **H** [768. Max Chunks To Make Sorted II](./solutions/768.cpp)
 - **M** [795. Number of Subarrays with Bounded Maximum](./solutions/795.cpp)
+- **M** [901. Online Stock Span](./solutions/901.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./solutions/1130.cpp)
 - **M** [1504. Count Submatrices With All Ones](./solutions/1504.cpp)
 - **M** [1673. Find the Most Competitive Subsequence](./solutions/1673.cpp)
