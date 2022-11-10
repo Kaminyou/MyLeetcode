@@ -578,6 +578,7 @@
 - **M** [2405. Optimal Partition of String](./solutions/2405.cpp)
 - **M** [2442. Count Number of Distinct Integers After Reverse Operations](./solutions/2442.cpp)
 - **M** [2453. Destroy Sequential Targets](./solutions/2453.cpp)
+- **M** [2456. Most Popular Video Creator](./solutions/2456.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
