@@ -39,6 +39,7 @@
 - **E** [1281. Subtract the Product and Sum of Digits of an Integer](./solutions/1281.cpp)
 - **E** [1304. Find N Unique Integers Sum up to Zero](./solutions/1304.cpp)
 - **E** [1313. Decompress Run-Length Encoded List](./solutions/1313.cpp)
+- **E** [1323. Maximum 69 Number](./solutions/1323.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
 - **E** [1431. Kids With the Greatest Number of Candies](./solutions/1431.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
@@ -76,7 +77,7 @@
 - **E** [2446. Determine if Two Events Have Conflict](./solutions/2446.cpp)
 - **E** [2451. Odd String Difference](./solutions/2451.cpp)
 - **E** [2460. Apply Operations to an Array](./solutions/2460.cpp)
-- **E** [1323. Maximum 69 Number](./solutions/1323.cpp)
+- **E** [2455. Average Value of Even Numbers That Are Divisible by Three](./solutions/2455.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
