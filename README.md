@@ -278,6 +278,7 @@
 - **M** [11. Container With Most Water](./solutions/11.cpp)
 - **M** [15. 3Sum](./solutions/15.cpp)
 - **M** [16. 3Sum Closest](./solutions/16.cpp)
+- **E** [26. Remove Duplicates from Sorted Array](./solutions/26.cpp)
 - **H** [76. Minimum Window Substring](./solutions/76.cpp)
 - **E** [88. Merge Sorted Array](./solutions/88.cpp)
 - **M** [159. Longest Substring with At Most Two Distinct Characters](./solutions/159.cpp)
