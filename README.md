@@ -78,6 +78,7 @@
 - **E** [2451. Odd String Difference](./solutions/2451.cpp)
 - **E** [2460. Apply Operations to an Array](./solutions/2460.cpp)
 - **E** [2455. Average Value of Even Numbers That Are Divisible by Three](./solutions/2455.cpp)
+- **E** [2469. Convert the Temperature](./solutions/2469.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
