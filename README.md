@@ -1044,6 +1044,7 @@
 - **M** [2420. Find All Good Indices](./solutions/2420.cpp)
 - **H** [2435. Paths in Matrix Whose Sum Is Divisible by K](./solutions/2435.cpp)
 - **H** [2463. Minimum Total Distance Traveled](./solutions/2463.cpp)
+- **M** [2466. Count Ways To Build Good Strings](./solutions/2466.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
