@@ -391,6 +391,7 @@
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./solutions/1293.cpp)
 - **H** [2258. Escape the Spreading Fire](./solutions/2258.cpp)
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
+- **M** [2471. Minimum Number of Operations to Sort a Binary Tree by Level](./solutions/2471.cpp)
 
 ### DFS
 - **M** [200. Number of Islands](./solutions/200.cpp)
