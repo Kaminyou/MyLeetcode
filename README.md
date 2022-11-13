@@ -196,6 +196,7 @@
 - **E** [2389. Longest Subsequence With Limited Sum](./solutions/2389.cpp)
 - **M** [2419. Longest Subarray With Maximum Bitwise AND](./solutions/2419.cpp)
 - **M** [2447. Number of Subarrays With GCD Equal to K](./solutions/2447.cpp)
+- **M** [2470. Number of Subarrays With LCM Equal to K](./solutions/2470.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [848. Shifting Letters](./solutions/848.cpp)
