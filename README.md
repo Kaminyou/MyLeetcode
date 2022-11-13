@@ -581,6 +581,7 @@
 - **M** [2442. Count Number of Distinct Integers After Reverse Operations](./solutions/2442.cpp)
 - **M** [2453. Destroy Sequential Targets](./solutions/2453.cpp)
 - **M** [2456. Most Popular Video Creator](./solutions/2456.cpp)
+- **E** [2465. Number of Distinct Averages](./solutions/2465.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
