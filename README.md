@@ -403,6 +403,7 @@
 - **E** [1971. Find if Path Exists in Graph](./solutions/1971.cpp)
 - **M** [2101. Detonate the Maximum Bombs](./solutions/2101.cpp)
 - **H** [2440. Create Components With Same Value](./solutions/2440.cpp)
+- **M** [2467. Most Profitable Path in a Tree](./solutions/2467.cpp)
 
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
