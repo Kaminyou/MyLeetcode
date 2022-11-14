@@ -149,6 +149,7 @@
 - **E** [2409. Count Days Spent Together](./solutions/2409.cpp)
 - **M** [2414. Length of the Longest Alphabetical Continuous Substring](./solutions/2414.cpp)
 - **M** [2452. Words Within Two Edits of Dictionary](./solutions/2452.cpp)
+- **H** [2468. Split Message Based on Limit](./solutions/2468.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
@@ -860,7 +861,6 @@
 - **M** [2305. Fair Distribution of Cookies](./solutions/2305.cpp)
 - **M** [2333. Minimum Sum of Squared Difference](./solutions/2333.cpp)
 - **H** [2354. Number of Excellent Pairs](./solutions/2354.cpp)
-- **H** [2468. Split Message Based on Limit](./solutions/2468.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1964. Find the Longest Valid Obstacle Course at Each Position](./solutions/1964.cpp)
