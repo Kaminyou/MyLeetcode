@@ -307,6 +307,7 @@
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
 - **M** [1052. Grumpy Bookstore Owner](./solutions/1052.cpp)
 - **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
+- **E** [1099. Two Sum Less Than K](./solutions/1099.cpp)
 - **M** [1151. Minimum Swaps to Group All 1's Together](./solutions/1151.cpp)
 - **M** [1237. Find Positive Integer Solution for a Given Equation](./solutions/1237.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./solutions/1423.cpp)
