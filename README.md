@@ -1177,6 +1177,7 @@
 - **M** [166. Fraction to Recurring Decimal](./solutions/166.cpp)
 - **M** [172. Factorial Trailing Zeroes](./solutions/172.cpp)
 - **H** [233. Number of Digit One](./solutions/233.cpp)
+- **E** [263. Ugly Number](./solutions/263.cpp)
 - **E** [292. Nim Game](./solutions/292.cpp)
 - **M** [319. Bulb Switcher](./solutions/319.cpp)
 - **M** [357. Count Numbers with Unique Digits](./solutions/357.cpp)
