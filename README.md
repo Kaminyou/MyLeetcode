@@ -1056,6 +1056,7 @@
 - **H** [2463. Minimum Total Distance Traveled](./solutions/2463.cpp)
 - **M** [2466. Count Ways To Build Good Strings](./solutions/2466.cpp)
 - **H** [2472. Maximum Number of Non-overlapping Palindrome Substrings](./solutions/2472.cpp)
+- **H** [2478. Number of Beautiful Partitions](./solutions/2478.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
