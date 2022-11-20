@@ -411,6 +411,7 @@
 - **M** [2101. Detonate the Maximum Bombs](./solutions/2101.cpp)
 - **H** [2440. Create Components With Same Value](./solutions/2440.cpp)
 - **M** [2467. Most Profitable Path in a Tree](./solutions/2467.cpp)
+- **M** [2477. Minimum Fuel Cost to Report to the Capital](./solutions/2477.cpp)
 
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
