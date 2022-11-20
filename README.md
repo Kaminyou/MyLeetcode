@@ -596,6 +596,7 @@
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
 - **M** [150. Evaluate Reverse Polish Notation](./solutions/150.cpp)
 - **E** [155. Min Stack](./solutions/155.cpp)
+- **H** [224. Basic Calculator](./solutions/224.cpp)
 - **M** [484. Find Permutation](./solutions/484.cpp)
 - **H** [591. Tag Validator](./solutions/591.cpp)
 - **M** [636. Exclusive Time of Functions](./solutions/636.cpp)
