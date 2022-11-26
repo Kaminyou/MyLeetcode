@@ -33,3 +33,29 @@ public:
         return recursive(start, 0);
     }
 };
+
+class Solution {
+public:
+    int dp(int index, vector<vector<int>>& jobs, vector<int>& start, vector<int>& memo) {
+        if (index == jobs.size()) return 0;
+        if (memo[index] != -1) return memo[index];
+        auto it = lower_bound(start.begin() + index, start.end(), jobs[index][1]);
+        int nextIdx = it - start.begin();
+        return memo[index] = max(dp(index + 1, jobs, start, memo), dp(nextIdx, jobs, start, memo) + jobs[index][2]);;
+    }
+    int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+        int n = startTime.size();
+        vector<vector<int>> jobs(n, vector<int>(3, 0));
+        for (int i = 0; i < n; ++i) {
+            jobs[i][0] = startTime[i];
+            jobs[i][1] = endTime[i];
+            jobs[i][2] = profit[i];
+        }
+        
+        sort(jobs.begin(), jobs.end());
+        vector<int> memo(n, -1);
+        vector<int> start(n, 0);
+        for (int i = 0; i < n; ++i) start[i] = jobs[i][0];
+        return dp(0, jobs, start, memo);
+    }
+};
