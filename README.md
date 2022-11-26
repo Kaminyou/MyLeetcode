@@ -208,6 +208,7 @@
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
 - **H** [2448. Minimum Cost to Make Array Equal](./solutions/2448.cpp)
+- **M** [2483. Minimum Penalty for a Shop](./solutions/2483.cpp)
 #### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
