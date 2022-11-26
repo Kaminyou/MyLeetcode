@@ -249,6 +249,7 @@
 - **M** [2326. Spiral Matrix IV](./solutions/2326.cpp)
 - **E** [2373. Largest Local Values in a Matrix](./solutions/2373.cpp)
 - **M** [2428. Maximum Sum of an Hourglass](./solutions/2428.cpp)
+- **M** [2482. Difference Between Ones and Zeros in Row and Column](./solutions/2482.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
