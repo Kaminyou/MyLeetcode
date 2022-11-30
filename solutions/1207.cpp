@@ -13,3 +13,18 @@ public:
         return true;
     }
 };
+
+class Solution {
+public:
+    bool uniqueOccurrences(vector<int>& arr) {
+        unordered_map<int, int> cnt;
+        for (auto& num : arr) cnt[num]++;
+        
+        unordered_set<int> occurence;
+        for (auto& [num, appear] : cnt) {
+            if (occurence.count(appear)) return false;
+            occurence.insert(appear);
+        }
+        return true;
+    }
+};
