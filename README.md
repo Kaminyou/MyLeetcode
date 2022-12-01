@@ -562,6 +562,7 @@
 - **M** [1152. Analyze User Website Visit Pattern](./solutions/1152.cpp)
 - **H** [1153. String Transforms Into Another String](./solutions/1153.cpp)
 - **E** [1160. Find Words That Can Be Formed by Characters](./solutions/1160.cpp)
+- **E** [1165. Single-Row Keyboard](./solutions/1165.cpp)
 - **M** [1198. Find Smallest Common Element in All Rows](./solutions/1198.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
 - **H** [1224. Maximum Equal Frequency](./solutions/1224.cpp)
