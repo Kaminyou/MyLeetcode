@@ -46,6 +46,7 @@
 - **E** [1528. Shuffle String](./solutions/1528.cpp)
 - **E** [1662. Check If Two String Arrays are Equivalent](./solutions/1662.cpp)
 - **M** [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689.cpp)
+- **E** [1704. Determine if String Halves Are Alike](./solutions/1704.cpp)
 - **E** [1822. Sign of the Product of an Array](./solutions/1822.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./solutions/2089.cpp)
 - **M** [2125. Number of Laser Beams in a Bank](./solutions/2125.cpp)
