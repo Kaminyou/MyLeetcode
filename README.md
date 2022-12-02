@@ -570,6 +570,7 @@
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **E** [1512. Number of Good Pairs](./solutions/1512.cpp)
+- **M** [1657. Determine if Two Strings Are Close](./solutions/1657.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
 - **E** [1832. Check if the Sentence Is Pangram](./solutions/1832.cpp)
