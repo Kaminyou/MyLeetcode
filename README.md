@@ -81,6 +81,7 @@
 - **E** [2455. Average Value of Even Numbers That Are Divisible by Three](./solutions/2455.cpp)
 - **E** [2469. Convert the Temperature](./solutions/2469.cpp)
 - **E** [2475. Number of Unequal Triplets in Array](./solutions/2475.cpp)
+- **E** [2490. Circular Sentence](./solutions/2490.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
