@@ -719,6 +719,7 @@
 - **H** [834. Sum of Distances in Tree](./solutions/834.cpp)
 - **M** [863. All Nodes Distance K in Binary Tree](./solutions/863.cpp)
 - **M** [865. Smallest Subtree with all the Deepest Nodes](./solutions/865.cpp)
+- **E** [872. Leaf-Similar Trees](./solutions/872.cpp)
 - **M** [889. Construct Binary Tree from Preorder and Postorder Traversal](./solutions/889.cpp)
 - **M** [919. Complete Binary Tree Inserter](./solutions/919.cpp)
 - **E** [938. Range Sum of BST](./solutions/938.cpp)
