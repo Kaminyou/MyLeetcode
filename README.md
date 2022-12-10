@@ -153,6 +153,7 @@
 - **M** [2414. Length of the Longest Alphabetical Continuous Substring](./solutions/2414.cpp)
 - **M** [2452. Words Within Two Edits of Dictionary](./solutions/2452.cpp)
 - **H** [2468. Split Message Based on Limit](./solutions/2468.cpp)
+- **E** [2496. Maximum Value of a String in an Array](./solutions/2496.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
