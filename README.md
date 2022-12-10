@@ -522,6 +522,7 @@
 - **H** [2449. Minimum Number of Operations to Make Arrays Similar](./solutions/2449.cpp)
 - **M** [2457. Minimum Addition to Make Integer Beautiful](./solutions/2457.cpp)
 - **M** [2491. Divide Players Into Teams of Equal Skill](./solutions/2491.cpp)
+- **M** [2498. Frog Jump II](./solutions/2498.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
