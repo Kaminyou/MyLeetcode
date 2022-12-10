@@ -816,6 +816,7 @@
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
 - **E** [997. Find the Town Judge](./solutions/997.cpp)
+- **M** [2497. Maximum Star Sum of a Graph](./solutions/2497.cpp)
 - **M** [2359. Find Closest Node to Given Two Nodes](./solutions/2359.cpp)
 - **H** [2360. Longest Cycle in a Graph](./solutions/2360.cpp)
 #### Dijkstra's algorithm
