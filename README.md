@@ -734,6 +734,7 @@
 - **M** [1123. Lowest Common Ancestor of Deepest Leaves](./solutions/1123.cpp)
 - **M** [1273. Delete Tree Nodes](./solutions/1273.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
+- **M** [1339. Maximum Product of Splitted Binary Tree](./solutions/1339.cpp)
 - **M** [1372. Longest ZigZag Path in a Binary Tree](./solutions/1372.cpp)
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379.cpp)
 - **M** [1448. Count Good Nodes in Binary Tree](./solutions/1448.cpp)
