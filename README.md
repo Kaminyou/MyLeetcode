@@ -1186,6 +1186,7 @@
 - **M** [1146. Snapshot Array](./solutions/1146.cpp)
 - **M** [1352. Product of the Last K Numbers](./solutions/1352.cpp)
 - **M** [2353. Design a Food Rating System](./solutions/2353.cpp)
+- **M** [2502. Design Memory Allocator](./solutions/2502.cpp)
 
 ### Special
 #### De Bruijn sequence with Eulerian Circuit
