@@ -996,6 +996,7 @@
 - **H** [903. Valid Permutations for DI Sequence](./solutions/903.cpp)
 - **H** [913. Cat and Mouse](./solutions/913.cpp)
 - **M** [915. Partition Array into Disjoint Intervals](./solutions/915.cpp)
+- **M** [931. Minimum Falling Path Sum](./solutions/931.cpp)
 - **M** [935. Knight Dialer](./solutions/935.cpp)
 - **H** [940. Distinct Subsequences II](./solutions/940.cpp)
 - **H** [943. Find the Shortest Superstring](./solutions/943.cpp)
