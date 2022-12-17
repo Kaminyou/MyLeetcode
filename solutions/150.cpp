@@ -1,33 +1,33 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<int> st;
+        stack<long long> st;
         for (auto& token : tokens) {
             if (token == "+") {
-                int a = st.top();
+                long long a = st.top();
                 st.pop();
-                int b = st.top();
+                long long b = st.top();
                 st.pop();
                 st.push(a + b);
             }
             else if (token == "-") {
-                int a = st.top();
+                long long a = st.top();
                 st.pop();
-                int b = st.top();
+                long long b = st.top();
                 st.pop();
                 st.push(b - a);
             }
             else if (token == "*") {
-                int a = st.top();
+                long long a = st.top();
                 st.pop();
-                int b = st.top();
+                long long b = st.top();
                 st.pop();
-                st.push(a * b);
+                st.push(b * a);
             }
             else if (token == "/") {
-                int a = st.top();
+                long long a = st.top();
                 st.pop();
-                int b = st.top();
+                long long b = st.top();
                 st.pop();
                 st.push(b / a);
             }
