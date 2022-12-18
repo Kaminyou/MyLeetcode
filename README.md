@@ -632,6 +632,7 @@
 - **M** [456. 132 Pattern](./solutions/456.cpp)
 - **E** [496. Next Greater Element I](./solutions/496.cpp)
 - **M** [581. Shortest Unsorted Continuous Subarray](./solutions/581.cpp)
+- **M** [739. Daily Temperatures](./solutions/739.cpp)
 - **H** [768. Max Chunks To Make Sorted II](./solutions/768.cpp)
 - **M** [795. Number of Subarrays with Bounded Maximum](./solutions/795.cpp)
 - **M** [901. Online Stock Span](./solutions/901.cpp)
