@@ -828,6 +828,7 @@
 - **M** [2497. Maximum Star Sum of a Graph](./solutions/2497.cpp)
 - **M** [2359. Find Closest Node to Given Two Nodes](./solutions/2359.cpp)
 - **H** [2360. Longest Cycle in a Graph](./solutions/2360.cpp)
+- **H** [2508. Add Edges to Make Degrees of All Nodes Even](./solutions/2508.cpp)
 #### Dijkstra's algorithm
 - **H** [499. The Maze III](./solutions/499.cpp)
 - **M** [505. The Maze II](./solutions/505.cpp)
