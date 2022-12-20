@@ -391,6 +391,7 @@
 - **M** [752. Open the Lock](./solutions/752.cpp)
 - **H** [773. Sliding Puzzle](./solutions/773.cpp)
 - **H** [815. Bus Routes](./solutions/815.cpp)
+- **M** [841. Keys and Rooms](./solutions/841.cpp)
 - **H** [847. Shortest Path Visiting All Nodes](./solutions/847.cpp)
 - **H** [854. K-Similar Strings](./solutions/854.cpp)
 - **H** [864. Shortest Path to Get All Keys](./solutions/864.cpp)
