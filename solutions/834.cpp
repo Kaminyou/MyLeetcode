@@ -90,3 +90,41 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int dfs(int node, int parent, int depth, vector<int>& childrens, int& sum, vector<vector<int>>& adjacency) {
+        sum += depth;
+        int childrenCnt = 0;
+        for (auto& neighbor : adjacency[node]) {
+            if (neighbor == parent) continue;
+            childrenCnt += dfs(neighbor, node, depth + 1, childrens, sum, adjacency);
+        }
+        childrens[node] = childrenCnt;
+        return childrenCnt + 1;
+    }
+    void dfs2(int n, int sum, int node, int parent, vector<int>& childrens, vector<vector<int>>& adjacency, vector<int>& answer) {
+        answer[node] = sum;
+        
+        for (auto& neighbor : adjacency[node]) {
+            if (neighbor == parent) continue;
+            int childrenCnt = childrens[neighbor] + 1;
+            int leftCnt = n - childrenCnt;
+            dfs2(n, sum - childrenCnt + leftCnt, neighbor, node, childrens, adjacency, answer);
+        }
+    }
+    vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
+        vector<vector<int>> adjacency(n);
+        for (auto& edge : edges) {
+            adjacency[edge[0]].push_back(edge[1]);
+            adjacency[edge[1]].push_back(edge[0]);
+        }
+
+        vector<int> childrens(n, 0);
+        vector<int> res(n, 0);
+        int sum = 0;
+        dfs(0, -1, 0, childrens, sum, adjacency);
+        dfs2(n, sum, 0, -1, childrens, adjacency, res);
+        return res;
+    }
+};
