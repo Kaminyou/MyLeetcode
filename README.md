@@ -1260,6 +1260,7 @@
 - **M** [2396. Strictly Palindromic Number](./solutions/2396.cpp)
 - **M** [2400. Number of Ways to Reach a Position After Exactly k Steps](./solutions/2400.cpp)
 - **E** [2481. Minimum Cuts to Divide a Circle](./solutions/2481.cpp)
+- **H** [2514. Count Anagrams](./solutions/2514.cpp)
 #### Bézout's identity
 - **M** [365. Water and Jug Problem](./solutions/365.cpp)
 #### Algorithm R (for Reservoir sampling)
