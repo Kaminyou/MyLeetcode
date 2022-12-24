@@ -900,6 +900,7 @@
 - **M** [2333. Minimum Sum of Squared Difference](./solutions/2333.cpp)
 - **H** [2354. Number of Excellent Pairs](./solutions/2354.cpp)
 - **M** [2476. Closest Nodes Queries in a Binary Search Tree](./solutions/2476.cpp)
+- **M** [2513. Minimize the Maximum of Two Arrays](./solutions/2513.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1964. Find the Longest Valid Obstacle Course at Each Position](./solutions/1964.cpp)
