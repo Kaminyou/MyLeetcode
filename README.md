@@ -614,6 +614,7 @@
 - **E** [2465. Number of Distinct Averages](./solutions/2465.cpp)
 - **E** [2506. Count Pairs Of Similar Strings](./solutions/2506.cpp)
 - **M** [2512. Reward Top K Students](./solutions/2512.cpp)
+- **E** [2515. Shortest Distance to Target String in a Circular Array](./solutions/2515.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
