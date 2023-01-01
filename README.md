@@ -84,6 +84,7 @@
 - **E** [2490. Circular Sentence](./solutions/2490.cpp)
 - **M** [2507. Smallest Value After Replacing With Sum of Prime Factors](./solutions/2507.cpp)
 - **E** [2520. Count the Digits That Divide a Number](./solutions/2520.cpp)
+- **M** [2521. Distinct Prime Factors of Product of Array](./solutions/2521.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
