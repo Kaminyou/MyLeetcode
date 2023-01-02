@@ -17,6 +17,7 @@
 - **E** [482. License Key Formatting](./solutions/482.cpp)
 - **E** [492. Construct the Rectangle](./solutions/492.cpp)
 - **E** [507. Perfect Number](./solutions/507.cpp)
+- **E** [520. Detect Capital](./solutions/520.cpp)
 - **E** [521. Longest Uncommon Subsequence I](./solutions/521.cpp)
 - **M** [537. Complex Number Multiplication](./solutions/537.cpp)
 - **M** [573. Squirrel Simulation](./solutions/573.cpp)
