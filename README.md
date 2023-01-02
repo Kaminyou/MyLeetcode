@@ -218,6 +218,7 @@
 - **H** [2448. Minimum Cost to Make Array Equal](./solutions/2448.cpp)
 - **M** [2483. Minimum Penalty for a Shop](./solutions/2483.cpp)
 - **E** [2485. Find the Pivot Integer](./solutions/2485.cpp)
+- **H** [2488. Count Subarrays With Median K](./solutions/2488.cpp)
 #### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
