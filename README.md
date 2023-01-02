@@ -343,6 +343,7 @@
 - **M** [2411. Smallest Subarrays With Maximum Bitwise OR](./solutions/2411.cpp)
 - **H** [2444. Count Subarrays With Fixed Bounds](./solutions/2444.cpp)
 - **M** [2461. Maximum Sum of Distinct Subarrays With Length K](./solutions/2461.cpp)
+- **M** [2486. Append Characters to String to Make Subsequence](./solutions/2486.cpp)
 - **M** [2516. Take K of Each Character From Left and Right](./solutions/2516.cpp)
 
 ### Backtracking
