@@ -601,6 +601,7 @@
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./solutions/2131.cpp)
 - **M** [2135. Count Words Obtained After Adding a Letter](./solutions/2135.cpp)
 - **M** [2225. Find Players With Zero or One Losses](./solutions/2225.cpp)
+- **M** [2244. Minimum Rounds to Complete All Tasks](./solutions/2244.cpp)
 - **E** [2287. Rearrange Characters to Make Target String](./solutions/2287.cpp)
 - **M** [2294. Partition Array Such That Maximum Difference Is K](./solutions/2294.cpp)
 - **M** [2295. Replace Elements in an Array](./solutions/2295.cpp)
