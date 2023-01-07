@@ -1160,6 +1160,7 @@
 - **M** [2429. Minimize XOR](./solutions/2429.cpp)
 - **M** [2433. Find The Original Array of Prefix Xor](./solutions/2433.cpp)
 - **M** [2438. Range Product Queries of Powers](./solutions/2438.cpp)
+- **M** [2527. Find Xor-Beauty of Array](./solutions/2527.cpp)
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
