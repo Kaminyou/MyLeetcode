@@ -539,6 +539,7 @@
 - **M** [2498. Frog Jump II](./solutions/2498.cpp)
 - **H** [2499. Minimum Total Cost to Make Arrays Unequal](./solutions/2499.cpp)
 - **M** [2522. Partition String Into Substrings With Values at Most K](./solutions/2522.cpp)
+- **M** [2526. Find Consecutive Integers from a Data Stream](./solutions/2526.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
