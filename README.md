@@ -630,6 +630,7 @@
 - **E** [2506. Count Pairs Of Similar Strings](./solutions/2506.cpp)
 - **M** [2512. Reward Top K Students](./solutions/2512.cpp)
 - **E** [2515. Shortest Distance to Target String in a Circular Array](./solutions/2515.cpp)
+- **M** [2531. Make Number of Distinct Characters Equal](./solutions/2530.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
