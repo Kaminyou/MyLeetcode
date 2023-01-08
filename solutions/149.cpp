@@ -27,3 +27,29 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int maxPoints(vector<vector<int>>& points) {
+        int res = 1;
+        int n = points.size();
+        for (int i = 0; i < n; ++i) {
+            int duplicated = 1;
+            map<pair<int, int>, int> mp;
+            for (int j = i + 1; j < n; ++j) {
+                if (points[i] == points[j]) duplicated++;
+                else {
+                    int dx = points[j][0] - points[i][0];
+                    int dy = points[j][1] - points[i][1];
+                    int gcd = __gcd(dx, dy);
+                    mp[{dx / gcd, dy / gcd}]++;
+                }
+            }
+            res = max(res, duplicated);
+            for (auto& [p, cnt] : mp) {
+                res = max(res, duplicated + cnt);
+            }
+        }
+        return res;
+    }
+};
