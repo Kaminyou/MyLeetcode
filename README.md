@@ -695,6 +695,7 @@
 ### Tree
 - **E** [94. Binary Tree Inorder Traversal](./solutions/94.cpp)
 - **M** [98. Validate Binary Search Tree](./solutions/98.cpp)
+- **E** [100. Same Tree](./solutions/100.cpp)
 - **M** [105. Construct Binary Tree from Preorder and Inorder Traversal](./solutions/105.cpp)
 - **E** [108. Convert Sorted Array to Binary Search Tree](./solutions/108.cpp)
 - **M** [109. Convert Sorted List to Binary Search Tree](./solutions/109.cpp)
