@@ -775,6 +775,7 @@
 - **M** [1519. Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./solutions/1650.cpp)
 - **M** [2096. Step-By-Step Directions From a Binary Tree Node to Another](./solutions/2096.cpp)
+- **H** [2246. Longest Path With Different Adjacent Characters](./solutions/2246.cpp)
 - **M** [2265. Count Nodes Equal to Average of Subtree](./solutions/2265.cpp)
 - **H** [2277. Closest Node to Path in Tree](./solutions/2277.cpp)
 - **H** [2322. Minimum Score After Removals on a Tree](./solutions/2322.cpp)
