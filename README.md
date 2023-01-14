@@ -452,6 +452,7 @@
 - **M** [959. Regions Cut By Slashes](./solutions/959.cpp)
 - **M** [990. Satisfiability of Equality Equations](./solutions/990.cpp)
 - **M** [1101. The Earliest Moment When Everyone Become Friends](./solutions/1101.cpp)
+- **M** [1061. Lexicographically Smallest Equivalent String](./solutions/1061.cpp)
 - **M** [1258. Synonymous Sentences](./solutions/1258.cpp)
 - **H** [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](./solutions/1579.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
