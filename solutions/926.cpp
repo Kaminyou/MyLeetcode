@@ -38,3 +38,25 @@ public:
         return count0;
     }
 };
+
+class Solution {
+public:
+    int minFlipsMonoIncr(string s) {
+        int n = s.size();
+        int cntRightOne = 0;
+        for (auto& c : s) {
+            if (c == '1') cntRightOne++;
+        }
+        int cntRightZero = n - cntRightOne;
+        int cntAllOne = cntRightOne;
+        int res = INT_MAX;
+        res = min(res, cntRightZero);
+        res = min(res, cntRightOne);
+        for (int i = 0; i < n; ++i) {
+            if (s[i] == '0') cntRightZero--;
+            else cntRightOne--;
+            res = min(res, cntRightZero + cntAllOne - cntRightOne);
+        }
+        return res;
+    }
+};
