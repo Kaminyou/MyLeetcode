@@ -374,6 +374,7 @@
 - **H** [425. Word Squares](./solutions/425.cpp)
 - **H** [472. Concatenated Words](./solutions/472.cpp)
 - **H** [488. Zuma Game](./solutions/488.cpp)
+- **M** [491. Non-decreasing Subsequences](./solutions/491.cpp)
 - **H** [679. 24 Game](./solutions/679.cpp)
 - **M** [756. Pyramid Transition Matrix](./solutions/756.cpp)
 - **M** [797. All Paths From Source to Target](./solutions/797.cpp)
