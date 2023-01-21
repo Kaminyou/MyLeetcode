@@ -358,6 +358,7 @@
 - **H** [51. N-Queens](./solutions/51.cpp)
 - **H** [52. N-Queens II](./solutions/52.cpp)
 - **M** [79. Word Search](./solutions/79.cpp)
+- **M** [93. Restore IP Addresses](./solutions/93.cpp)
 - **M** [95. Unique Binary Search Trees II](./solutions/95.cpp)
 - **H** [140. Word Break II](./solutions/140.cpp)
 - **M** [216. Combination Sum III](./solutions/216.cpp)
