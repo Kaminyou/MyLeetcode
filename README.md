@@ -265,6 +265,7 @@
 - **M** [2428. Maximum Sum of an Hourglass](./solutions/2428.cpp)
 - **M** [2482. Difference Between Ones and Zeros in Row and Column](./solutions/2482.cpp)
 - **E** [2500. Delete Greatest Value in Each Row](./solutions/2500.cpp)
+- **M** [2545. Sort the Students by Their Kth Score](./solutions/2545.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
