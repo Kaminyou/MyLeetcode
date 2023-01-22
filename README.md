@@ -1178,6 +1178,7 @@
 - **M** [2433. Find The Original Array of Prefix Xor](./solutions/2433.cpp)
 - **M** [2438. Range Product Queries of Powers](./solutions/2438.cpp)
 - **M** [2527. Find Xor-Beauty of Array](./solutions/2527.cpp)
+- **M** [2546. Apply Bitwise Operations to Make Strings Equal](./solutions/2546.cpp)
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
