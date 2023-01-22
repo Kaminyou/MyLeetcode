@@ -88,6 +88,7 @@
 - **M** [2521. Distinct Prime Factors of Product of Array](./solutions/2521.cpp)
 - **E** [2525. Categorize Box According to Criteria](./solutions/2525.cpp)
 - **E** [2529. Maximum Count of Positive Integer and Negative Integer](./solutions/2529.cpp)
+- **E** [2544. Alternating Digit Sum](./solutions/2544.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
