@@ -273,6 +273,7 @@
 - **H** [2132. Stamping the Grid](./solutions/2132.cpp)
 #### Difference matrix
 - **H** [850. Rectangle Area II](./solutions/850.cpp)
+- **M** [2536. Increment Submatrices by One](./solutions/2536.cpp)
 
 ### Linked list
 - **M** [2. Add Two Numbers](./solutions/2.cpp)
