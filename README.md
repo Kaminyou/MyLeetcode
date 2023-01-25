@@ -352,6 +352,7 @@
 - **M** [2461. Maximum Sum of Distinct Subarrays With Length K](./solutions/2461.cpp)
 - **M** [2486. Append Characters to String to Make Subsequence](./solutions/2486.cpp)
 - **M** [2516. Take K of Each Character From Left and Right](./solutions/2516.cpp)
+- **M** [2537. Count the Number of Good Subarrays](./solutions/2537.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
