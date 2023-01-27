@@ -25,3 +25,61 @@ public:
         return res;
     }
 };
+
+// v2
+class TrieNode {
+public:
+    vector<TrieNode*> children;
+    bool isEnd = false;
+    TrieNode() {
+        children.resize(26, nullptr);
+    }
+};
+class Trie {
+public:
+    TrieNode* root;
+    Trie() {
+        root = new TrieNode();
+    }
+    void insert(string& s) {
+        TrieNode* current = root;
+        for (auto& c : s) {
+            if (!(current->children[c - 'a'])) {
+                current->children[c - 'a'] = new TrieNode();
+            }
+            current = current->children[c - 'a'];
+        }
+        current->isEnd = true;
+    }
+    int traverse(string& s, int index, int depth) {
+        if (index == s.size()) {
+            return 0;
+        }
+        TrieNode* current = root;
+        for (int i = index; i <= s.size(); ++i) {
+            if (current->isEnd) {
+                int res = traverse(s, i, depth + 1);
+                if (res != -1) return res + 1;
+            }
+            if (i == s.size()) return -1;
+            if (!(current->children[s[i] - 'a'])) return -1;
+            current = current->children[s[i] - 'a'];
+        }
+        return -1;
+    }
+};
+class Solution {
+public:
+    vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
+        Trie* trie = new Trie();
+        for (auto& word : words) {
+            trie->insert(word);
+        }
+        vector<string> res;
+        for (auto& word : words) {
+            int count = trie->traverse(word, 0, 0);
+            if (count >= 2) res.push_back(word);
+        }
+        return res;
+    }
+};
