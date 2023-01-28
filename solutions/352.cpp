@@ -47,3 +47,52 @@ public:
  * obj->addNum(val);
  * vector<vector<int>> param_2 = obj->getIntervals();
  */
+
+ // v2
+ class SummaryRanges {
+public:
+    map<int, int> mp;
+    SummaryRanges() {
+        
+    }
+    
+    void addNum(int value) {
+        int left = value;
+        int right = value;
+        auto it = mp.upper_bound(value);  // >
+        auto itL = it;
+        // deal with the left bound
+        if (it != mp.begin()) {
+            itL--;
+            if (itL->second >= value - 1) {
+                if (itL->second >= right) return;
+                left = itL->first;
+                mp.erase(itL);
+            }
+        }
+        // deal with the right bound
+        if (it != mp.end()) {
+            if (it->first <= value + 1) {
+                right = it->second;
+                mp.erase(it);
+            }
+
+        }
+        mp[left] = right;
+    }
+    
+    vector<vector<int>> getIntervals() {
+        vector<vector<int>> res;
+        for (auto& [l, r] : mp) {
+            res.push_back({l ,r});
+        }
+        return res;
+    }
+};
+
+/**
+ * Your SummaryRanges object will be instantiated and called as such:
+ * SummaryRanges* obj = new SummaryRanges();
+ * obj->addNum(value);
+ * vector<vector<int>> param_2 = obj->getIntervals();
+ */
