@@ -102,6 +102,7 @@
 - **M** [779. K-th Symbol in Grammar](./solutions/779.cpp)
 - **M** [984. String Without AAA or BBB](./solutions/984.cpp)
 - **H** [2014. Longest Subsequence Repeated k Times](./solutions/2014.cpp)
+- **M** [2550. Count Collisions of Monkeys on a Polygon](./solutions/2550.cpp)
 
 ### String
 - **M** [6. Zigzag Conversion](./solutions/6.cpp)
