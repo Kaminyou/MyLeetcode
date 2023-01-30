@@ -1065,6 +1065,7 @@
 - **H** [1092. Shortest Common Supersequence](./solutions/1092.cpp)
 - **M** [1105. Filling Bookcase Shelves](./solutions/1105.cpp)
 - **H** [1125. Smallest Sufficient Team](./solutions/1125.cpp)
+- **E** [1137. N-th Tribonacci Number](./solutions/1137.cpp)
 - **M** [1140. Stone Game II](./solutions/1140.cpp)
 - **M** [1143. Longest Common Subsequence](./solutions/1143.cpp)
 - **M** [1155. Number of Dice Rolls With Target Sum](./solutions/1155.cpp)
