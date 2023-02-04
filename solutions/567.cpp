@@ -23,3 +23,39 @@ public:
         return false;
     }
 };
+
+// v2
+class Solution {
+public:
+    bool allLarger(vector<int>& s1Hash, vector<int>& substringHash) {
+        for (int i = 0; i < 26; ++i) {
+            if (substringHash[i] < s1Hash[i]) return false;
+        }
+        return true;
+    }
+    bool allMatch(vector<int>& s1Hash, vector<int>& substringHash) {
+        for (int i = 0; i < 26; ++i) {
+            if (substringHash[i] != s1Hash[i]) return false;
+        }
+        return true;
+    }
+    bool checkInclusion(string s1, string s2) {
+        vector<int> s1Hash(26, 0);
+        for (auto& c : s1) s1Hash[c - 'a']++;
+
+        int m = s1.size();
+        int n = s2.size();
+        int left = 0;
+        vector<int> substringHash(26, 0);
+        for (int right = 0; right < n; ++right) {
+            substringHash[s2[right] - 'a']++;
+            if (right - left + 1 == m && allMatch(s1Hash, substringHash)) return true;
+            while (allLarger(s1Hash, substringHash)) {
+                substringHash[s2[left] - 'a']--;
+                left++;
+                if (right - left + 1 == m && allMatch(s1Hash, substringHash)) return true;
+            }
+        }
+        return false;
+    }
+};
