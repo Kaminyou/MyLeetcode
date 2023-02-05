@@ -571,6 +571,7 @@
 - **E** [383. Ransom Note](./solutions/383.cpp)
 - **E** [387. First Unique Character in a String](./solutions/387.cpp)
 - **M** [398. Random Pick Index](./solutions/398.cpp)
+- **M** [438. Find All Anagrams in a String](./solutions/438.cpp)
 - **M** [451. Sort Characters By Frequency](./solutions/451.cpp)
 - **E** [500. Keyboard Row](./solutions/500.cpp)
 - **M** [523. Continuous Subarray Sum](./solutions/523.cpp)
