@@ -1316,6 +1316,7 @@
 - **E** [2481. Minimum Cuts to Divide a Circle](./solutions/2481.cpp)
 - **H** [2514. Count Anagrams](./solutions/2514.cpp)
 - **M** [2523. Closest Prime Numbers in Range](./solutions/2523.cpp)
+- **H** [2543. Check if Point Is Reachable](./solutions/2543.cpp)
 #### Bézout's identity
 - **M** [365. Water and Jug Problem](./solutions/365.cpp)
 #### Algorithm R (for Reservoir sampling)
