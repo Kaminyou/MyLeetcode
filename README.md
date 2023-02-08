@@ -478,6 +478,7 @@
 
 ### Greedy
 - **H** [32. Longest Valid Parentheses](./solutions/32.cpp)
+- **M** [45. Jump Game II](./solutions/45.cpp)
 - **E** [53. Maximum Subarray](./solutions/53.cpp)
 - **M** [55. Jump Game](./solutions/55.cpp)
 - **E** [121. Best Time to Buy and Sell Stock](./solutions/121.cpp)
