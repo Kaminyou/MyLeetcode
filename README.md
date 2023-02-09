@@ -91,6 +91,7 @@
 - **E** [2535. Difference Between Element Sum and Digit Sum of an Array](./solutions/2535.cpp)
 - **E** [2544. Alternating Digit Sum](./solutions/2544.cpp)
 - **E** [2549. Count Distinct Numbers on Board](./solutions/2549.cpp)
+- **E** [2553. Separate the Digits in an Array](./solutions/2553.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
