@@ -56,3 +56,67 @@ public:
         return res;
     }
 };
+
+// v2
+class Solution {
+public:
+    void bfs(vector<vector<int>>& adjacencyRed, vector<vector<int>>& adjacencyBlue, bool prevRed, vector<int>& res, int n) {
+        vector<bool> visitedFromRed(n, false);
+        vector<bool> visitedFromBlue(n, false);
+        int level = 1;
+        queue<int> q;
+        q.push(0);
+        while (!q.empty()) {
+            int m = q.size();
+            for (int i = 0; i < m; ++i) {
+                int node = q.front();
+                q.pop();
+                if (prevRed) {
+                    for (auto& neighbor : adjacencyBlue[node]) {
+                        if (visitedFromBlue[neighbor]) continue;
+                        visitedFromBlue[neighbor] = true;
+                        res[neighbor] = min(res[neighbor], level);
+                        q.push(neighbor);
+                    }
+                }
+                else {
+                    for (auto& neighbor : adjacencyRed[node]) {
+                        if (visitedFromRed[neighbor]) continue;
+                        visitedFromRed[neighbor] = true;
+                        res[neighbor] = min(res[neighbor], level);
+                        q.push(neighbor);
+                    }
+                }
+                
+            }
+            prevRed = prevRed ^ 1;
+            level++;
+        }
+    }
+    vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& redEdges, vector<vector<int>>& blueEdges) {
+        vector<vector<int>> adjacencyRed(n);
+        vector<vector<int>> adjacencyBlue(n);
+
+        for (auto& edge : redEdges) {
+            adjacencyRed[edge[0]].push_back(edge[1]);
+        }
+        for (auto& edge : blueEdges) {
+            adjacencyBlue[edge[0]].push_back(edge[1]);
+        }
+        vector<int> res(n, INT_MAX);
+        res[0] = 0;
+    
+        // from red
+        bool prevRed = false;
+        bfs(adjacencyRed, adjacencyBlue, prevRed, res, n);
+        
+        // from blue
+        prevRed = true;
+        bfs(adjacencyRed, adjacencyBlue, prevRed, res, n);
+        
+        for (int i = 0; i < n; ++i) {
+            if (res[i] == INT_MAX) res[i] = -1;
+        }
+        return res;
+    }
+};
