@@ -92,6 +92,7 @@
 - **E** [2544. Alternating Digit Sum](./solutions/2544.cpp)
 - **E** [2549. Count Distinct Numbers on Board](./solutions/2549.cpp)
 - **E** [2553. Separate the Digits in an Array](./solutions/2553.cpp)
+- **E** [2562. Find the Array Concatenation Value](./solutions/2562.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
