@@ -1169,6 +1169,7 @@
 
 ### Bit operation
 - **M** [29. Divide Two Integers](./solutions/29.cpp)
+- **E** [67. Add Binary](./solutions/67.cpp)
 - **M** [137. Single Number II](./solutions/137.cpp)
 - **E** [190. Reverse Bits](./solutions/190.cpp)
 - **E** [191. Number of 1 Bits](./solutions/191.cpp)
