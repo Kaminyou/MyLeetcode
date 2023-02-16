@@ -881,6 +881,7 @@
 - **H** [2503. Maximum Number of Points From Grid Queries](./solutions/2503.cpp)
 - **M** [2530. Maximal Score After Applying K Operations](./solutions/2530.cpp)
 - **H** [2532. Time to Cross a Bridge](./solutions/2532.cpp)
+- **E** [2558. Take Gifts From the Richest Pile](./solutions/2558.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
