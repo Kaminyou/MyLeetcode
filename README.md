@@ -962,6 +962,7 @@
 - **M** [2513. Minimize the Maximum of Two Arrays](./solutions/2513.cpp)
 - **M** [2517. Maximum Tastiness of Candy Basket](./solutions/2517.cpp)
 - **H** [2528. Maximize the Minimum Powered City](./solutions/2528.cpp)
+- **M** [2560. House Robber IV](./solutions/2560.cpp)
 - **M** [2563. Count the Number of Fair Pairs](./solutions/2563.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
