@@ -1215,6 +1215,7 @@
 - **M** [2527. Find Xor-Beauty of Array](./solutions/2527.cpp)
 - **M** [2546. Apply Bitwise Operations to Make Strings Equal](./solutions/2546.cpp)
 - **M** [2564. Substring XOR Queries](./solutions/2564.cpp)
+- **M** [2568. Minimum Impossible OR](./solutions/2568.cpp)
 
 ### Trie
 - **H** [212. Word Search II](./solutions/212.cpp)
