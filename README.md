@@ -570,6 +570,7 @@
 - **H** [2551. Put Marbles in Bags](./solutions/2551.cpp)
 - **M** [2554. Maximum Number of Integers to Choose From a Range I](./solutions/2554.cpp)
 - **H** [2561. Rearranging Fruits](./solutions/2561.cpp)
+- **E** [2566. Maximum Difference by Remapping a Digit](./solutions/2566.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
