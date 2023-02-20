@@ -925,6 +925,7 @@
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./solutions/4.cpp)
 - **M** [34. Find First and Last Position of Element in Sorted Array](./solutions/34.cpp)
+- **E** [35. Search Insert Position](./solutions/35.cpp)
 - **M** [275. H-Index II](./solutions/275.cpp)
 - **E** [278. First Bad Version](./solutions/278.cpp)
 - **E** [326. Power of Three](./solutions/326.cpp)
