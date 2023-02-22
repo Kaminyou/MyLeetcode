@@ -949,6 +949,7 @@
 - **H** [793. Preimage Size of Factorial Zeroes Function](./solutions/793.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
 - **H** [878. Nth Magical Number](./solutions/878.cpp)
+- **M** [1011. Capacity To Ship Packages Within D Days](./solutions/1011.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
 - **H** [1231. Divide Chocolate](./solutions/1231.cpp)
