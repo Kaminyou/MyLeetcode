@@ -537,6 +537,7 @@
 - **M** [1578. Minimum Time to Make Rope Colorful](./solutions/1578.cpp)
 - **M** [1580. Put Boxes Into the Warehouse II](./solutions/1580.cpp)
 - **M** [1647. Minimum Deletions to Make Character Frequencies Unique](./solutions/1647.cpp)
+- **H** [1675. Minimize Deviation in Array](./solutions/1675.cpp)
 - **E** [1710. Maximum Units on a Truck](./solutions/1710.cpp)
 - **M** [1798. Maximum Number of Consecutive Values You Can Make](./solutions/1798.cpp)
 - **M** [1833. Maximum Ice Cream Bars](./solutions/1833.cpp)
