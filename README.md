@@ -231,6 +231,7 @@
 - **E** [2485. Find the Pivot Integer](./solutions/2485.cpp)
 - **H** [2488. Count Subarrays With Median K](./solutions/2488.cpp)
 - **M** [2559. Count Vowel Strings in Ranges](./solutions/2559.cpp)
+- **E** [2574. Left and Right Sum Differences](./solutions/2574.cpp)
 #### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
