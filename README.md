@@ -774,6 +774,7 @@
 - **E** [606. Construct String from Binary Tree](./solutions/606.cpp)
 - **M** [623. Add One Row to Tree](./solutions/623.cpp)
 - **E** [637. Average of Levels in Binary Tree](./solutions/637.cpp)
+- **M** [652. Find Duplicate Subtrees](./solutions/652.cpp)
 - **E** [653. Two Sum IV - Input is a BST](./solutions/653.cpp)
 - **M** [655. Print Binary Tree](./solutions/655.cpp)
 - **M** [663. Equal Tree Partition](./solutions/663.cpp)
