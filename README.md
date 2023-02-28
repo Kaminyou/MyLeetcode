@@ -573,6 +573,7 @@
 - **H** [2561. Rearranging Fruits](./solutions/2561.cpp)
 - **E** [2566. Maximum Difference by Remapping a Digit](./solutions/2566.cpp)
 - **M** [2567. Minimum Score by Changing Two Elements](./solutions/2567.cpp)
+- **M** [2571. Minimum Operations to Reduce an Integer to 0](./solutions/2571.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
