@@ -112,7 +112,6 @@
 - **M** [6. Zigzag Conversion](./solutions/6.cpp)
 - **E** [9. Palindrome Number](./solutions/9.cpp)
 - **M** [12. Integer to Roman](./solutions/12.cpp)
-- **M** [28. Find the Index of the First Occurrence in a String](./solutions/28.cpp)
 - **M** [43. Multiply Strings](./solutions/43.cpp)
 - **H** [60. Permutation Sequence](./solutions/60.cpp)
 - **H** [65. Valid Number](./solutions/65.cpp)
@@ -175,6 +174,7 @@
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
 - **M** [1554. Strings Differ by One Character](./solutions/1554.cpp)
 #### KMP
+- **M** [28. Find the Index of the First Occurrence in a String](./solutions/28.cpp)
 - **H** [214. Shortest Palindrome](./solutions/214.cpp)
 - **H** [1392. Longest Happy Prefix](./solutions/1392.cpp)
 - **M** [1764. Form Array by Concatenating Subarrays of Another Array](./solutions/1764.cpp)
