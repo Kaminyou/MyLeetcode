@@ -833,6 +833,7 @@
 - **H** [2458. Height of Binary Tree After Subtree Removal Queries](./solutions/2458.cpp)
 - **H** [2509. Cycle Length Queries in a Tree](./solutions/2509.cpp)
 - **H** [2538. Difference Between Maximum and Minimum Price Sum](./solutions/2538.cpp)
+- **H** [2581. Count Number of Possible Root Nodes](./solutions/2581.cpp)
 #### Quad Tree
 - **M** [427. Construct Quad Tree](./solutions/427.cpp)
 - **M** [558. Logical OR of Two Binary Grids Represented as Quad-Trees](./solutions/558.cpp)
