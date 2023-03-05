@@ -1185,6 +1185,7 @@
 - **E** [2511. Maximum Enemy Forts That Can Be Captured](./solutions/2511.cpp)
 - **H** [2518. Number of Great Partitions](./solutions/2518.cpp)
 - **H** [2547. Minimum Cost to Split an Array](./solutions/2547.cpp)
+- **H** [2585. Number of Ways to Earn Points](./solutions/2585.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
