@@ -977,6 +977,7 @@
 - **M** [1885. Count Pairs in Two Arrays](./solutions/1885.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
 - **H** [2035. Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035.cpp)
+- **M** [2187. Minimum Time to Complete Trips](./solutions/2187.cpp)
 - **M** [2271. Maximum White Tiles Covered by a Carpet](./solutions/2271.cpp)
 - **M** [2300. Successful Pairs of Spells and Potions](./solutions/2300.cpp)
 - **M** [2305. Fair Distribution of Cookies](./solutions/2305.cpp)
