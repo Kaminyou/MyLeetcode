@@ -964,6 +964,7 @@
 - **M** [786. K-th Smallest Prime Fraction](./solutions/786.cpp)
 - **H** [793. Preimage Size of Factorial Zeroes Function](./solutions/793.cpp)
 - **E** [852. Peak Index in a Mountain Array](./solutions/852.cpp)
+- **M** [875. Koko Eating Bananas](./solutions/875.cpp)
 - **H** [878. Nth Magical Number](./solutions/878.cpp)
 - **M** [1011. Capacity To Ship Packages Within D Days](./solutions/1011.cpp)
 - **M** [1062. Longest Repeating Substring](./solutions/1062.cpp)
