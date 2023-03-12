@@ -96,6 +96,7 @@
 - **E** [2562. Find the Array Concatenation Value](./solutions/2562.cpp)
 - **M** [2579. Count Total Number of Colored Cells](./solutions/2579.cpp)
 - **E** [2582. Pass the Pillow](./solutions/2582.cpp)
+- **E** [2586. Count the Number of Vowel Strings in Range](./solutions/2586.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
