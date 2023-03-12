@@ -680,6 +680,7 @@
 - **M** [2531. Make Number of Distinct Characters Equal](./solutions/2530.cpp)
 - **E** [2570. Merge Two 2D Arrays by Summing Values](./solutions/2570.cpp)
 - **M** [2584. Split the Array to Make Coprime Products](./solutions/2584.cpp)
+- **M** [2588. Count the Number of Beautiful Subarrays](./solutions/2588.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
