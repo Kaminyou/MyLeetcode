@@ -1248,6 +1248,7 @@
 - **M** [2568. Minimum Impossible OR](./solutions/2568.cpp)
 
 ### Trie
+- **M** [208. Implement Trie (Prefix Tree)](./solutions/208.cpp)
 - **H** [212. Word Search II](./solutions/212.cpp)
 - **H** [527. Word Abbreviation](./solutions/527.cpp)
 - **M** [616. Add Bold Tag in String](./solutions/616.cpp)
