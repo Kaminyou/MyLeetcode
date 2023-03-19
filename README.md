@@ -414,6 +414,7 @@
 - **H** [1088. Confusing Number II](./solutions/1088.cpp)
 - **H** [1255. Maximum Score Words Formed by Letters](./solutions/1255.cpp)
 - **M** [1774. Closest Dessert Cost](./solutions/1774.cpp)
+- **M** [2597. The Number of Beautiful Subsets](./solutions/2597.cpp)
 
 ### BFS
 - **M** [102. Binary Tree Level Order Traversal](./solutions/102.cpp)
