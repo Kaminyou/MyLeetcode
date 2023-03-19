@@ -685,6 +685,7 @@
 - **M** [2584. Split the Array to Make Coprime Products](./solutions/2584.cpp)
 - **M** [2588. Count the Number of Beautiful Subarrays](./solutions/2588.cpp)
 - **H** [2589. Minimum Time to Complete All Tasks](./solutions/2589.cpp)
+- **M** [2596. Check Knight Tour Configuration](./solutions/2596.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
