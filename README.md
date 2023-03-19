@@ -1254,6 +1254,7 @@
 
 ### Trie
 - **M** [208. Implement Trie (Prefix Tree)](./solutions/208.cpp)
+- **M** [211. Design Add and Search Words Data Structure](./solutions/211.cpp)
 - **H** [212. Word Search II](./solutions/212.cpp)
 - **H** [527. Word Abbreviation](./solutions/527.cpp)
 - **M** [616. Add Bold Tag in String](./solutions/616.cpp)
