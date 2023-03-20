@@ -199,6 +199,7 @@
 - **E** [506. Relative Ranks](./solutions/506.cpp)
 - **E** [561. Array Partition](./solutions/561.cpp)
 - **M** [565. Array Nesting](./solutions/565.cpp)
+- **E** [605. Can Place Flowers](./solutions/605.cpp)
 - **E** [645. Set Mismatch](./solutions/645.cpp)
 - **M** [755. Pour Water](./solutions/755.cpp)
 - **E** [821. Shortest Distance to a Character](./solutions/821.cpp)
