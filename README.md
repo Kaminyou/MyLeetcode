@@ -488,6 +488,7 @@
 - **M** [1101. The Earliest Moment When Everyone Become Friends](./solutions/1101.cpp)
 - **M** [1061. Lexicographically Smallest Equivalent String](./solutions/1061.cpp)
 - **M** [1258. Synonymous Sentences](./solutions/1258.cpp)
+- **M** [1319. Number of Operations to Make Network Connected](./solutions/1319.cpp)
 - **H** [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](./solutions/1579.cpp)
 - **H** [1632. Rank Transform of a Matrix](./solutions/1632.cpp)
 - **H** [1697. Checking Existence of Edge Length Limited Paths](./solutions/1697.cpp)
