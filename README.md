@@ -837,6 +837,7 @@
 - **M** [1443. Minimum Time to Collect All Apples in a Tree](./solutions/1443.cpp)
 - **M** [1448. Count Good Nodes in Binary Tree](./solutions/1448.cpp)
 - **M** [1457. Pseudo-Palindromic Paths in a Binary Tree](./solutions/1457.cpp)
+- **M** [1466. Reorder Routes to Make All Paths Lead to the City Zero](./solutions/1466.cpp)
 - **M** [1506. Find Root of N-Ary Tree](./solutions/1506.cpp)
 - **M** [1519. Number of Nodes in the Sub-Tree With the Same Label](./solutions/1519.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./solutions/1650.cpp)
