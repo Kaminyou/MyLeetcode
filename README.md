@@ -592,6 +592,7 @@
 - **E** [2578. Split With Minimum Sum](./solutions/2578.cpp)
 - **M** [2587. Rearrange Array to Maximize Prefix Score](./solutions/2587.cpp)
 - **M** [2592. Maximize Greatness of an Array](./solutions/2592.cpp)
+- **E** [2600. K Items With the Maximum Sum](./solutions/2600.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
