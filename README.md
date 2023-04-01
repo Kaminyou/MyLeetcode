@@ -982,6 +982,7 @@
 - **H** [644. Maximum Average Subarray II](./solutions/644.cpp)
 - **M** [658. Find K Closest Elements](./solutions/658.cpp)
 - **M** [702. Search in a Sorted Array of Unknown Size](./solutions/702.cpp)
+- **E** [704. Binary Search](./solutions/704.cpp)
 - **E** [744. Find Smallest Letter Greater Than Target](./solutions/744.cpp)
 - **H** [774. Minimize Max Distance to Gas Station](./solutions/774.cpp)
 - **M** [786. K-th Smallest Prime Fraction](./solutions/786.cpp)
