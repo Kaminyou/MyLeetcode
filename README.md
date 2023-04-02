@@ -597,6 +597,7 @@
 - **M** [2592. Maximize Greatness of an Array](./solutions/2592.cpp)
 - **E** [2600. K Items With the Maximum Sum](./solutions/2600.cpp)
 - **M** [2601. Prime Subtraction Operation](./solutions/2601.cpp)
+- **M** [2607. Make K-Subarray Sums Equal](./solutions/2607.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
