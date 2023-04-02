@@ -227,6 +227,7 @@
 - **M** [2447. Number of Subarrays With GCD Equal to K](./solutions/2447.cpp)
 - **M** [2470. Number of Subarrays With LCM Equal to K](./solutions/2470.cpp)
 - **M** [2501. Longest Square Streak in an Array](./solutions/2501.cpp)
+- **E** [2609. Find the Longest Balanced Substring of a Binary String](./solutions/2609.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [848. Shifting Letters](./solutions/848.cpp)
