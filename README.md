@@ -501,6 +501,7 @@
 - **H** [2421. Number of Good Paths](./solutions/2421.cpp)
 - **M** [2424. Longest Uploaded Prefix](./solutions/2424.cpp)
 - **M** [2492. Minimum Score of a Path Between Two Cities](./solutions/2492.cpp)
+- **H** [2612. Minimum Reverse Operations](./solutions/2612.cpp)
 
 ### Greedy
 - **H** [32. Longest Valid Parentheses](./solutions/32.cpp)
