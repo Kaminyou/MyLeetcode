@@ -698,6 +698,7 @@
 - **H** [2589. Minimum Time to Complete All Tasks](./solutions/2589.cpp)
 - **M** [2596. Check Knight Tour Configuration](./solutions/2596.cpp)
 - **H** [2598. Smallest Missing Non-negative Integer After Operations](./solutions/2598.cpp)
+- **M** [2610. Convert an Array Into a 2D Array With Conditions](./solutions/2610.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
