@@ -539,6 +539,7 @@
 - **M** [861. Score After Flipping Matrix](./solutions/861.cpp)
 - **M** [870. Advantage Shuffle](./solutions/870.cpp)
 - **H** [871. Minimum Number of Refueling Stops](./solutions/871.cpp)
+- **M** [881. Boats to Save People](./solutions/881.cpp)
 - **M** [910. Smallest Range II](./solutions/910.cpp)
 - **M** [918. Maximum Sum Circular Subarray](./solutions/918.cpp)
 - **M** [921. Minimum Add to Make Parentheses Valid](./solutions/921.cpp)
