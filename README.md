@@ -953,6 +953,7 @@
 - **M** [743. Network Delay Time](./solutions/743.cpp)
 - **H** [778. Swim in Rising Water](./solutions/778.cpp)
 - **H** [882. Reachable Nodes In Subdivided Graph](./solutions/882.cpp)
+- **H** [2617. Minimum Number of Visited Cells in a Grid](./solutions/2617.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./solutions/787.cpp)
 #### Topological sort
