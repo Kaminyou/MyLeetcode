@@ -1026,6 +1026,7 @@
 - **M** [2560. House Robber IV](./solutions/2560.cpp)
 - **M** [2563. Count the Number of Fair Pairs](./solutions/2563.cpp)
 - **M** [2594. Minimum Time to Repair Cars](./solutions/2594.cpp)
+- **M** [2616. Minimize the Maximum Difference of Pairs](./solutions/2616.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1964. Find the Longest Valid Obstacle Course at Each Position](./solutions/1964.cpp)
