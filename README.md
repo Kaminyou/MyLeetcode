@@ -122,6 +122,7 @@
 - **H** [60. Permutation Sequence](./solutions/60.cpp)
 - **H** [65. Valid Number](./solutions/65.cpp)
 - **H** [68. Text Justification](./solutions/68.cpp)
+- **M** [71. Simplify Path](./solutions/71.cpp)
 - **M** [151. Reverse Words in a String](./solutions/151.cpp)
 - **M** [271. Encode and Decode Strings](./solutions/271.cpp)
 - **H** [273. Integer to English Words](./solutions/273.cpp)
