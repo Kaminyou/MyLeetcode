@@ -718,6 +718,7 @@
 - **M** [636. Exclusive Time of Functions](./solutions/636.cpp)
 - **M** [678. Valid Parenthesis String](./solutions/678.cpp)
 - **E** [844. Backspace String Compare](./solutions/844.cpp)
+- **M** [946. Validate Stack Sequences](./solutions/946.cpp)
 - **E** [1047. Remove All Adjacent Duplicates In String](./solutions/1047.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./solutions/1209.cpp)
 - **M** [1472. Design Browser History](./solutions/1472.cpp)
