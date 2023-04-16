@@ -959,6 +959,7 @@
 - **H** [778. Swim in Rising Water](./solutions/778.cpp)
 - **H** [882. Reachable Nodes In Subdivided Graph](./solutions/882.cpp)
 - **H** [2617. Minimum Number of Visited Cells in a Grid](./solutions/2617.cpp)
+- **H** [2642. Design Graph With Shortest Path Calculator](./solutions/2642.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./solutions/787.cpp)
 #### Topological sort
