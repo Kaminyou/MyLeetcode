@@ -100,6 +100,7 @@
 - **E** [2591. Distribute Money to Maximum Children](./solutions/2591.cpp)
 - **E** [2595. Number of Even and Odd Bits](./solutions/2595.cpp)
 - **E** [2605. Form Smallest Number From Two Digit Arrays](./solutions/2605.cpp)
+- **E** [2639. Find the Width of Columns of a Grid](./solutions/2639.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
