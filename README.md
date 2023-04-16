@@ -246,6 +246,7 @@
 - **M** [2559. Count Vowel Strings in Ranges](./solutions/2559.cpp)
 - **E** [2574. Left and Right Sum Differences](./solutions/2574.cpp)
 - **M** [2602. Minimum Operations to Make All Array Elements Equal](./solutions/2602.cpp)
+- **M** [2640. Find the Score of All Prefixes of an Array](./solutions/2640.cpp)
 #### Interval
 - **M** [57. Insert Interval](./solutions/57.cpp)
 - **M** [56. Merge Intervals](./solutions/56.cpp)
