@@ -233,6 +233,7 @@
 - **M** [2501. Longest Square Streak in an Array](./solutions/2501.cpp)
 - **E** [2609. Find the Longest Balanced Substring of a Binary String](./solutions/2609.cpp)
 - **M** [2615. Sum of Distances](./solutions/2615.cpp)
+- **M** [2644. Find the Maximum Divisibility Score](./solutions/2644.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./solutions/325.cpp)
 - **M** [848. Shifting Letters](./solutions/848.cpp)
