@@ -1416,6 +1416,7 @@
 - **H** [2514. Count Anagrams](./solutions/2514.cpp)
 - **M** [2523. Closest Prime Numbers in Range](./solutions/2523.cpp)
 - **H** [2543. Check if Point Is Reachable](./solutions/2543.cpp)
+- **M** [2645. Minimum Additions to Make Valid String](./solutions/2645.cpp)
 #### Prime
 - **E** [2614. Prime In Diagonal](./solutions/2614.cpp)
 #### Bézout's identity
