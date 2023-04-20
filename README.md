@@ -827,6 +827,7 @@
 - **M** [652. Find Duplicate Subtrees](./solutions/652.cpp)
 - **E** [653. Two Sum IV - Input is a BST](./solutions/653.cpp)
 - **M** [655. Print Binary Tree](./solutions/655.cpp)
+- **M** [662. Maximum Width of Binary Tree](./solutions/662.cpp)
 - **M** [663. Equal Tree Partition](./solutions/663.cpp)
 - **M** [666. Path Sum IV](./solutions/666.cpp)
 - **E** [671. Second Minimum Node In a Binary Tree](./solutions/671.cpp)
