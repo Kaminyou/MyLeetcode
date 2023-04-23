@@ -102,6 +102,7 @@
 - **E** [2605. Form Smallest Number From Two Digit Arrays](./solutions/2605.cpp)
 - **E** [2639. Find the Width of Columns of a Grid](./solutions/2639.cpp)
 - **E** [2643. Row With Maximum Ones](./solutions/2643.cpp)
+- **E** [2651. Calculate Delayed Arrival Time](./solutions/2651.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
