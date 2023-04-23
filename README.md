@@ -1186,6 +1186,7 @@
 - **M** [1387. Sort Integers by The Power Value](./solutions/1387.cpp)
 - **H** [1406. Stone Game III](./solutions/1406.cpp)
 - **H** [1411. Number of Ways to Paint N × 3 Grid](./solutions/1411.cpp)
+- **H** [1416. Restore The Array](./solutions/1416.cpp)
 - **H** [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./solutions/1420.cpp)
 - **H** [1434. Number of Ways to Wear Different Hats to Each Other](./solutions/1434.cpp)
 - **H** [1444. Number of Ways of Cutting a Pizza](./solutions/1444.cpp)
