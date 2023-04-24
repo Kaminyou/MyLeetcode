@@ -931,6 +931,7 @@
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [767. Reorganize String](./solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
+- **E** [1046. Last Stone Weight](./solutions/1046.cpp)
 - **M** [1167. Minimum Cost to Connect Sticks](./solutions/1167.cpp)
 - **M** [1229. Meeting Scheduler](./solutions/1229.cpp)
 - **M** [1353. Maximum Number of Events That Can Be Attended](./solutions/1353.cpp)
