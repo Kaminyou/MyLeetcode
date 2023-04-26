@@ -10,6 +10,7 @@
 - **E** [163. Missing Ranges](./solutions/163.cpp)
 - **E** [168. Excel Sheet Column Title](./solutions/168.cpp)
 - **E** [246. Strobogrammatic Number](./solutions/246.cpp)
+- **E** [258. Add Digits](./solutions/258.cpp)
 - **E** [293. Flip Game](./solutions/293.cpp)
 - **E** [345. Reverse Vowels of a String](./solutions/345.cpp)
 - **E** [422. Valid Word Square](./solutions/422.cpp)
