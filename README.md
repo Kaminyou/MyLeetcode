@@ -45,6 +45,7 @@
 - **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
 - **E** [1431. Kids With the Greatest Number of Candies](./solutions/1431.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
+- **E** [1491. Average Salary Excluding the Minimum and Maximum Salary](./solutions/1491.cpp)
 - **E** [1523. Count Odd Numbers in an Interval Range](./solutions/1523.cpp)
 - **E** [1528. Shuffle String](./solutions/1528.cpp)
 - **E** [1662. Check If Two String Arrays are Equivalent](./solutions/1662.cpp)
