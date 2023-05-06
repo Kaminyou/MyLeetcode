@@ -368,6 +368,7 @@
 - **M** [1237. Find Positive Integer Solution for a Given Equation](./solutions/1237.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./solutions/1423.cpp)
 - **M** [1456. Maximum Number of Vowels in a Substring of Given Length](./solutions/1456.cpp)
+- **M** [1498. Number of Subsequences That Satisfy the Given Sum Condition](./solutions/1498.cpp)
 - **M** [1570. Dot Product of Two Sparse Vectors](./solutions/1570.cpp)
 - **H** [1610. Maximum Number of Visible Points](./solutions/1610.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./solutions/1658.cpp)
