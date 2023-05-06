@@ -472,6 +472,7 @@
 - **M** [2471. Minimum Number of Operations to Sort a Binary Tree by Level](./solutions/2471.cpp)
 - **H** [2493. Divide Nodes Into the Maximum Number of Groups](./solutions/2493.cpp)
 - **H** [2608. Shortest Cycle in a Graph](./solutions/2608.cpp)
+- **M** [2658. Maximum Number of Fish in a Grid](./solutions/2658.cpp)
 
 ### DFS
 - **M** [133. Clone Graph](./solutions/133.cpp)
