@@ -622,6 +622,7 @@
 - **M** [2607. Make K-Subarray Sums Equal](./solutions/2607.cpp)
 - **M** [2611. Mice and Cheese](./solutions/2611.cpp)
 - **H** [2659. Make Array Empty](./solutions/2659.cpp)
+- **M** [2673. Make Costs of Paths Equal in a Binary Tree](./solutions/2673.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
