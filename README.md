@@ -724,6 +724,7 @@
 - **M** [2610. Convert an Array Into a 2D Array With Conditions](./solutions/2610.cpp)
 - **M** [2657. Find the Prefix Common Array of Two Arrays](./solutions/2657.cpp)
 - **E** [2670. Find the Distinct Difference Array](./solutions/2670.cpp)
+- **M** [2671. Frequency Tracker](./solutions/2671.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
