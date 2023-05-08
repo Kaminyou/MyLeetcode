@@ -292,6 +292,7 @@
 - **M** [1138. Alphabet Board Path](./solutions/1138.cpp)
 - **M** [1329. Sort the Matrix Diagonally](./solutions/1329.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./solutions/1351.cpp)
+- **E** [1572. Matrix Diagonal Sum](./solutions/1572.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 - **E** [2319. Check if Matrix Is X-Matrix](./solutions/2319.cpp)
 - **M** [2326. Spiral Matrix IV](./solutions/2326.cpp)
