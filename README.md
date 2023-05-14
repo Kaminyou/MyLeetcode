@@ -306,6 +306,7 @@
 - **M** [2545. Sort the Students by Their Kth Score](./solutions/2545.cpp)
 - **H** [2556. Disconnect Path in a Binary Matrix by at Most One Flip](./solutions/2556.cpp)
 - **M** [2661. First Completely Painted Row or Column](./solutions/2661.cpp)
+- **M** [2679. Sum in a Matrix](./solutions/2679.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./solutions/1074.cpp)
