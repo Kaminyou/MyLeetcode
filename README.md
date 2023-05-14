@@ -1317,6 +1317,7 @@
 - **M** [2564. Substring XOR Queries](./solutions/2564.cpp)
 - **M** [2568. Minimum Impossible OR](./solutions/2568.cpp)
 - **M** [2680. Maximum OR](./solutions/2680.cpp)
+- **M** [2683. Neighboring Bitwise XOR](./solutions/2683.cpp)
 
 ### Trie
 - **M** [208. Implement Trie (Prefix Tree)](./solutions/208.cpp)
