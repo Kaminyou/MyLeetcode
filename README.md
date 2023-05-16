@@ -321,6 +321,7 @@
 - **M** [2. Add Two Numbers](./solutions/2.cpp)
 - **M** [19. Remove Nth Node From End of List](./solutions/19.cpp)
 - **M** [21. Merge Two Sorted Lists](./solutions/21.cpp)
+- **M** [24. Swap Nodes in Pairs](./solutions/24.cpp)
 - **H** [25. Reverse Nodes in k-Group](./solutions/25.cpp)
 - **M** [86. Partition List](./solutions/86.cpp)
 - **M** [92. Reverse Linked List II](./solutions/92.cpp)
