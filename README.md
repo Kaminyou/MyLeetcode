@@ -445,6 +445,7 @@
 - **H** [1255. Maximum Score Words Formed by Letters](./solutions/1255.cpp)
 - **M** [1774. Closest Dessert Cost](./solutions/1774.cpp)
 - **M** [2597. The Number of Beautiful Subsets](./solutions/2597.cpp)
+- **M** [2698. Find the Punishment Number of an Integer](./solutions/2698.cpp)
 
 ### BFS
 - **M** [102. Binary Tree Level Order Traversal](./solutions/102.cpp)
