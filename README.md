@@ -187,6 +187,7 @@
 - **E** [2496. Maximum Value of a String in an Array](./solutions/2496.cpp)
 - **M** [2575. Find the Divisibility Array of a String](./solutions/2575.cpp)
 - **E** [2696. Minimum String Length After Removing Substrings](./solutions/2696.cpp)
+- **E** [2697. Lexicographically Smallest Palindrome](./solutions/2697.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
