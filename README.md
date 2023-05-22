@@ -950,6 +950,7 @@
 - **M** [253. Meeting Rooms II](./solutions/253.cpp)
 - **H** [295. Find Median from Data Stream](./solutions/295.cpp)
 - **M** [313. Super Ugly Number](./solutions/313.cpp)
+- **M** [347. Top K Frequent Elements](./solutions/347.cpp)
 - **M** [355. Design Twitter](./solutions/355.cpp)
 - **H** [358. Rearrange String k Distance Apart](./solutions/358.cpp)
 - **H** [407. Trapping Rain Water II](./solutions/407.cpp)
