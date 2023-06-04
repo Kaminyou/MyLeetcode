@@ -507,6 +507,7 @@
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./solutions/261.cpp)
 - **H** [305. Number of Islands II](./solutions/305.cpp)
+- **M** [547. Number of Provinces](./solutions/547.cpp)
 - **M** [684. Redundant Connection](./solutions/684.cpp)
 - **H** [685. Redundant Connection II](./solutions/685.cpp)
 - **M** [721. Accounts Merge](./solutions/721.cpp)
