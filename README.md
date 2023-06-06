@@ -227,6 +227,7 @@
 - **E** [1365. How Many Numbers Are Smaller Than the Current Number](./solutions/1365.cpp)
 - **M** [1395. Count Number of Teams](./solutions/1395.cpp)
 - **E** [1470. Shuffle the Array](./solutions/1470.cpp)
+- **E** [1502. Can Make Arithmetic Progression From Sequence](./solutions/1502.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
 - **E** [1920. Build Array from Permutation](./solutions/1920.cpp)
 - **E** [1929. Concatenation of Array](./solutions/1929.cpp)
