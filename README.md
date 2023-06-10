@@ -1056,6 +1056,7 @@
 - **E** [1539. Kth Missing Positive Number](./solutions/1539.cpp)
 - **E** [1608. Special Array With X Elements Greater Than or Equal X](./solutions/1608.cpp)
 - **H** [1755. Closest Subsequence Sum](./solutions/1755.cpp)
+- **M** [1802. Maximum Value at a Given Index in a Bounded Array](./solutions/1802.cpp)
 - **H** [1847. Closest Room](./solutions/1847.cpp)
 - **M** [1885. Count Pairs in Two Arrays](./solutions/1885.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
