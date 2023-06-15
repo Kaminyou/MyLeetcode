@@ -885,6 +885,7 @@
 - **M** [1026. Maximum Difference Between Node and Ancestor](./solutions/1026.cpp)
 - **M** [1038. Binary Search Tree to Greater Sum Tree](./solutions/1038.cpp)
 - **M** [1123. Lowest Common Ancestor of Deepest Leaves](./solutions/1123.cpp)
+- **M** [1161. Maximum Level Sum of a Binary Tree](./solutions/1161.cpp)
 - **M** [1273. Delete Tree Nodes](./solutions/1273.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
 - **M** [1339. Maximum Product of Splitted Binary Tree](./solutions/1339.cpp)
