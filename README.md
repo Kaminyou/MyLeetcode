@@ -1289,6 +1289,7 @@
 - **H** [327. Count of Range Sum](./solutions/327.cpp)
 - **M** [372. Super Pow](./solutions/372.cpp)
 - **M** [932. Beautiful Array](./solutions/932.cpp)
+- **H** [1569. Number of Ways to Reorder Array to Get Same BST](./solutions/1569.cpp)
 
 ### Bit operation
 - **M** [29. Divide Two Integers](./solutions/29.cpp)
