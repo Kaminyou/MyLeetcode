@@ -1205,6 +1205,7 @@
 - **M** [1155. Number of Dice Rolls With Target Sum](./solutions/1155.cpp)
 - **M** [1182. Shortest Distance to Target Color](./solutions/1182.cpp)
 - **M** [1186. Maximum Subarray Sum with One Deletion](./solutions/1186.cpp)
+- **H** [1187. Make Array Strictly Increasing](./solutions/1187.cpp)
 - **H** [1216. Valid Palindrome III](./solutions/1216.cpp)
 - **H** [1220. Count Vowels Permutation](./solutions/1220.cpp)
 - **M** [1230. Toss Strange Coins](./solutions/1230.cpp)
