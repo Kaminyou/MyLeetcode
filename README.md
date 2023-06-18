@@ -538,6 +538,7 @@
 - **M** [2492. Minimum Score of a Path Between Two Cities](./solutions/2492.cpp)
 - **H** [2612. Minimum Reverse Operations](./solutions/2612.cpp)
 - **M** [2685. Count the Number of Complete Components](./solutions/2685.cpp)
+- **H** [2709. Greatest Common Divisor Traversal](./solutions/2709.cpp)
 
 ### Greedy
 - **H** [32. Longest Valid Parentheses](./solutions/32.cpp)
