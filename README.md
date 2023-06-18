@@ -109,6 +109,7 @@
 - **E** [2656. Maximum Sum With Exactly K Elements](./solutions/2656.cpp)
 - **E** [2678. Number of Senior Citizens](./solutions/2678.cpp)
 - **E** [2682. Find the Losers of the Circular Game](./solutions/2682.cpp)
+- **E** [2706. Buy Two Chocolates](./solutions/2706.cpp)
 #### Recursive
 - **M** [38. Count and Say](./solutions/38.cpp)
 - **M** [50. Pow(x, n)](./solutions/50.cpp)
