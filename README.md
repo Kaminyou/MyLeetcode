@@ -449,6 +449,7 @@
 - **M** [1774. Closest Dessert Cost](./solutions/1774.cpp)
 - **M** [2597. The Number of Beautiful Subsets](./solutions/2597.cpp)
 - **M** [2698. Find the Punishment Number of an Integer](./solutions/2698.cpp)
+- **M** [2708. Maximum Strength of a Group](./solutions/2708.cpp)
 
 ### BFS
 - **M** [102. Binary Tree Level Order Traversal](./solutions/102.cpp)
