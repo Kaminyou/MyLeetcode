@@ -231,6 +231,7 @@
 - **E** [1470. Shuffle the Array](./solutions/1470.cpp)
 - **E** [1502. Can Make Arithmetic Progression From Sequence](./solutions/1502.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
+- **E** [1732. Find the Highest Altitude](./solutions/1732.cpp)
 - **E** [1920. Build Array from Permutation](./solutions/1920.cpp)
 - **E** [1929. Concatenation of Array](./solutions/1929.cpp)
 - **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
