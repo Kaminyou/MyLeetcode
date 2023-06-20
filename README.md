@@ -254,6 +254,7 @@
 - **M** [930. Binary Subarrays With Sum](./solutions/930.cpp)
 - **E** [1480. Running Sum of 1d Array](./solutions/1480.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./solutions/2031.cpp)
+- **M** [2090. K Radius Subarray Averages](./solutions/2090.cpp)
 - **M** [2256. Minimum Average Difference](./solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./solutions/2270.cpp)
 - **H** [2448. Minimum Cost to Make Array Equal](./solutions/2448.cpp)
