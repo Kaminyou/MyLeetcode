@@ -963,6 +963,7 @@
 - **M** [347. Top K Frequent Elements](./solutions/347.cpp)
 - **M** [355. Design Twitter](./solutions/355.cpp)
 - **H** [358. Rearrange String k Distance Apart](./solutions/358.cpp)
+- **M** [373. Find K Pairs with Smallest Sums](./solutions/373.cpp)
 - **H** [407. Trapping Rain Water II](./solutions/407.cpp)
 - **H** [502. IPO](./solutions/502.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
