@@ -1069,6 +1069,7 @@
 - **H** [1847. Closest Room](./solutions/1847.cpp)
 - **M** [1885. Count Pairs in Two Arrays](./solutions/1885.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
+- **H** [1970. Last Day Where You Can Still Cross](./solutions/1970.cpp)
 - **H** [2035. Partition Array Into Two Arrays to Minimize Sum Difference](./solutions/2035.cpp)
 - **M** [2187. Minimum Time to Complete Trips](./solutions/2187.cpp)
 - **M** [2271. Maximum White Tiles Covered by a Carpet](./solutions/2271.cpp)
