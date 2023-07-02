@@ -1330,6 +1330,7 @@
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./solutions/1318.cpp)
 - **E** [1342. Number of Steps to Reduce a Number to Zero](./solutions/1342.cpp)
 - **M** [1386. Cinema Seat Allocation](./solutions/1386.cpp)
+- **H** [1601. Maximum Number of Achievable Transfer Requests](./solutions/1601.cpp)
 - **M** [1680. Concatenation of Consecutive Binary Numbers](./solutions/1680.cpp)
 - **M** [2275. Largest Combination With Bitwise AND Greater Than Zero](./solutions/2275.cpp)
 - **E** [2317. Maximum XOR After Operations](./solutions/2317.cpp)
