@@ -1013,6 +1013,7 @@
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./solutions/787.cpp)
 #### Topological sort
+- **M** [207. Course Schedule](./solutions/207.cpp)
 - **M** [210. Course Schedule II](./solutions/210.cpp)
 - **H** [269. Alien Dictionary](./solutions/269.cpp)
 - **M** [310. Minimum Height Trees](./solutions/310.cpp)
