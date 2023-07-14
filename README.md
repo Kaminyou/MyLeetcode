@@ -698,6 +698,7 @@
 - **E** [1165. Single-Row Keyboard](./solutions/1165.cpp)
 - **M** [1198. Find Smallest Common Element in All Rows](./solutions/1198.cpp)
 - **E** [1207. Unique Number of Occurrences](./solutions/1207.cpp)
+- **M** [1218. Longest Arithmetic Subsequence of Given Difference](./solutions/1218.cpp)
 - **H** [1224. Maximum Equal Frequency](./solutions/1224.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
