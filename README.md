@@ -1300,6 +1300,7 @@
 - **H** [2585. Number of Ways to Earn Points](./solutions/2585.cpp)
 - **M** [2684. Maximum Number of Moves in a Grid](./solutions/2684.cpp)
 - **M** [2707. Extra Characters in a String](./solutions/2707.cpp)
+- **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./solutions/2713.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
