@@ -1076,6 +1076,7 @@
 - **H** [1755. Closest Subsequence Sum](./solutions/1755.cpp)
 - **M** [1802. Maximum Value at a Given Index in a Bounded Array](./solutions/1802.cpp)
 - **H** [1847. Closest Room](./solutions/1847.cpp)
+- **M** [1870. Minimum Speed to Arrive on Time](./solutions/1870.cpp)
 - **M** [1885. Count Pairs in Two Arrays](./solutions/1885.cpp)
 - **M** [1918. Kth Smallest Subarray Sum](./solutions/1918.cpp)
 - **H** [1970. Last Day Where You Can Still Cross](./solutions/1970.cpp)
