@@ -755,6 +755,7 @@
 - **E** [2670. Find the Distinct Difference Array](./solutions/2670.cpp)
 - **M** [2671. Frequency Tracker](./solutions/2671.cpp)
 - **M** [2672. Number of Adjacent Elements With the Same Color](./solutions/2672.cpp)
+- **E** [2716. Minimize String Length](./solutions/2716.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
