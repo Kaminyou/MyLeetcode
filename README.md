@@ -1044,6 +1044,7 @@
 
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./solutions/4.cpp)
+- **M** [33. Search in Rotated Sorted Array](./solutions/33.cpp)
 - **M** [34. Find First and Last Position of Element in Sorted Array](./solutions/34.cpp)
 - **E** [35. Search Insert Position](./solutions/35.cpp)
 - **M** [275. H-Index II](./solutions/275.cpp)
