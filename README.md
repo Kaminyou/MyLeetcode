@@ -469,6 +469,7 @@
 - **M** [433. Minimum Genetic Mutation](./solutions/433.cpp)
 - **M** [490. The Maze](./solutions/490.cpp)
 - **M** [529. Minesweeper](./solutions/529.cpp)
+- **M** [542. 01 Matrix](./solutions/542.cpp)
 - **M** [582. Kill Process](./solutions/582.cpp)
 - **H** [675. Cut Off Trees for Golf Event](./solutions/675.cpp)
 - **H** [749. Contain Virus](./solutions/749.cpp)
