@@ -1043,6 +1043,8 @@
 - **H** [1192. Critical Connections in a Network](./solutions/1192.cpp)
 #### Hierholzer's algorithm
 - **H** [2097. Valid Arrangement of Pairs](./solutions/2097.cpp)
+#### Minimum Spanning Tree
+- **H** [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./solutions/1489.cpp)
 
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./solutions/4.cpp)
