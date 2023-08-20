@@ -1034,6 +1034,7 @@
 - **M** [802. Find Eventual Safe States](./solutions/802.cpp)
 - **M** [851. Loud and Rich](./solutions/851.cpp)
 - **M** [1136. Parallel Courses](./solutions/1136.cpp)
+- **H** [1203. Sort Items by Groups Respecting Dependencies](./solutions/1203.cpp)
 - **M** [1557. Minimum Number of Vertices to Reach All Nodes](./solutions/1557.cpp)
 - **H** [1857. Largest Color Value in a Directed Graph](./solutions/1857.cpp)
 - **H** [2115. Find All Possible Recipes from Given Supplies](./solutions/2115.cpp)
