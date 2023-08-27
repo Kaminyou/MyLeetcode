@@ -416,6 +416,7 @@
 - **M** [2555. Maximize Win From Two Segments](./solutions/2555.cpp)
 - **H** [2565. Subsequence With the Minimum Score](./solutions/2565.cpp)
 - **M** [2653. Sliding Subarray Beauty](./solutions/2653.cpp)
+- **M** [2730. Find the Longest Semi-Repetitive Substring](./solutions/2730.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
