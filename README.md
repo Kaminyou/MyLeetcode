@@ -190,6 +190,7 @@
 - **E** [2696. Minimum String Length After Removing Substrings](./solutions/2696.cpp)
 - **E** [2697. Lexicographically Smallest Palindrome](./solutions/2697.cpp)
 - **E** [2710. Remove Trailing Zeros From a String](./solutions/2710.cpp)
+- **E** [2729. Check if The Number is Fascinating](./solutions/2729.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
