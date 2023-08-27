@@ -1317,6 +1317,7 @@
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./solutions/2262.cpp)
+- **H** [2719. Count of Integers](./solutions/2719.cpp)
 
 ### Divide and conquer
 - **H** [327. Count of Range Sum](./solutions/327.cpp)
