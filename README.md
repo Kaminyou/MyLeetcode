@@ -1338,6 +1338,7 @@
 - **M** [260. Single Number III](./solutions/260.cpp)
 - **E** [268. Missing Number](./solutions/268.cpp)
 - **M** [318. Maximum Product of Word Lengths](./solutions/318.cpp)
+- **E** [338. Counting Bits](./solutions/338.cpp)
 - **E** [342. Power of Four](./solutions/342.cpp)
 - **M** [371. Sum of Two Integers](./solutions/371.cpp)
 - **M** [393. UTF-8 Validation](./solutions/393.cpp)
