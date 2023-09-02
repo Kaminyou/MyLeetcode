@@ -658,6 +658,7 @@
 - **M** [2673. Make Costs of Paths Equal in a Binary Tree](./solutions/2673.cpp)
 - **M** [2712. Minimum Cost to Make All Characters Equal](./solutions/2712.cpp)
 - **E** [2717. Semi-Ordered Permutation](./solutions/2717.cpp)
+- **H** [2732. Find a Good Subset of the Matrix](./solutions/2732.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
