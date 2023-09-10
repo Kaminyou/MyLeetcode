@@ -1493,6 +1493,7 @@
 - **E** [914. X of a Kind in a Deck of Cards](./solutions/914.cpp)
 - **H** [964. Least Operators to Express Number](./solutions/964.cpp)
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
+- **H** [1359. Count All Valid Pickup and Delivery Options](./solutions/1359.cpp)
 - **H** [1363. Largest Multiple of Three](./solutions/1363.cpp)
 - **H** [1643. Kth Smallest Instructions](./solutions/1643.cpp)
 - **M** [2128. Remove All Ones With Row and Column Flips](./solutions/2128.cpp)
