@@ -447,6 +447,7 @@
 - **H** [301. Remove Invalid Parentheses](./solutions/301.cpp)
 - **M** [306. Additive Number](./solutions/306.cpp)
 - **M** [320. Generalized Abbreviation](./solutions/320.cpp)
+- **H** [332. Reconstruct Itinerary](./solutions/332.cpp)
 - **M** [351. Android Unlock Patterns](./solutions/351.cpp)
 - **H** [425. Word Squares](./solutions/425.cpp)
 - **H** [472. Concatenated Words](./solutions/472.cpp)
