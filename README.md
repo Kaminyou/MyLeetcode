@@ -1207,6 +1207,7 @@
 - **M** [764. Largest Plus Sign](./solutions/764.cpp)
 - **M** [788. Rotated Digits](./solutions/788.cpp)
 - **M** [790. Domino and Tromino Tiling](./solutions/790.cpp)
+- **M** [799. Champagne Tower](./solutions/799.cpp)
 - **H** [801. Minimum Swaps To Make Sequences Increasing](./solutions/801.cpp)
 - **H** [805. Split Array With Same Average](./solutions/805.cpp)
 - **M** [808. Soup Servings](./solutions/808.cpp)
