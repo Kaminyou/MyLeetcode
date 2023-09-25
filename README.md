@@ -680,6 +680,7 @@
 - **E** [359. Logger Rate Limiter](./solutions/359.cpp)
 - **E** [383. Ransom Note](./solutions/383.cpp)
 - **E** [387. First Unique Character in a String](./solutions/387.cpp)
+- **E** [389. Find the Difference](./solutions/389.cpp)
 - **M** [398. Random Pick Index](./solutions/398.cpp)
 - **M** [438. Find All Anagrams in a String](./solutions/438.cpp)
 - **M** [451. Sort Characters By Frequency](./solutions/451.cpp)
