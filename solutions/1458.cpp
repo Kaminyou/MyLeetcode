@@ -5,7 +5,7 @@ public:
         int n = nums2.size();
         nums1.insert(nums1.begin(), 0);
         nums2.insert(nums2.begin(), 0);
-        vector<vector<int>> dp = vector<vector<int>>(m + 1, vector<int>(n + 1, INT_MIN / 2));
+        vector<vector<int>> dp(m + 1, vector<int>(n + 1, INT_MIN / 2));
 
         for (int i = 1; i <= m; ++i) {
             for (int j = 1; j <= n; ++j) {
