@@ -403,6 +403,7 @@
 - **M** [1695. Maximum Erasure Value](./solutions/1695.cpp)
 - **H** [1793. Maximum Score of a Good Subarray](./solutions/1793.cpp)
 - **M** [1838. Frequency of the Most Frequent Element](./solutions/1838.cpp)
+- **H** [2009. Minimum Number of Operations to Make Array Continuous](./solutions/2009.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 - **H** [2302. Count Subarrays With Score Less Than K](./solutions/2302.cpp)
