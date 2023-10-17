@@ -924,6 +924,7 @@
 - **M** [1273. Delete Tree Nodes](./solutions/1273.cpp)
 - **M** [1302. Deepest Leaves Sum](./solutions/1302.cpp)
 - **M** [1339. Maximum Product of Splitted Binary Tree](./solutions/1339.cpp)
+- **M** [1361. Validate Binary Tree Nodes](./solutions/1361.cpp)
 - **M** [1372. Longest ZigZag Path in a Binary Tree](./solutions/1372.cpp)
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./solutions/1379.cpp)
 - **M** [1443. Minimum Time to Collect All Apples in a Tree](./solutions/1443.cpp)
