@@ -1053,6 +1053,7 @@
 - **H** [1203. Sort Items by Groups Respecting Dependencies](./solutions/1203.cpp)
 - **M** [1557. Minimum Number of Vertices to Reach All Nodes](./solutions/1557.cpp)
 - **H** [1857. Largest Color Value in a Directed Graph](./solutions/1857.cpp)
+- **H** [2050. Parallel Courses III](./solutions/2050.cpp)
 - **H** [2115. Find All Possible Recipes from Given Supplies](./solutions/2115.cpp)
 - **H** [2127. Maximum Employees to Be Invited to a Meeting](./solutions/2127.cpp)
 - **H** [2392. Build a Matrix With Conditions](./solutions/2392.cpp)
