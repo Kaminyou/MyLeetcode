@@ -5,6 +5,8 @@ public:
         int state = minutesToTest / minutesToDie + 1;
         // state ^ n >= buckets
         // n = ceil(log(state, buckets)) = ceil(log(e, buckets) / log(e, state))
-        return ceil(log(buckets) / log(state));
+        int res = ceil(log(buckets) / log(state));
+        if (pow(state, res - 1) >= buckets) return res - 1; // fp issue
+        return res;
     }
 };
