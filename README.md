@@ -43,6 +43,7 @@
 - **E** [1313. Decompress Run-Length Encoded List](./solutions/1313.cpp)
 - **E** [1323. Maximum 69 Number](./solutions/1323.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./solutions/1332.cpp)
+- **E** [1356. Sort Integers by The Number of 1 Bits](./solutions/1356.cpp)
 - **E** [1431. Kids With the Greatest Number of Candies](./solutions/1431.cpp)
 - **E** [1441. Build an Array With Stack Operations](./solutions/1441.cpp)
 - **E** [1491. Average Salary Excluding the Minimum and Maximum Salary](./solutions/1491.cpp)
