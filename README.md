@@ -235,6 +235,7 @@
 - **M** [1395. Count Number of Teams](./solutions/1395.cpp)
 - **E** [1470. Shuffle the Array](./solutions/1470.cpp)
 - **E** [1502. Can Make Arithmetic Progression From Sequence](./solutions/1502.cpp)
+- **M** [1535. Find the Winner of an Array Game](./solutions/1535.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
 - **E** [1732. Find the Highest Altitude](./solutions/1732.cpp)
 - **E** [1920. Build Array from Permutation](./solutions/1920.cpp)
