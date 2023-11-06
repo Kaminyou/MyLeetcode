@@ -1012,6 +1012,7 @@
 - **H** [1606. Find Servers That Handled Most Number of Requests](./solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./solutions/1642.cpp)
 - **M** [1834. Single-Threaded CPU](./solutions/1834.cpp)
+- **M** [1845. Seat Reservation Manager](./solutions/1845.cpp)
 - **H** [1851. Minimum Interval to Include Each Query](./solutions/1851.cpp)
 - **M** [1962. Remove Stones to Minimize the Total](./solutions/1962.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./solutions/1985.cpp)
