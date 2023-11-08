@@ -1528,6 +1528,7 @@
 - **H** [2543. Check if Point Is Reachable](./solutions/2543.cpp)
 - **M** [2645. Minimum Additions to Make Valid String](./solutions/2645.cpp)
 - **M** [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](./solutions/2654.cpp)
+- **M** [2849. Determine if a Cell Is Reachable at a Given Time](./solutions/2849.cpp)
 #### Prime
 - **E** [2614. Prime In Diagonal](./solutions/2614.cpp)
 #### Bézout's identity
