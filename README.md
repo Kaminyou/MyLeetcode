@@ -735,6 +735,7 @@
 - **M** [1657. Determine if Two Strings Are Close](./solutions/1657.cpp)
 - **M** [1679. Max Number of K-Sum Pairs](./solutions/1679.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
+- **M** [1743. Restore the Array From Adjacent Pairs](./solutions/1743.cpp)
 - **E** [1832. Check if the Sentence Is Pangram](./solutions/1832.cpp)
 - **M** [2007. Find Original Array From Doubled Array](./solutions/2007.cpp)
 - **M** [2013. Detect Squares](./solutions/2013.cpp)
