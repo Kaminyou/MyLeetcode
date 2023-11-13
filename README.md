@@ -782,6 +782,7 @@
 - **M** [2672. Number of Adjacent Elements With the Same Color](./solutions/2672.cpp)
 - **E** [2716. Minimize String Length](./solutions/2716.cpp)
 - **M** [2718. Sum of Matrix After Queries](./solutions/2718.cpp)
+- **M** [2785. Sort Vowels in a String](./solutions/2785.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
