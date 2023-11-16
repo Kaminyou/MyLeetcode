@@ -25,7 +25,7 @@ public:
         for (auto& num : nums) {
             st.insert(binary2int(num));
         }
-        for (int i = 0; i < (2 << n); ++i) {
+        for (int i = 0; i < (n + 1); ++i) {
             if (st.count(i)) continue;
             string ans = int2binary(i);
             string prefix(n - ans.size(), '0');
