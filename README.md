@@ -625,6 +625,7 @@
 - **E** [1710. Maximum Units on a Truck](./solutions/1710.cpp)
 - **M** [1798. Maximum Number of Consecutive Values You Can Make](./solutions/1798.cpp)
 - **M** [1833. Maximum Ice Cream Bars](./solutions/1833.cpp)
+- **M** [1877. Minimize Maximum Pair Sum in Array](./solutions/1877.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./solutions/1921.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./solutions/1996.cpp)
