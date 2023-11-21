@@ -240,6 +240,7 @@
 - **M** [1535. Find the Winner of an Array Game](./solutions/1535.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./solutions/1636.cpp)
 - **E** [1732. Find the Highest Altitude](./solutions/1732.cpp)
+- **M** [1814. Count Nice Pairs in an Array](./solutions/1814.cpp)
 - **M** [1887. Reduction Operations to Make the Array Elements Equal](./solutions/1887  )
 - **E** [1920. Build Array from Permutation](./solutions/1920.cpp)
 - **E** [1929. Concatenation of Array](./solutions/1929.cpp)
