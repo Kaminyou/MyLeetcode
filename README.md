@@ -733,6 +733,7 @@
 - **H** [1224. Maximum Equal Frequency](./solutions/1224.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
+- **M** [1424. Diagonal Traverse II](./solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **E** [1512. Number of Good Pairs](./solutions/1512.cpp)
 - **M** [1615. Maximal Network Rank](./solutions/1615.cpp)
