@@ -246,6 +246,7 @@
 - **M** [1887. Reduction Operations to Make the Array Elements Equal](./solutions/1887  )
 - **E** [1920. Build Array from Permutation](./solutions/1920.cpp)
 - **E** [1929. Concatenation of Array](./solutions/1929.cpp)
+- **H** [2147. Number of Ways to Divide a Long Corridor](./solutions/2147.cpp)
 - **E** [2259. Remove Digit From Number to Maximize Result](./solutions/2259.cpp)
 - **M** [2260. Minimum Consecutive Cards to Pick Up](./solutions/2260.cpp)
 - **M** [2274. Maximum Consecutive Floors Without Special Floors](./solutions/2274.cpp)
