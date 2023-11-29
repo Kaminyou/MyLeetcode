@@ -1568,7 +1568,7 @@ for (int subset = state; subset; subset = (subset - 1) & state) {}
 int differentSet = state ^ subset;
 // A is B's subset?
 bool isSubset = (A & B) == A;
-// to remove the rightest 1
+// to remove the rightest 1 (e.g., 0100100 & 0111011 -> 0100000)
 x = x & (x - 1)
 ```
 
