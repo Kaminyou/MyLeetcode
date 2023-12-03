@@ -1455,6 +1455,7 @@
 - **E** [836. Rectangle Overlap](./solutions/836.cpp)
 - **M** [858. Mirror Reflection](./solutions/858.cpp)
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
+- **E** [1266. Minimum Time Visiting All Points](./solutions/1266.cpp)
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
 #### Andrew’s Monotone Chain
 - **H** [587. Erect the Fence](./solutions/587.cpp)
