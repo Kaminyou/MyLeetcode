@@ -50,6 +50,7 @@
 - **E** [1523. Count Odd Numbers in an Interval Range](./solutions/1523.cpp)
 - **E** [1528. Shuffle String](./solutions/1528.cpp)
 - **E** [1662. Check If Two String Arrays are Equivalent](./solutions/1662.cpp)
+- **E** [1688. Count of Matches in Tournament](./solutions/1688.cpp)
 - **M** [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./solutions/1689.cpp)
 - **E** [1704. Determine if String Halves Are Alike](./solutions/1704.cpp)
 - **E** [1822. Sign of the Product of an Array](./solutions/1822.cpp)
