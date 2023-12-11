@@ -1123,6 +1123,7 @@
 - **M** [1060. Missing Element in Sorted Array](./solutions/1060.cpp)
 - **H** [1095. Find in Mountain Array](./solutions/1095.cpp)
 - **H** [1231. Divide Chocolate](./solutions/1231.cpp)
+- **E** [1287. Element Appearing More Than 25% In Sorted Array](./solutions/1287.cpp)
 - **M** [1428. Leftmost Column with at Least a One](./solutions/1428.cpp)
 - **E** [1539. Kth Missing Positive Number](./solutions/1539.cpp)
 - **E** [1608. Special Array With X Elements Greater Than or Equal X](./solutions/1608.cpp)
