@@ -326,6 +326,7 @@
 - **E** [1337. The K Weakest Rows in a Matrix](./solutions/1337.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./solutions/1351.cpp)
 - **E** [1572. Matrix Diagonal Sum](./solutions/1572.cpp)
+- **E** [1582. Special Positions in a Binary Matrix](./solutions/1582.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./solutions/2257.cpp)
 - **E** [2319. Check if Matrix Is X-Matrix](./solutions/2319.cpp)
 - **M** [2326. Spiral Matrix IV](./solutions/2326.cpp)
