@@ -1052,6 +1052,7 @@
 - **M** [886. Possible Bipartition](./solutions/886.cpp)
 - **M** [934. Shortest Bridge](./solutions/934.cpp)
 - **E** [997. Find the Town Judge](./solutions/997.cpp)
+- **E** [1436. Destination City](./solutions/1436.cpp)
 - **M** [2497. Maximum Star Sum of a Graph](./solutions/2497.cpp)
 - **M** [2359. Find Closest Node to Given Two Nodes](./solutions/2359.cpp)
 - **H** [2360. Longest Cycle in a Graph](./solutions/2360.cpp)
