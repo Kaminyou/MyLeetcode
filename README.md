@@ -748,6 +748,7 @@
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
 - **M** [1424. Diagonal Traverse II](./solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
+- **E** [1496. Path Crossing](./solutions/1496.cpp)
 - **E** [1512. Number of Good Pairs](./solutions/1512.cpp)
 - **M** [1615. Maximal Network Rank](./solutions/1615.cpp)
 - **M** [1637. Widest Vertical Area Between Two Points Containing No Points](./solutions/1637.cpp)
