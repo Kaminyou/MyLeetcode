@@ -185,6 +185,7 @@
 - **E** [1758. Minimum Changes To Make Alternating Binary String](./solutions/1758.cpp)
 - **M** [1759. Count Number of Homogenous Substrings](./solutions/1759.cpp)
 - **E** [1768. Merge Strings Alternately](./solutions/1768.cpp)
+- **E** [1897. Redistribute Characters to Make All Strings Equal](./solutions/1897.cpp)
 - **E** [1903. Largest Odd Number in String](./solutions/1903.cpp)
 - **M** [1980. Find Unique Binary String](./solutions/1980.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
