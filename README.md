@@ -598,6 +598,7 @@
 - **H** [420. Strong Password Checker](./solutions/420.cpp)
 - **M** [435. Non-overlapping Intervals](./solutions/435.cpp)
 - **M** [452. Minimum Number of Arrows to Burst Balloons](./solutions/452.cpp)
+- **E** [455. Assign Cookies](./solutions/455.cpp)
 - **H** [517. Super Washing Machines](./solutions/517.cpp)
 - **M** [624. Maximum Distance in Arrays](./solutions/624.cpp)
 - **M** [625. Minimum Factorization](./solutions/625.cpp)
