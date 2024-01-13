@@ -749,6 +749,7 @@
 - **H** [1224. Maximum Equal Frequency](./solutions/1224.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./solutions/1338.cpp)
+- **M** [1347. Minimum Number of Steps to Make Two Strings Anagram](./solutions/1347.cpp)
 - **M** [1424. Diagonal Traverse II](./solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
 - **E** [1496. Path Crossing](./solutions/1496.cpp)
