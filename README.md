@@ -692,6 +692,7 @@
 - **M** [2712. Minimum Cost to Make All Characters Equal](./solutions/2712.cpp)
 - **E** [2717. Semi-Ordered Permutation](./solutions/2717.cpp)
 - **H** [2732. Find a Good Subset of the Matrix](./solutions/2732.cpp)
+- **M** [2966. Divide Array Into Arrays With Max Difference](./solutions/2966.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./solutions/1.cpp)
