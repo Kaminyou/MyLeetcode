@@ -1280,6 +1280,7 @@
 - **H** [1000. Minimum Cost to Merge Stones](./solutions/1000.cpp)
 - **M** [1027. Longest Arithmetic Subsequence](./solutions/1027.cpp)
 - **M** [1035. Uncrossed Lines](./solutions/1035.cpp)
+- **M** [1043. Partition Array for Maximum Sum](./solutions/1043.cpp)
 - **M** [1048. Longest String Chain](./solutions/1048.cpp)
 - **M** [1049. Last Stone Weight II](./solutions/1049.cpp)
 - **M** [1066. Campus Bikes II](./solutions/1066.cpp)
