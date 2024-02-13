@@ -189,6 +189,7 @@
 - **E** [1897. Redistribute Characters to Make All Strings Equal](./solutions/1897.cpp)
 - **E** [1903. Largest Odd Number in String](./solutions/1903.cpp)
 - **M** [1980. Find Unique Binary String](./solutions/1980.cpp)
+- **E** [2108. Find First Palindromic String in the Array](./solutions/2108.cpp)
 - **E** [2255. Count Prefixes of a Given String](./solutions/2255.cpp)
 - **M** [2284. Sender With Largest Word Count](./solutions/2284.cpp)
 - **M** [2288. Apply Discount to Prices](./solutions/2288.cpp)
