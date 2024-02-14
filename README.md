@@ -427,6 +427,7 @@
 - **M** [1838. Frequency of the Most Frequent Element](./solutions/1838.cpp)
 - **H** [2009. Minimum Number of Operations to Make Array Continuous](./solutions/2009.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./solutions/2024.cpp)
+- **M** [2149. Rearrange Array Elements by Sign](./solutions/2149.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./solutions/2261.cpp)
 - **H** [2302. Count Subarrays With Score Less Than K](./solutions/2302.cpp)
 - **M** [2332. The Latest Time to Catch a Bus](./solutions/2332.cpp)
