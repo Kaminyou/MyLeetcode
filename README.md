@@ -757,6 +757,7 @@
 - **M** [1347. Minimum Number of Steps to Make Two Strings Anagram](./solutions/1347.cpp)
 - **M** [1424. Diagonal Traverse II](./solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./solutions/1461.cpp)
+- **M** [1481. Least Number of Unique Integers after K Removals](./solutions/1481.cpp)
 - **E** [1496. Path Crossing](./solutions/1496.cpp)
 - **E** [1512. Number of Good Pairs](./solutions/1512.cpp)
 - **M** [1615. Maximal Network Rank](./solutions/1615.cpp)
