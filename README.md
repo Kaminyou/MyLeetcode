@@ -1397,6 +1397,7 @@
 - **E** [190. Reverse Bits](./solutions/190.cpp)
 - **E** [191. Number of 1 Bits](./solutions/191.cpp)
 - **M** [201. Bitwise AND of Numbers Range](./solutions/201.cpp)
+- **E** [231. Power of Two](./solutions/231.cpp)
 - **M** [260. Single Number III](./solutions/260.cpp)
 - **E** [268. Missing Number](./solutions/268.cpp)
 - **M** [318. Maximum Product of Word Lengths](./solutions/318.cpp)
