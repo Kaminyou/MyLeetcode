@@ -524,6 +524,7 @@
 - **H** [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./solutions/1284.cpp)
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./solutions/1293.cpp)
 - **H** [1345. Jump Game IV](./solutions/1345.cpp)
+- **M** [1609. Even Odd Tree](./solutions/1609.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./solutions/1926.cpp)
 - **H** [2258. Escape the Spreading Fire](./solutions/2258.cpp)
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./solutions/2290.cpp)
