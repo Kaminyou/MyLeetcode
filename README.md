@@ -206,6 +206,7 @@
 - **E** [2710. Remove Trailing Zeros From a String](./solutions/2710.cpp)
 - **E** [2729. Check if The Number is Fascinating](./solutions/2729.cpp)
 - **M** [2734. Lexicographically Smallest String After Substring Operation](./solutions/2734.cpp)
+- **E** [2864. Maximum Odd Binary Number](./solutions/2864.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./solutions/1044.cpp)
