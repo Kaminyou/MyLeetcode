@@ -411,6 +411,7 @@
 - **M** [826. Most Profit Assigning Work](./solutions/826.cpp)
 - **M** [904. Fruit Into Baskets](./solutions/904.cpp)
 - **E** [905. Sort Array By Parity](./solutions/905.cpp)
+- **E** [977. Squares of a Sorted Array](./solutions/977.cpp)
 - **M** [1004. Max Consecutive Ones III](./solutions/1004.cpp)
 - **M** [1052. Grumpy Bookstore Owner](./solutions/1052.cpp)
 - **E** [1089. Duplicate Zeros](./solutions/1089.cpp)
