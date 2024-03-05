@@ -425,6 +425,7 @@
 - **H** [1610. Maximum Number of Visible Points](./solutions/1610.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./solutions/1658.cpp)
 - **M** [1695. Maximum Erasure Value](./solutions/1695.cpp)
+- **M** [1750. Minimum Length of String After Deleting Similar Ends](./solutions/1750.cpp)
 - **H** [1793. Maximum Score of a Good Subarray](./solutions/1793.cpp)
 - **M** [1838. Frequency of the Most Frequent Element](./solutions/1838.cpp)
 - **H** [2009. Minimum Number of Operations to Make Array Continuous](./solutions/2009.cpp)
