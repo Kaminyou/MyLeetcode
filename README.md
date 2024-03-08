@@ -819,6 +819,7 @@
 - **M** [2718. Sum of Matrix After Queries](./solutions/2718.cpp)
 - **M** [2785. Sort Vowels in a String](./solutions/2785.cpp)
 - **M** [2870. Minimum Number of Operations to Make Array Empty](./solutions/2870.cpp)
+- **E** [3005. Count Elements With Maximum Frequency](./solutions/3005.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./solutions/20.cpp)
