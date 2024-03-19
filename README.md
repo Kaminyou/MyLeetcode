@@ -1045,6 +1045,7 @@
 - **M** [373. Find K Pairs with Smallest Sums](./solutions/373.cpp)
 - **H** [407. Trapping Rain Water II](./solutions/407.cpp)
 - **H** [502. IPO](./solutions/502.cpp)
+- **M** [621. Task Scheduler](./solutions/621.cpp)
 - **M** [692. Top K Frequent Words](./solutions/692.cpp)
 - **M** [767. Reorganize String](./solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./solutions/973.cpp)
