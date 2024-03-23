@@ -1072,6 +1072,7 @@
 - **H** [2532. Time to Cross a Bridge](./solutions/2532.cpp)
 - **E** [2558. Take Gifts From the Richest Pile](./solutions/2558.cpp)
 - **M** [2593. Find Score of an Array After Marking All Elements](./solutions/2593.cpp)
+- **M** [3080. Mark Elements on Array by Performing Queries](./solutions/3080.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./solutions/399.cpp)
