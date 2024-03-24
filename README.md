@@ -1496,6 +1496,7 @@
 - **E** [1232. Check If It Is a Straight Line](./solutions/1232.cpp)
 - **E** [1266. Minimum Time Visiting All Points](./solutions/1266.cpp)
 - **M** [2280. Minimum Lines to Represent a Line Chart](./solutions/2280.cpp)
+- **M** [3047. Find the Largest Area of Square Inside Two Rectangles](./solutions/3047.cpp)
 #### Andrew’s Monotone Chain
 - **H** [587. Erect the Fence](./solutions/587.cpp)
 
