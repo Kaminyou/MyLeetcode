@@ -455,6 +455,7 @@
 - **H** [2565. Subsequence With the Minimum Score](./solutions/2565.cpp)
 - **M** [2653. Sliding Subarray Beauty](./solutions/2653.cpp)
 - **M** [2730. Find the Longest Semi-Repetitive Substring](./solutions/2730.cpp)
+- **M** [2958. Length of Longest Subarray With at Most K Frequency](./solutions/2958.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./solutions/17.cpp)
