@@ -186,6 +186,7 @@
 - **M** [1328. Break a Palindrome](./solutions/1328.cpp)
 - **E** [1331. Rank Transform of an Array](./solutions/1331.cpp)
 - **E** [1422. Maximum Score After Splitting a String](./solutions/1422.cpp)
+- **E** [1614. Maximum Nesting Depth of the Parentheses](./solutions/1614.cpp)
 - **E** [1758. Minimum Changes To Make Alternating Binary String](./solutions/1758.cpp)
 - **M** [1759. Count Number of Homogenous Substrings](./solutions/1759.cpp)
 - **E** [1768. Merge Strings Alternately](./solutions/1768.cpp)
