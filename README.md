@@ -1575,6 +1575,7 @@
 - **H** [1012. Numbers With Repeated Digits](./solutions/1012.cpp)
 - **H** [1359. Count All Valid Pickup and Delivery Options](./solutions/1359.cpp)
 - **H** [1363. Largest Multiple of Three](./solutions/1363.cpp)
+- **M** [1551. Minimum Operations to Make Array Equal](./solutions/1551.cpp)
 - **H** [1643. Kth Smallest Instructions](./solutions/1643.cpp)
 - **M** [2128. Remove All Ones With Row and Column Flips](./solutions/2128.cpp)
 - **M** [2178. Maximum Split of Positive Even Integers](./solutions/2178.cpp)
