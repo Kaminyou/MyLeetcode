@@ -665,6 +665,7 @@
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./solutions/1996.cpp)
 - **M** [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./solutions/2038.cpp)
+- **E** [2073. Time Needed to Buy Tickets](./solutions/2073.cpp)
 - **M** [2079. Watering Plants](./solutions/2079.cpp)
 - **H** [2136. Earliest Possible Day of Full Bloom](./solutions/2136.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./solutions/2279.cpp)
