@@ -856,6 +856,7 @@
 #### Monotonic stack
 - **H** [42. Trapping Rain Water](./solutions/42.cpp)
 - **H** [84. Largest Rectangle in Histogram](./solutions/84.cpp)
+- **H** [85. Maximal Rectangle](./solutions/85.cpp)
 - **M** [316. Remove Duplicate Letters](./solutions/316.cpp)
 - **M** [402. Remove K Digits](./solutions/402.cpp)
 - **M** [456. 132 Pattern](./solutions/456.cpp)
