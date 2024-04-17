@@ -555,6 +555,7 @@
 - **M** [694. Number of Distinct Islands](./solutions/694.cpp)
 - **M** [695. Max Area of Island](./solutions/695.cpp)
 - **M** [947. Most Stones Removed with Same Row or Column](./solutions/947.cpp)
+- **M** [988. Smallest String Starting From Leaf](./solutions/988.cpp)
 - **M** [1059. All Paths from Source Lead to Destination](./solutions/1059.cpp)
 - **M** [1376. Time Needed to Inform All Employees](./solutions/1376.cpp)
 - **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
