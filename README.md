@@ -560,6 +560,7 @@
 - **M** [1376. Time Needed to Inform All Employees](./solutions/1376.cpp)
 - **M** [1706. Where Will the Ball Fall](./solutions/1706.cpp)
 - **E** [1971. Find if Path Exists in Graph](./solutions/1971.cpp)
+- **M** [1992. Find All Groups of Farmland](./solutions/1992.cpp)
 - **M** [2101. Detonate the Maximum Bombs](./solutions/2101.cpp)
 - **H** [2440. Create Components With Same Value](./solutions/2440.cpp)
 - **M** [2467. Most Profitable Path in a Tree](./solutions/2467.cpp)
