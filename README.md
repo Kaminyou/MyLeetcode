@@ -786,6 +786,7 @@
 - **E** [1700. Number of Students Unable to Eat Lunch](./solutions/1700.cpp)
 - **M** [1743. Restore the Array From Adjacent Pairs](./solutions/1743.cpp)
 - **E** [1832. Check if the Sentence Is Pangram](./solutions/1832.cpp)
+- **M** [1915. Number of Wonderful Substrings](./solutions/1915.cpp)
 - **M** [1930. Unique Length-3 Palindromic Subsequences](./solutions/1930.cpp)
 - **M** [2007. Find Original Array From Doubled Array](./solutions/2007.cpp)
 - **M** [2013. Detect Squares](./solutions/2013.cpp)
