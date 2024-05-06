@@ -17,13 +17,13 @@
 impl Solution {
     pub fn remove_nodes(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
         let mut stack = Vec::new();
-        let mut currentNode = head;
-        while let Some(node) = currentNode {
+        let mut current_node = head;
+        while let Some(node) = current_node {
             while !stack.is_empty() && stack[stack.len() - 1] < node.val {
                 stack.pop();
             }
             stack.push(node.val);
-            currentNode = node.next;
+            current_node = node.next;
         }
         let mut head = None;
         while let Some(val) = stack.pop() {
