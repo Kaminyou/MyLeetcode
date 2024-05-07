@@ -389,6 +389,7 @@
 - **M** [1669. Merge In Between Linked Lists](./cpp_solutions/1669.cpp)
 - **M** [2095. Delete the Middle Node of a Linked List](./cpp_solutions/2095.cpp)
 - **H** [2296. Design a Text Editor](./cpp_solutions/2296.cpp)
+- **M** [2816. Double a Number Represented as a Linked List](./cpp_solutions/2816.cpp)
 
 ### Two pointers
 - **M** [3. Longest Substring Without Repeating Characters](./cpp_solutions/3.cpp)
