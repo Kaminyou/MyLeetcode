@@ -1090,6 +1090,7 @@
 - **H** [2532. Time to Cross a Bridge](./cpp_solutions/2532.cpp)
 - **E** [2558. Take Gifts From the Richest Pile](./cpp_solutions/2558.cpp)
 - **M** [2593. Find Score of an Array After Marking All Elements](./cpp_solutions/2593.cpp)
+- **M** [3075. Maximize Happiness of Selected Children](./cpp_solutions/3075.cpp)
 - **M** [3080. Mark Elements on Array by Performing Queries](./cpp_solutions/3080.cpp)
 
 ### Graph
