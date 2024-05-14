@@ -560,6 +560,7 @@
 - **M** [947. Most Stones Removed with Same Row or Column](./cpp_solutions/947.cpp)
 - **M** [988. Smallest String Starting From Leaf](./cpp_solutions/988.cpp)
 - **M** [1059. All Paths from Source Lead to Destination](./cpp_solutions/1059.cpp)
+- **M** [1219. Path with Maximum Gold](./cpp_solutions/1219.cpp)
 - **M** [1376. Time Needed to Inform All Employees](./cpp_solutions/1376.cpp)
 - **M** [1706. Where Will the Ball Fall](./cpp_solutions/1706.cpp)
 - **E** [1971. Find if Path Exists in Graph](./cpp_solutions/1971.cpp)
