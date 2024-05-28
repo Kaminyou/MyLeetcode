@@ -428,6 +428,7 @@
 - **E** [1089. Duplicate Zeros](./cpp_solutions/1089.cpp)
 - **E** [1099. Two Sum Less Than K](./cpp_solutions/1099.cpp)
 - **M** [1151. Minimum Swaps to Group All 1's Together](./cpp_solutions/1151.cpp)
+- **M** [1208. Get Equal Substrings Within Budget](./cpp_solutions/1208.cpp)
 - **M** [1237. Find Positive Integer Solution for a Given Equation](./cpp_solutions/1237.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./cpp_solutions/1423.cpp)
 - **M** [1456. Maximum Number of Vowels in a Substring of Given Length](./cpp_solutions/1456.cpp)
