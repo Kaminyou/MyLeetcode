@@ -1457,6 +1457,7 @@
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./cpp_solutions/1318.cpp)
 - **E** [1342. Number of Steps to Reduce a Number to Zero](./cpp_solutions/1342.cpp)
 - **M** [1386. Cinema Seat Allocation](./cpp_solutions/1386.cpp)
+- **M** [1404. Number of Steps to Reduce a Number in Binary Representation to One](./cpp_solutions/1404.cpp)
 - **H** [1601. Maximum Number of Achievable Transfer Requests](./cpp_solutions/1601.cpp)
 - **M** [1680. Concatenation of Consecutive Binary Numbers](./cpp_solutions/1680.cpp)
 - **E** [1863. Sum of All Subset XOR Totals](./cpp_solutions/1863.cpp)
