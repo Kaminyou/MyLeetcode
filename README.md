@@ -252,6 +252,7 @@
 - **E** [1122. Relative Sort Array](./cpp_solutions/1122.cpp)
 - **E** [1365. How Many Numbers Are Smaller Than the Current Number](./cpp_solutions/1365.cpp)
 - **M** [1395. Count Number of Teams](./cpp_solutions/1395.cpp)
+- **M** [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./cpp_solutions/1442.cpp)
 - **E** [1470. Shuffle the Array](./cpp_solutions/1470.cpp)
 - **E** [1502. Can Make Arithmetic Progression From Sequence](./cpp_solutions/1502.cpp)
 - **M** [1535. Find the Winner of an Array Game](./cpp_solutions/1535.cpp)
