@@ -118,6 +118,7 @@
 - **E** [2682. Find the Losers of the Circular Game](./cpp_solutions/2682.cpp)
 - **E** [2706. Buy Two Chocolates](./cpp_solutions/2706.cpp)
 - **E** [2733. Neither Minimum nor Maximum](./cpp_solutions/2733.cpp)
+- **E** [3110. Score of a String](./cpp_solutions/3110.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
