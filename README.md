@@ -1485,6 +1485,7 @@
 - **H** [527. Word Abbreviation](./cpp_solutions/527.cpp)
 - **M** [616. Add Bold Tag in String](./cpp_solutions/616.cpp)
 - **H** [642. Design Search Autocomplete System](./cpp_solutions/642.cpp)
+- **M** [648. Replace Words](./cpp_solutions/648.cpp)
 - **H** [745. Prefix and Suffix Search](./cpp_solutions/745.cpp)
 - **M** [758. Bold Words in String](./cpp_solutions/758.cpp)
 - **M** [820. Short Encoding of Words](./cpp_solutions/820.cpp)
