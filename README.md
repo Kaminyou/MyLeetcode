@@ -40,6 +40,7 @@
 - **E** [944. Delete Columns to Make Sorted](./cpp_solutions/944.cpp)
 - **E** [953. Verifying an Alien Dictionary](./cpp_solutions/953.cpp)
 - **E** [989. Add to Array-Form of Integer](./cpp_solutions/989.cpp)
+- **E** [1051. Height Checker](./cpp_solutions/1051.cpp)
 - **E** [1189. Maximum Number of Balloons](./cpp_solutions/1189.cpp)
 - **E** [1281. Subtract the Product and Sum of Digits of an Integer](./cpp_solutions/1281.cpp)
 - **E** [1304. Find N Unique Integers Sum up to Zero](./cpp_solutions/1304.cpp)
