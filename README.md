@@ -310,6 +310,7 @@
 - **H** [2158. Amount of New Area Painted Each Day](./cpp_solutions/2158.cpp)
 - **M** [2580. Count Ways to Group Overlapping Ranges](./cpp_solutions/2580.cpp)
 #### Bucket sort
+- **M** [75. Sort Colors](./cpp_solutions/75.cpp)
 - **H** [164. Maximum Gap](./cpp_solutions/164.cpp)
 #### Difference array
 - **H** [798. Smallest Rotation with Highest Score](./cpp_solutions/798.cpp)
