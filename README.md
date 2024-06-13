@@ -675,6 +675,7 @@
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./cpp_solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./cpp_solutions/1996.cpp)
+- **E** [2037. Minimum Number of Moves to Seat Everyone](./cpp_solutions/2037.cpp)
 - **M** [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./cpp_solutions/2038.cpp)
 - **E** [2073. Time Needed to Buy Tickets](./cpp_solutions/2073.cpp)
 - **M** [2079. Watering Plants](./cpp_solutions/2079.cpp)
