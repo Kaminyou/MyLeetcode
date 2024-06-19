@@ -1183,6 +1183,7 @@
 - **H** [1231. Divide Chocolate](./cpp_solutions/1231.cpp)
 - **E** [1287. Element Appearing More Than 25% In Sorted Array](./cpp_solutions/1287.cpp)
 - **M** [1428. Leftmost Column with at Least a One](./cpp_solutions/1428.cpp)
+- **M** [1482. Minimum Number of Days to Make m Bouquets](./cpp_solutions/1482.cpp)
 - **E** [1539. Kth Missing Positive Number](./cpp_solutions/1539.cpp)
 - **E** [1608. Special Array With X Elements Greater Than or Equal X](./cpp_solutions/1608.cpp)
 - **H** [1755. Closest Subsequence Sum](./cpp_solutions/1755.cpp)
