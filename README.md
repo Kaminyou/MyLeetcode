@@ -1185,6 +1185,7 @@
 - **M** [1428. Leftmost Column with at Least a One](./cpp_solutions/1428.cpp)
 - **M** [1482. Minimum Number of Days to Make m Bouquets](./cpp_solutions/1482.cpp)
 - **E** [1539. Kth Missing Positive Number](./cpp_solutions/1539.cpp)
+- **M** [1552. Magnetic Force Between Two Balls](./cpp_solutions/1552.cpp)
 - **E** [1608. Special Array With X Elements Greater Than or Equal X](./cpp_solutions/1608.cpp)
 - **H** [1755. Closest Subsequence Sum](./cpp_solutions/1755.cpp)
 - **M** [1802. Maximum Value at a Given Index in a Bounded Array](./cpp_solutions/1802.cpp)
