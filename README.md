@@ -782,6 +782,7 @@
 - **E** [1207. Unique Number of Occurrences](./cpp_solutions/1207.cpp)
 - **M** [1218. Longest Arithmetic Subsequence of Given Difference](./cpp_solutions/1218.cpp)
 - **H** [1224. Maximum Equal Frequency](./cpp_solutions/1224.cpp)
+- **M** [1248. Count Number of Nice Subarrays](./cpp_solutions/1248.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./cpp_solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./cpp_solutions/1338.cpp)
 - **M** [1347. Minimum Number of Steps to Make Two Strings Anagram](./cpp_solutions/1347.cpp)
