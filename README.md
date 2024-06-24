@@ -314,6 +314,7 @@
 - **H** [164. Maximum Gap](./cpp_solutions/164.cpp)
 #### Difference array
 - **H** [798. Smallest Rotation with Highest Score](./cpp_solutions/798.cpp)
+- **H** [995. Minimum Number of K Consecutive Bit Flips](./cpp_solutions/995.cpp)
 - **M** [2381. Shifting Letters II](./cpp_solutions/2381.cpp)
 
 ### Matrix
