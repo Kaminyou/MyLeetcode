@@ -1110,6 +1110,7 @@
 - **M** [934. Shortest Bridge](./cpp_solutions/934.cpp)
 - **E** [997. Find the Town Judge](./cpp_solutions/997.cpp)
 - **E** [1436. Destination City](./cpp_solutions/1436.cpp)
+- **E** [1791. Find Center of Star Graph](./cpp_solutions/1791.cpp)
 - **M** [2497. Maximum Star Sum of a Graph](./cpp_solutions/2497.cpp)
 - **M** [2359. Find Closest Node to Given Two Nodes](./cpp_solutions/2359.cpp)
 - **H** [2360. Longest Cycle in a Graph](./cpp_solutions/2360.cpp)
