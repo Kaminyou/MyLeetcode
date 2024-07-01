@@ -54,6 +54,7 @@
 - **E** [1491. Average Salary Excluding the Minimum and Maximum Salary](./cpp_solutions/1491.cpp)
 - **E** [1523. Count Odd Numbers in an Interval Range](./cpp_solutions/1523.cpp)
 - **E** [1528. Shuffle String](./cpp_solutions/1528.cpp)
+- **E** [1550. Three Consecutive Odds](./cpp_solutions/1550.cpp)
 - **E** [1662. Check If Two String Arrays are Equivalent](./cpp_solutions/1662.cpp)
 - **E** [1688. Count of Matches in Tournament](./cpp_solutions/1688.cpp)
 - **M** [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./cpp_solutions/1689.cpp)
