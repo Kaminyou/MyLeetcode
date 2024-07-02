@@ -233,6 +233,7 @@
 - **M** [186. Reverse Words in a String II](./cpp_solutions/186.cpp)
 - **E** [228. Summary Ranges](./cpp_solutions/228.cpp)
 - **M** [324. Wiggle Sort II](./cpp_solutions/324.cpp)
+- **E** [350. Intersection of Two Arrays II](./cpp_solutions/350.cpp)
 - **M** [370. Range Addition](./cpp_solutions/370.cpp)
 - **M** [442. Find All Duplicates in an Array](./cpp_solutions/442.cpp)
 - **E** [448. Find All Numbers Disappeared in an Array](./cpp_solutions/448.cpp)
