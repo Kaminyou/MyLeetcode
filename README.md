@@ -665,6 +665,7 @@
 - **H** [1402. Reducing Dishes](./cpp_solutions/1402.cpp)
 - **M** [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./cpp_solutions/1465.cpp)
 - **M** [1503. Last Moment Before All Ants Fall Out of a Plank](./cpp_solutions/1503.cpp)
+- **M** [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](./cpp_solutions/1509.cpp)
 - **M** [1561. Maximum Number of Coins You Can Get](./cpp_solutions/1561.cpp)
 - **M** [1564. Put Boxes Into the Warehouse I](./cpp_solutions/1564.cpp)
 - **M** [1578. Minimum Time to Make Rope Colorful](./cpp_solutions/1578.cpp)
