@@ -395,6 +395,7 @@
 - **E** [876. Middle of the Linked List](./cpp_solutions/876.cpp)
 - **M** [1171. Remove Zero Sum Consecutive Nodes from Linked List](./cpp_solutions/1171.cpp)
 - **M** [1669. Merge In Between Linked Lists](./cpp_solutions/1669.cpp)
+- **M** [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./cpp_solutions/2058.cpp)
 - **M** [2095. Delete the Middle Node of a Linked List](./cpp_solutions/2095.cpp)
 - **M** [2181. Merge Nodes in Between Zeros](./cpp_solutions/2181.cpp)
 - **H** [2296. Design a Text Editor](./cpp_solutions/2296.cpp)
