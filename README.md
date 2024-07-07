@@ -52,6 +52,7 @@
 - **E** [1441. Build an Array With Stack Operations](./cpp_solutions/1441.cpp)
 - **E** [1464. Maximum Product of Two Elements in an Array](./cpp_solutions/1464.cpp)
 - **E** [1491. Average Salary Excluding the Minimum and Maximum Salary](./cpp_solutions/1491.cpp)
+- **E** [1518. Water Bottle](./cpp_solutions/1518.cpp)
 - **E** [1523. Count Odd Numbers in an Interval Range](./cpp_solutions/1523.cpp)
 - **E** [1528. Shuffle String](./cpp_solutions/1528.cpp)
 - **E** [1550. Three Consecutive Odds](./cpp_solutions/1550.cpp)
