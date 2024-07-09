@@ -265,6 +265,7 @@
 - **M** [1630. Arithmetic Subarrays](./cpp_solutions/1630.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./cpp_solutions/1636.cpp)
 - **M** [1685. Sum of Absolute Differences in a Sorted Array](./cpp_solutions/1685.cpp)
+- **M** [1701. Average Waiting Time](./cpp_solutions/1701.cpp)
 - **E** [1732. Find the Highest Altitude](./cpp_solutions/1732.cpp)
 - **M** [1814. Count Nice Pairs in an Array](./cpp_solutions/1814.cpp)
 - **M** [1887. Reduction Operations to Make the Array Elements Equal](./cpp_solutions/1887)
