@@ -190,6 +190,7 @@
 - **M** [880. Decoded String at Index](./cpp_solutions/880.cpp)
 - **H** [902. Numbers At Most N Given Digit Set](./cpp_solutions/902.cpp)
 - **E** [1021. Remove Outermost Parentheses](./cpp_solutions/1021.cpp)
+- **M** [1190. Reverse Substrings Between Each Pair of Parentheses](./cpp_solutions/1190.cpp)
 - **M** [1328. Break a Palindrome](./cpp_solutions/1328.cpp)
 - **E** [1331. Rank Transform of an Array](./cpp_solutions/1331.cpp)
 - **E** [1422. Maximum Score After Splitting a String](./cpp_solutions/1422.cpp)
