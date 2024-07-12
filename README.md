@@ -880,6 +880,7 @@
 - **M** [1249. Minimum Remove to Make Valid Parentheses](./cpp_solutions/1249.cpp)
 - **M** [1472. Design Browser History](./cpp_solutions/1472.cpp)
 - **E** [1544. Make The String Great](./cpp_solutions/1544.cpp)
+- **M** [1717. Maximum Score From Removing Substrings](./cpp_solutions/1717.cpp)
 - **M** [2434. Using a Robot to Print the Lexicographically Smallest String](./cpp_solutions/2434.cpp)
 #### Monotonic stack
 - **H** [42. Trapping Rain Water](./cpp_solutions/42.cpp)
