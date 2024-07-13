@@ -882,6 +882,7 @@
 - **E** [1544. Make The String Great](./cpp_solutions/1544.cpp)
 - **M** [1717. Maximum Score From Removing Substrings](./cpp_solutions/1717.cpp)
 - **M** [2434. Using a Robot to Print the Lexicographically Smallest String](./cpp_solutions/2434.cpp)
+- **H** [2751. Robot Collisions](./cpp_solutions/2751.cpp)]
 #### Monotonic stack
 - **H** [42. Trapping Rain Water](./cpp_solutions/42.cpp)
 - **H** [84. Largest Rectangle in Histogram](./cpp_solutions/84.cpp)
