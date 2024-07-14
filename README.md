@@ -174,6 +174,7 @@
 - **M** [681. Next Closest Time](./cpp_solutions/681.cpp)
 - **M** [686. Repeated String Match](./cpp_solutions/686.cpp)
 - **M** [722. Remove Comments](./cpp_solutions/722.cpp)
+- **H** [726. Number of Atoms](./cpp_solutions/726.cpp)
 - **H** [736. Parse Lisp Expression](./cpp_solutions/736.cpp)
 - **H** [770. Basic Calculator IV](./cpp_solutions/770.cpp)
 - **M** [791. Custom Sort String](./cpp_solutions/791.cpp)
