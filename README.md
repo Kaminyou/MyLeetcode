@@ -1029,6 +1029,7 @@
 - **M** [1519. Number of Nodes in the Sub-Tree With the Same Label](./cpp_solutions/1519.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./cpp_solutions/1650.cpp)
 - **M** [2096. Step-By-Step Directions From a Binary Tree Node to Another](./cpp_solutions/2096.cpp)
+- **M** [2196. Create Binary Tree From Descriptions](./cpp_solutions/2196.cpp)
 - **H** [2246. Longest Path With Different Adjacent Characters](./cpp_solutions/2246.cpp)
 - **M** [2265. Count Nodes Equal to Average of Subtree](./cpp_solutions/2265.cpp)
 - **H** [2277. Closest Node to Path in Tree](./cpp_solutions/2277.cpp)
