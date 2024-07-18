@@ -1028,6 +1028,7 @@
 - **M** [1466. Reorder Routes to Make All Paths Lead to the City Zero](./cpp_solutions/1466.cpp)
 - **M** [1506. Find Root of N-Ary Tree](./cpp_solutions/1506.cpp)
 - **M** [1519. Number of Nodes in the Sub-Tree With the Same Label](./cpp_solutions/1519.cpp)
+- **M** [1530. Number of Good Leaf Nodes Pairs](./cpp_solutions/1530.cpp)
 - **M** [1650. Lowest Common Ancestor of a Binary Tree III](./cpp_solutions/1650.cpp)
 - **M** [2096. Step-By-Step Directions From a Binary Tree Node to Another](./cpp_solutions/2096.cpp)
 - **M** [2196. Create Binary Tree From Descriptions](./cpp_solutions/2196.cpp)
