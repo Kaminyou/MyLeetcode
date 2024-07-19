@@ -351,6 +351,7 @@
 - **M** [1329. Sort the Matrix Diagonally](./cpp_solutions/1329.cpp)
 - **E** [1337. The K Weakest Rows in a Matrix](./cpp_solutions/1337.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./cpp_solutions/1351.cpp)
+- **E** [1380. Lucky Numbers in a Matrix](./cpp_solutions/1380.cpp)
 - **E** [1572. Matrix Diagonal Sum](./cpp_solutions/1572.cpp)
 - **E** [1582. Special Positions in a Binary Matrix](./cpp_solutions/1582.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./cpp_solutions/2257.cpp)
