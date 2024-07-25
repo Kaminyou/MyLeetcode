@@ -35,6 +35,7 @@
 - **M** [831. Masking Personal Information](./cpp_solutions/831.cpp)
 - **E** [859. Buddy Strings](./cpp_solutions/859.cpp)
 - **M** [874. Walking Robot Simulation](./cpp_solutions/874.cpp)
+- **M** [912. Sort an Array](./cpp_solutions/912.cpp)
 - **E** [929. Unique Email Addresses](./cpp_solutions/929.cpp)
 - **E** [937. Reorder Data in Log Files](./cpp_solutions/937.cpp)
 - **E** [944. Delete Columns to Make Sorted](./cpp_solutions/944.cpp)
