@@ -1172,6 +1172,8 @@
 - **H** [2097. Valid Arrangement of Pairs](./cpp_solutions/2097.cpp)
 #### Minimum Spanning Tree
 - **H** [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./cpp_solutions/1489.cpp)
+#### Floyd-warshall
+- **M** [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](./cpp_solutions/1334.cpp)
 
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./cpp_solutions/4.cpp)
