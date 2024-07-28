@@ -562,6 +562,7 @@
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./cpp_solutions/1926.cpp)
+- **H** [2045. Second Minimum Time to Reach Destination](./cpp_solutions/2045.cpp)
 - **H** [2258. Escape the Spreading Fire](./cpp_solutions/2258.cpp)
 - **H** [2290. Minimum Obstacle Removal to Reach Corner](./cpp_solutions/2290.cpp)
 - **M** [2471. Minimum Number of Operations to Sort a Binary Tree by Level](./cpp_solutions/2471.cpp)
