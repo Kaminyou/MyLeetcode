@@ -299,6 +299,7 @@
 - **M** [930. Binary Subarrays With Sum](./cpp_solutions/930.cpp)
 - **E** [1480. Running Sum of 1d Array](./cpp_solutions/1480.cpp)
 - **M** [1493. Longest Subarray of 1's After Deleting One Element](./cpp_solutions/1493.cpp)
+- **M** [1653. Minimum Deletions to Make String Balanced](./cpp_solutions/1653.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./cpp_solutions/2031.cpp)
 - **M** [2090. K Radius Subarray Averages](./cpp_solutions/2090.cpp)
 - **M** [2256. Minimum Average Difference](./cpp_solutions/2256.cpp)
