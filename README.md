@@ -826,6 +826,7 @@
 - **M** [2007. Find Original Array From Doubled Array](./cpp_solutions/2007.cpp)
 - **M** [2013. Detect Squares](./cpp_solutions/2013.cpp)
 - **M** [2023. Number of Pairs of Strings With Concatenation Equal to Target](./cpp_solutions/2023.cpp)
+- **E** [2053. Kth Distinct String in an Array](./cpp_solutions/2053.cpp)
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./cpp_solutions/2131.cpp)
 - **M** [2135. Count Words Obtained After Adding a Letter](./cpp_solutions/2135.cpp)
 - **E** [2215. Find the Difference of Two Arrays](./cpp_solutions/2215.cpp)
