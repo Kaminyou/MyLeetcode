@@ -745,6 +745,7 @@
 - **H** [2732. Find a Good Subset of the Matrix](./cpp_solutions/2732.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
+- **M** [3016. Minimum Number of Pushes to Type Word II](./cpp_solutions/3016.cpp)
 - **H** [3068. Find the Maximum Sum of Node Values](./cpp_solutions/3068.cpp)
 - **M** [3191. Minimum Operations to Make Binary Array Elements Equal to One I](./cpp_solutions/3191.cpp)
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
