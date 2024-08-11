@@ -587,6 +587,7 @@
 - **M** [1059. All Paths from Source Lead to Destination](./cpp_solutions/1059.cpp)
 - **M** [1219. Path with Maximum Gold](./cpp_solutions/1219.cpp)
 - **M** [1376. Time Needed to Inform All Employees](./cpp_solutions/1376.cpp)
+- **H** [1568. Minimum Number of Days to Disconnect Island](./cpp_solutions/1568.cpp)
 - **M** [1706. Where Will the Ball Fall](./cpp_solutions/1706.cpp)
 - **E** [1971. Find if Path Exists in Graph](./cpp_solutions/1971.cpp)
 - **M** [1992. Find All Groups of Farmland](./cpp_solutions/1992.cpp)
