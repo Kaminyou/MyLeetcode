@@ -1108,6 +1108,7 @@
 - **H** [502. IPO](./cpp_solutions/502.cpp)
 - **M** [621. Task Scheduler](./cpp_solutions/621.cpp)
 - **M** [692. Top K Frequent Words](./cpp_solutions/692.cpp)
+- **E** [703. Kth Largest Element in a Stream](./cpp_solutions/703.cpp)
 - **M** [767. Reorganize String](./cpp_solutions/767.cpp)
 - **M** [973. K Closest Points to Origin](./cpp_solutions/973.cpp)
 - **E** [1046. Last Stone Weight](./cpp_solutions/1046.cpp)
