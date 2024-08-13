@@ -23,3 +23,43 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    vector<vector<int>> res;
+    void backtracking(vector<int>& current, int index, vector<int>& nums, unordered_map<int, int>& mp, int target) {
+        int n = nums.size();
+        if (target == 0) {
+            res.push_back(current);
+            return;
+        }
+        if (target < 0) {
+            return;
+        }
+        for (int i = index; i < n; ++i) {
+            int num = nums[i];
+            int cnt = mp[num];
+            for (int j = 1; j <= cnt; ++j) {
+                current.push_back(num);
+                backtracking(current, i + 1, nums, mp, target - j * num);
+            }
+            for (int j = 1; j <= cnt; ++j) {
+                current.pop_back();
+            }
+        }
+    }
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        unordered_map<int, int> mp;
+        for (auto& candidate : candidates) {
+            mp[candidate]++;
+        }
+        vector<int> nums;
+        for (auto& [num, cnt] : mp) {
+            nums.push_back(num);
+        }
+        sort(nums.begin(), nums.end());
+        vector<int> current;
+        backtracking(current, 0, nums, mp, target);
+        return res;
+    }
+};
