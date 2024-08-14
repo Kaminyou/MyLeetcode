@@ -1208,6 +1208,7 @@
 - **M** [658. Find K Closest Elements](./cpp_solutions/658.cpp)
 - **M** [702. Search in a Sorted Array of Unknown Size](./cpp_solutions/702.cpp)
 - **E** [704. Binary Search](./cpp_solutions/704.cpp)
+- **H** [719. Find K-th Smallest Pair Distance](./cpp_solutions/719.cpp)
 - **E** [744. Find Smallest Letter Greater Than Target](./cpp_solutions/744.cpp)
 - **H** [774. Minimize Max Distance to Gas Station](./cpp_solutions/774.cpp)
 - **M** [786. K-th Smallest Prime Fraction](./cpp_solutions/786.cpp)
