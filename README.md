@@ -566,6 +566,7 @@
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./cpp_solutions/1293.cpp)
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
+- **M** [1905. Count Sub Islands](./cpp_solutions/1905.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./cpp_solutions/1926.cpp)
 - **H** [2045. Second Minimum Time to Reach Destination](./cpp_solutions/2045.cpp)
 - **H** [2258. Escape the Spreading Fire](./cpp_solutions/2258.cpp)
