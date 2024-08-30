@@ -1158,6 +1158,7 @@
 - **H** [882. Reachable Nodes In Subdivided Graph](./cpp_solutions/882.cpp)
 - **H** [2617. Minimum Number of Visited Cells in a Grid](./cpp_solutions/2617.cpp)
 - **H** [2642. Design Graph With Shortest Path Calculator](./cpp_solutions/2642.cpp)
+- **H** [2699. Modify Graph Edge Weights](./cpp_solutions/2699.cpp)
 - **M** [2812. Find the Safest Path in a Grid](./cpp_solutions/2812.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./cpp_solutions/787.cpp)
