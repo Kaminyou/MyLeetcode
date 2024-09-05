@@ -279,6 +279,7 @@
 - **E** [1913. Maximum Product Difference Between Two Pairs](./cpp_solutions/1913.cpp)
 - **E** [1920. Build Array from Permutation](./cpp_solutions/1920.cpp)
 - **E** [1929. Concatenation of Array](./cpp_solutions/1929.cpp)
+- **M** [2028. Find Missing Observations](./cpp_solutions/2028.cpp)
 - **H** [2147. Number of Ways to Divide a Long Corridor](./cpp_solutions/2147.cpp)
 - **M** [2191. Sort the Jumbled Numbers](./cpp_solutions/2191.cpp)
 - **E** [2259. Remove Digit From Number to Maximize Result](./cpp_solutions/2259.cpp)
