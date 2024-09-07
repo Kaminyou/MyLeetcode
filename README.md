@@ -417,6 +417,7 @@
 - **M** [2181. Merge Nodes in Between Zeros](./cpp_solutions/2181.cpp)
 - **H** [2296. Design a Text Editor](./cpp_solutions/2296.cpp)
 - **M** [2816. Double a Number Represented as a Linked List](./cpp_solutions/2816.cpp)
+- **M** [3217. Delete Nodes From Linked List Present in Array](./cpp_solutions/3217.cpp)
 
 ### Two pointers
 - **M** [3. Longest Substring Without Repeating Characters](./cpp_solutions/3.cpp)
