@@ -1039,6 +1039,7 @@
 - **M** [1302. Deepest Leaves Sum](./cpp_solutions/1302.cpp)
 - **M** [1339. Maximum Product of Splitted Binary Tree](./cpp_solutions/1339.cpp)
 - **M** [1361. Validate Binary Tree Nodes](./cpp_solutions/1361.cpp)
+- **M** [1367. Linked List in Binary Tree](./cpp_solutions/1367.cpp)
 - **M** [1372. Longest ZigZag Path in a Binary Tree](./cpp_solutions/1372.cpp)
 - **M** [1382. Balance a Binary Search Tree](./cpp_solutions/1382.cpp)
 - **M** [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./cpp_solutions/1379.cpp)
