@@ -416,6 +416,7 @@
 - **M** [2095. Delete the Middle Node of a Linked List](./cpp_solutions/2095.cpp)
 - **M** [2181. Merge Nodes in Between Zeros](./cpp_solutions/2181.cpp)
 - **H** [2296. Design a Text Editor](./cpp_solutions/2296.cpp)
+- **M** [2807. Insert Greatest Common Divisors in Linked List](./cpp_solutions/2807.cpp)
 - **M** [2816. Double a Number Represented as a Linked List](./cpp_solutions/2816.cpp)
 - **M** [3217. Delete Nodes From Linked List Present in Array](./cpp_solutions/3217.cpp)
 
