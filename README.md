@@ -301,6 +301,7 @@
 - **M** [325. Maximum Size Subarray Sum Equals k](./cpp_solutions/325.cpp)
 - **M** [848. Shifting Letters](./cpp_solutions/848.cpp)
 - **M** [930. Binary Subarrays With Sum](./cpp_solutions/930.cpp)
+- **M** [1310. XOR Queries of a Subarray](./cpp_solutions/1310.cpp)
 - **E** [1480. Running Sum of 1d Array](./cpp_solutions/1480.cpp)
 - **M** [1493. Longest Subarray of 1's After Deleting One Element](./cpp_solutions/1493.cpp)
 - **M** [1508. Range Sum of Sorted Subarray Sums](./cpp_solutions/1508.cpp)]
