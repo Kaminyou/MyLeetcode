@@ -820,6 +820,7 @@
 - **M** [1297. Maximum Number of Occurrences of a Substring](./cpp_solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./cpp_solutions/1338.cpp)
 - **M** [1347. Minimum Number of Steps to Make Two Strings Anagram](./cpp_solutions/1347.cpp)
+- **M** [1371. Find the Longest Substring Containing Vowels in Even Counts](./cpp_solutions/1371.cpp)
 - **M** [1424. Diagonal Traverse II](./cpp_solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./cpp_solutions/1461.cpp)
 - **M** [1481. Least Number of Unique Integers after K Removals](./cpp_solutions/1481.cpp)
