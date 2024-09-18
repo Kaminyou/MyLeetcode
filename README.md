@@ -153,6 +153,7 @@
 - **M** [71. Simplify Path](./cpp_solutions/71.cpp)
 - **M** [151. Reverse Words in a String](./cpp_solutions/151.cpp)
 - **M** [165. Compare Version Numbers](./cpp_solutions/165.cpp)
+- **M** [179. Largest Number](./cpp_solutions/179.cpp)
 - **M** [271. Encode and Decode Strings](./cpp_solutions/271.cpp)
 - **H** [273. Integer to English Words](./cpp_solutions/273.cpp)
 - **M** [385. Mini Parser](./cpp_solutions/385.cpp)
