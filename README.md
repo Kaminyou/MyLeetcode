@@ -1554,6 +1554,7 @@
 - **M** [758. Bold Words in String](./cpp_solutions/758.cpp)
 - **M** [820. Short Encoding of Words](./cpp_solutions/820.cpp)
 - **H** [2416. Sum of Prefix Scores of Strings](./cpp_solutions/2416.cpp)
+- **M** [3043. Find the Length of the Longest Common Prefix](./cpp_solutions/3043.cpp)
 
 ### Binary Index Tree (Fenwick tree)
 - **M** [307. Range Sum Query - Mutable](./cpp_solutions/307.cpp)
