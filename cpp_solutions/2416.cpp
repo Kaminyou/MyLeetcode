@@ -1,10 +1,10 @@
 class TrieNode {
 public:
-    vector<TrieNode*> children;
+    TrieNode* children[26];
     bool isEnd;
     int numOfSubNodes;
     TrieNode () {
-        children.resize(26);
+        memset(children, 0, sizeof(children));
         isEnd = false;
         numOfSubNodes = 0;
     }
