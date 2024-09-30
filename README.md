@@ -903,6 +903,7 @@
 - **E** [1047. Remove All Adjacent Duplicates In String](./cpp_solutions/1047.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./cpp_solutions/1209.cpp)
 - **M** [1249. Minimum Remove to Make Valid Parentheses](./cpp_solutions/1249.cpp)
+- **M** [1381. Design a Stack With Increment Operation](./cpp_solutions/1381.cpp)
 - **M** [1472. Design Browser History](./cpp_solutions/1472.cpp)
 - **E** [1544. Make The String Great](./cpp_solutions/1544.cpp)
 - **M** [1717. Maximum Score From Removing Substrings](./cpp_solutions/1717.cpp)
