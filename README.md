@@ -826,6 +826,7 @@
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./cpp_solutions/1461.cpp)
 - **M** [1481. Least Number of Unique Integers after K Removals](./cpp_solutions/1481.cpp)
 - **E** [1496. Path Crossing](./cpp_solutions/1496.cpp)
+- **M** [1497. Check If Array Pairs Are Divisible by k](./cpp_solutions/1497.cpp)
 - **E** [1512. Number of Good Pairs](./cpp_solutions/1512.cpp)
 - **M** [1615. Maximal Network Rank](./cpp_solutions/1615.cpp)
 - **M** [1637. Widest Vertical Area Between Two Points Containing No Points](./cpp_solutions/1637.cpp)
