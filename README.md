@@ -202,6 +202,7 @@
 - **E** [1758. Minimum Changes To Make Alternating Binary String](./cpp_solutions/1758.cpp)
 - **M** [1759. Count Number of Homogenous Substrings](./cpp_solutions/1759.cpp)
 - **E** [1768. Merge Strings Alternately](./cpp_solutions/1768.cpp)
+- **M** [1813. Sentence Similarity III](./cpp_solutions/1813.cpp)
 - **E** [1897. Redistribute Characters to Make All Strings Equal](./cpp_solutions/1897.cpp)
 - **E** [1903. Largest Odd Number in String](./cpp_solutions/1903.cpp)
 - **E** [1945. Sum of Digits of String After Convert](./cpp_solutions/1945.cpp)
