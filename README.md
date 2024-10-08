@@ -706,6 +706,7 @@
 - **M** [1833. Maximum Ice Cream Bars](./cpp_solutions/1833.cpp)
 - **M** [1877. Minimize Maximum Pair Sum in Array](./cpp_solutions/1877.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
+- **M** [1963. Minimum Number of Swaps to Make the String Balanced](./cpp_solutions/1963.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./cpp_solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./cpp_solutions/1996.cpp)
 - **E** [2037. Minimum Number of Moves to Seat Everyone](./cpp_solutions/2037.cpp)
