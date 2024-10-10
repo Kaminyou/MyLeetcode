@@ -926,6 +926,7 @@
 - **M** [795. Number of Subarrays with Bounded Maximum](./cpp_solutions/795.cpp)
 - **M** [901. Online Stock Span](./cpp_solutions/901.cpp)
 - **M** [907. Sum of Subarray Minimums](./cpp_solutions/907.cpp)
+- **M** [962. Maximum Width Ramp](./cpp_solutions/962.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./cpp_solutions/1130.cpp)
 - **M** [1504. Count Submatrices With All Ones](./cpp_solutions/1504.cpp)
 - **M** [1673. Find the Most Competitive Subsequence](./cpp_solutions/1673.cpp)
