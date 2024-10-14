@@ -1,19 +1,15 @@
 class Solution {
 public:
     long long maxKelements(vector<int>& nums, int k) {
-        long long sum = 0;
-        priority_queue<int> pq;
-        for (auto& num : nums) pq.push(num);
-        while (k) {
-            int maxVal = pq.top();
+        long long res = 0;
+        priority_queue<int> pq(nums.begin(), nums.end());
+        while (k--) {
+            int num = pq.top();
             pq.pop();
-            bool isDivided = (maxVal % 3 == 0);
-            int toStore = maxVal / 3;
-            if (!isDivided) toStore++;
-            pq.push(toStore);
-            sum += (maxVal);
-            k--;
+            res += num;
+            num = (num + 2) / 3;
+            pq.push(num);
         }
-        return sum;
+        return res;
     }
 };
