@@ -322,6 +322,7 @@
 - **M** [2602. Minimum Operations to Make All Array Elements Equal](./cpp_solutions/2602.cpp)
 - **M** [2640. Find the Score of All Prefixes of an Array](./cpp_solutions/2640.cpp)
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
+- **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
