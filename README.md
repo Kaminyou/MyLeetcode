@@ -1137,6 +1137,7 @@
 - **M** [1229. Meeting Scheduler](./cpp_solutions/1229.cpp)
 - **M** [1353. Maximum Number of Events That Can Be Attended](./cpp_solutions/1353.cpp)
 - **H** [1383. Maximum Performance of a Team](./cpp_solutions/1383.cpp)
+- **M** [1405. Longest Happy String](./cpp_solutions/1405.cpp)
 - **H** [1606. Find Servers That Handled Most Number of Requests](./cpp_solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./cpp_solutions/1642.cpp)
 - **M** [1834. Single-Threaded CPU](./cpp_solutions/1834.cpp)
