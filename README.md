@@ -198,6 +198,7 @@
 - **M** [1328. Break a Palindrome](./cpp_solutions/1328.cpp)
 - **E** [1331. Rank Transform of an Array](./cpp_solutions/1331.cpp)
 - **E** [1422. Maximum Score After Splitting a String](./cpp_solutions/1422.cpp)
+- **M** [1545. Find Kth Bit in Nth Binary String](./cpp_solutions/1545.cpp)
 - **E** [1614. Maximum Nesting Depth of the Parentheses](./cpp_solutions/1614.cpp)
 - **E** [1758. Minimum Changes To Make Alternating Binary String](./cpp_solutions/1758.cpp)
 - **M** [1759. Count Number of Homogenous Substrings](./cpp_solutions/1759.cpp)
