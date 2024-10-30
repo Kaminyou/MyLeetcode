@@ -1281,6 +1281,7 @@
 - **M** [2616. Minimize the Maximum Difference of Pairs](./cpp_solutions/2616.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./cpp_solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
+- **H** [1671. Minimum Number of Removals to Make Mountain Array](./cpp_solutions/1671.cpp)
 - **H** [1964. Find the Longest Valid Obstacle Course at Each Position](./cpp_solutions/1964.cpp)
 
 
