@@ -209,6 +209,7 @@
 - **E** [1897. Redistribute Characters to Make All Strings Equal](./cpp_solutions/1897.cpp)
 - **E** [1903. Largest Odd Number in String](./cpp_solutions/1903.cpp)
 - **E** [1945. Sum of Digits of String After Convert](./cpp_solutions/1945.cpp)
+- **E** [1957. Delete Characters to Make Fancy String](./cpp_solutions/1957.cpp)
 - **M** [1980. Find Unique Binary String](./cpp_solutions/1980.cpp)
 - **E** [2000. Reverse Prefix of Word](./cpp_solutions/2000.cpp)
 - **E** [2108. Find First Palindromic String in the Array](./cpp_solutions/2108.cpp)
