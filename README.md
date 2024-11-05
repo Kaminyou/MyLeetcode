@@ -647,7 +647,7 @@
 - **M** [2685. Count the Number of Complete Components](./cpp_solutions/2685.cpp)
 - **H** [2709. Greatest Common Divisor Traversal](./cpp_solutions/2709.cpp)
 
-### Greedy
+
 - **H** [32. Longest Valid Parentheses](./cpp_solutions/32.cpp)
 - **M** [45. Jump Game II](./cpp_solutions/45.cpp)
 - **E** [53. Maximum Subarray](./cpp_solutions/53.cpp)
@@ -764,6 +764,7 @@
 - **M** [2712. Minimum Cost to Make All Characters Equal](./cpp_solutions/2712.cpp)
 - **E** [2717. Semi-Ordered Permutation](./cpp_solutions/2717.cpp)
 - **H** [2732. Find a Good Subset of the Matrix](./cpp_solutions/2732.cpp)
+- **M** [2914. Minimum Number of Changes to Make Binary String Beautiful](./cpp_solutions/2914.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
 - **M** [3016. Minimum Number of Pushes to Type Word II](./cpp_solutions/3016.cpp)
