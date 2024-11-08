@@ -1543,6 +1543,7 @@
 - **M** [1404. Number of Steps to Reduce a Number in Binary Representation to One](./cpp_solutions/1404.cpp)
 - **H** [1601. Maximum Number of Achievable Transfer Requests](./cpp_solutions/1601.cpp)
 - **M** [1680. Concatenation of Consecutive Binary Numbers](./cpp_solutions/1680.cpp)
+- **M** [1829. Maximum XOR for Each Query](./cpp_solutions/1829.cpp)
 - **E** [1863. Sum of All Subset XOR Totals](./cpp_solutions/1863.cpp)
 - **E** [2220. Minimum Bit Flips to Convert Number](./cpp_solutions/2220.cpp)
 - **M** [2275. Largest Combination With Bitwise AND Greater Than Zero](./cpp_solutions/2275.cpp)
