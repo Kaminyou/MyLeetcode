@@ -503,6 +503,7 @@
 - **M** [2730. Find the Longest Semi-Repetitive Substring](./cpp_solutions/2730.cpp)
 - **M** [2958. Length of Longest Subarray With at Most K Frequency](./cpp_solutions/2958.cpp)
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
+- **M** [3097. Shortest Subarray With OR at Least K II](./cpp_solutions/3097.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./cpp_solutions/17.cpp)
