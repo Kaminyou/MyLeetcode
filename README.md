@@ -316,6 +316,7 @@
 - **M** [1653. Minimum Deletions to Make String Balanced](./cpp_solutions/1653.cpp)
 - **M** [1894. Find the Student that Will Replace the Chalk](./cpp_solutions/1894.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./cpp_solutions/2031.cpp)
+- **M** [2070. Most Beautiful Item for Each Query](./cpp_solutions/2070.cpp)
 - **M** [2090. K Radius Subarray Averages](./cpp_solutions/2090.cpp)
 - **M** [2256. Minimum Average Difference](./cpp_solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./cpp_solutions/2270.cpp)
