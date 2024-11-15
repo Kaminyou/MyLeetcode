@@ -474,6 +474,7 @@
 - **M** [1456. Maximum Number of Vowels in a Substring of Given Length](./cpp_solutions/1456.cpp)
 - **M** [1498. Number of Subsequences That Satisfy the Given Sum Condition](./cpp_solutions/1498.cpp)
 - **M** [1570. Dot Product of Two Sparse Vectors](./cpp_solutions/1570.cpp)
+- **M** [1574. Shortest Subarray to be Removed to Make Array Sorted](./cpp_solutions/1574.cpp)
 - **H** [1610. Maximum Number of Visible Points](./cpp_solutions/1610.cpp)
 - **M** [1658. Minimum Operations to Reduce X to Zero](./cpp_solutions/1658.cpp)
 - **M** [1695. Maximum Erasure Value](./cpp_solutions/1695.cpp)
