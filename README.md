@@ -826,6 +826,7 @@
 - **E** [961. N-Repeated Element in Size 2N Array](./cpp_solutions/961.cpp)
 - **M** [974. Subarray Sums Divisible by K](./cpp_solutions/974.cpp)
 - **M** [1010. Pairs of Songs With Total Durations Divisible by 60](./cpp_solutions/1010.cpp)
+- **M** [1072. Flip Columns For Maximum Number of Equal Rows](./cpp_solutions/1072.cpp)
 - **M** [1152. Analyze User Website Visit Pattern](./cpp_solutions/1152.cpp)
 - **H** [1153. String Transforms Into Another String](./cpp_solutions/1153.cpp)
 - **E** [1160. Find Words That Can Be Formed by Characters](./cpp_solutions/1160.cpp)
