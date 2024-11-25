@@ -654,7 +654,7 @@
 - **M** [2685. Count the Number of Complete Components](./cpp_solutions/2685.cpp)
 - **H** [2709. Greatest Common Divisor Traversal](./cpp_solutions/2709.cpp)
 
-
+### Greedy
 - **H** [32. Longest Valid Parentheses](./cpp_solutions/32.cpp)
 - **M** [45. Jump Game II](./cpp_solutions/45.cpp)
 - **E** [53. Maximum Subarray](./cpp_solutions/53.cpp)
@@ -722,6 +722,7 @@
 - **M** [1877. Minimize Maximum Pair Sum in Array](./cpp_solutions/1877.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
 - **M** [1963. Minimum Number of Swaps to Make the String Balanced](./cpp_solutions/1963.cpp)
+- **M** [1975. Maximum Matrix Sum](./cpp_solutions/1975.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./cpp_solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./cpp_solutions/1996.cpp)
 - **E** [2037. Minimum Number of Moves to Seat Everyone](./cpp_solutions/2037.cpp)
