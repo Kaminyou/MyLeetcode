@@ -1216,6 +1216,7 @@
 - **H** [2127. Maximum Employees to Be Invited to a Meeting](./cpp_solutions/2127.cpp)
 - **M** [2192. All Ancestors of a Node in a Directed Acyclic Graph](./cpp_solutions/2192.cpp)
 - **H** [2392. Build a Matrix With Conditions](./cpp_solutions/2392.cpp)
+- **M** [2924. Find Champion II](./cpp_solutions/2924.cpp)
 #### Tarjan's algorithm
 - **H** [1192. Critical Connections in a Network](./cpp_solutions/1192.cpp)
 #### Hierholzer's algorithm
