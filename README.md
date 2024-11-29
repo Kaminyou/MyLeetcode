@@ -1193,6 +1193,7 @@
 - **M** [743. Network Delay Time](./cpp_solutions/743.cpp)
 - **H** [778. Swim in Rising Water](./cpp_solutions/778.cpp)
 - **H** [882. Reachable Nodes In Subdivided Graph](./cpp_solutions/882.cpp)
+- **H** [2577. Minimum Time to Visit a Cell In a Grid](./cpp_solutions/2577.cpp)
 - **H** [2617. Minimum Number of Visited Cells in a Grid](./cpp_solutions/2617.cpp)
 - **H** [2642. Design Graph With Shortest Path Calculator](./cpp_solutions/2642.cpp)
 - **H** [2699. Modify Graph Edge Weights](./cpp_solutions/2699.cpp)
