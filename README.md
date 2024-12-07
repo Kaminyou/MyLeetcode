@@ -1276,6 +1276,7 @@
 - **M** [1552. Magnetic Force Between Two Balls](./cpp_solutions/1552.cpp)
 - **E** [1608. Special Array With X Elements Greater Than or Equal X](./cpp_solutions/1608.cpp)
 - **H** [1755. Closest Subsequence Sum](./cpp_solutions/1755.cpp)
+- **M** [1760. Minimum Limit of Balls in a Bag](./cpp_solutions/1760.cpp)
 - **M** [1802. Maximum Value at a Given Index in a Bounded Array](./cpp_solutions/1802.cpp)
 - **H** [1847. Closest Room](./cpp_solutions/1847.cpp)
 - **M** [1870. Minimum Speed to Arrive on Time](./cpp_solutions/1870.cpp)
