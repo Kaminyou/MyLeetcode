@@ -231,6 +231,7 @@
 - **E** [2729. Check if The Number is Fascinating](./cpp_solutions/2729.cpp)
 - **M** [2734. Lexicographically Smallest String After Substring Operation](./cpp_solutions/2734.cpp)
 - **E** [2864. Maximum Odd Binary Number](./cpp_solutions/2864.cpp)
+- **M** [2981. Find Longest Special Substring That Occurs Thrice I](./cpp_solutions/2981.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
