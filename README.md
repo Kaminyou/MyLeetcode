@@ -509,6 +509,7 @@
 - **H** [2565. Subsequence With the Minimum Score](./cpp_solutions/2565.cpp)
 - **M** [2653. Sliding Subarray Beauty](./cpp_solutions/2653.cpp)
 - **M** [2730. Find the Longest Semi-Repetitive Substring](./cpp_solutions/2730.cpp)
+- **M** [2779. Maximum Beauty of an Array After Applying Operation](./cpp_solutions/2779.cpp)
 - **M** [2825. Make String a Subsequence Using Cyclic Increments](./cpp_solutions/2825.cpp)
 - **M** [2958. Length of Longest Subarray With at Most K Frequency](./cpp_solutions/2958.cpp)
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
