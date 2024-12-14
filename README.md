@@ -987,6 +987,7 @@
 - **M** [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./cpp_solutions/1438.cpp)
 - **H** [1499. Max Value of Equation](./cpp_solutions/1499.cpp)
 - **M** [1696. Jump Game VI](./cpp_solutions/1696.cpp)
+- **M** [2762. Continuous Subarrays](./cpp_solutions/2762.cpp)
 
 ### Tree
 - **E** [94. Binary Tree Inorder Traversal](./cpp_solutions/94.cpp)
