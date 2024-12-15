@@ -1167,6 +1167,7 @@
 - **M** [1405. Longest Happy String](./cpp_solutions/1405.cpp)
 - **H** [1606. Find Servers That Handled Most Number of Requests](./cpp_solutions/1606.cpp)
 - **M** [1642. Furthest Building You Can Reach](./cpp_solutions/1642.cpp)
+- **M** [1792. Maximum Average Pass Ratio](./cpp_solutions/1792.cpp)]
 - **M** [1834. Single-Threaded CPU](./cpp_solutions/1834.cpp)
 - **M** [1845. Seat Reservation Manager](./cpp_solutions/1845.cpp)
 - **H** [1851. Minimum Interval to Include Each Query](./cpp_solutions/1851.cpp)
