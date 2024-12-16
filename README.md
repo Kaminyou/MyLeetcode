@@ -1185,6 +1185,7 @@
 - **M** [2593. Find Score of an Array After Marking All Elements](./cpp_solutions/2593.cpp)
 - **M** [3075. Maximize Happiness of Selected Children](./cpp_solutions/3075.cpp)
 - **M** [3080. Mark Elements on Array by Performing Queries](./cpp_solutions/3080.cpp)
+- **E** [3264. Final Array State After K Multiplication Operations I](./cpp_solutions/3264.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./cpp_solutions/399.cpp)
