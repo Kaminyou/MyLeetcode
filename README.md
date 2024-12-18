@@ -956,6 +956,7 @@
 - **M** [907. Sum of Subarray Minimums](./cpp_solutions/907.cpp)
 - **M** [962. Maximum Width Ramp](./cpp_solutions/962.cpp)
 - **M** [1130. Minimum Cost Tree From Leaf Values](./cpp_solutions/1130.cpp)
+- **E** [1475. Final Prices With a Special Discount in a Shop](./cpp_solutions/1475.cpp)
 - **M** [1504. Count Submatrices With All Ones](./cpp_solutions/1504.cpp)
 - **M** [1673. Find the Most Competitive Subsequence](./cpp_solutions/1673.cpp)
 - **M** [1762. Buildings With an Ocean View](./cpp_solutions/1762.cpp)
