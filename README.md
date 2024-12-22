@@ -970,6 +970,7 @@
 - **H** [2334. Subarray With Elements Greater Than Varying Threshold](./cpp_solutions/2334.cpp)
 - **H** [2454. Next Greater Element IV](./cpp_solutions/2454.cpp)
 - **M** [2487. Remove Nodes From Linked List](./cpp_solutions/2487.cpp)
+- **H** [2940. Find Building Where Alice and Bob Can Meet](./cpp_solutions/2940.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./cpp_solutions/225.cpp)
