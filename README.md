@@ -606,6 +606,7 @@
 - **H** [2493. Divide Nodes Into the Maximum Number of Groups](./cpp_solutions/2493.cpp)
 - **H** [2608. Shortest Cycle in a Graph](./cpp_solutions/2608.cpp)
 - **M** [2658. Maximum Number of Fish in a Grid](./cpp_solutions/2658.cpp)
+- **H** [3203. Find Minimum Diameter After Merging Two Trees](./cpp_solutions/3203.cpp)
 - **M** [3243. Shortest Distance After Road Addition Queries I](./cpp_solutions/3243.cpp)
 
 ### DFS
