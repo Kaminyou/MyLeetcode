@@ -712,6 +712,7 @@
 - **M** [948. Bag of Tokens](./cpp_solutions/948.cpp)
 - **H** [968. Binary Tree Cameras](./cpp_solutions/968.cpp)
 - **E** [976. Largest Perimeter Triangle](./cpp_solutions/976.cpp)
+- **M** [1014. Best Sightseeing Pair](./cpp_solutions/1014.cpp)
 - **M** [1055. Shortest Way to Form String](./cpp_solutions/1055.cpp)
 - **M** [1282. Group the People Given the Group Size They Belong To](./cpp_solutions/1282.cpp)
 - **H** [1326. Minimum Number of Taps to Open to Water a Garden](./cpp_solutions/1326.cpp)
