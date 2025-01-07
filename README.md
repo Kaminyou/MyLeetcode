@@ -50,6 +50,7 @@
 - **E** [1323. Maximum 69 Number](./cpp_solutions/1323.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./cpp_solutions/1332.cpp)
 - **E** [1356. Sort Integers by The Number of 1 Bits](./cpp_solutions/1356.cpp)
+- **E** [1408. String Matching in an Array](./cpp_solutions/1408.cpp)
 - **E** [1431. Kids With the Greatest Number of Candies](./cpp_solutions/1431.cpp)
 - **E** [1441. Build an Array With Stack Operations](./cpp_solutions/1441.cpp)
 - **E** [1464. Maximum Product of Two Elements in an Array](./cpp_solutions/1464.cpp)
