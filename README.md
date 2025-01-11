@@ -721,6 +721,7 @@
 - **M** [1282. Group the People Given the Group Size They Belong To](./cpp_solutions/1282.cpp)
 - **H** [1326. Minimum Number of Taps to Open to Water a Garden](./cpp_solutions/1326.cpp)
 - **H** [1354. Construct Target Array With Multiple Sums](./cpp_solutions/1354.cpp)
+- **M** [1400. Construct K Palindrome Strings](./cpp_solutions/1400.cpp)
 - **H** [1402. Reducing Dishes](./cpp_solutions/1402.cpp)
 - **M** [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](./cpp_solutions/1465.cpp)
 - **M** [1503. Last Moment Before All Ants Fall Out of a Plank](./cpp_solutions/1503.cpp)
