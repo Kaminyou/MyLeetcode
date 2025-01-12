@@ -747,6 +747,7 @@
 - **M** [2054. Two Best Non-Overlapping Events](./cpp_solutions/2054.cpp)
 - **E** [2073. Time Needed to Buy Tickets](./cpp_solutions/2073.cpp)
 - **M** [2079. Watering Plants](./cpp_solutions/2079.cpp)
+- **M** [2116. Check if a Parentheses String Can Be Valid](./cpp_solutions/2116.cpp)
 - **H** [2136. Earliest Possible Day of Full Bloom](./cpp_solutions/2136.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./cpp_solutions/2279.cpp)
 - **M** [2285. Maximum Total Importance of Roads](./cpp_solutions/2285.cpp)
