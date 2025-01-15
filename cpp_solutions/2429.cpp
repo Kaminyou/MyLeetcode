@@ -1,48 +1,28 @@
 class Solution {
 public:
     int minimizeXor(int num1, int num2) {
-        int n = __builtin_popcount(num2);
-        int m = __builtin_popcount(num1);
+        int count = __builtin_popcount(num2);
+        vector<bool> binary(32, false);
         int res = 0;
-        int index = 0;
-        if (m > n) {
-            vector<bool> v;
-            while (num1 > 0) {
-                if (num1 & 1) {
-                    v.push_back(true);
-                }
-                else v.push_back(false);
-                index++;
-                num1 >>= 1;
-            }
-            int k = v.size() - 1;
-            while (n > 0) {
-                if (v[k] == true) {
-                    res += (1 << k);
-                    n--;
-                }
-                k--;
-            }
-            
-            return res;
-        }
-        if (m == n) return num1;
-        while (num1 && n > 0) {
-            if (num1 & 1) {
-                res += (1 << index);
-                n--;
-            }
-            index++;
+        int index = 31;
+        while (num1) {
+            if (num1 & 1) binary[index] = true;
             num1 >>= 1;
+            index--;
         }
-        index = 0;
-        while (n > 0) {
-            if ((((res & (1 << index)) >> index) & 1) == 0) {
-                res += (1 << index);
-                n--;
+        for (int i = 0; i < 32; ++i) {
+            if (count > 0 && binary[i]) {
+                res += (1 << (31 - i));
+                count--;
             }
-            index++;
+        }
+        for (int i = 31; i >= 0; --i) {
+            if (count > 0 && !binary[i]) {
+                res += (1 << (31 - i));
+                count--;
+            }
         }
         return res;
     }
 };
+
