@@ -1322,6 +1322,7 @@
 - **M** [2563. Count the Number of Fair Pairs](./cpp_solutions/2563.cpp)
 - **M** [2594. Minimum Time to Repair Cars](./cpp_solutions/2594.cpp)
 - **M** [2616. Minimize the Maximum Difference of Pairs](./cpp_solutions/2616.cpp)
+- **M** [3419. Minimize the Maximum Edge Weight of Graph](./cpp_solutions/3419.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./cpp_solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1671. Minimum Number of Removals to Make Mountain Array](./cpp_solutions/1671.cpp)
