@@ -1536,6 +1536,7 @@
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
+- **M** [3418. Maximum Amount of Money Robot Can Earn](./cpp_solutions/3418.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./cpp_solutions/2262.cpp)
