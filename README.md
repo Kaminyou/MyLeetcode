@@ -128,6 +128,7 @@
 - **E** [2733. Neither Minimum nor Maximum](./cpp_solutions/2733.cpp)
 - **E** [3110. Score of a String](./cpp_solutions/3110.cpp)
 - **E** [3190. Find Minimum Operations to Make All Elements Divisible by Three](./cpp_solutions/3190.cpp)
+- **E** [3411. Maximum Subarray With Equal Products](./cpp_solutions/3411.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
