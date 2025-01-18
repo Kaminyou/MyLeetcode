@@ -602,6 +602,7 @@
 - **H** [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./cpp_solutions/1284.cpp)
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./cpp_solutions/1293.cpp)
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
+- **H** [1368. Minimum Cost to Make at Least One Valid Path in a Grid](./cpp_solutions/1368.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
 - **M** [1905. Count Sub Islands](./cpp_solutions/1905.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./cpp_solutions/1926.cpp)
