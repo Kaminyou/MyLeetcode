@@ -605,6 +605,7 @@
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
 - **H** [1368. Minimum Cost to Make at Least One Valid Path in a Grid](./cpp_solutions/1368.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
+- **M** [1765. Map of Highest Peak](./cpp_solutions/1765.cpp)
 - **M** [1905. Count Sub Islands](./cpp_solutions/1905.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./cpp_solutions/1926.cpp)
 - **H** [2045. Second Minimum Time to Reach Destination](./cpp_solutions/2045.cpp)
