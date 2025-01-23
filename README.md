@@ -862,6 +862,7 @@
 - **M** [1218. Longest Arithmetic Subsequence of Given Difference](./cpp_solutions/1218.cpp)
 - **H** [1224. Maximum Equal Frequency](./cpp_solutions/1224.cpp)
 - **M** [1248. Count Number of Nice Subarrays](./cpp_solutions/1248.cpp)
+- **M** [1267. Count Servers that Communicate](./cpp_solutions/1267.cpp)
 - **M** [1297. Maximum Number of Occurrences of a Substring](./cpp_solutions/1297.cpp)
 - **M** [1338. Reduce Array Size to The Half](./cpp_solutions/1338.cpp)
 - **E** [1346. Check If N and Its Double Exist](./cpp_solutions/1346.cpp)
