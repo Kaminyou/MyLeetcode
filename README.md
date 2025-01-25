@@ -313,6 +313,7 @@
 - **M** [2644. Find the Maximum Divisibility Score](./cpp_solutions/2644.cpp)
 - **E** [2660. Determine the Winner of a Bowling Game](./cpp_solutions/2660.cpp)
 - **M** [2731. Movement of Robots](./cpp_solutions/2731.cpp)
+- **M** [2948. Make Lexicographically Smallest Array by Swapping Elements](./cpp_solutions/2948.cpp)
 - **M** [3011. Find if Array Can Be Sorted](./cpp_solutions/3011.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./cpp_solutions/325.cpp)
