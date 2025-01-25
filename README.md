@@ -343,6 +343,7 @@
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
+- **E** [3427. Sum of Variable Length Subarrays](./cpp_solutions/3427.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
