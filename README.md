@@ -1156,6 +1156,7 @@
 - **E** [2363. Merge Similar Items](./cpp_solutions/2363.cpp)
 - **H** [2382. Maximum Segment Sum After Removals](./cpp_solutions/2382.cpp)
 - **M** [2406. Divide Intervals Into Minimum Number of Groups](./cpp_solutions/2406.cpp)
+- **M** [3408. Design Task Manager](./cpp_solutions/3408.cpp)
 
 ### Multiset
 - **H** [218. The Skyline Problem](./cpp_solutions/218.cpp)
@@ -1546,6 +1547,7 @@
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3418. Maximum Amount of Money Robot Can Earn](./cpp_solutions/3418.cpp)
+- **M** [3429. Paint House IV](./cpp_solutions/3429.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./cpp_solutions/2262.cpp)
