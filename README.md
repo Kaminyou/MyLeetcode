@@ -238,6 +238,7 @@
 - **M** [2981. Find Longest Special Substring That Occurs Thrice I](./cpp_solutions/2981.cpp)
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
+- **M** [3403. Find the Lexicographically Largest String From the Box I](./cpp_solutions/3402.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./cpp_solutions/1044.cpp)
