@@ -1672,7 +1672,7 @@
 - **M** [251. Flatten 2D Vector](./cpp_solutions/251.cpp)
 - **M** [380. Insert Delete GetRandom O(1)](./cpp_solutions/380.cpp)
 - **H** [381. Insert Delete GetRandom O(1) - Duplicates allowed](./cpp_solutions/381.cpp)
-- **H** [432. All O`one Data Structure](./cpp_solutions/432.cpp)
+- **H** [432. All Oone Data Structure](./cpp_solutions/432.cpp)
 - **H** [460. LFU Cache](./cpp_solutions/460.cpp)
 - **M** [519. Random Flip Matrix](./cpp_solutions/519.cpp)
 - **E** [604. Design Compressed String Iterator](./cpp_solutions/604.cpp)
@@ -1694,6 +1694,7 @@
 - **H** [2272. Substring With Largest Variance](./cpp_solutions/2272.cpp)
 - **H** [2321. Maximum Score Of Spliced Array](./cpp_solutions/2321.cpp)
 - **M** [2606. Find the Substring With Maximum Cost](./cpp_solutions/2606.cpp)
+- **M** [3434. Maximum Frequency After Subarray Operation](./cpp_solutions/3434.cpp)
 #### Sieve of Eratosthenes
 - **H** [204. Count Primes](./cpp_solutions/204.cpp)
 #### Binary lifting
