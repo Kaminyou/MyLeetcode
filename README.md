@@ -941,6 +941,7 @@
 - **E** [3005. Count Elements With Maximum Frequency](./cpp_solutions/3005.cpp)
 - **M** [3039. Apply Operations to Make String Empty](./cpp_solutions/3039.cpp)
 - **M** [3223. Minimum Length of String After Operations](./cpp_solutions/3223.cpp)
+- **M** [3404. Count Special Subsequences](./cpp_solutions/3404.cpp)
 - **M** [3412. Find Mirror Score of a String](./cpp_solutions/3412.cpp)
 
 ### Stack
