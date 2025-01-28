@@ -809,6 +809,7 @@
 - **H** [3068. Find the Maximum Sum of Node Values](./cpp_solutions/3068.cpp)
 - **M** [3191. Minimum Operations to Make Binary Array Elements Equal to One I](./cpp_solutions/3191.cpp)
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
+- **M** [3397. Maximum Number of Distinct Elements After Operations](./cpp_solutions/3397.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./cpp_solutions/1.cpp)
