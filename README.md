@@ -316,6 +316,7 @@
 - **M** [2731. Movement of Robots](./cpp_solutions/2731.cpp)
 - **M** [2948. Make Lexicographically Smallest Array by Swapping Elements](./cpp_solutions/2948.cpp)
 - **M** [3011. Find if Array Can Be Sorted](./cpp_solutions/3011.cpp)
+- **E** [3392. Count Subarrays of Length Three With a Condition](./cpp_solutions/3392.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./cpp_solutions/325.cpp)
 - **M** [848. Shifting Letters](./cpp_solutions/848.cpp)
