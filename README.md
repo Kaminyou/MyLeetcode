@@ -1556,6 +1556,7 @@
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
+- **M** [3393. Count Paths With the Given XOR Value](./cpp_solutions/3393.cpp)
 - **M** [3409. Longest Subsequence With Decreasing Adjacent Difference](./cpp_solutions/3409.cpp)
 - **M** [3418. Maximum Amount of Money Robot Can Earn](./cpp_solutions/3418.cpp)
 - **M** [3429. Paint House IV](./cpp_solutions/3429.cpp)
