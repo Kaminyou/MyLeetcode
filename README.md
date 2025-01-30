@@ -750,6 +750,7 @@
 - **M** [1798. Maximum Number of Consecutive Values You Can Make](./cpp_solutions/1798.cpp)
 - **M** [1833. Maximum Ice Cream Bars](./cpp_solutions/1833.cpp)
 - **M** [1877. Minimize Maximum Pair Sum in Array](./cpp_solutions/1877.cpp)
+- **M** [1899. Merge Triplets to Form Target Triplet](./cpp_solutions/1899.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
 - **M** [1963. Minimum Number of Swaps to Make the String Balanced](./cpp_solutions/1963.cpp)
 - **M** [1975. Maximum Matrix Sum](./cpp_solutions/1975.cpp)
