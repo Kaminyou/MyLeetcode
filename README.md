@@ -633,6 +633,7 @@
 - **H** [489. Robot Room Cleaner](./cpp_solutions/489.cpp)
 - **M** [694. Number of Distinct Islands](./cpp_solutions/694.cpp)
 - **M** [695. Max Area of Island](./cpp_solutions/695.cpp)
+- **H** [827. Making A Large Island](./cpp_solutions/827.cpp)
 - **M** [947. Most Stones Removed with Same Row or Column](./cpp_solutions/947.cpp)
 - **M** [988. Smallest String Starting From Leaf](./cpp_solutions/988.cpp)
 - **M** [1059. All Paths from Source Lead to Destination](./cpp_solutions/1059.cpp)
