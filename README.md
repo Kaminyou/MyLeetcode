@@ -327,6 +327,7 @@
 - **M** [1493. Longest Subarray of 1's After Deleting One Element](./cpp_solutions/1493.cpp)
 - **M** [1508. Range Sum of Sorted Subarray Sums](./cpp_solutions/1508.cpp)]
 - **M** [1653. Minimum Deletions to Make String Balanced](./cpp_solutions/1653.cpp)
+- **E** [1752. Check if Array Is Sorted and Rotated](./cpp_solutions/1752.cpp)
 - **M** [1769. Minimum Number of Operations to Move All Balls to Each Box](./cpp_solutions/1769.cpp)
 - **M** [1894. Find the Student that Will Replace the Chalk](./cpp_solutions/1894.cpp)
 - **M** [2017. Grid Game](./cpp_solutions/2017.cpp)
