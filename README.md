@@ -954,6 +954,7 @@
 - **E** [3396. Minimum Number of Operations to Make Elements in Array Distinct](./cpp_solutions/3396.cpp)
 - **M** [3404. Count Special Subsequences](./cpp_solutions/3404.cpp)
 - **M** [3412. Find Mirror Score of a String](./cpp_solutions/3412.cpp)
+- **E** [3442. Maximum Difference Between Even and Odd Frequency I](./cpp_solutions/3440.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./cpp_solutions/20.cpp)
