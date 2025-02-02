@@ -819,6 +819,7 @@
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
 - **M** [3394. Check if Grid can be Cut into Sections](./cpp_solutions/3394.cpp)
 - **M** [3397. Maximum Number of Distinct Elements After Operations](./cpp_solutions/3397.cpp)
+- **M** [3443. Maximum Manhattan Distance After K Changes](./cpp_solutions/3443.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./cpp_solutions/1.cpp)
