@@ -1173,6 +1173,7 @@
 - **H** [2382. Maximum Segment Sum After Removals](./cpp_solutions/2382.cpp)
 - **M** [2406. Divide Intervals Into Minimum Number of Groups](./cpp_solutions/2406.cpp)
 - **M** [3408. Design Task Manager](./cpp_solutions/3408.cpp)
+- **M** [3440. Reschedule Meetings for Maximum Free Time II](./cpp_solutions/3440.cpp)
 
 ### Multiset
 - **H** [218. The Skyline Problem](./cpp_solutions/218.cpp)
