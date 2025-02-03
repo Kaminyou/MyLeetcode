@@ -347,6 +347,7 @@
 - **M** [2640. Find the Score of All Prefixes of an Array](./cpp_solutions/2640.cpp)
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
+- **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
 - **E** [3386. Button with Longest Push Time](./cpp_solutions/3386.cpp)
 - **E** [3427. Sum of Variable Length Subarrays](./cpp_solutions/3427.cpp)
