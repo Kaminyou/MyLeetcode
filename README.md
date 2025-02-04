@@ -688,6 +688,7 @@
 - **H** [2612. Minimum Reverse Operations](./cpp_solutions/2612.cpp)
 - **M** [2685. Count the Number of Complete Components](./cpp_solutions/2685.cpp)
 - **H** [2709. Greatest Common Divisor Traversal](./cpp_solutions/2709.cpp)
+- **H** [3378. Count Connected Components in LCM Graph](./cpp_solutions/3378.cpp)
 
 ### Greedy
 - **H** [32. Longest Valid Parentheses](./cpp_solutions/32.cpp)
