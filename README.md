@@ -631,6 +631,7 @@
 - **M** [2658. Maximum Number of Fish in a Grid](./cpp_solutions/2658.cpp)
 - **H** [3203. Find Minimum Diameter After Merging Two Trees](./cpp_solutions/3203.cpp)
 - **M** [3243. Shortest Distance After Road Addition Queries I](./cpp_solutions/3243.cpp)
+- **M** [3372. Maximize the Number of Target Nodes After Connecting Trees I](./cpp_solutions/3372.cpp)
 
 ### DFS
 - **M** [133. Clone Graph](./cpp_solutions/133.cpp)
