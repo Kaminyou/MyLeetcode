@@ -1643,6 +1643,7 @@
 - **M** [2683. Neighboring Bitwise XOR](./cpp_solutions/2683.cpp)
 - **M** [2997. Minimum Number of Operations to Make Array XOR Equal to K](./cpp_solutions/2997.cpp)
 - **M** [3133. Minimum Array End](./cpp_solutions/3133.cpp)
+- **E** [3370. Smallest Number With All Set Bits](./cpp_solutions/3370.cpp)
 
 ### Trie
 - **M** [208. Implement Trie (Prefix Tree)](./cpp_solutions/208.cpp)
