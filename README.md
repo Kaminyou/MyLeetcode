@@ -903,6 +903,7 @@
 - **M** [1679. Max Number of K-Sum Pairs](./cpp_solutions/1679.cpp)
 - **E** [1684. Count the Number of Consistent Strings](./cpp_solutions/1684.cpp)
 - **E** [1700. Number of Students Unable to Eat Lunch](./cpp_solutions/1700.cpp)
+- **M** [1726. Tuple with Same Product](./cpp_solutions/1726.cpp)
 - **M** [1743. Restore the Array From Adjacent Pairs](./cpp_solutions/1743.cpp)
 - **E** [1790. Check if One String Swap Can Make Strings Equal](./cpp_solutions/1790.cpp)
 - **E** [1832. Check if the Sentence Is Pangram](./cpp_solutions/1832.cpp)
