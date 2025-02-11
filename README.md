@@ -417,6 +417,7 @@
 - **M** [3044. Most Frequent Prime](./cpp_solutions/3044.cpp)
 - **E** [3402. Minimum Operations to Make Columns Strictly Increasing](./cpp_solutions/3402.cpp)
 - **E** [3417. Zigzag Grid Traversal With Skip](./cpp_solutions/3417.cpp)
+- **M** [3446. Sort Matrix by Diagonals](./cpp_solutions/3446.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./cpp_solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./cpp_solutions/1074.cpp)
