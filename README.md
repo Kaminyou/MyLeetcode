@@ -352,6 +352,7 @@
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
+- **E** [3364. Minimum Positive Sum Subarray](./cpp_solutions/3364.cpp)
 - **E** [3386. Button with Longest Push Time](./cpp_solutions/3386.cpp)
 - **E** [3427. Sum of Variable Length Subarrays](./cpp_solutions/3427.cpp)
 - **E** [3432. Count Partitions with Even Sum Difference](./cpp_solutions/3432.cpp)
