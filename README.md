@@ -1592,6 +1592,7 @@
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
+- **H** [3351. Sum of Good Subsequences](./cpp_solutions/3351.cpp)
 - **M** [3366. Minimum Array Sum](./cpp_solutions/3365.cpp)
 - **M** [3393. Count Paths With the Given XOR Value](./cpp_solutions/3393.cpp)
 - **M** [3409. Longest Subsequence With Decreasing Adjacent Difference](./cpp_solutions/3409.cpp)
