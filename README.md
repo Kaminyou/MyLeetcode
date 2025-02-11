@@ -353,6 +353,7 @@
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
+- **E** [3354. Make Array Elements Equal to Zero](./cpp_solutions/3354.cpp)
 - **E** [3364. Minimum Positive Sum Subarray](./cpp_solutions/3364.cpp)
 - **E** [3386. Button with Longest Push Time](./cpp_solutions/3386.cpp)
 - **E** [3427. Sum of Variable Length Subarrays](./cpp_solutions/3427.cpp)
@@ -372,6 +373,7 @@
 - **H** [798. Smallest Rotation with Highest Score](./cpp_solutions/798.cpp)
 - **H** [995. Minimum Number of K Consecutive Bit Flips](./cpp_solutions/995.cpp)
 - **M** [2381. Shifting Letters II](./cpp_solutions/2381.cpp)
+- **M** [3355. Zero Array Transformation I](./cpp_solutions/3355.cpp)
 
 ### Matrix
 #### Misc
