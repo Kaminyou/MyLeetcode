@@ -353,6 +353,7 @@
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
+- **E** [3349. Adjacent Increasing Subarrays Detection I](./cpp_solutions/3349.cpp)
 - **E** [3354. Make Array Elements Equal to Zero](./cpp_solutions/3354.cpp)
 - **E** [3364. Minimum Positive Sum Subarray](./cpp_solutions/3364.cpp)
 - **E** [3386. Button with Longest Push Time](./cpp_solutions/3386.cpp)
