@@ -1277,6 +1277,7 @@
 - **H** [2699. Modify Graph Edge Weights](./cpp_solutions/2699.cpp)
 - **M** [2812. Find the Safest Path in a Grid](./cpp_solutions/2812.cpp)
 - **M** [3341. Find Minimum Time to Reach Last Room I](./cpp_solutions/3341.cpp)
+- **M** [3342. Find Minimum Time to Reach Last Room II](./cpp_solutions/3342.cpp)
 - **M** [3377. Digit Operations to Make Two Integers Equal](./cpp_solutions/3377.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./cpp_solutions/787.cpp)
