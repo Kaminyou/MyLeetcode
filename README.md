@@ -1172,6 +1172,7 @@
 - **M** [2583. Kth Largest Sum in a Binary Tree](./cpp_solutions/2583.cpp)
 - **H** [2603. Collect Coins in a Tree](./cpp_solutions/2603.cpp)
 - **M** [2641. Cousins in Binary Tree II](./cpp_solutions/2641.cpp)
+- **M** [3331. Find Subtree Sizes After Changes](./cpp_solutions/3331.cpp)
 #### Quad Tree
 - **M** [427. Construct Quad Tree](./cpp_solutions/427.cpp)
 - **M** [558. Logical OR of Two Binary Grids Represented as Quad-Trees](./cpp_solutions/558.cpp)
