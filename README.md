@@ -242,6 +242,7 @@
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
 - **E** [3174. Clear Digits](./cpp_solutions/3174.cpp)
+- **E** [3330. Find the Original Typed String I](./cpp_solutions/3330.cpp)
 - **E** [3340. Check Balanced String](./cpp_solutions/3340.cpp)
 - **M** [3403. Find the Lexicographically Largest String From the Box I](./cpp_solutions/3402.cpp)
 - **E** [3438. Find Valid Pair of Adjacent Digits in String](./cpp_solutions/3438.cpp)
