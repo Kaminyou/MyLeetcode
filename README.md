@@ -839,6 +839,7 @@
 - **H** [3068. Find the Maximum Sum of Node Values](./cpp_solutions/3068.cpp)
 - **M** [3191. Minimum Operations to Make Binary Array Elements Equal to One I](./cpp_solutions/3191.cpp)
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
+- **M** [3228. Maximum Number of Operations to Move Ones to the End](./cpp_solutions/3228.cpp)
 - **M** [3326. Minimum Division Operations to Make Array Non Decreasing](./cpp_solutions/3326.cpp)
 - **M** [3394. Check if Grid can be Cut into Sections](./cpp_solutions/3394.cpp)
 - **M** [3397. Maximum Number of Distinct Elements After Operations](./cpp_solutions/3397.cpp)
