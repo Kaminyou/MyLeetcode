@@ -976,6 +976,7 @@
 - **M** [3039. Apply Operations to Make String Empty](./cpp_solutions/3039.cpp)
 - **M** [3160. Find the Number of Distinct Colors Among the Balls](./cpp_solutions/3160.cpp)
 - **M** [3223. Minimum Length of String After Operations](./cpp_solutions/3223.cpp)
+- **E** [3289. The Two Sneaky Numbers of Digitville](./cpp_solutions/3289.cpp)
 - **M** [3365. Rearrange K Substrings to Form Target String](./cpp_solutions/3365.cpp)
 - **M** [3371. Identify the Largest Outlier in an Array](./cpp_solutions/3370.cpp)
 - **E** [3375. Minimum Operations to Make Array Values Equal to K](./cpp_solutions/3375.cpp)
