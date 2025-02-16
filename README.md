@@ -1259,6 +1259,7 @@
 - **M** [3075. Maximize Happiness of Selected Children](./cpp_solutions/3075.cpp)
 - **M** [3080. Mark Elements on Array by Performing Queries](./cpp_solutions/3080.cpp)
 - **E** [3264. Final Array State After K Multiplication Operations I](./cpp_solutions/3264.cpp)
+- **M** [3319. K-th Largest Perfect Subtree Size in Binary Tree](./cpp_solutions/3319.cpp)
 
 ### Graph
 - **M** [399. Evaluate Division](./cpp_solutions/399.cpp)
