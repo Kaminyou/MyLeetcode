@@ -1679,6 +1679,7 @@
 - **M** [2683. Neighboring Bitwise XOR](./cpp_solutions/2683.cpp)
 - **M** [2997. Minimum Number of Operations to Make Array XOR Equal to K](./cpp_solutions/2997.cpp)
 - **M** [3133. Minimum Array End](./cpp_solutions/3133.cpp)
+- **E** [3226. Number of Bit Changes to Make Two Integers Equal](./cpp_solutions/3226.cpp)
 - **E** [3314. Construct the Minimum Bitwise Array I](./cpp_solutions/3314.cpp)
 - **E** [3315. Construct the Minimum Bitwise Array II](./cpp_solutions/3315.cpp)
 - **E** [3370. Smallest Number With All Set Bits](./cpp_solutions/3370.cpp)
