@@ -591,6 +591,7 @@
 - **H** [1088. Confusing Number II](./cpp_solutions/1088.cpp)
 - **H** [1255. Maximum Score Words Formed by Letters](./cpp_solutions/1255.cpp)
 - **M** [1593. Split a String Into the Max Number of Unique Substrings](./cpp_solutions/1593.cpp)
+- **M** [1718. Construct the Lexicographically Largest Valid Sequence](./cpp_solutions/1718.cpp)
 - **M** [1774. Closest Dessert Cost](./cpp_solutions/1774.cpp)
 - **M** [2044. Count Number of Maximum Bitwise-OR Subsets](./cpp_solutions/2044.cpp)
 - **M** [2597. The Number of Beautiful Subsets](./cpp_solutions/2597.cpp)
