@@ -589,6 +589,7 @@
 - **M** [949. Largest Time for Given Digits](./cpp_solutions/949.cpp)
 - **M** [967. Numbers With Same Consecutive Differences](./cpp_solutions/967.cpp)
 - **H** [980. Unique Paths III](./cpp_solutions/980.cpp)
+- **M** [1079. Letter Tile Possibilities](./cpp_solutions/1079.cpp)
 - **H** [1088. Confusing Number II](./cpp_solutions/1088.cpp)
 - **H** [1255. Maximum Score Words Formed by Letters](./cpp_solutions/1255.cpp)
 - **M** [1593. Split a String Into the Max Number of Unique Substrings](./cpp_solutions/1593.cpp)
