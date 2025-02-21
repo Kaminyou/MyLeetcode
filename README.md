@@ -1150,6 +1150,7 @@
 - **M** [1110. Delete Nodes And Return Forest](./cpp_solutions/1110.cpp)
 - **M** [1123. Lowest Common Ancestor of Deepest Leaves](./cpp_solutions/1123.cpp)
 - **M** [1161. Maximum Level Sum of a Binary Tree](./cpp_solutions/1161.cpp)
+- **M** [1261. Find Elements in a Contaminated Binary Tree](./cpp_solutions/1261.cpp)
 - **M** [1273. Delete Tree Nodes](./cpp_solutions/1273.cpp)
 - **M** [1302. Deepest Leaves Sum](./cpp_solutions/1302.cpp)
 - **M** [1339. Maximum Product of Splitted Binary Tree](./cpp_solutions/1339.cpp)
