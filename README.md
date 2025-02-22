@@ -1146,6 +1146,7 @@
 - **M** [1008. Construct Binary Search Tree from Preorder Traversal](./cpp_solutions/1008.cpp)
 - **E** [1022. Sum of Root To Leaf Binary Numbers](./cpp_solutions/1022.cpp)
 - **M** [1026. Maximum Difference Between Node and Ancestor](./cpp_solutions/1026.cpp)
+- **H** [1028. Recover a Tree From Preorder Traversal](./cpp_solutions/1028.cpp)
 - **M** [1038. Binary Search Tree to Greater Sum Tree](./cpp_solutions/1038.cpp)
 - **M** [1110. Delete Nodes And Return Forest](./cpp_solutions/1110.cpp)
 - **M** [1123. Lowest Common Ancestor of Deepest Leaves](./cpp_solutions/1123.cpp)
