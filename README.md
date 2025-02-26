@@ -1767,6 +1767,7 @@
 - **E** [169. Majority Element](./cpp_solutions/169.cpp)
 - **M** [229. Majority Element II](./cpp_solutions/229.cpp)
 #### Kadane's algorithm
+- **M** [1749. Maximum Absolute Sum of Any Subarray](./cpp_solutions/1749.cpp)
 - **H** [2272. Substring With Largest Variance](./cpp_solutions/2272.cpp)
 - **H** [2321. Maximum Score Of Spliced Array](./cpp_solutions/2321.cpp)
 - **M** [2606. Find the Substring With Maximum Cost](./cpp_solutions/2606.cpp)
