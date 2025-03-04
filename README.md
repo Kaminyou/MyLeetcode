@@ -1816,6 +1816,7 @@
 - **H** [1363. Largest Multiple of Three](./cpp_solutions/1363.cpp)
 - **M** [1551. Minimum Operations to Make Array Equal](./cpp_solutions/1551.cpp)
 - **H** [1643. Kth Smallest Instructions](./cpp_solutions/1643.cpp)
+- **M** [1780. Check if Number is a Sum of Powers of Three](./cpp_solutions/1780.cpp)
 - **M** [2128. Remove All Ones With Row and Column Flips](./cpp_solutions/2128.cpp)
 - **M** [2178. Maximum Split of Positive Even Integers](./cpp_solutions/2178.cpp)
 - **M** [2310. Sum of Numbers With Units Digit K](./cpp_solutions/2310.cpp)
