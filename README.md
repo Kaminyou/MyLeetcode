@@ -424,6 +424,7 @@
 - **H** [2556. Disconnect Path in a Binary Matrix by at Most One Flip](./cpp_solutions/2556.cpp)
 - **M** [2661. First Completely Painted Row or Column](./cpp_solutions/2661.cpp)
 - **M** [2679. Sum in a Matrix](./cpp_solutions/2679.cpp)
+- **E** [2965. Find Missing and Repeated Values](./cpp_solutions/2965.cpp)
 - **M** [3044. Most Frequent Prime](./cpp_solutions/3044.cpp)
 - **E** [3402. Minimum Operations to Make Columns Strictly Increasing](./cpp_solutions/3402.cpp)
 - **E** [3417. Zigzag Grid Traversal With Skip](./cpp_solutions/3417.cpp)
