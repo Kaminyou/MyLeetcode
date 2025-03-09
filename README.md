@@ -549,6 +549,7 @@
 - **M** [2958. Length of Longest Subarray With at Most K Frequency](./cpp_solutions/2958.cpp)
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
 - **M** [3097. Shortest Subarray With OR at Least K II](./cpp_solutions/3097.cpp)
+- **M** [3208. Alternating Groups II](./cpp_solutions/3208.cpp)
 - **M** [3254. Find the Power of K-Size Subarrays I](./cpp_solutions/3254.cpp)
 - **M** [3325. Count Substrings With K-Frequency Characters I](./cpp_solutions/3325.cpp)
 
