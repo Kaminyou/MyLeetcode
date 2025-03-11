@@ -511,6 +511,7 @@
 - **M** [1151. Minimum Swaps to Group All 1's Together](./cpp_solutions/1151.cpp)
 - **M** [1208. Get Equal Substrings Within Budget](./cpp_solutions/1208.cpp)
 - **M** [1237. Find Positive Integer Solution for a Given Equation](./cpp_solutions/1237.cpp)
+- **M** [1358. Number of Substrings Containing All Three Characters](./cpp_solutions/1358.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./cpp_solutions/1423.cpp)
 - **M** [1456. Maximum Number of Vowels in a Substring of Given Length](./cpp_solutions/1456.cpp)
 - **M** [1498. Number of Subsequences That Satisfy the Given Sum Condition](./cpp_solutions/1498.cpp)
