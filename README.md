@@ -843,6 +843,7 @@
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
 - **M** [3016. Minimum Number of Pushes to Type Word II](./cpp_solutions/3016.cpp)
 - **H** [3068. Find the Maximum Sum of Node Values](./cpp_solutions/3068.cpp)
+- **M** [3169. Count Days Without Meetings](./cpp_solutions/3169.cpp)
 - **M** [3191. Minimum Operations to Make Binary Array Elements Equal to One I](./cpp_solutions/3191.cpp)
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
 - **M** [3228. Maximum Number of Operations to Move Ones to the End](./cpp_solutions/3228.cpp)
