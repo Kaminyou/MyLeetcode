@@ -984,6 +984,7 @@
 - **M** [2672. Number of Adjacent Elements With the Same Color](./cpp_solutions/2672.cpp)
 - **E** [2716. Minimize String Length](./cpp_solutions/2716.cpp)
 - **M** [2718. Sum of Matrix After Queries](./cpp_solutions/2718.cpp)
+- **M** [2780. Minimum Index of a Valid Split](./cpp_solutions/2780.cpp)
 - **M** [2785. Sort Vowels in a String](./cpp_solutions/2785.cpp)
 - **M** [2870. Minimum Number of Operations to Make Array Empty](./cpp_solutions/2870.cpp)
 - **E** [3005. Count Elements With Maximum Frequency](./cpp_solutions/3005.cpp)
