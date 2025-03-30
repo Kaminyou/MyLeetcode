@@ -745,6 +745,7 @@
 - **M** [665. Non-decreasing Array](./cpp_solutions/665.cpp)
 - **E** [717. 1-bit and 2-bit Characters](./cpp_solutions/717.cpp)
 - **H** [757. Set Intersection Size At Least Two](./cpp_solutions/757.cpp)
+- **M** [763. Partition Labels](./cpp_solutions/763.cpp)
 - **M** [769. Max Chunks To Make Sorted](./cpp_solutions/769.cpp)
 - **M** [777. Swap Adjacent in LR String](./cpp_solutions/777.cpp)
 - **M** [781. Rabbits in Forest](./cpp_solutions/781.cpp)
