@@ -126,6 +126,7 @@
 - **E** [2682. Find the Losers of the Circular Game](./cpp_solutions/2682.cpp)
 - **E** [2706. Buy Two Chocolates](./cpp_solutions/2706.cpp)
 - **E** [2733. Neither Minimum nor Maximum](./cpp_solutions/2733.cpp)
+- **E** [2873. Maximum Value of an Ordered Triplet I](./cpp_solutions/2873.cpp)
 - **E** [3110. Score of a String](./cpp_solutions/3110.cpp)
 - **E** [3151. Special Array I](./cpp_solutions/3151.cpp)
 - **E** [3190. Find Minimum Operations to Make All Elements Divisible by Three](./cpp_solutions/3190.cpp)
