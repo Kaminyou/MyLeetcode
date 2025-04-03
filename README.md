@@ -841,6 +841,7 @@
 - **M** [2712. Minimum Cost to Make All Characters Equal](./cpp_solutions/2712.cpp)
 - **E** [2717. Semi-Ordered Permutation](./cpp_solutions/2717.cpp)
 - **H** [2732. Find a Good Subset of the Matrix](./cpp_solutions/2732.cpp)
+- **M** [2874. Maximum Value of an Ordered Triplet II](./cpp_solutions/2874.cpp)
 - **M** [2914. Minimum Number of Changes to Make Binary String Beautiful](./cpp_solutions/2914.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
