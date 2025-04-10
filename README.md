@@ -681,7 +681,6 @@
 - **M** [2467. Most Profitable Path in a Tree](./cpp_solutions/2467.cpp)
 - **M** [2477. Minimum Fuel Cost to Report to the Capital](./cpp_solutions/2477.cpp)
 - **H** [2872. Maximum Number of K-Divisible Components](./cpp_solutions/2872.cpp)
-- **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **M** [3249. Count the Number of Good Nodes](./cpp_solutions/3249.cpp)
 
 ### Disjoint set
@@ -1626,6 +1625,7 @@
 - **M** [2707. Extra Characters in a String](./cpp_solutions/2707.cpp)
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
+- **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
