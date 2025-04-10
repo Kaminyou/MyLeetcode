@@ -681,6 +681,7 @@
 - **M** [2467. Most Profitable Path in a Tree](./cpp_solutions/2467.cpp)
 - **M** [2477. Minimum Fuel Cost to Report to the Capital](./cpp_solutions/2477.cpp)
 - **H** [2872. Maximum Number of K-Divisible Components](./cpp_solutions/2872.cpp)
+- **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **M** [3249. Count the Number of Good Nodes](./cpp_solutions/3249.cpp)
 
 ### Disjoint set
