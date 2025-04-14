@@ -294,6 +294,7 @@
 - **E** [1460. Make Two Arrays Equal by Reversing Subarrays](./cpp_solutions/1460.cpp)
 - **E** [1470. Shuffle the Array](./cpp_solutions/1470.cpp)
 - **E** [1502. Can Make Arithmetic Progression From Sequence](./cpp_solutions/1502.cpp)
+- **E** [1534. Count Good Triplets](./cpp_solutions/1534.cpp)
 - **M** [1535. Find the Winner of an Array Game](./cpp_solutions/1535.cpp)
 - **M** [1630. Arithmetic Subarrays](./cpp_solutions/1630.cpp)
 - **E** [1636. Sort Array by Increasing Frequency](./cpp_solutions/1636.cpp)
