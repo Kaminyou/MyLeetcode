@@ -801,6 +801,7 @@
 - **M** [2079. Watering Plants](./cpp_solutions/2079.cpp)
 - **M** [2116. Check if a Parentheses String Can Be Valid](./cpp_solutions/2116.cpp)
 - **H** [2136. Earliest Possible Day of Full Bloom](./cpp_solutions/2136.cpp)
+- **M** [2145. Count the Hidden Sequences](./cpp_solutions/2145.cpp)
 - **M** [2279. Maximum Bags With Full Capacity of Rocks](./cpp_solutions/2279.cpp)
 - **M** [2285. Maximum Total Importance of Roads](./cpp_solutions/2285.cpp)
 - **M** [2311. Longest Binary Subsequence Less Than or Equal to K](./cpp_solutions/2311.cpp)
