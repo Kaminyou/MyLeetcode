@@ -1713,6 +1713,7 @@
 - **M** [208. Implement Trie (Prefix Tree)](./cpp_solutions/208.cpp)
 - **M** [211. Design Add and Search Words Data Structure](./cpp_solutions/211.cpp)
 - **H** [212. Word Search II](./cpp_solutions/212.cpp)
+- **M** [421. Maximum XOR of Two Numbers in an Array](./cpp_solutions/421.cpp)
 - **H** [527. Word Abbreviation](./cpp_solutions/527.cpp)
 - **M** [616. Add Bold Tag in String](./cpp_solutions/616.cpp)
 - **H** [642. Design Search Autocomplete System](./cpp_solutions/642.cpp)
