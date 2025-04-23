@@ -924,6 +924,7 @@
 - **E** [1346. Check If N and Its Double Exist](./cpp_solutions/1346.cpp)
 - **M** [1347. Minimum Number of Steps to Make Two Strings Anagram](./cpp_solutions/1347.cpp)
 - **M** [1371. Find the Longest Substring Containing Vowels in Even Counts](./cpp_solutions/1371.cpp)
+- **E** [1399. Count Largest Group](./cpp_solutions/1399.cpp)
 - **M** [1424. Diagonal Traverse II](./cpp_solutions/1424.cpp)
 - **M** [1461. Check If a String Contains All Binary Codes of Size K](./cpp_solutions/1461.cpp)
 - **M** [1481. Least Number of Unique Integers after K Removals](./cpp_solutions/1481.cpp)
