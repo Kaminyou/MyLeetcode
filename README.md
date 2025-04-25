@@ -358,6 +358,7 @@
 - **M** [2602. Minimum Operations to Make All Array Elements Equal](./cpp_solutions/2602.cpp)
 - **M** [2640. Find the Score of All Prefixes of an Array](./cpp_solutions/2640.cpp)
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
+- **M** [2845. Count of Interesting Subarrays](./cpp_solutions/2845.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
