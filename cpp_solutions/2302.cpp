@@ -26,3 +26,29 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    long long countSubarrays(vector<int>& nums, long long k) {
+        long long res = 0;
+        int n = nums.size();
+        int right = 0;
+        long long cur = 0;
+        long long sum = 0;
+        long long length = 0;
+        for (int left = 0; left < n; ++left) {
+            while (right < n && cur + sum + nums[right] * (length + 1) < k) {
+                cur = cur + sum + nums[right] * (length + 1);
+                sum += nums[right];
+                length++;
+                right++;
+            }
+            if (cur < k) res += (right - left);
+            cur -= length * nums[left];
+            sum -= nums[left];
+            cur -= sum;
+            length--;
+        }
+        return res;
+    }
+};
