@@ -45,6 +45,7 @@
 - **E** [1051. Height Checker](./cpp_solutions/1051.cpp)
 - **E** [1189. Maximum Number of Balloons](./cpp_solutions/1189.cpp)
 - **E** [1281. Subtract the Product and Sum of Digits of an Integer](./cpp_solutions/1281.cpp)
+- **E** [1295. Find Numbers with Even Number of Digits](./cpp_solutions/1295.cpp)
 - **E** [1304. Find N Unique Integers Sum up to Zero](./cpp_solutions/1304.cpp)
 - **E** [1313. Decompress Run-Length Encoded List](./cpp_solutions/1313.cpp)
 - **E** [1323. Maximum 69 Number](./cpp_solutions/1323.cpp)
