@@ -2,31 +2,24 @@ class Solution {
 public:
     string pushDominoes(string dominoes) {
         int n = dominoes.size();
-        vector<int> toRight(n, INT_MAX / 2);
-        vector<int> toLeft(n, INT_MAX / 2);
+        vector<int> ls(n, INT_MAX);
+        vector<int> rs(n, INT_MAX);
         for (int i = 0; i < n; ++i) {
-            if (dominoes[i] == 'L') continue;
-            if (dominoes[i] == 'R') toRight[i] = 0;
-            else {
-                if (i > 0) toRight[i] = toRight[i - 1] + 1;
-            }
+            if (dominoes[i] == 'L') rs[i] = INT_MAX;
+            else if (dominoes[i] == 'R') rs[i] = 0;
+            else if (i >= 1 && rs[i - 1] != INT_MAX) rs[i] = rs[i - 1] + 1;
         }
         for (int i = n - 1; i >= 0; --i) {
-            if (dominoes[i] == 'R') continue;
-            if (dominoes[i] == 'L') toLeft[i] = 0;
-            else {
-                if (i < n - 1) toLeft[i] = toLeft[i + 1] + 1;
-            }
+            if (dominoes[i] == 'R') ls[i] = INT_MAX;
+            else if (dominoes[i] == 'L') ls[i] = 0;
+            else if (i < n - 1 && ls[i + 1] != INT_MAX) ls[i] = ls[i + 1] + 1;
         }
-        
-        string res;
+        string res = dominoes;
         for (int i = 0; i < n; ++i) {
-            if (dominoes[i] != '.') res.push_back(dominoes[i]);
-            else {
-                if (toRight[i] >= INT_MAX / 2 && toLeft[i] >= INT_MAX / 2) res.push_back('.');
-                else if (toRight[i] < toLeft[i]) res.push_back('R');
-                else if (toRight[i] > toLeft[i]) res.push_back('L');
-                else res.push_back('.');
+            if (dominoes[i] == '.') {
+                if (rs[i] < ls[i]) res[i] = 'R';
+                else if (rs[i] > ls[i]) res[i] = 'L';
+                else res[i] = '.';
             }
         }
         return res;
