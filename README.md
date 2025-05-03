@@ -770,6 +770,7 @@
 - **M** [948. Bag of Tokens](./cpp_solutions/948.cpp)
 - **H** [968. Binary Tree Cameras](./cpp_solutions/968.cpp)
 - **E** [976. Largest Perimeter Triangle](./cpp_solutions/976.cpp)
+- **M** [1007. Minimum Domino Rotations For Equal Row](./cpp_solutions/1007.cpp)
 - **M** [1014. Best Sightseeing Pair](./cpp_solutions/1014.cpp)
 - **M** [1055. Shortest Way to Form String](./cpp_solutions/1055.cpp)
 - **M** [1282. Group the People Given the Group Size They Belong To](./cpp_solutions/1282.cpp)
