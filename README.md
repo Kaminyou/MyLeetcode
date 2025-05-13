@@ -851,6 +851,7 @@
 - **H** [2732. Find a Good Subset of the Matrix](./cpp_solutions/2732.cpp)
 - **M** [2874. Maximum Value of an Ordered Triplet II](./cpp_solutions/2874.cpp)
 - **M** [2914. Minimum Number of Changes to Make Binary String Beautiful](./cpp_solutions/2914.cpp)
+- **M** [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](./cpp_solutions/2918.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
 - **M** [3016. Minimum Number of Pushes to Type Word II](./cpp_solutions/3016.cpp)
