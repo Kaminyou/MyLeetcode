@@ -1640,6 +1640,7 @@
 - **M** [2707. Extra Characters in a String](./cpp_solutions/2707.cpp)
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
+- **M** [2901. Longest Unequal Adjacent Groups Subsequence II](./cpp_solutions/2901.cpp)
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
