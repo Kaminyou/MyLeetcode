@@ -1606,6 +1606,7 @@
 - **H** [1879. Minimum XOR Sum of Two Arrays](./cpp_solutions/1879.cpp)
 - **H** [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](./cpp_solutions/1866.cpp)
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./cpp_solutions/1884.cpp)
+- **H** [1931. Painting a Grid With Three Different Colors](./cpp_solutions/1931.cpp)
 - **M** [1937. Maximum Number of Points with Cost](./cpp_solutions/1937.cpp)
 - **M** [1986. Minimum Number of Work Sessions to Finish the Tasks](./cpp_solutions/1986.cpp)
 - **H** [2088. Count Fertile Pyramids in a Land](./cpp_solutions/2088.cpp)
