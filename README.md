@@ -396,6 +396,7 @@
 - **M** [48. Rotate Image](./cpp_solutions/48.cpp)
 - **M** [54. Spiral Matrix](./cpp_solutions/54.cpp)
 - **M** [59. Spiral Matrix II](./cpp_solutions/59.cpp)
+- **M** [73. Set Matrix Zeroes](./cpp_solutions/73.cpp)
 - **M** [240. Search a 2D Matrix II](./cpp_solutions/240.cpp)
 - **M** [361. Bomb Enemy](./cpp_solutions/361.cpp)
 - **E** [463. Island Perimeter](./cpp_solutions/463.cpp)
