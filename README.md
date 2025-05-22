@@ -865,6 +865,7 @@
 - **M** [3228. Maximum Number of Operations to Move Ones to the End](./cpp_solutions/3228.cpp)
 - **H** [3229. Minimum Operations to Make Array Equal to Target](./cpp_solutions/3229.cpp)
 - **M** [3326. Minimum Division Operations to Make Array Non Decreasing](./cpp_solutions/3326.cpp)
+- **M** [3362. Zero Array Transformation III](./cpp_solutions/3362.cpp)
 - **M** [3394. Check if Grid can be Cut into Sections](./cpp_solutions/3394.cpp)
 - **M** [3397. Maximum Number of Distinct Elements After Operations](./cpp_solutions/3397.cpp)
 - **M** [3443. Maximum Manhattan Distance After K Changes](./cpp_solutions/3443.cpp)
