@@ -26,3 +26,34 @@ public:
         return res + flag * 2;
     }
 };
+
+class Solution {
+public:
+    int longestPalindrome(vector<string>& words) {
+        vector<int> hash(26 * 26, 0);
+        for (auto& word : words) {
+            int key = (word[0] - 'a') * 26 + (word[1] - 'a');
+            hash[key]++;
+        }
+        bool flag = false;
+        int cnt = 0;
+        for (int i = 0; i < 26; ++i) {
+            for (int j = 0; j <= i; ++j) {
+                if (i == j) {
+                    if (hash[i * 26 + j]) {
+                        if (hash[i * 26 + j] & 1) {
+                            flag = true;
+                        }
+                        cnt += hash[i * 26 + j] / 2;
+                    }
+                }
+                else {
+                    cnt += min(hash[i * 26 + j], hash[j * 26 + i]);
+                }
+            }
+        }
+        return cnt * 4 + flag * 2;
+    }
+};
+
+
