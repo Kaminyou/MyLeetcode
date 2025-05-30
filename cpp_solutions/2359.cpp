@@ -47,3 +47,37 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    vector<int> getDistance(vector<int>& edges, int node) {
+        int n = edges.size();
+        vector<int> distances(n, INT_MAX);
+        vector<bool> visited(n, false);
+        int now = 0;
+        distances[node] = now;
+        visited[node] = true;
+        while (edges[node] != -1 && !visited[edges[node]]) {
+            node = edges[node];
+            now++;
+            distances[node] = now;
+            visited[node] = true;
+        }
+        return distances;
+    }
+    int closestMeetingNode(vector<int>& edges, int node1, int node2) {
+        int n = edges.size();
+        vector<int> distance1 = getDistance(edges, node1);
+        vector<int> distance2 = getDistance(edges, node2);
+        int minDistance = INT_MAX;
+        int node = -1;
+        for (int i = 0; i < n; ++i) {
+            int curDis = max(distance1[i], distance2[i]);
+            if (curDis < minDistance) {
+                node = i;
+                minDistance = curDis;
+            }
+        }
+        return node;
+    }
+};
