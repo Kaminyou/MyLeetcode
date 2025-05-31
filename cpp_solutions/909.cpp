@@ -63,3 +63,50 @@ public:
         return -1;
     }
 };
+
+class Solution {
+public:
+    pair<int, int> translate(int num, int n) {
+        num -= 1;
+        bool reverse = false;
+        int rr = num / n;
+        int cc = num % n;
+        if (rr & 1) reverse = true;
+        if (reverse) cc = n - cc - 1;
+        return {n - rr - 1, cc};
+    }
+    int snakesAndLadders(vector<vector<int>>& board) {
+        int n = board.size();
+        queue<int> q;
+        q.push(1);
+        int step = 0;
+        while (!q.empty()) {
+            int m = q.size();
+            while (m--) {
+                int cur = q.front();
+                pair<int, int> ppp = translate(cur, n);
+                if (cur == (n * n)) return step;
+                q.pop();
+                for (int i = 1; i <= 6; ++i) {
+                    int next = cur + i;
+                    if (next > n * n) break;
+                    pair<int, int> p = translate(next, n);
+                    int r = p.first;
+                    int c = p.second;
+                    if (board[r][c] == -2) continue;
+                    else if (board[r][c] == -1) {
+                        q.push(next);
+                    }
+                    else {
+                        int nnext = board[r][c];
+                        q.push(nnext);
+                    }
+                    board[r][c] = -2;
+                }
+            }
+            step++;
+        }
+        return -1;
+    }
+};
+
