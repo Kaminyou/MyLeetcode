@@ -1869,6 +1869,7 @@
 - **M** [2645. Minimum Additions to Make Valid String](./cpp_solutions/2645.cpp)
 - **M** [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](./cpp_solutions/2654.cpp)
 - **M** [2849. Determine if a Cell Is Reachable at a Given Time](./cpp_solutions/2849.cpp)
+- **M** [2929. Distribute Candies Among Children II](./cpp_solutions/2929.cpp)
 - **M** [3227. Vowels Game in a String](./cpp_solutions/3227.cpp)
 - **M** [3428. Maximum and Minimum Sums of at Most Size K Subsequences](./cpp_solutions/3428.cpp)
 #### Prime
