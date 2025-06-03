@@ -650,6 +650,7 @@
 - **H** [1263. Minimum Moves to Move a Box to Their Target Location](./cpp_solutions/1263.cpp)
 - **H** [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./cpp_solutions/1284.cpp)
 - **H** [1293. Shortest Path in a Grid with Obstacles Elimination](./cpp_solutions/1293.cpp)
+- **H** [1298. Maximum Candies You Can Get from Boxes](./cpp_solutions/1298.cpp)
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
 - **H** [1368. Minimum Cost to Make at Least One Valid Path in a Grid](./cpp_solutions/1368.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
