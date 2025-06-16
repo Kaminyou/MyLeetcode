@@ -805,6 +805,7 @@
 - **M** [1975. Maximum Matrix Sum](./cpp_solutions/1975.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./cpp_solutions/1984.cpp)
 - **M** [1996. The Number of Weak Characters in the Game](./cpp_solutions/1996.cpp)
+- **E** [2016. Maximum Difference Between Increasing Elements](./cpp_solutions/2016.cpp)
 - **E** [2037. Minimum Number of Moves to Seat Everyone](./cpp_solutions/2037.cpp)
 - **M** [2038. Remove Colored Pieces if Both Neighbors are the Same Color](./cpp_solutions/2038.cpp)
 - **M** [2054. Two Best Non-Overlapping Events](./cpp_solutions/2054.cpp)
