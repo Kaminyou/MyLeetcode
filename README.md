@@ -228,6 +228,7 @@
 - **M** [1980. Find Unique Binary String](./cpp_solutions/1980.cpp)
 - **E** [2000. Reverse Prefix of Word](./cpp_solutions/2000.cpp)
 - **E** [2108. Find First Palindromic String in the Array](./cpp_solutions/2108.cpp)
+- **E** [2138. Divide a String Into Groups of Size k](./cpp_solutions/2138.cpp)
 - **M** [2182. Construct String With Repeat Limit](./cpp_solutions/2182.cpp)
 - **E** [2255. Count Prefixes of a Given String](./cpp_solutions/2255.cpp)
 - **M** [2284. Sender With Largest Word Count](./cpp_solutions/2284.cpp)
