@@ -1861,6 +1861,7 @@
 - **H** [1643. Kth Smallest Instructions](./cpp_solutions/1643.cpp)
 - **M** [1780. Check if Number is a Sum of Powers of Three](./cpp_solutions/1780.cpp)
 - **M** [1922. Count Good Numbers](./cpp_solutions/1922.cpp)
+- **H** [2081. Sum of k-Mirror Numbers](./cpp_solutions/2081.cpp)
 - **M** [2128. Remove All Ones With Row and Column Flips](./cpp_solutions/2128.cpp)
 - **M** [2178. Maximum Split of Positive Even Integers](./cpp_solutions/2178.cpp)
 - **M** [2310. Sum of Numbers With Units Digit K](./cpp_solutions/2310.cpp)
