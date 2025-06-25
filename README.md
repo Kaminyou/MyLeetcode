@@ -1418,6 +1418,7 @@
 - **M** [1918. Kth Smallest Subarray Sum](./cpp_solutions/1918.cpp)
 - **H** [1970. Last Day Where You Can Still Cross](./cpp_solutions/1970.cpp)
 - **H** [2035. Partition Array Into Two Arrays to Minimize Sum Difference](./cpp_solutions/2035.cpp)
+- **H** [2040. Kth Smallest Product of Two Sorted Arrays](./cpp_solutions/2040.cpp)
 - **M** [2064. Minimized Maximum of Products Distributed to Any Store](./cpp_solutions/2064.cpp)
 - **H** [2071. Maximum Number of Tasks You Can Assign](./cpp_solutions/2071.cpp)
 - **H** [2141. Maximum Running Time of N Computers](./cpp_solutions/2141.cpp)
