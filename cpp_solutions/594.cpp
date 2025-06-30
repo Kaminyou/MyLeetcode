@@ -14,3 +14,17 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int findLHS(vector<int>& nums) {
+        unordered_map<int, int> cnts;
+        for (auto& num : nums) cnts[num]++;
+        int res = 0;
+        for (auto& [num, cnt] : cnts) {
+            if (!cnts.count(num + 1)) continue;
+            res = max(res, cnts[num] + cnts[num + 1]);
+        }
+        return res;
+    }
+};
