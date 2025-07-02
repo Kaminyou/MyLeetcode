@@ -1659,6 +1659,7 @@
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
+- **H** [3333. Find the Original Typed String II](./cpp_solutions/3333.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
 - **H** [3351. Sum of Good Subsequences](./cpp_solutions/3351.cpp)
 - **M** [3366. Minimum Array Sum](./cpp_solutions/3365.cpp)
