@@ -251,6 +251,7 @@
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
 - **E** [3174. Clear Digits](./cpp_solutions/3174.cpp)
+- **E** [3304. Find the K-th Character in String Game I](./cpp_solutions/3304.cpp)
 - **M** [3324. Find the Sequence of Strings Appeared on the Screen](./cpp_solutions/3324.cpp)
 - **E** [3330. Find the Original Typed String I](./cpp_solutions/3330.cpp)
 - **E** [3340. Check Balanced String](./cpp_solutions/3340.cpp)
