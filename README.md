@@ -1883,6 +1883,7 @@
 - **M** [2849. Determine if a Cell Is Reachable at a Given Time](./cpp_solutions/2849.cpp)
 - **M** [2929. Distribute Candies Among Children II](./cpp_solutions/2929.cpp)
 - **M** [3227. Vowels Game in a String](./cpp_solutions/3227.cpp)
+- **H** [3307. Find the K-th Character in String Game II](./cpp_solutions/3307.cpp)
 - **H** [3405. Count the Number of Arrays with K Matching Adjacent Elements](./cpp_solutions/3415.cpp)
 - **M** [3428. Maximum and Minimum Sums of at Most Size K Subsequences](./cpp_solutions/3428.cpp)
 #### Prime
