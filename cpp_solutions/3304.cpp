@@ -1,19 +1,13 @@
 class Solution {
 public:
-    string shift(string& s) {
-        string res = s;
-        int n = res.size();
-        for (int i = 0; i < n; ++i) {
-            res[i] = ((res[i] - 'a' + 1) % 26) + 'a';
-        }
-        return res;
-    }
     char kthCharacter(int k) {
-        string cur = "a";
-        while (cur.size() < k) {
-            cur = cur + shift(cur);
+        int ops = 0;
+        while (k > 1) {
+            int now = 1;
+            while ((now << 1) < k) now <<= 1;
+            ops++;
+            k -= now;
         }
-        return cur[k - 1];
+        return (ops % 26) + 'a';
     }
 };
-
