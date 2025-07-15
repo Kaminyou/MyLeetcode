@@ -249,6 +249,7 @@
 - **E** [2864. Maximum Odd Binary Number](./cpp_solutions/2864.cpp)
 - **M** [2981. Find Longest Special Substring That Occurs Thrice I](./cpp_solutions/2981.cpp)
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
+- **E** [3136. Valid Word](./cpp_solutions/3136.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
 - **E** [3174. Clear Digits](./cpp_solutions/3174.cpp)
 - **E** [3304. Find the K-th Character in String Game I](./cpp_solutions/3304.cpp)
