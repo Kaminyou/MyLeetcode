@@ -1663,6 +1663,7 @@
 - **M** [2901. Longest Unequal Adjacent Groups Subsequence II](./cpp_solutions/2901.cpp)
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
+- **M** [3201. Find the Maximum Length of Valid Subsequence I](./cpp_solutions/3201.cpp)
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
 - **H** [3333. Find the Original Typed String II](./cpp_solutions/3333.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
