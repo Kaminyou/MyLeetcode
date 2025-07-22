@@ -24,3 +24,26 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int maximumUniqueSubarray(vector<int>& nums) {
+        int res = 0;
+        int curr = 0;
+        int n = nums.size();
+        bool st[10001];
+        for (int i = 0; i <= 10000; ++i) st[i] = false;
+        int left = 0;
+        for (int right = 0; right < n; ++right) {
+            while (st[nums[right]]) {
+                st[nums[left]] = false;
+                curr -= nums[left];
+                left++;
+            }
+            st[nums[right]] = true;
+            curr += nums[right];
+            res = max(res, curr);
+        }
+        return res;
+    }
+};
