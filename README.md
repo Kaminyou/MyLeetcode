@@ -357,6 +357,7 @@
 - **M** [2090. K Radius Subarray Averages](./cpp_solutions/2090.cpp)
 - **E** [2099. Find Subsequence of Length K With the Largest Sum](./cpp_solutions/2099.cpp)
 - **E** [2200. Find All K-Distant Indices in an Array](./cpp_solutions/2200.cpp)
+- **E** [2210. Count Hills and Valleys in an Array](./cpp_solutions/2210.cpp)
 - **M** [2256. Minimum Average Difference](./cpp_solutions/2256.cpp)
 - **M** [2270. Number of Ways to Split Array](./cpp_solutions/2270.cpp)
 - **H** [2448. Minimum Cost to Make Array Equal](./cpp_solutions/2448.cpp)
