@@ -1671,6 +1671,7 @@
 - **H** [3333. Find the Original Typed String II](./cpp_solutions/3333.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
 - **H** [3351. Sum of Good Subsequences](./cpp_solutions/3351.cpp)
+- **H** [3363. Find the Maximum Number of Fruits Collected](./cpp_solutions/3363.cpp)
 - **M** [3366. Minimum Array Sum](./cpp_solutions/3365.cpp)
 - **M** [3393. Count Paths With the Given XOR Value](./cpp_solutions/3393.cpp)
 - **M** [3409. Longest Subsequence With Decreasing Adjacent Difference](./cpp_solutions/3409.cpp)
