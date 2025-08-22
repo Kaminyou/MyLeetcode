@@ -445,6 +445,7 @@
 - **M** [2679. Sum in a Matrix](./cpp_solutions/2679.cpp)
 - **E** [2965. Find Missing and Repeated Values](./cpp_solutions/2965.cpp)
 - **M** [3044. Most Frequent Prime](./cpp_solutions/3044.cpp)
+- **M** [3195. Find the Minimum Area to Cover All Ones I](./cpp_solutions/3195.cpp)
 - **E** [3402. Minimum Operations to Make Columns Strictly Increasing](./cpp_solutions/3402.cpp)
 - **E** [3417. Zigzag Grid Traversal With Skip](./cpp_solutions/3417.cpp)
 - **M** [3446. Sort Matrix by Diagonals](./cpp_solutions/3446.cpp)
