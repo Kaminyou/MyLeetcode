@@ -545,6 +545,7 @@
 - **M** [1838. Frequency of the Most Frequent Element](./cpp_solutions/1838.cpp)
 - **H** [2009. Minimum Number of Operations to Make Array Continuous](./cpp_solutions/2009.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./cpp_solutions/2024.cpp)
+- **H** [2106. Maximum Fruits Harvested After at Most K Steps](./cpp_solutions/2106.cpp)
 - **M** [2134. Minimum Swaps to Group All 1's Together II](./cpp_solutions/2134.cpp)
 - **M** [2149. Rearrange Array Elements by Sign](./cpp_solutions/2149.cpp)
 - **M** [2261. K Divisible Elements Subarrays](./cpp_solutions/2261.cpp)
