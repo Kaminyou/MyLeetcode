@@ -1895,6 +1895,7 @@
 - **M** [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](./cpp_solutions/2654.cpp)
 - **M** [2849. Determine if a Cell Is Reachable at a Given Time](./cpp_solutions/2849.cpp)
 - **M** [2929. Distribute Candies Among Children II](./cpp_solutions/2929.cpp)
+- **M** [3021. Alice and Bob Playing Flower Game](./cpp_solutions/3021.cpp)
 - **M** [3227. Vowels Game in a String](./cpp_solutions/3227.cpp)
 - **H** [3307. Find the K-th Character in String Game II](./cpp_solutions/3307.cpp)
 - **H** [3405. Count the Number of Arrays with K Matching Adjacent Elements](./cpp_solutions/3415.cpp)
