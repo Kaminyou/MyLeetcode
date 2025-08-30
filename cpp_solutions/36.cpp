@@ -39,3 +39,47 @@ public:
         return true;
     }
 };
+
+class Solution {
+public:
+    bool isValidSudoku(vector<vector<char>>& board) {
+        // check rows
+        for (int i = 0; i < 9; ++i) {
+            int mask = 0;
+            for (int j = 0; j < 9; ++j) {
+                if (board[i][j] == '.') continue;
+                int num = board[i][j] - '0';
+                int val = 1 << num;
+                if (mask & val) return false;
+                mask |= val;
+            }
+        }
+        // check cols
+        for (int j = 0; j < 9; ++j) {
+            int mask = 0;
+            for (int i = 0; i < 9; ++i) {
+                if (board[i][j] == '.') continue;
+                int num = board[i][j] - '0';
+                int val = 1 << num;
+                if (mask & val) return false;
+                mask |= val;
+            }
+        }
+        // check grids
+        for (int i = 0; i < 9; i += 3) {
+            for (int j = 0; j < 9; j += 3) {
+                int mask = 0;
+                for (int r = i; r < i + 3; ++r) {
+                    for (int c = j; c < j + 3; ++c) {
+                        if (board[r][c] == '.') continue;
+                        int num = board[r][c] - '0';
+                        int val = 1 << num;
+                        if (mask & val) return false;
+                        mask |= val;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+};
