@@ -582,6 +582,7 @@
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./cpp_solutions/17.cpp)
 - **M** [22. Generate Parentheses](./cpp_solutions/22.cpp)
+- **H** [37. Sudoku Solver](./cpp_solutions/37.cpp)
 - **M** [39. Combination Sum](./cpp_solutions/39.cpp)
 - **M** [40. Combination Sum II](./cpp_solutions/40.cpp)
 - **M** [46. Permutations](./cpp_solutions/46.cpp)
