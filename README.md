@@ -141,6 +141,7 @@
 - **E** [3360. Stone Removal Game](./cpp_solutions/3360.cpp)
 - **E** [3411. Maximum Subarray With Equal Products](./cpp_solutions/3411.cpp)
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
+- **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
