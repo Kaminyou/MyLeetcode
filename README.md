@@ -1746,6 +1746,7 @@
 - **M** [2568. Minimum Impossible OR](./cpp_solutions/2568.cpp)
 - **M** [2680. Maximum OR](./cpp_solutions/2680.cpp)
 - **M** [2683. Neighboring Bitwise XOR](./cpp_solutions/2683.cpp)
+- **M** [2749. Minimum Operations to Make the Integer Zero](./cpp_solutions/2749.cpp)
 - **M** [2997. Minimum Number of Operations to Make Array XOR Equal to K](./cpp_solutions/2997.cpp)
 - **M** [3133. Minimum Array End](./cpp_solutions/3133.cpp)
 - **E** [3226. Number of Bit Changes to Make Two Integers Equal](./cpp_solutions/3226.cpp)
