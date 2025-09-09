@@ -21,3 +21,29 @@ public:
         return sum;
     }
 };
+
+class Solution {
+public:
+    int peopleAwareOfSecret(int n, int delay, int forget) {
+        vector<long long> days(n + 1, 0);
+        days[1] = 1;
+        long long mod = 1e9 + 7;
+        for (int i = 2; i <= n; ++i) {
+            for (int j = n; j >= 1; --j) {
+                days[j] = days[j - 1];
+            }
+            days[1] = 0;
+            for (int j = delay + 1; j <= forget; ++j) {
+                days[1] += days[j];
+                days[1] %= mod;
+            }
+        }
+        long long res = 0;
+        for (int i = 1; i <= forget; ++i) {
+            res += days[i];
+            res %= mod;
+        }
+        return res;
+    }
+};
+
