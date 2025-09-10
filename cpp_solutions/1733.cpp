@@ -1,40 +1,36 @@
 class Solution {
 public:
     int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
-        //vector<int> teach(n, 0);
         int res = INT_MAX;
         int m = languages.size();
         int k = friendships.size();
-        vector<bool> skips(k, false);
-        vector<set<int>> languageSts(m);
+        unordered_set<int> needs;
+        vector<unordered_set<int>> languageSts(m);
         vector<bool> learns(m, false);
         for (int i = 0; i < m; ++i) {
             for (auto& language : languages[i]) {
                 languageSts[i].insert(language);
             }
         }
-        for (int learnLanguage = 1; learnLanguage <= n; ++learnLanguage) {
-            for (int i = 0; i < m; ++i) learns[i] = false;
-            for (int j = 0; j < k; ++j) {
-                if (skips[j]) continue;
-                auto friendship = friendships[j];
-                int u = friendship[0] - 1;
-                int v = friendship[1] - 1;
-                bool flag = false;
-                for (auto& language : languages[u]) {
-                    if (languageSts[v].count(language)) {
-                        flag = true;
-                        skips[j] = true;
-                        break;
-                    }
+        for (int j = 0; j < k; ++j) {
+            auto friendship = friendships[j];
+            int u = friendship[0] - 1;
+            int v = friendship[1] - 1;
+            bool flag = false;
+            for (auto& language : languages[u]) {
+                if (languageSts[v].count(language)) {
+                    flag = true;
+                    break;
                 }
-                if (flag) continue;
-                if (!languageSts[u].count(learnLanguage)) learns[u] = true;
-                if (!languageSts[v].count(learnLanguage)) learns[v] = true;
             }
+            if (flag) continue;
+            needs.insert(u);
+            needs.insert(v);
+        }
+        for (int learnLanguage = 1; learnLanguage <= n; ++learnLanguage) {
             int count = 0;
-            for (int i = 0; i < m; ++i) {
-                if (learns[i]) count++;
+            for (auto& need : needs) {
+                if (!languageSts[need].count(learnLanguage)) count++;
             }
             res = min(res, count);
         }
