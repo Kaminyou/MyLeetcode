@@ -1046,6 +1046,7 @@
 - **E** [3442. Maximum Difference Between Even and Odd Frequency I](./cpp_solutions/3440.cpp)
 - **M** [3447. Assign Elements to Groups with Constraints](./cpp_solutions/3447.cpp)
 - **E** [3487. Maximum Unique Subarray Sum After Deletion](./cpp_solutions/3487.cpp)
+- **E** [3541. Find Most Frequent Vowel and Consonant](./cpp_solutions/3541.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./cpp_solutions/20.cpp)
