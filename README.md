@@ -938,6 +938,7 @@
 - **M** [916. Word Subsets](./cpp_solutions/916.cpp)
 - **M** [939. Minimum Area Rectangle](./cpp_solutions/939.cpp)
 - **E** [961. N-Repeated Element in Size 2N Array](./cpp_solutions/961.cpp)
+- **M** [966. Vowel Spellchecker](./cpp_solutions/966.cpp)
 - **M** [974. Subarray Sums Divisible by K](./cpp_solutions/974.cpp)
 - **M** [1010. Pairs of Songs With Total Durations Divisible by 60](./cpp_solutions/1010.cpp)
 - **M** [1072. Flip Columns For Maximum Number of Equal Rows](./cpp_solutions/1072.cpp)
