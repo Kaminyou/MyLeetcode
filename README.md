@@ -981,6 +981,7 @@
 - **M** [1865. Finding Pairs With a Certain Sum](./cpp_solutions/1865.cpp)
 - **M** [1915. Number of Wonderful Substrings](./cpp_solutions/1915.cpp)
 - **M** [1930. Unique Length-3 Palindromic Subsequences](./cpp_solutions/1930.cpp)
+- **E** [1935. Maximum Number of Words You Can Type](./cpp_solutions/1935.cpp)
 - **M** [2007. Find Original Array From Doubled Array](./cpp_solutions/2007.cpp)
 - **M** [2013. Detect Squares](./cpp_solutions/2013.cpp)
 - **M** [2023. Number of Pairs of Strings With Concatenation Equal to Target](./cpp_solutions/2023.cpp)
