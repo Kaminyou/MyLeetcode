@@ -1266,6 +1266,7 @@
 - **H** [987. Vertical Order Traversal of a Binary Tree](./cpp_solutions/987.cpp)
 - **M** [1094. Car Pooling](./cpp_solutions/1094.cpp)
 - **E** [1854. Maximum Population Year](./cpp_solutions/1854.cpp)
+- **H** [1912. Design Movie Rental System](./cpp_solutions/1912.cpp)
 - **M** [2015. Average Height of Buildings in Each Segment](./cpp_solutions/2015.cpp)
 - **H** [2276. Count Integers in Intervals](./cpp_solutions/2276.cpp)
 - **M** [2336. Smallest Number in Infinite Set](./cpp_solutions/2336.cpp)
