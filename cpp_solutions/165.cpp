@@ -31,3 +31,30 @@ public:
         return 0;
     }
 };
+
+class Solution {
+public:
+    int compareVersion(string version1, string version2) {
+        stringstream ss1(version1);
+        string token1;
+        stringstream ss2(version2);
+        string token2;
+        while (true) {
+            int val1 = 0;
+            int val2 = 0;
+            bool flag = false;
+            if (getline(ss1, token1, '.')) {
+                val1 = stoi(token1);
+                flag = true;
+            }
+            if (getline(ss2, token2, '.')) {
+                val2 = stoi(token2);
+                flag = true;
+            }
+            if (!flag) return 0;
+            if (val1 > val2) return 1;
+            if (val1 < val2) return -1;
+        }
+        return 0;
+    }
+};
