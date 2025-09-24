@@ -54,3 +54,45 @@ public:
         return to_string(dec) + "." + frac;
     }
 };
+
+class Solution {
+public:
+    string fractionToDecimal(long long numerator, long long denominator) {
+        unordered_map<long long, int> reminder2index;
+        string res;
+        int index = 0;
+        if (numerator * denominator < 0) {
+            res.push_back('-');
+            index++;
+        }
+        numerator = abs(numerator);
+        denominator = abs(denominator);
+        bool flag = false;
+        long long repeat = -1;
+        while (true) {
+            long long a = numerator / denominator;
+            long long b = numerator % denominator;
+            string aa = to_string(a);
+            res += aa;
+            if (b == 0) break;
+            numerator = b * 10;
+            if (reminder2index.count(numerator)) {
+                repeat = numerator;
+                break;
+            }
+            if (!flag) {
+                flag = true;
+                res.push_back('.');
+                index++;
+            }
+            index += aa.size();
+            reminder2index[numerator] = index;
+        }
+        if (repeat > -1) {
+            int start = reminder2index[repeat];
+            res = res.substr(0, start) + "(" + res.substr(start) + ")";
+        }
+        return res;
+    }
+};
+
