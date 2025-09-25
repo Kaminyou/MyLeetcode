@@ -22,3 +22,23 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    int minimumTotal(vector<vector<int>>& triangle) {
+        int n = triangle.size();
+        int res = INT_MAX;
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j <= i; ++j) {
+                int minVal = INT_MAX;
+                if (j - 1 >= 0) minVal = min(minVal, triangle[i - 1][j - 1]);
+                if (j <= i - 1) minVal = min(minVal, triangle[i - 1][j]);
+                if (minVal != INT_MAX) triangle[i][j] += minVal;
+                if (i == n - 1) {
+                    res = min(res, triangle[i][j]);
+                }
+            }
+        }
+        return res;
+    }
+};
