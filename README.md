@@ -1581,6 +1581,7 @@
 - **H** [1000. Minimum Cost to Merge Stones](./cpp_solutions/1000.cpp)
 - **M** [1027. Longest Arithmetic Subsequence](./cpp_solutions/1027.cpp)
 - **M** [1035. Uncrossed Lines](./cpp_solutions/1035.cpp)
+- **M** [1039. Minimum Score Triangulation of Polygon](./cpp_solutions/1039.cpp)
 - **M** [1043. Partition Array for Maximum Sum](./cpp_solutions/1043.cpp)
 - **M** [1048. Longest String Chain](./cpp_solutions/1048.cpp)
 - **M** [1049. Last Stone Weight II](./cpp_solutions/1049.cpp)
