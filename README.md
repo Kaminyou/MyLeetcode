@@ -1651,6 +1651,7 @@
 - **M** [2140. Solving Questions With Brainpower](./cpp_solutions/2140.cpp)
 - **H** [2172. Maximum AND Sum of Array](./cpp_solutions/2172.cpp)
 - **M** [2174. Remove All Ones With Row and Column Flips II](./cpp_solutions/2174.cpp)
+- **M** [2221. Find Triangular Sum of an Array](./cpp_solutions/2221.cpp)
 - **M** [2266. Count Number of Texts](./cpp_solutions/2266.cpp)
 - **H** [2267. Check if There Is a Valid Parentheses String Path](./cpp_solutions/2267.cpp)
 - **M** [2304. Minimum Path Cost in a Grid](./cpp_solutions/2304.cpp)
