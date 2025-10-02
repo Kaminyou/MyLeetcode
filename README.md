@@ -135,6 +135,7 @@
 - **E** [2942. Find Words Containing Character](./cpp_solutions/2942.cpp)
 - **E** [3000. Maximum Area of Longest Diagonal Rectangle](./cpp_solutions/3000.cpp)
 - **E** [3024. Type of Triangle](./cpp_solutions/3024.cpp)
+- **M** [3100. Water Bottles II](./cpp_solutions/3100.cpp)
 - **E** [3110. Score of a String](./cpp_solutions/3110.cpp)
 - **E** [3151. Special Array I](./cpp_solutions/3151.cpp)
 - **E** [3190. Find Minimum Operations to Make All Elements Divisible by Three](./cpp_solutions/3190.cpp)
