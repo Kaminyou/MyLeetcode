@@ -20,3 +20,28 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
+        int n = spells.size();
+        int m = potions.size();
+        vector<pair<int, int>> v(n);
+        for (int i = 0; i < n; ++i) {
+            v[i] = {spells[i], i};
+        }
+        sort(v.begin(), v.end());
+        sort(potions.begin(), potions.end());
+        vector<int> res(n, 0);
+        int spellIdx = 0;
+        int potionIdx = m;
+        for (int i = 0; i < n; ++i) {
+            long long spell = v[i].first;
+            while (potionIdx - 1 >= 0 && (long long)potions[potionIdx - 1] * spell >= success) {
+                potionIdx--;
+            }
+            res[v[i].second] = m - potionIdx;
+        }
+        return res;
+    }
+};
