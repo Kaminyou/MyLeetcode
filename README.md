@@ -378,6 +378,7 @@
 - **E** [2900. Longest Unequal Adjacent Groups Subsequence I](./cpp_solutions/2900.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
+- **M** [3147. Taking Maximum Energy From the Mystic Dungeon](./cpp_solutions/3147.cpp)
 - **M** [3152. Special Array II](./cpp_solutions/3152.cpp)
 - **E** [3349. Adjacent Increasing Subarrays Detection I](./cpp_solutions/3349.cpp)
 - **M** [3350. Adjacent Increasing Subarrays Detection II](./cpp_solutions/3350.cpp)
