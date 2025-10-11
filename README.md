@@ -1685,6 +1685,7 @@
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
 - **M** [2901. Longest Unequal Adjacent Groups Subsequence II](./cpp_solutions/2901.cpp)
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
+- **M** [3186. Maximum Total Damage With Spell Casting](./cpp_solutions/3186.cpp)
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3201. Find the Maximum Length of Valid Subsequence I](./cpp_solutions/3201.cpp)
 - **M** [3202. Find the Maximum Length of Valid Subsequence II](./cpp_solutions/3202.cpp)
