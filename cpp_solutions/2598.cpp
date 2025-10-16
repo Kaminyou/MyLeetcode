@@ -32,3 +32,24 @@ public:
         return value + 1;
     }
 };
+
+class Solution {
+public:
+    int findSmallestInteger(vector<int>& nums, int value) {
+        int hash[value + 1];
+        int n = nums.size();
+        for (int i = 0; i < value + 1; ++i) hash[i] = 0;
+        for (int num : nums) {
+            num %= value;
+            num += 2 * value;
+            num %= value;
+            hash[num] += 1;
+        }
+        for (int i = 0; i < n + 1; ++i) {
+            int h = i % value;
+            hash[h]--;
+            if (hash[h] < 0) return i;
+        }
+        return -1;
+    }
+};
