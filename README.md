@@ -221,6 +221,7 @@
 - **E** [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](./cpp_solutions/1455.cpp)
 - **M** [1545. Find Kth Bit in Nth Binary String](./cpp_solutions/1545.cpp)
 - **E** [1614. Maximum Nesting Depth of the Parentheses](./cpp_solutions/1614.cpp)
+- **M** [1625. Lexicographically Smallest String After Applying Operations](./cpp_solutions/1625.cpp)
 - **E** [1758. Minimum Changes To Make Alternating Binary String](./cpp_solutions/1758.cpp)
 - **M** [1759. Count Number of Homogenous Substrings](./cpp_solutions/1759.cpp)
 - **E** [1768. Merge Strings Alternately](./cpp_solutions/1768.cpp)
