@@ -584,6 +584,7 @@
 - **M** [3254. Find the Power of K-Size Subarrays I](./cpp_solutions/3254.cpp)
 - **M** [3306. Count of Substrings Containing Every Vowel and K Consonants II](./cpp_solutions/3306.cpp)
 - **M** [3325. Count Substrings With K-Frequency Characters I](./cpp_solutions/3325.cpp)
+- **M** [3346. Maximum Frequency of an Element After Performing Operations I](./cpp_solutions/3346.cpp)
 - **H** [3445. Maximum Difference Between Even and Odd Frequency II](./cpp_solutions/3445.cpp)
 
 ### Backtracking
