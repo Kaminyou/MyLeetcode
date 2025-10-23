@@ -143,6 +143,7 @@
 - **E** [3248. Snake in Matrix](./cpp_solutions/3248.cpp)
 - **E** [3360. Stone Removal Game](./cpp_solutions/3360.cpp)
 - **E** [3411. Maximum Subarray With Equal Products](./cpp_solutions/3411.cpp)
+- **E** [3461. Check If Digits Are Equal in String After Operations I](./cpp_solutions/3461.cpp)
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 #### Recursive
