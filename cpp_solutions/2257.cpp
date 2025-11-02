@@ -123,3 +123,40 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    vector<pair<int, int>> directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
+        vector<vector<char>> grid(m, vector<char>(n, 'E'));
+        for (auto& wall : walls) {
+            grid[wall[0]][wall[1]] = 'W';
+        }
+        for (auto& guard : guards) {
+            grid[guard[0]][guard[1]] = 'G';
+        }
+        for (auto& guard : guards) {
+            for (auto& direction : directions) {
+                int x = guard[0];
+                int y = guard[1];
+                while (true) {
+                    int nextX = x + direction.first;
+                    int nextY = y + direction.second;
+                    if (nextX < 0 || nextX >= m || nextY < 0 || nextY >= n) break;
+                    if (grid[nextX][nextY] == 'W') break;
+                    if (grid[nextX][nextY] == 'G') break;
+                    grid[nextX][nextY] = 'P';
+                    x = nextX;
+                    y = nextY;
+                }
+            }
+        }
+        int res = 0;
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (grid[i][j] == 'E') res++;
+            }
+        }
+        return res;
+    }
+};
