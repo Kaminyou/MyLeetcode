@@ -1050,6 +1050,7 @@
 - **M** [3223. Minimum Length of String After Operations](./cpp_solutions/3223.cpp)
 - **H** [3272. Find the Count of Good Integers](./cpp_solutions/3272.cpp)
 - **E** [3289. The Two Sneaky Numbers of Digitville](./cpp_solutions/3289.cpp)
+- **E** [3318. Find X-Sum of All K-Long Subarrays I](./cpp_solutions/3318.cpp)
 - **H** [3337. Total Characters in String After Transformations II](./cpp_solutions/3337.cpp)
 - **M** [3365. Rearrange K Substrings to Form Target String](./cpp_solutions/3365.cpp)
 - **M** [3371. Identify the Largest Outlier in an Array](./cpp_solutions/3370.cpp)
