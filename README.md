@@ -584,6 +584,7 @@
 - **M** [3208. Alternating Groups II](./cpp_solutions/3208.cpp)
 - **M** [3254. Find the Power of K-Size Subarrays I](./cpp_solutions/3254.cpp)
 - **M** [3306. Count of Substrings Containing Every Vowel and K Consonants II](./cpp_solutions/3306.cpp)
+- **H** [3321. Find X-Sum of All K-Long Subarrays II](./cpp_solutions/3321.cpp)
 - **M** [3325. Count Substrings With K-Frequency Characters I](./cpp_solutions/3325.cpp)
 - **M** [3346. Maximum Frequency of an Element After Performing Operations I](./cpp_solutions/3346.cpp)
 - **H** [3347. Maximum Frequency of an Element After Performing Operations II](./cpp_solutions/3347.cpp)
