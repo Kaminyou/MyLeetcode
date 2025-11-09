@@ -74,6 +74,7 @@
 - **M** [2125. Number of Laser Beams in a Bank](./cpp_solutions/2125.cpp)
 - **M** [2161. Partition Array According to Given Pivot](./cpp_solutions/2161.cpp)
 - **M** [2162. Minimum Cost to Set Cooking Time](./cpp_solutions/2162.cpp)
+- **E** [2169. Count Operations to Obtain Zero](./cpp_solutions/2169.cpp)
 - **E** [2176. Count Equal and Divisible Pairs in an Array](./cpp_solutions/2176.cpp)
 - **E** [2185. Counting Words With a Given Prefix](./cpp_solutions/2185.cpp)
 - **E** [2264. Largest 3-Same-Digit Number in String](./cpp_solutions/2264.cpp)
