@@ -1118,6 +1118,7 @@
 - **M** [2487. Remove Nodes From Linked List](./cpp_solutions/2487.cpp)
 - **H** [2818. Apply Operations to Maximize Score](./cpp_solutions/2818.cpp)
 - **H** [2940. Find Building Where Alice and Bob Can Meet](./cpp_solutions/2940.cpp)
+- **M** [3542. Minimum Operations to Convert All Elements to Zero](./cpp_solutions/3542.cpp)
 
 ### Queue
 - **E** [225. Implement Stack using Queues](./cpp_solutions/225.cpp)
