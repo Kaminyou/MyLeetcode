@@ -583,6 +583,7 @@
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
 - **M** [3097. Shortest Subarray With OR at Least K II](./cpp_solutions/3097.cpp)
 - **M** [3208. Alternating Groups II](./cpp_solutions/3208.cpp)
+- **M** [3234. Count the Number of Substrings With Dominant Ones](./cpp_solutions/3234.cpp)
 - **M** [3254. Find the Power of K-Size Subarrays I](./cpp_solutions/3254.cpp)
 - **M** [3306. Count of Substrings Containing Every Vowel and K Consonants II](./cpp_solutions/3306.cpp)
 - **H** [3321. Find X-Sum of All K-Long Subarrays II](./cpp_solutions/3321.cpp)
