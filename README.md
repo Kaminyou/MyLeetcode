@@ -222,6 +222,7 @@
 - **E** [1331. Rank Transform of an Array](./cpp_solutions/1331.cpp)
 - **E** [1422. Maximum Score After Splitting a String](./cpp_solutions/1422.cpp)
 - **E** [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](./cpp_solutions/1455.cpp)
+- **M** [1513. Number of Substrings With Only 1s](./cpp_solutions/1513.cpp)
 - **M** [1545. Find Kth Bit in Nth Binary String](./cpp_solutions/1545.cpp)
 - **E** [1614. Maximum Nesting Depth of the Parentheses](./cpp_solutions/1614.cpp)
 - **M** [1625. Lexicographically Smallest String After Applying Operations](./cpp_solutions/1625.cpp)
