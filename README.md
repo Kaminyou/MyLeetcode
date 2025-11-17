@@ -308,6 +308,7 @@
 - **E** [1122. Relative Sort Array](./cpp_solutions/1122.cpp)
 - **E** [1365. How Many Numbers Are Smaller Than the Current Number](./cpp_solutions/1365.cpp)
 - **M** [1395. Count Number of Teams](./cpp_solutions/1395.cpp)
+- **E** [1437. Check If All 1's Are at Least Length K Places Away](./cpp_solutions/1437.cpp)
 - **M** [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./cpp_solutions/1442.cpp)
 - **E** [1460. Make Two Arrays Equal by Reversing Subarrays](./cpp_solutions/1460.cpp)
 - **E** [1470. Shuffle the Array](./cpp_solutions/1470.cpp)
