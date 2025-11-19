@@ -1005,6 +1005,7 @@
 - **E** [2053. Kth Distinct String in an Array](./cpp_solutions/2053.cpp)
 - **M** [2131. Longest Palindrome by Concatenating Two Letter Words](./cpp_solutions/2131.cpp)
 - **M** [2135. Count Words Obtained After Adding a Letter](./cpp_solutions/2135.cpp)
+- **E** [2154. Keep Multiplying Found Values by Two](./cpp_solutions/2154.cpp)
 - **E** [2206. Divide Array Into Equal Pairs](./cpp_solutions/2206.cpp)
 - **E** [2215. Find the Difference of Two Arrays](./cpp_solutions/2215.cpp)
 - **M** [2225. Find Players With Zero or One Losses](./cpp_solutions/2225.cpp)
