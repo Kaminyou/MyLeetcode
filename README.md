@@ -1625,6 +1625,7 @@
 - **H** [1240. Tiling a Rectangle with the Fewest Squares](./cpp_solutions/1240.cpp)
 - **H** [1246. Palindrome Removal](./cpp_solutions/1246.cpp)
 - **H** [1259. Handshakes That Don't Cross](./cpp_solutions/1259.cpp)
+- **M** [1262. Greatest Sum Divisible by Three](./cpp_solutions/1262.cpp)
 - **H** [1269. Number of Ways to Stay in the Same Place After Some Steps](./cpp_solutions/1269.cpp)
 - **M** [1277. Count Square Submatrices with All Ones](./cpp_solutions/1277.cpp)
 - **H** [1278. Palindrome Partitioning III](./cpp_solutions/1278.cpp)
