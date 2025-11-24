@@ -1759,6 +1759,7 @@
 - **E** [762. Prime Number of Set Bits in Binary Representation](./cpp_solutions/762.cpp)
 - **E** [868. Binary Gap](./cpp_solutions/868.cpp)
 - **E** [1009. Complement of Base 10 Integer](./cpp_solutions/1009.cpp)
+- **E** [1018. Binary Prefix Divisible By 5](./cpp_solutions/1018.cpp)
 - **M** [1239. Maximum Length of a Concatenated String with Unique Characters](./cpp_solutions/1239.cpp)
 - **E** [1290. Convert Binary Number in a Linked List to Integer](./cpp_solutions/1290.cpp)
 - **M** [1318. Minimum Flips to Make a OR b Equal to c](./cpp_solutions/1318.cpp)
