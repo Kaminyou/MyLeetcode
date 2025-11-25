@@ -957,6 +957,7 @@
 - **M** [966. Vowel Spellchecker](./cpp_solutions/966.cpp)
 - **M** [974. Subarray Sums Divisible by K](./cpp_solutions/974.cpp)
 - **M** [1010. Pairs of Songs With Total Durations Divisible by 60](./cpp_solutions/1010.cpp)
+- **M** [1015. Smallest Integer Divisible by K](./cpp_solutions/1015.cpp)
 - **M** [1072. Flip Columns For Maximum Number of Equal Rows](./cpp_solutions/1072.cpp)
 - **E** [1128. Number of Equivalent Domino Pairs](./cpp_solutions/1128.cpp)
 - **M** [1152. Analyze User Website Visit Pattern](./cpp_solutions/1152.cpp)
