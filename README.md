@@ -1062,6 +1062,7 @@
 - **M** [3365. Rearrange K Substrings to Form Target String](./cpp_solutions/3365.cpp)
 - **M** [3371. Identify the Largest Outlier in an Array](./cpp_solutions/3370.cpp)
 - **E** [3375. Minimum Operations to Make Array Values Equal to K](./cpp_solutions/3375.cpp)
+- **M** [3381. Maximum Subarray Sum With Length Divisible by K](./cpp_solutions/3381.cpp)
 - **E** [3396. Minimum Number of Operations to Make Elements in Array Distinct](./cpp_solutions/3396.cpp)
 - **M** [3404. Count Special Subsequences](./cpp_solutions/3404.cpp)
 - **M** [3412. Find Mirror Score of a String](./cpp_solutions/3412.cpp)
