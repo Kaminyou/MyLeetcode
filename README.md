@@ -147,6 +147,7 @@
 - **E** [3461. Check If Digits Are Equal in String After Operations I](./cpp_solutions/3461.cpp)
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
+- **E** [3512. Minimum Operations to Make Array Sum Divisible by K](./cpp_solutions/3521.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
