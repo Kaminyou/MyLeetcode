@@ -985,6 +985,7 @@
 - **M** [1497. Check If Array Pairs Are Divisible by k](./cpp_solutions/1497.cpp)
 - **E** [1512. Number of Good Pairs](./cpp_solutions/1512.cpp)
 - **M** [1524. Number of Sub-arrays With Odd Sum](./cpp_solutions/1524.cpp)
+- **M** [1590. Make Sum Divisible by P](./cpp_solutions/1590.cpp)
 - **M** [1615. Maximal Network Rank](./cpp_solutions/1615.cpp)
 - **M** [1637. Widest Vertical Area Between Two Points Containing No Points](./cpp_solutions/1637.cpp)
 - **M** [1657. Determine if Two Strings Are Close](./cpp_solutions/1657.cpp)
