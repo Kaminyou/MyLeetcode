@@ -18,15 +18,11 @@ public:
             sum %= (long long)p;
             long long target = ((sum - k + p) % p);
             if (mod2loc.count(target)) {
-                if (target == 0 && i == n - 1) {
-                    if (flag) res = min(res, i - mod2loc[target]);
-                }
-                else res = min(res, i - mod2loc[target]);
+                res = min(res, i - mod2loc[target]);
             }
             mod2loc[sum] = i;
-            if (sum == 0) flag = true;
         }
-        return (res == INT_MAX) ? -1 : res;
+        return (res >= n) ? -1 : res;
     }
 };
 
