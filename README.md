@@ -68,6 +68,7 @@
 - **E** [1704. Determine if String Halves Are Alike](./cpp_solutions/1704.cpp)
 - **E** [1716. Calculate Money in Leetcode Bank](./cpp_solutions/1716.cpp)
 - **E** [1822. Sign of the Product of an Array](./cpp_solutions/1822.cpp)
+- **E** [1925. Count Square Sum Triples](./cpp_solutions/1925.cpp)
 - **E** [2011. Final Value of Variable After Performing Operations](./cpp_solutions/2011.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./cpp_solutions/2089.cpp)
 - **E** [2094. Finding 3-Digit Even Numbers](./cpp_solutions/2094.cpp)
