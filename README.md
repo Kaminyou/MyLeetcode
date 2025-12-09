@@ -1075,6 +1075,7 @@
 - **M** [3484. Design Spreadsheet](./cpp_solutions/3484.cpp)
 - **E** [3487. Maximum Unique Subarray Sum After Deletion](./cpp_solutions/3487.cpp)
 - **E** [3541. Find Most Frequent Vowel and Consonant](./cpp_solutions/3541.cpp)
+- **M** [3583. Count Special Triplets](./cpp_solutions/3583.cpp)
 - **M** [3623. Count Number of Trapezoids I](./cpp_solutions/3623.cpp)
 
 ### Stack
