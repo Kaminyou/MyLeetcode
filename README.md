@@ -397,6 +397,7 @@
 - **E** [3432. Count Partitions with Even Sum Difference](./cpp_solutions/3432.cpp)
 - **M** [3439. Reschedule Meetings for Maximum Free Time I](./cpp_solutions/3439.cpp)
 - **M** [3494. Find the Minimum Amount of Time to Brew Potions](./cpp_solutions/3494.cpp)
+- **M** [3577. Count the Number of Computer Unlocking Permutations](./cpp_solutions/3577.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
