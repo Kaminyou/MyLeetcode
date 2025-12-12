@@ -269,6 +269,7 @@
 - **E** [3330. Find the Original Typed String I](./cpp_solutions/3330.cpp)
 - **E** [3340. Check Balanced String](./cpp_solutions/3340.cpp)
 - **M** [3403. Find the Lexicographically Largest String From the Box I](./cpp_solutions/3402.cpp)
+- **M** [3433. Count Mentions Per User](./cpp_solutions/3433.cpp)
 - **E** [3438. Find Valid Pair of Adjacent Digits in String](./cpp_solutions/3438.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
