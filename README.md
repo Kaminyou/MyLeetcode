@@ -1157,6 +1157,7 @@
 - **H** [1499. Max Value of Equation](./cpp_solutions/1499.cpp)
 - **M** [1696. Jump Game VI](./cpp_solutions/1696.cpp)
 - **M** [2762. Continuous Subarrays](./cpp_solutions/2762.cpp)
+- **M** [3578. Count Partitions With Max-Min Difference at Most K](./cpp_solutions/3578.cpp)
 
 ### Tree
 - **E** [94. Binary Tree Inorder Traversal](./cpp_solutions/94.cpp)
