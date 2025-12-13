@@ -1856,6 +1856,7 @@
 - **M** [3025. Find the Number of Ways to Place People I](./cpp_solutions/3025.cpp)
 - **H** [3027. Find the Number of Ways to Place People II](./cpp_solutions/3027.cpp)
 - **M** [3047. Find the Largest Area of Square Inside Two Rectangles](./cpp_solutions/3047.cpp)
+- **H** [3625. Count Number of Trapezoids II](./cpp_solutions/3625.cpp)
 #### Andrew’s Monotone Chain
 - **H** [587. Erect the Fence](./cpp_solutions/587.cpp)
 
