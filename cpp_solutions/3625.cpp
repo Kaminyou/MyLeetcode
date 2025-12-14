@@ -1,68 +1,48 @@
-constexpr int bias=1<<11;
 class Solution {
 public:
-    using ll=long long;
-
-    // Pack 2 integers into one  key
-    static int pack2(int a, int b) {
-        return ((ll)(a+bias)<<16) | (b+bias);
+    long long bias = 1 << 11;
+    long long pack2(long long a, long long b) {
+        return ((a + bias) << 16) + (b + bias);
     }
-
-    // Pack 3 integers into one 64-bit key, note |c|<=2e6
-    static ll pack3(int a, int b, int c) {
-        return ((ll)(a+bias)<<50)|((ll)(b+bias)<<30)|(c+bias*bias);
+    long long pack3(long long a, long long b, long long c) {
+        return ((a + bias) << 46) + ((b + bias) << 30) + (c + bias * bias);
     }
-
-    // Pack 4 integers into one 64-bit key
-    static ll pack4(int a, int b, int c, int d) {
-        return ((ll)(a+bias)<<48)|((ll)(b+bias)<<32)|((ll)(c+bias)<<16)|(d+ bias);
+    long long pack4(long long a, long long b, long long c, long long d) {
+        return ((a + bias) << 48) + ((b + bias) << 32) + ((c + bias) << 16) + (d + bias);
     }
+    int countTrapezoids(vector<vector<int>>& points) {
+        int n = points.size();
+        unordered_map<long long, int> slopeMp, lineMp, midMp, midSlopeMp;
+        int res = 0;
+        for (int i = 0; i < n - 1; ++i) {
+            int x0 = points[i][0];
+            int y0 = points[i][1];
+            for (int j = i + 1; j < n; ++j) {
+                int x1 = points[j][0];
+                int y1 = points[j][1];
 
-    static int countTrapezoids(vector<vector<int>>& points) {
-        const int n=points.size();
-        const int nn=n*(n-1);
+                int slopeA = x1 - x0;
+                int slopeB = y1 - y0;
+                int intersect = x1 * y0 - y1 * x0;
 
-        unordered_map<ll,int> coeff, midPointWslope;
-        unordered_map<ll,int> slope, midPoint;
+                int slopeGcd = __gcd(slopeA, slopeB);
+                int lineGcd = __gcd(slopeGcd, intersect);
 
-        coeff.reserve(nn);
-        slope.reserve(nn);
-        midPointWslope.reserve(nn);
-        midPoint.reserve(nn);
+                long long slope = pack2(slopeA / slopeGcd, slopeB / slopeGcd);
+                long long line = pack3(slopeA / lineGcd, slopeB / lineGcd, intersect / lineGcd);
+                long long mid = pack2(x0 + x1, y0 + y1);
+                long long midSlope = pack4(x0 + x1, y0 + y1, slopeA / slopeGcd, slopeB / slopeGcd);
+                res += slopeMp[slope];
+                res -= lineMp[line];
+                res -= midMp[mid];
+                res += midSlopeMp[midSlope];
 
-        int cnt=0;
-
-        for(int i=0; i<n-1; i++) {
-            const int x0=points[i][0], y0=points[i][1];
-            for(int j=i+1; j< n; j++) {
-                const int x1=points[j][0], y1=points[j][1];
-                
-                // line : ax+by+c=0
-                int a=y1-y0;
-                int b=x0-x1;
-                int c=y0*x1-y1*x0;
-
-                // the 1st nonzero coeff is positive
-                if(a==0 && b<0) { b=-b; c=-c; }
-                else if(a<0) { a=-a; b=-b; c=-c; }
-
-                // normalize slope and line coefficients
-                int gm=gcd(a, b), gc=gcd(gm, c);
-
-                int ab=pack2(a/gm, b/gm);           // slope key
-                ll abc=pack3(a/gc, b/gc, c/gc);    // line key
-
-                // 2 segments with same midpoint with different slopes
-                // are the cross lines for a parallelgram
-                ll midP=pack2(x0+x1, y0+y1);       // midpoint key 
-                ll midab=pack4(x0+x1, y0+y1, a/gm, b/gm); //midpoint+slope key
-
-                cnt+=(slope[ab]++)
-                    -(coeff[abc]++)
-                    -(midPoint[midP]++)// each parallelgram counts twice
-                    +(midPointWslope[midab]++);
+                slopeMp[slope]++;
+                lineMp[line]++;
+                midMp[mid]++;
+                midSlopeMp[midSlope]++;
             }
         }
-        return cnt;
+        return res;
     }
 };
