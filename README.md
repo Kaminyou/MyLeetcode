@@ -371,6 +371,7 @@
 - **M** [2070. Most Beautiful Item for Each Query](./cpp_solutions/2070.cpp)
 - **M** [2090. K Radius Subarray Averages](./cpp_solutions/2090.cpp)
 - **E** [2099. Find Subsequence of Length K With the Largest Sum](./cpp_solutions/2099.cpp)
+- **M** [2110. Number of Smooth Descent Periods of a Stock](./cpp_solutions/2110.cpp)
 - **E** [2200. Find All K-Distant Indices in an Array](./cpp_solutions/2200.cpp)
 - **E** [2210. Count Hills and Valleys in an Array](./cpp_solutions/2210.cpp)
 - **M** [2256. Minimum Average Difference](./cpp_solutions/2256.cpp)
