@@ -1735,6 +1735,7 @@
 - **M** [3429. Paint House IV](./cpp_solutions/3429.cpp)
 - **H** [3444. Minimum Increments for Target Multiples in an Array](./cpp_solutions/3444.cpp)
 - **H** [3539. Find Sum of Array Product of Magical Sequences](./cpp_solutions/3539.cpp)
+- **H** [3562. Maximum Profit from Trading Stocks with Discounts](./cpp_solutions/3562.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./cpp_solutions/2262.cpp)
