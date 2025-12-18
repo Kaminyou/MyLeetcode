@@ -599,6 +599,7 @@
 - **M** [3346. Maximum Frequency of an Element After Performing Operations I](./cpp_solutions/3346.cpp)
 - **H** [3347. Maximum Frequency of an Element After Performing Operations II](./cpp_solutions/3347.cpp)
 - **H** [3445. Maximum Difference Between Even and Odd Frequency II](./cpp_solutions/3445.cpp)
+- **M** [3652. Best Time to Buy and Sell Stock using Strategy](./cpp_solutions/3652.cpp)
 
 ### Backtracking
 - **M** [17. Letter Combinations of a Phone Number](./cpp_solutions/17.cpp)
