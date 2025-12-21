@@ -811,6 +811,7 @@
 - **E** [942. DI String Match](./cpp_solutions/942.cpp)
 - **M** [945. Minimum Increment to Make Array Unique](./cpp_solutions/945.cpp)
 - **M** [948. Bag of Tokens](./cpp_solutions/948.cpp)
+- **M** [955. Delete Columns to Make Sorted II](./cpp_solutions/955.cpp)
 - **H** [968. Binary Tree Cameras](./cpp_solutions/968.cpp)
 - **E** [976. Largest Perimeter Triangle](./cpp_solutions/976.cpp)
 - **M** [1007. Minimum Domino Rotations For Equal Row](./cpp_solutions/1007.cpp)
