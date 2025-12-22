@@ -1613,6 +1613,7 @@
 - **H** [940. Distinct Subsequences II](./cpp_solutions/940.cpp)
 - **H** [943. Find the Shortest Superstring](./cpp_solutions/943.cpp)
 - **H** [956. Tallest Billboard](./cpp_solutions/956.cpp)
+- **H** [960. Delete Columns to Make Sorted III](./cpp_solutions/960.cpp)
 - **M** [978. Longest Turbulent Subarray](./cpp_solutions/978.cpp)
 - **M** [983. Minimum Cost For Tickets](./cpp_solutions/983.cpp)
 - **H** [1000. Minimum Cost to Merge Stones](./cpp_solutions/1000.cpp)
