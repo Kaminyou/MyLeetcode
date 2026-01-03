@@ -285,6 +285,7 @@
 
 ### Array
 - **M** [31. Next Permutation](./cpp_solutions/31.cpp)
+- **H** [41. First Missing Positive](./cpp_solutions/41.cpp)
 - **M** [186. Reverse Words in a String II](./cpp_solutions/186.cpp)
 - **E** [228. Summary Ranges](./cpp_solutions/228.cpp)
 - **M** [324. Wiggle Sort II](./cpp_solutions/324.cpp)
