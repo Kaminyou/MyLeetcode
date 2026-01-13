@@ -1502,6 +1502,7 @@
 - **H** [3398. Smallest Substring With Identical Characters I](./cpp_solutions/3398.cpp)
 - **H** [3399. Smallest Substring With Identical Characters II](./cpp_solutions/3399.cpp)
 - **M** [3419. Minimize the Maximum Edge Weight of Graph](./cpp_solutions/3419.cpp)
+- **M** [3453. Separate Squares I](./cpp_solutions/3453.cpp)
 - **M** [3508. Implement Router](./cpp_solutions/3508.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./cpp_solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
