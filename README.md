@@ -390,6 +390,7 @@
 - **M** [2845. Count of Interesting Subarrays](./cpp_solutions/2845.cpp)
 - **E** [2900. Longest Unequal Adjacent Groups Subsequence I](./cpp_solutions/2900.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
+- **M** [2943. Maximize Area of Square Hole in Grid](./cpp_solutions/2943.cpp)
 - **E** [3074. Apple Redistribution into Boxes](./cpp_solutions/3074.cpp)
 - **E** [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./cpp_solutions/3105.cpp)
 - **M** [3147. Taking Maximum Energy From the Mystic Dungeon](./cpp_solutions/3147.cpp)
