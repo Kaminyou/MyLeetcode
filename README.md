@@ -1065,6 +1065,7 @@
 - **M** [2780. Minimum Index of a Valid Split](./cpp_solutions/2780.cpp)
 - **M** [2785. Sort Vowels in a String](./cpp_solutions/2785.cpp)
 - **M** [2870. Minimum Number of Operations to Make Array Empty](./cpp_solutions/2870.cpp)
+- **M** [2975. Maximum Square Area by Removing Fences From a Field](./cpp_solutions/2975.cpp)
 - **E** [3005. Count Elements With Maximum Frequency](./cpp_solutions/3005.cpp)
 - **M** [3039. Apply Operations to Make String Empty](./cpp_solutions/3039.cpp)
 - **M** [3160. Find the Number of Distinct Colors Among the Balls](./cpp_solutions/3160.cpp)
