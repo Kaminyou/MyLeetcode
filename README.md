@@ -367,6 +367,7 @@
 - **M** [1769. Minimum Number of Operations to Move All Balls to Each Box](./cpp_solutions/1769.cpp)
 - **E** [1800. Maximum Ascending Subarray Sum](./cpp_solutions/1800.cpp)
 - **M** [1894. Find the Student that Will Replace the Chalk](./cpp_solutions/1894.cpp)
+- **M** [1895. Largest Magic Square](./cpp_solutions/1895.cpp)
 - **M** [2017. Grid Game](./cpp_solutions/2017.cpp)
 - **M** [2031. Count Subarrays With More Ones Than Zeros](./cpp_solutions/2031.cpp)
 - **M** [2033. Minimum Operations to Make a Uni-Value Grid](./cpp_solutions/2033.cpp)
