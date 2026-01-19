@@ -475,6 +475,7 @@
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./cpp_solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./cpp_solutions/1074.cpp)
+- **M** [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./cpp_solutions/1292.cpp)
 - **H** [2132. Stamping the Grid](./cpp_solutions/2132.cpp)
 - **M** [2711. Difference of Number of Distinct Values on Diagonals](./cpp_solutions/2711.cpp)
 #### Difference matrix
