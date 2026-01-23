@@ -1320,6 +1320,7 @@
 - **M** [2406. Divide Intervals Into Minimum Number of Groups](./cpp_solutions/2406.cpp)
 - **M** [3408. Design Task Manager](./cpp_solutions/3408.cpp)
 - **M** [3440. Reschedule Meetings for Maximum Free Time II](./cpp_solutions/3440.cpp)
+- **H** [3510. Minimum Pair Removal to Sort Array II](./cpp_solutions/3510.cpp)
 - **M** [3607. Power Grid Maintenance](./cpp_solutions/3607.cpp)
 
 ### Multiset
