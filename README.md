@@ -311,6 +311,7 @@
 - **H** [927. Three Equal Parts](./cpp_solutions/927.cpp)
 - **M** [985. Sum of Even Numbers After Queries](./cpp_solutions/985.cpp)
 - **E** [1122. Relative Sort Array](./cpp_solutions/1122.cpp)
+- **E** [1200. Minimum Absolute Difference](./cpp_solutions/1200.cpp)
 - **E** [1365. How Many Numbers Are Smaller Than the Current Number](./cpp_solutions/1365.cpp)
 - **M** [1390. Four Divisors](./cpp_solutions/1390.cpp)
 - **M** [1395. Count Number of Teams](./cpp_solutions/1395.cpp)
