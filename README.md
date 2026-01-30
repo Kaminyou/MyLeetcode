@@ -1436,6 +1436,7 @@
 #### Floyd-warshall
 - **M** [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](./cpp_solutions/1334.cpp)
 - **M** [2976. Minimum Cost to Convert String I](./cpp_solutions/2976.cpp)
+- **H** [2977. Minimum Cost to Convert String II](./cpp_solutions/2977.cpp)
 
 ### Binary search
 - **H** [4. Median of Two Sorted Arrays](./cpp_solutions/4.cpp)
