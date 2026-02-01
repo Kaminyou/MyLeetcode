@@ -909,6 +909,7 @@
 - **M** [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](./cpp_solutions/2918.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
 - **M** [2971. Find Polygon With the Largest Perimeter](./cpp_solutions/2971.cpp)
+- **E** [3010. Divide an Array Into Subarrays With Minimum Cost I](./cpp_solutions/3010.cpp)
 - **M** [3016. Minimum Number of Pushes to Type Word II](./cpp_solutions/3016.cpp)
 - **H** [3068. Find the Maximum Sum of Node Values](./cpp_solutions/3068.cpp)
 - **M** [3085. Minimum Deletions to Make String K-Special](./cpp_solutions/3085.cpp)
