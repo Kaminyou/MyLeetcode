@@ -401,6 +401,7 @@
 - **M** [3350. Adjacent Increasing Subarrays Detection II](./cpp_solutions/3350.cpp)
 - **E** [3354. Make Array Elements Equal to Zero](./cpp_solutions/3354.cpp)
 - **E** [3364. Minimum Positive Sum Subarray](./cpp_solutions/3364.cpp)
+- **E** [3379. Transformed Array](./cpp_solutions/3379.cpp)
 - **E** [3386. Button with Longest Push Time](./cpp_solutions/3386.cpp)
 - **E** [3427. Sum of Variable Length Subarrays](./cpp_solutions/3427.cpp)
 - **E** [3432. Count Partitions with Even Sum Difference](./cpp_solutions/3432.cpp)
