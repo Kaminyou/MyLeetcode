@@ -1186,6 +1186,7 @@
 - **M** [105. Construct Binary Tree from Preorder and Inorder Traversal](./cpp_solutions/105.cpp)
 - **E** [108. Convert Sorted Array to Binary Search Tree](./cpp_solutions/108.cpp)
 - **M** [109. Convert Sorted List to Binary Search Tree](./cpp_solutions/109.cpp)
+- **E** [110. Balanced Binary Tree](./cpp_solutions/110.cpp)
 - **E** [111. Minimum Depth of Binary Tree](./cpp_solutions/111.cpp)
 - **E** [112. Path Sum](./cpp_solutions/112.cpp)
 - **M** [113. Path Sum II](./cpp_solutions/113.cpp)
