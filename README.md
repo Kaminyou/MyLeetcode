@@ -1098,6 +1098,7 @@
 - **E** [3541. Find Most Frequent Vowel and Consonant](./cpp_solutions/3541.cpp)
 - **M** [3583. Count Special Triplets](./cpp_solutions/3583.cpp)
 - **M** [3623. Count Number of Trapezoids I](./cpp_solutions/3623.cpp)
+- **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./cpp_solutions/20.cpp)
