@@ -1862,6 +1862,7 @@
 ### Segment tree
 - **H** [2286. Booking Concert Tickets in Groups](./cpp_solutions/2286.cpp)
 - **H** [2407. Longest Increasing Subsequence II](./cpp_solutions/2407.cpp)
+- **H** [3721. Longest Balanced Subarray II](./cpp_solutions/3721.cpp)
 #### Lazy segment tree
 - **H** [2569. Handling Sum Queries After Update](./cpp_solutions/2569.cpp)
 
