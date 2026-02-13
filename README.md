@@ -1099,6 +1099,7 @@
 - **M** [3583. Count Special Triplets](./cpp_solutions/3583.cpp)
 - **M** [3623. Count Number of Trapezoids I](./cpp_solutions/3623.cpp)
 - **M** [3713. Longest Balanced Substring I](./cpp_solutions/3713.cpp)
+- **M** [3714. Longest Balanced Substring II](./cpp_solutions/3714.cpp)
 - **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
 
 ### Stack
