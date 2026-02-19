@@ -199,6 +199,7 @@
 - **M** [670. Maximum Swap](./cpp_solutions/670.cpp)
 - **M** [681. Next Closest Time](./cpp_solutions/681.cpp)
 - **M** [686. Repeated String Match](./cpp_solutions/686.cpp)
+- **E** [696. Count Binary Substrings](./cpp_solutions/696.cpp)
 - **M** [722. Remove Comments](./cpp_solutions/722.cpp)
 - **H** [726. Number of Atoms](./cpp_solutions/726.cpp)
 - **H** [736. Parse Lisp Expression](./cpp_solutions/736.cpp)
