@@ -930,6 +930,7 @@
 - **M** [3397. Maximum Number of Distinct Elements After Operations](./cpp_solutions/3397.cpp)
 - **M** [3443. Maximum Manhattan Distance After K Changes](./cpp_solutions/3443.cpp)
 - **H** [3495. Minimum Operations to Make Array Elements Zero](./cpp_solutions/3495.cpp)
+- **H** [3666. Minimum Operations to Equalize Binary String](./cpp_solutions/3666.cpp)
 
 ### Hash
 - **E** [1. Two Sum](./cpp_solutions/1.cpp)
