@@ -367,6 +367,7 @@
 - **M** [1653. Minimum Deletions to Make String Balanced](./cpp_solutions/1653.cpp)
 - **E** [1752. Check if Array Is Sorted and Rotated](./cpp_solutions/1752.cpp)
 - **M** [1769. Minimum Number of Operations to Move All Balls to Each Box](./cpp_solutions/1769.cpp)
+- **E** [1784. Check if Binary String Has at Most One Segment of Ones](./cpp_solutions/1784.cpp)
 - **E** [1800. Maximum Ascending Subarray Sum](./cpp_solutions/1800.cpp)
 - **M** [1894. Find the Student that Will Replace the Chalk](./cpp_solutions/1894.cpp)
 - **M** [1895. Largest Magic Square](./cpp_solutions/1895.cpp)
