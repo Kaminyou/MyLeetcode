@@ -369,6 +369,7 @@
 - **M** [1769. Minimum Number of Operations to Move All Balls to Each Box](./cpp_solutions/1769.cpp)
 - **E** [1784. Check if Binary String Has at Most One Segment of Ones](./cpp_solutions/1784.cpp)
 - **E** [1800. Maximum Ascending Subarray Sum](./cpp_solutions/1800.cpp)
+- **M** [1888. Minimum Number of Flips to Make the Binary String Alternating](./cpp_solutions/1888.cpp)
 - **M** [1894. Find the Student that Will Replace the Chalk](./cpp_solutions/1894.cpp)
 - **M** [1895. Largest Magic Square](./cpp_solutions/1895.cpp)
 - **M** [2017. Grid Game](./cpp_solutions/2017.cpp)
