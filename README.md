@@ -1528,6 +1528,7 @@
 - **M** [3419. Minimize the Maximum Edge Weight of Graph](./cpp_solutions/3419.cpp)
 - **M** [3453. Separate Squares I](./cpp_solutions/3453.cpp)
 - **M** [3508. Implement Router](./cpp_solutions/3508.cpp)
+- **H** [3600. Maximize Spanning Tree Stability with Upgrades](./cpp_solutions/3600.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./cpp_solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
 - **H** [1671. Minimum Number of Removals to Make Mountain Array](./cpp_solutions/1671.cpp)
