@@ -1522,6 +1522,7 @@
 - **M** [2563. Count the Number of Fair Pairs](./cpp_solutions/2563.cpp)
 - **M** [2594. Minimum Time to Repair Cars](./cpp_solutions/2594.cpp)
 - **M** [2616. Minimize the Maximum Difference of Pairs](./cpp_solutions/2616.cpp)
+- **M** [3296. Minimum Number of Seconds to Make Mountain Height Zero](./cpp_solutions/3296.cpp)
 - **M** [3356. Zero Array Transformation II](./cpp_solutions/3356.cpp)
 - **H** [3398. Smallest Substring With Identical Characters I](./cpp_solutions/3398.cpp)
 - **H** [3399. Smallest Substring With Identical Characters II](./cpp_solutions/3399.cpp)
