@@ -462,6 +462,7 @@
 - **E** [1582. Special Positions in a Binary Matrix](./cpp_solutions/1582.cpp)
 - **M** [1605. Find Valid Matrix Given Row and Column Sums](./cpp_solutions/1605.cpp)
 - **M** [1861. Rotating the Box](./cpp_solutions/1861.cpp)
+- **M** [1878. Get Biggest Three Rhombus Sums in a Grid](./cpp_solutions/1878.cpp)
 - **E** [2022. Convert 1D Array Into 2D Array](./cpp_solutions/2022.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./cpp_solutions/2257.cpp)
 - **E** [2319. Check if Matrix Is X-Matrix](./cpp_solutions/2319.cpp)
