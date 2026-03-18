@@ -487,6 +487,7 @@
 - **M** [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./cpp_solutions/1292.cpp)
 - **H** [2132. Stamping the Grid](./cpp_solutions/2132.cpp)
 - **M** [2711. Difference of Number of Distinct Values on Diagonals](./cpp_solutions/2711.cpp)
+- **M** [3070. Count Submatrices with Top-Left Element and Sum Less Than k](./cpp_solutions/3070.cpp)
 #### Difference matrix
 - **H** [850. Rectangle Area II](./cpp_solutions/850.cpp)
 - **M** [2536. Increment Submatrices by One](./cpp_solutions/2536.cpp)
