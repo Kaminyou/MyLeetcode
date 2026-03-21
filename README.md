@@ -482,6 +482,7 @@
 - **E** [3417. Zigzag Grid Traversal With Skip](./cpp_solutions/3417.cpp)
 - **M** [3446. Sort Matrix by Diagonals](./cpp_solutions/3446.cpp)
 - **M** [3567. Minimum Absolute Difference in Sliding Submatrix](./cpp_solutions/3567.cpp)
+- **E** [3643. Flip Square Submatrix Vertically](./cpp_solutions/3643.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./cpp_solutions/304.cpp)
 - **H** [1074. Number of Submatrices That Sum to Target](./cpp_solutions/1074.cpp)
