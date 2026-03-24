@@ -394,6 +394,7 @@
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
 - **M** [2845. Count of Interesting Subarrays](./cpp_solutions/2845.cpp)
 - **E** [2900. Longest Unequal Adjacent Groups Subsequence I](./cpp_solutions/2900.cpp)
+- **M** [2906. Construct Product Matrix](./cpp_solutions/2906.cpp)
 - **M** [2938. Separate Black and White Balls](./cpp_solutions/2938.cpp)
 - **M** [2943. Maximize Area of Square Hole in Grid](./cpp_solutions/2943.cpp)
 - **E** [3074. Apple Redistribution into Boxes](./cpp_solutions/3074.cpp)
