@@ -1109,6 +1109,7 @@
 - **E** [3487. Maximum Unique Subarray Sum After Deletion](./cpp_solutions/3487.cpp)
 - **M** [3531. Count Covered Buildings](./cpp_solutions/3531.cpp)
 - **E** [3541. Find Most Frequent Vowel and Consonant](./cpp_solutions/3541.cpp)
+- **H** [3548. Equal Sum Grid Partition II](./cpp_solutions/3548.cpp)
 - **M** [3583. Count Special Triplets](./cpp_solutions/3583.cpp)
 - **M** [3623. Count Number of Trapezoids I](./cpp_solutions/3623.cpp)
 - **M** [3713. Longest Balanced Substring I](./cpp_solutions/3713.cpp)
