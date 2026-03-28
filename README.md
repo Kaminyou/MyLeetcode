@@ -908,6 +908,7 @@
 - **E** [2566. Maximum Difference by Remapping a Digit](./cpp_solutions/2566.cpp)
 - **M** [2567. Minimum Score by Changing Two Elements](./cpp_solutions/2567.cpp)
 - **M** [2571. Minimum Operations to Reduce an Integer to 0](./cpp_solutions/2571.cpp)
+- **H** [2573. Find the String with LCP](./cpp_solutions/2573.cpp)
 - **M** [2576. Find the Maximum Number of Marked Indices](./cpp_solutions/2576.cpp)
 - **E** [2578. Split With Minimum Sum](./cpp_solutions/2578.cpp)
 - **M** [2587. Rearrange Array to Maximize Prefix Score](./cpp_solutions/2587.cpp)
