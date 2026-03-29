@@ -259,6 +259,7 @@
 - **E** [2710. Remove Trailing Zeros From a String](./cpp_solutions/2710.cpp)
 - **E** [2729. Check if The Number is Fascinating](./cpp_solutions/2729.cpp)
 - **M** [2734. Lexicographically Smallest String After Substring Operation](./cpp_solutions/2734.cpp)
+- **E** [2839. Check if Strings Can be Made Equal With Operations I](./cpp_solutions/2839.cpp)
 - **E** [2864. Maximum Odd Binary Number](./cpp_solutions/2864.cpp)
 - **M** [2981. Find Longest Special Substring That Occurs Thrice I](./cpp_solutions/2981.cpp)
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
