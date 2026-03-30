@@ -1089,6 +1089,7 @@
 - **M** [2718. Sum of Matrix After Queries](./cpp_solutions/2718.cpp)
 - **M** [2780. Minimum Index of a Valid Split](./cpp_solutions/2780.cpp)
 - **M** [2785. Sort Vowels in a String](./cpp_solutions/2785.cpp)
+- **M** [2840. Check if Strings Can be Made Equal With Operations II](./cpp_solutions/2840.cpp)
 - **M** [2870. Minimum Number of Operations to Make Array Empty](./cpp_solutions/2870.cpp)
 - **M** [2975. Maximum Square Area by Removing Fences From a Field](./cpp_solutions/2975.cpp)
 - **E** [3005. Count Elements With Maximum Frequency](./cpp_solutions/3005.cpp)
