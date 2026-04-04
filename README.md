@@ -240,6 +240,7 @@
 - **E** [1957. Delete Characters to Make Fancy String](./cpp_solutions/1957.cpp)
 - **M** [1980. Find Unique Binary String](./cpp_solutions/1980.cpp)
 - **E** [2000. Reverse Prefix of Word](./cpp_solutions/2000.cpp)
+- **M** [2075. Decode the Slanted Ciphertext](./cpp_solutions/2075.cpp)
 - **E** [2108. Find First Palindromic String in the Array](./cpp_solutions/2108.cpp)
 - **E** [2138. Divide a String Into Groups of Size k](./cpp_solutions/2138.cpp)
 - **M** [2182. Construct String With Repeat Limit](./cpp_solutions/2182.cpp)
