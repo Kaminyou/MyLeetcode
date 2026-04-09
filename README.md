@@ -1953,6 +1953,8 @@
 - **H** [204. Count Primes](./cpp_solutions/204.cpp)
 #### Binary lifting
 - **H** [1483. Kth Ancestor of a Tree Node](./cpp_solutions/1483.cpp)
+#### Sqrt Decomposition
+- **H** [3655. XOR After Range Multiplication Queries II](./cpp_solutions/3655.cpp)
 
 ### Math
 - **M** [7. Reverse Integer](./cpp_solutions/7.cpp)
