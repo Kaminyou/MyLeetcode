@@ -1123,6 +1123,7 @@
 - **M** [3713. Longest Balanced Substring I](./cpp_solutions/3713.cpp)
 - **M** [3714. Longest Balanced Substring II](./cpp_solutions/3714.cpp)
 - **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
+- **E** [3740. Minimum Distance Between Three Equal Elements I](./cpp_solutions/3740.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./cpp_solutions/20.cpp)
