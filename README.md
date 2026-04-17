@@ -1127,6 +1127,7 @@
 - **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
 - **E** [3740. Minimum Distance Between Three Equal Elements I](./cpp_solutions/3740.cpp)
 - **M** [3741. Minimum Distance Between Three Equal Elements II](./cpp_solutions/3741.cpp)
+- **M** [3761. Minimum Absolute Distance Between Mirror Pairs](./cpp_solutions/3761.cpp)
 
 ### Stack
 - **E** [20. Valid Parentheses](./cpp_solutions/20.cpp)
