@@ -149,6 +149,7 @@
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 - **E** [3512. Minimum Operations to Make Array Sum Divisible by K](./cpp_solutions/3521.cpp)
+- **E** [3783. Mirror Distance of an Integer](./cpp_solutions/3783.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
