@@ -590,6 +590,7 @@
 - **M** [1750. Minimum Length of String After Deleting Similar Ends](./cpp_solutions/1750.cpp)
 - **H** [1793. Maximum Score of a Good Subarray](./cpp_solutions/1793.cpp)
 - **M** [1838. Frequency of the Most Frequent Element](./cpp_solutions/1838.cpp)
+- **M** [1855. Maximum Distance Between a Pair of Values](./cpp_solutions/1855.cpp)
 - **H** [2009. Minimum Number of Operations to Make Array Continuous](./cpp_solutions/2009.cpp)
 - **M** [2024. Maximize the Confusion of an Exam](./cpp_solutions/2024.cpp)
 - **H** [2106. Maximum Fruits Harvested After at Most K Steps](./cpp_solutions/2106.cpp)
