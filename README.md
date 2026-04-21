@@ -785,6 +785,7 @@
 - **H** [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](./cpp_solutions/1579.cpp)
 - **H** [1632. Rank Transform of a Matrix](./cpp_solutions/1632.cpp)
 - **H** [1697. Checking Existence of Edge Length Limited Paths](./cpp_solutions/1697.cpp)
+- **M** [1722. Minimize Hamming Distance After Swap Operations](./cpp_solutions/1722.cpp)
 - **H** [1724. Checking Existence of Edge Length Limited Paths II](./cpp_solutions/1724.cpp)
 - **M** [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](./cpp_solutions/2316.cpp)
 - **H** [2421. Number of Good Paths](./cpp_solutions/2421.cpp)
