@@ -719,6 +719,7 @@
 - **H** [1298. Maximum Candies You Can Get from Boxes](./cpp_solutions/1298.cpp)
 - **H** [1345. Jump Game IV](./cpp_solutions/1345.cpp)
 - **H** [1368. Minimum Cost to Make at Least One Valid Path in a Grid](./cpp_solutions/1368.cpp)
+- **M** [1391. Check if There is a Valid Path in a Grid](./cpp_solutions/1391.cpp)
 - **M** [1559. Detect Cycles in 2D Grid](./cpp_solutions/1559.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
 - **M** [1765. Map of Highest Peak](./cpp_solutions/1765.cpp)
