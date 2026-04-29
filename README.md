@@ -1790,6 +1790,7 @@
 - **H** [3193. Count the Number of Inversions](./cpp_solutions/3193.cpp)
 - **M** [3201. Find the Maximum Length of Valid Subsequence I](./cpp_solutions/3201.cpp)
 - **M** [3202. Find the Maximum Length of Valid Subsequence II](./cpp_solutions/3202.cpp)
+- **H** [3225. Maximum Score From Grid Operations](./cpp_solutions/3225.cpp)
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
 - **H** [3333. Find the Original Typed String II](./cpp_solutions/3333.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
