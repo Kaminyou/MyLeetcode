@@ -1807,6 +1807,7 @@
 - **H** [3562. Maximum Profit from Trading Stocks with Discounts](./cpp_solutions/3562.cpp)
 - **M** [3573. Best Time to Buy and Sell Stock V](./cpp_solutions/3573.cpp)
 - **H** [3661. Maximum Walls Destroyed by Robots](./cpp_solutions/3661.cpp)
+- **M** [3742. Maximum Path Score in a Grid](./cpp_solutions/3742.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./cpp_solutions/2262.cpp)
