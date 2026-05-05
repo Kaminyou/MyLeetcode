@@ -511,6 +511,7 @@
 - **M** [21. Merge Two Sorted Lists](./cpp_solutions/21.cpp)
 - **M** [24. Swap Nodes in Pairs](./cpp_solutions/24.cpp)
 - **H** [25. Reverse Nodes in k-Group](./cpp_solutions/25.cpp)
+- **M** [61. Rotate List](./cpp_solutions/61.cpp)
 - **M** [86. Partition List](./cpp_solutions/86.cpp)
 - **M** [92. Reverse Linked List II](./cpp_solutions/92.cpp)
 - **M** [138. Copy List with Random Pointer](./cpp_solutions/138.cpp)
