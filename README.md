@@ -1969,6 +1969,7 @@
 - **M** [3434. Maximum Frequency After Subarray Operation](./cpp_solutions/3434.cpp)
 #### Sieve of Eratosthenes
 - **H** [204. Count Primes](./cpp_solutions/204.cpp)
+- **M** [3629. Minimum Jumps to Reach End via Prime Teleportation](./cpp_solutions/3629.cpp)
 #### Binary lifting
 - **H** [1483. Kth Ancestor of a Tree Node](./cpp_solutions/1483.cpp)
 #### Sqrt Decomposition
