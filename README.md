@@ -471,6 +471,7 @@
 - **M** [1861. Rotating the Box](./cpp_solutions/1861.cpp)
 - **M** [1878. Get Biggest Three Rhombus Sums in a Grid](./cpp_solutions/1878.cpp)
 - **E** [1886. Determine Whether Matrix Can Be Obtained By Rotation](./cpp_solutions/1886.cpp)
+- **M** [1914. Cyclically Rotating a Grid](./cpp_solutions/1914.cpp)
 - **E** [2022. Convert 1D Array Into 2D Array](./cpp_solutions/2022.cpp)
 - **M** [2069. Walking Robot Simulation II](./cpp_solutions/2069.cpp)
 - **M** [2257. Count Unguarded Cells in the Grid](./cpp_solutions/2257.cpp)
