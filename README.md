@@ -1784,6 +1784,7 @@
 - **M** [2707. Extra Characters in a String](./cpp_solutions/2707.cpp)
 - **H** [2713. Maximum Strictly Increasing Cells in a Matrix](./cpp_solutions/2713.cpp)
 - **H** [2742. Painting the Walls](./cpp_solutions/2742.cpp)
+- **M** [2770. Maximum Number of Jumps to Reach the Last Index](./cpp_solutions/2770.cpp)
 - **M** [2901. Longest Unequal Adjacent Groups Subsequence II](./cpp_solutions/2901.cpp)
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3003. Maximize the Number of Partitions After Operations](./cpp_solutions/3003.cpp)
