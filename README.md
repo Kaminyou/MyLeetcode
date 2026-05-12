@@ -869,6 +869,7 @@
 - **M** [1578. Minimum Time to Make Rope Colorful](./cpp_solutions/1578.cpp)
 - **M** [1580. Put Boxes Into the Warehouse II](./cpp_solutions/1580.cpp)
 - **M** [1647. Minimum Deletions to Make Character Frequencies Unique](./cpp_solutions/1647.cpp)
+- **H** [1665. Minimum Initial Energy to Finish Tasks](./cpp_solutions/1665.cpp)
 - **H** [1675. Minimize Deviation in Array](./cpp_solutions/1675.cpp)
 - **E** [1710. Maximum Units on a Truck](./cpp_solutions/1710.cpp)
 - **M** [1727. Largest Submatrix With Rearrangements](./cpp_solutions/1727.cpp)
