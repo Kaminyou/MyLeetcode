@@ -396,6 +396,7 @@
 - **M** [2602. Minimum Operations to Make All Array Elements Equal](./cpp_solutions/2602.cpp)
 - **M** [2640. Find the Score of All Prefixes of an Array](./cpp_solutions/2640.cpp)
 - **H** [2681. Power of Heroes](./cpp_solutions/2681.cpp)
+- **E** [2784. Check if Array is Good](./cpp_solutions/2784.cpp)
 - **M** [2845. Count of Interesting Subarrays](./cpp_solutions/2845.cpp)
 - **E** [2900. Longest Unequal Adjacent Groups Subsequence I](./cpp_solutions/2900.cpp)
 - **M** [2906. Construct Product Matrix](./cpp_solutions/2906.cpp)
