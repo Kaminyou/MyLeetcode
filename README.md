@@ -1493,6 +1493,7 @@
 - **M** [33. Search in Rotated Sorted Array](./cpp_solutions/33.cpp)
 - **M** [34. Find First and Last Position of Element in Sorted Array](./cpp_solutions/34.cpp)
 - **E** [35. Search Insert Position](./cpp_solutions/35.cpp)
+- **H** [154. Find Minimum in Rotated Sorted Array II](./cpp_solutions/154.cpp)
 - **M** [275. H-Index II](./cpp_solutions/275.cpp)
 - **E** [278. First Bad Version](./cpp_solutions/278.cpp)
 - **E** [326. Power of Three](./cpp_solutions/326.cpp)
