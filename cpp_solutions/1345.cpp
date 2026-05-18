@@ -43,3 +43,48 @@ public:
         return -1;
     }
 };
+
+class Solution {
+public:
+    int minJumps(vector<int>& arr) {
+        int n = arr.size();
+        unordered_map<int, vector<int>> num2pos;
+        for (int i = 0; i < n; ++i) {
+            num2pos[arr[i]].push_back(i);
+        }
+        vector<bool> visited(n, false);
+        queue<int> q;
+        q.push(0);
+        visited[0] = true;
+        int res = 0;
+        while (!q.empty()) {
+            int m = q.size();
+            while (m--) {
+                int curr = q.front();
+                q.pop();
+                if (curr == n - 1) return res;
+                int left = curr - 1;
+                int right = curr + 1;
+                if (left >= 0 && !visited[left]) {
+                    q.push(left);
+                    visited[left] = true;
+                }
+                if (right < n && !visited[right]) {
+                    q.push(right);
+                    visited[right] = true;
+                }
+                if (num2pos.count(arr[curr])) {
+                    for (auto& pos : num2pos[arr[curr]]) {
+                        if (!visited[pos]) {
+                            q.push(pos);
+                            visited[pos] = true;
+                        }
+                    }
+                    num2pos.erase(arr[curr]);
+                }
+            }
+            res++;
+        }
+        return -1;
+    }
+};
