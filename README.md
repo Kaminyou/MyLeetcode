@@ -266,6 +266,7 @@
 - **M** [2981. Find Longest Special Substring That Occurs Thrice I](./cpp_solutions/2981.cpp)
 - **E** [3042. Count Prefix and Suffix Pairs I](./cpp_solutions/3042.cpp)
 - **E** [3120. Count the Number of Special Characters I](./cpp_solutions/3120.cpp)
+- **M** [3121. Count the Number of Special Characters II](./cpp_solutions/3121.cpp)
 - **E** [3136. Valid Word](./cpp_solutions/3136.cpp)
 - **M** [3163. String Compression III](./cpp_solutions/3163.cpp)
 - **E** [3174. Clear Digits](./cpp_solutions/3174.cpp)
