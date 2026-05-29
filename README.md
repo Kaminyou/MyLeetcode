@@ -731,6 +731,7 @@
 - **M** [1559. Detect Cycles in 2D Grid](./cpp_solutions/1559.cpp)
 - **M** [1609. Even Odd Tree](./cpp_solutions/1609.cpp)
 - **M** [1765. Map of Highest Peak](./cpp_solutions/1765.cpp)
+- **M** [1871. Jump Game VII](./cpp_solutions/1871.cpp)
 - **M** [1905. Count Sub Islands](./cpp_solutions/1905.cpp)
 - **M** [1926. Nearest Exit from Entrance in Maze](./cpp_solutions/1926.cpp)
 - **H** [2045. Second Minimum Time to Reach Destination](./cpp_solutions/2045.cpp)
