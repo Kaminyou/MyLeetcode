@@ -897,6 +897,7 @@
 - **E** [2078. Two Furthest Houses With Different Colors](./cpp_solutions/2078.cpp)
 - **M** [2079. Watering Plants](./cpp_solutions/2079.cpp)
 - **M** [2116. Check if a Parentheses String Can Be Valid](./cpp_solutions/2116.cpp)
+- **M** [2126. Destroying Asteroids](./cpp_solutions/2126.cpp)
 - **H** [2136. Earliest Possible Day of Full Bloom](./cpp_solutions/2136.cpp)
 - **M** [2145. Count the Hidden Sequences](./cpp_solutions/2145.cpp)
 - **M** [2211. Count Collisions on a Road](./cpp_solutions/2211.cpp)
