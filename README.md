@@ -775,6 +775,7 @@
 - **H** [2872. Maximum Number of K-Divisible Components](./cpp_solutions/2872.cpp)
 - **M** [3249. Count the Number of Good Nodes](./cpp_solutions/3249.cpp)
 - **H** [3459. Length of Longest V-Shaped Diagonal Segment](./cpp_solutions/3459.cpp)
+- **M** [3558. Number of Ways to Assign Edge Weights I](./cpp_solutions/3558.cpp)
 
 ### Disjoint set
 - **M** [261. Graph Valid Tree](./cpp_solutions/261.cpp)
