@@ -1994,6 +1994,7 @@
 - **M** [3629. Minimum Jumps to Reach End via Prime Teleportation](./cpp_solutions/3629.cpp)
 #### Binary lifting
 - **H** [1483. Kth Ancestor of a Tree Node](./cpp_solutions/1483.cpp)
+- **H** [3559. Number of Ways to Assign Edge Weights II](./cpp_solutions/3559.cpp)
 #### Sqrt Decomposition
 - **H** [3655. XOR After Range Multiplication Queries II](./cpp_solutions/3655.cpp)
 
