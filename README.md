@@ -282,6 +282,7 @@
 - **M** [3433. Count Mentions Per User](./cpp_solutions/3433.cpp)
 - **E** [3438. Find Valid Pair of Adjacent Digits in String](./cpp_solutions/3438.cpp)
 - **E** [3606. Coupon Code Validator](./cpp_solutions/3606.cpp)
+- **E** [3838. Weighted Word Mapping](./cpp_solutions/3838.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./cpp_solutions/1044.cpp)
