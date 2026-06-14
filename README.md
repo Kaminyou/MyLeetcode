@@ -544,6 +544,7 @@
 - **M** [1669. Merge In Between Linked Lists](./cpp_solutions/1669.cpp)
 - **M** [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./cpp_solutions/2058.cpp)
 - **M** [2095. Delete the Middle Node of a Linked List](./cpp_solutions/2095.cpp)
+- **M** [2130. Maximum Twin Sum of a Linked List](./cpp_solutions/2130.cpp)
 - **M** [2181. Merge Nodes in Between Zeros](./cpp_solutions/2181.cpp)
 - **H** [2296. Design a Text Editor](./cpp_solutions/2296.cpp)
 - **M** [2807. Insert Greatest Common Divisors in Linked List](./cpp_solutions/2807.cpp)
