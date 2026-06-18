@@ -51,6 +51,7 @@
 - **E** [1317. Convert Integer to the Sum of Two No-Zero Integers](./cpp_solutions/1317.cpp)
 - **E** [1323. Maximum 69 Number](./cpp_solutions/1323.cpp)
 - **E** [1332. Remove Palindromic Subsequences](./cpp_solutions/1332.cpp)
+- **M** [1344. Angle Between Hands of a Clock](./cpp_solutions/1344.cpp)
 - **E** [1356. Sort Integers by The Number of 1 Bits](./cpp_solutions/1356.cpp)
 - **E** [1408. String Matching in an Array](./cpp_solutions/1408.cpp)
 - **E** [1431. Kids With the Greatest Number of Candies](./cpp_solutions/1431.cpp)
