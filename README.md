@@ -284,6 +284,7 @@
 - **E** [3438. Find Valid Pair of Adjacent Digits in String](./cpp_solutions/3438.cpp)
 - **E** [3606. Coupon Code Validator](./cpp_solutions/3606.cpp)
 - **E** [3612. Process String with Special Operations I](./cpp_solutions/3612.cpp)
+- **H** [3614. Process String with Special Operations II](./cpp_solutions/3614.cpp)
 - **E** [3838. Weighted Word Mapping](./cpp_solutions/3838.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
