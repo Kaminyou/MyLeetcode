@@ -891,6 +891,7 @@
 - **M** [1727. Largest Submatrix With Rearrangements](./cpp_solutions/1727.cpp)
 - **M** [1798. Maximum Number of Consecutive Values You Can Make](./cpp_solutions/1798.cpp)
 - **M** [1833. Maximum Ice Cream Bars](./cpp_solutions/1833.cpp)
+- **H** [1840. Maximum Building Height](./cpp_solutions/1840.cpp)
 - **M** [1877. Minimize Maximum Pair Sum in Array](./cpp_solutions/1877.cpp)
 - **M** [1899. Merge Triplets to Form Target Triplet](./cpp_solutions/1899.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
