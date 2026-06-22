@@ -17,3 +17,19 @@ public:
         return res;
     }
 };
+
+class Solution {
+public:
+    int maxNumberOfBalloons(string text) {
+        int cnt[26];
+        memset(cnt, 0, sizeof(cnt));
+        for (auto c : text) cnt[c - 'a']++;
+        int res = INT_MAX;
+        res = min(res, cnt['b' - 'a']);
+        res = min(res, cnt['a' - 'a']);
+        res = min(res, cnt['l' - 'a'] / 2);
+        res = min(res, cnt['o' - 'a'] / 2);
+        res = min(res, cnt['n' - 'a']);
+        return res;
+    }
+};
