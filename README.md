@@ -1834,6 +1834,7 @@
 - **H** [3562. Maximum Profit from Trading Stocks with Discounts](./cpp_solutions/3562.cpp)
 - **M** [3573. Best Time to Buy and Sell Stock V](./cpp_solutions/3573.cpp)
 - **H** [3661. Maximum Walls Destroyed by Robots](./cpp_solutions/3661.cpp)
+- **H** [3699. Number of ZigZag Arrays I](./cpp_solutions/3699.cpp)
 - **M** [3742. Maximum Path Score in a Grid](./cpp_solutions/3742.cpp)
 - **H** [3753. Total Waviness of Numbers in Range II](./cpp_solutions/3753.cpp)
 #### MISC
