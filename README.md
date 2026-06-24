@@ -2077,6 +2077,8 @@
 - **H** [458. Poor Pigs](./cpp_solutions/458.cpp)
 #### Inverse Module
 - **H** [1622. Fancy Sequence](./cpp_solutions/1622.cpp)
+#### Matrix Power
+- **H** [3700. Number of ZigZag Arrays II](./cpp_solutions/3700.cpp)
 
 ## Learning materials
 - [OI Wiki](https://oi-wiki.org/)
