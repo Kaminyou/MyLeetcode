@@ -432,6 +432,7 @@
 - **E** [3637. Trionic Array I](./cpp_solutions/3637.cpp)
 - **H** [3640. Trionic Array II](./cpp_solutions/3640.cpp)
 - **M** [3653. XOR After Range Multiplication Queries I](./cpp_solutions/3653.cpp)
+- **M** [3737. Count Subarrays With Majority Element I](./cpp_solutions/3737.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
