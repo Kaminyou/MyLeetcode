@@ -1131,6 +1131,7 @@
 - **M** [2870. Minimum Number of Operations to Make Array Empty](./cpp_solutions/2870.cpp)
 - **M** [2975. Maximum Square Area by Removing Fences From a Field](./cpp_solutions/2975.cpp)
 - **E** [3005. Count Elements With Maximum Frequency](./cpp_solutions/3005.cpp)
+- **M** [3020. Find the Maximum Number of Elements in Subset](./cpp_solutions/3020.cpp)
 - **M** [3039. Apply Operations to Make String Empty](./cpp_solutions/3039.cpp)
 - **M** [3160. Find the Number of Distinct Colors Among the Balls](./cpp_solutions/3160.cpp)
 - **M** [3223. Minimum Length of String After Operations](./cpp_solutions/3223.cpp)
