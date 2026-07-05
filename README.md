@@ -1739,6 +1739,7 @@
 - **M** [1277. Count Square Submatrices with All Ones](./cpp_solutions/1277.cpp)
 - **H** [1278. Palindrome Partitioning III](./cpp_solutions/1278.cpp)
 - **H** [1289. Minimum Falling Path Sum II](./cpp_solutions/1289.cpp)
+- **M** [1301. Number of Paths with Max Score](./cpp_solutions/1301.cpp)
 - **H** [1312. Minimum Insertion Steps to Make a String Palindrome](./cpp_solutions/1312.cpp)
 - **H** [1320. Minimum Distance to Type a Word Using Two Fingers](./cpp_solutions/1320.cpp)
 - **H** [1335. Minimum Difficulty of a Job Schedule](./cpp_solutions/1335.cpp)
