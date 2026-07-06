@@ -873,6 +873,7 @@
 - **M** [1014. Best Sightseeing Pair](./cpp_solutions/1014.cpp)
 - **M** [1055. Shortest Way to Form String](./cpp_solutions/1055.cpp)
 - **M** [1282. Group the People Given the Group Size They Belong To](./cpp_solutions/1282.cpp)
+- **M** [1288. Remove Covered Intervals](./cpp_solutions/1288.cpp)
 - **H** [1326. Minimum Number of Taps to Open to Water a Garden](./cpp_solutions/1326.cpp)
 - **H** [1354. Construct Target Array With Multiple Sums](./cpp_solutions/1354.cpp)
 - **M** [1400. Construct K Palindrome Strings](./cpp_solutions/1400.cpp)
