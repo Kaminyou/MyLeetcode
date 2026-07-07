@@ -155,6 +155,7 @@
 - **E** [3633. Earliest Finish Time for Land and Water Rides I](./cpp_solutions/3633.cpp)
 - **M** [3689. Maximum Total Subarray Value I](./cpp_solutions/3689.cpp)
 - **M** [3751. Total Waviness of Numbers in Range I](./cpp_solutions/3751.cpp)
+- **E** [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./cpp_solutions/3754.cpp)
 - **E** [3783. Mirror Distance of an Integer](./cpp_solutions/3783.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
