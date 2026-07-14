@@ -1833,6 +1833,7 @@
 - **M** [3332. Maximum Points Tourist Can Earn](./cpp_solutions/3332.cpp)
 - **H** [3333. Find the Original Typed String II](./cpp_solutions/3333.cpp)
 - **M** [3335. Total Characters in String After Transformations I](./cpp_solutions/3335.cpp)
+- **H** [3336. Find the Number of Subsequences With Equal GCD](./cpp_solutions/3336.cpp)
 - **H** [3351. Sum of Good Subsequences](./cpp_solutions/3351.cpp)
 - **H** [3363. Find the Maximum Number of Fruits Collected](./cpp_solutions/3363.cpp)
 - **M** [3366. Minimum Array Sum](./cpp_solutions/3365.cpp)
