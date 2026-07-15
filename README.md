@@ -153,6 +153,7 @@
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 - **E** [3512. Minimum Operations to Make Array Sum Divisible by K](./cpp_solutions/3521.cpp)
 - **E** [3633. Earliest Finish Time for Land and Water Rides I](./cpp_solutions/3633.cpp)
+- **E** [3658. GCD of Odd and Even Sums](./cpp_solutions/3658.cpp)
 - **M** [3689. Maximum Total Subarray Value I](./cpp_solutions/3689.cpp)
 - **M** [3751. Total Waviness of Numbers in Range I](./cpp_solutions/3751.cpp)
 - **E** [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./cpp_solutions/3754.cpp)
