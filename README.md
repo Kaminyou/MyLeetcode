@@ -439,6 +439,7 @@
 - **M** [3737. Count Subarrays With Majority Element I](./cpp_solutions/3737.cpp)
 - **H** [3739. Count Subarrays With Majority Element II](./cpp_solutions/3739.cpp)
 - **M** [3756. Concatenate Non-Zero Digits and Multiply by Sum II](./cpp_solutions/3756.cpp)
+- **M** [3867. Sum of GCD of Formed Pairs](./cpp_solutions/3867.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
