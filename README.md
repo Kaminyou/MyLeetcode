@@ -2081,6 +2081,7 @@
 - **M** [3021. Alice and Bob Playing Flower Game](./cpp_solutions/3021.cpp)
 - **M** [3227. Vowels Game in a String](./cpp_solutions/3227.cpp)
 - **H** [3307. Find the K-th Character in String Game II](./cpp_solutions/3307.cpp)
+- **H** [3312. Sorted GCD Pair Queries](./cpp_solutions/3312.cpp)
 - **H** [3405. Count the Number of Arrays with K Matching Adjacent Elements](./cpp_solutions/3415.cpp)
 - **M** [3428. Maximum and Minimum Sums of at Most Size K Subsequences](./cpp_solutions/3428.cpp)
 #### Prime
