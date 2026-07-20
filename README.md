@@ -482,6 +482,7 @@
 - **M** [885. Spiral Matrix III](./cpp_solutions/885.cpp)
 - **E** [892. Surface Area of 3D Shapes](./cpp_solutions/892.cpp)
 - **M** [1138. Alphabet Board Path](./cpp_solutions/1138.cpp)
+- **E** [1260. Shift 2D Grid](./cpp_solutions/1260.cpp)
 - **M** [1329. Sort the Matrix Diagonally](./cpp_solutions/1329.cpp)
 - **E** [1337. The K Weakest Rows in a Matrix](./cpp_solutions/1337.cpp)
 - **E** [1351. Count Negative Numbers in a Sorted Matrix](./cpp_solutions/1351.cpp)
