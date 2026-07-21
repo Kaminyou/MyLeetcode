@@ -286,6 +286,7 @@
 - **M** [3403. Find the Lexicographically Largest String From the Box I](./cpp_solutions/3402.cpp)
 - **M** [3433. Count Mentions Per User](./cpp_solutions/3433.cpp)
 - **E** [3438. Find Valid Pair of Adjacent Digits in String](./cpp_solutions/3438.cpp)
+- **M** [3499. Maximize Active Section with Trade I](./cpp_solutions/3499.cpp)
 - **E** [3606. Coupon Code Validator](./cpp_solutions/3606.cpp)
 - **E** [3612. Process String with Special Operations I](./cpp_solutions/3612.cpp)
 - **H** [3614. Process String with Special Operations II](./cpp_solutions/3614.cpp)
