@@ -153,6 +153,7 @@
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 - **E** [3512. Minimum Operations to Make Array Sum Divisible by K](./cpp_solutions/3521.cpp)
+- **E** [3536. Maximum Product of Two Digits](./cpp_solutions/3536.cpp)
 - **E** [3633. Earliest Finish Time for Land and Water Rides I](./cpp_solutions/3633.cpp)
 - **E** [3658. GCD of Odd and Even Sums](./cpp_solutions/3658.cpp)
 - **M** [3689. Maximum Total Subarray Value I](./cpp_solutions/3689.cpp)
