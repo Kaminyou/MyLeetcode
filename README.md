@@ -140,6 +140,7 @@
 - **E** [2894. Divisible and Non-divisible Sums Difference](./cpp_solutions/2894.cpp)
 - **E** [2942. Find Words Containing Character](./cpp_solutions/2942.cpp)
 - **E** [3000. Maximum Area of Longest Diagonal Rectangle](./cpp_solutions/3000.cpp)
+- **E** [3014. Minimum Number of Pushes to Type Word I](./cpp_solutions/3014.cpp)
 - **E** [3024. Type of Triangle](./cpp_solutions/3024.cpp)
 - **M** [3100. Water Bottles II](./cpp_solutions/3100.cpp)
 - **E** [3110. Score of a String](./cpp_solutions/3110.cpp)
