@@ -1864,6 +1864,7 @@
 - **H** [3699. Number of ZigZag Arrays I](./cpp_solutions/3699.cpp)
 - **M** [3742. Maximum Path Score in a Grid](./cpp_solutions/3742.cpp)
 - **H** [3753. Total Waviness of Numbers in Range II](./cpp_solutions/3753.cpp)
+- **H** [3989. Maximum Consistent Columns in a Grid](./cpp_solutions/3989.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
 - **H** [2262. Total Appeal of A String](./cpp_solutions/2262.cpp)
