@@ -1707,6 +1707,7 @@
 - **M** [837. New 21 Game](./cpp_solutions/837.cpp)
 - **M** [838. Push Dominoes](./cpp_solutions/838.cpp)
 - **M** [845. Longest Mountain in Array](./cpp_solutions/845.cpp)
+- **M** [877. Stone Game](./cpp_solutions/877.cpp)
 - **H** [879. Profitable Schemes](./cpp_solutions/879.cpp)
 - **H** [887. Super Egg Drop](./cpp_solutions/887.cpp)
 - **M** [894. All Possible Full Binary Trees](./cpp_solutions/894.cpp)
