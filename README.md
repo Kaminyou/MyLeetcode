@@ -447,6 +447,7 @@
 - **H** [3739. Count Subarrays With Majority Element II](./cpp_solutions/3739.cpp)
 - **M** [3756. Concatenate Non-Zero Digits and Multiply by Sum II](./cpp_solutions/3756.cpp)
 - **M** [3867. Sum of GCD of Formed Pairs](./cpp_solutions/3867.cpp)
+- **M** [3983. Subsequence After One Replacement](./cpp_solutions/3983.cpp)
 - **M** [3987. Minimum Total Cost to Process All Elements](./cpp_solutions/3987.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
