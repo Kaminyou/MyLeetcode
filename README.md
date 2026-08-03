@@ -2027,6 +2027,7 @@
 - **H** [2321. Maximum Score Of Spliced Array](./cpp_solutions/2321.cpp)
 - **M** [2606. Find the Substring With Maximum Cost](./cpp_solutions/2606.cpp)
 - **M** [3434. Maximum Frequency After Subarray Operation](./cpp_solutions/3434.cpp)
+- **M** [3984. Divisible Game](./cpp_solutions/3984.cpp)
 #### Sieve of Eratosthenes
 - **H** [204. Count Primes](./cpp_solutions/204.cpp)
 - **M** [3629. Minimum Jumps to Reach End via Prime Teleportation](./cpp_solutions/3629.cpp)
