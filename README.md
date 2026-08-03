@@ -296,6 +296,7 @@
 - **H** [3614. Process String with Special Operations II](./cpp_solutions/3614.cpp)
 - **E** [3838. Weighted Word Mapping](./cpp_solutions/3838.cpp)
 - **E** [3986. Number of Elapsed Seconds Between Two Times](./cpp_solutions/3986.cpp)
+- **E** [3992. Rearrange String to Avoid Character Pair](./cpp_solutions/3992.cpp)
 #### Rabin-Karp
 - **M** [187. Repeated DNA Sequences](./cpp_solutions/187.cpp)
 - **H** [1044. Longest Duplicate Substring](./cpp_solutions/1044.cpp)
