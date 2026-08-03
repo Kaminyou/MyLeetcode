@@ -451,6 +451,7 @@
 - **M** [3867. Sum of GCD of Formed Pairs](./cpp_solutions/3867.cpp)
 - **M** [3983. Subsequence After One Replacement](./cpp_solutions/3983.cpp)
 - **M** [3987. Minimum Total Cost to Process All Elements](./cpp_solutions/3987.cpp)
+- **M** [3994. Minimum Adjacent Swaps to Partition Array](./cpp_solutions/3994.cpp)
 #### Interval
 - **M** [57. Insert Interval](./cpp_solutions/57.cpp)
 - **M** [56. Merge Intervals](./cpp_solutions/56.cpp)
