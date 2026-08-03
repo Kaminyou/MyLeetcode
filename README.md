@@ -162,6 +162,7 @@
 - **E** [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./cpp_solutions/3754.cpp)
 - **E** [3783. Mirror Distance of an Integer](./cpp_solutions/3783.cpp)
 - **E** [3982. Sum of Integers with Maximum Digit Range](./cpp_solutions/3982.cpp)
+- **M** [3993. Maximum Value of an Alternating Sequence](./cpp_solutions/3993.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
