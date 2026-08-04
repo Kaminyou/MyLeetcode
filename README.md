@@ -309,6 +309,8 @@
 - **H** [1392. Longest Happy Prefix](./cpp_solutions/1392.cpp)
 - **M** [1764. Form Array by Concatenating Subarrays of Another Array](./cpp_solutions/1764.cpp)
 - **H** [2430. Maximum Deletions on a String](./cpp_solutions/2430.cpp)
+#### Booth's Algorithm
+- **H** [3999. Minimum Number of String Groups Through Transformations](./cpp_solutions/3999.cpp)
 
 ### Array
 - **M** [31. Next Permutation](./cpp_solutions/31.cpp)
