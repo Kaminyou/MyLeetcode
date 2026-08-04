@@ -1183,6 +1183,7 @@
 - **M** [3713. Longest Balanced Substring I](./cpp_solutions/3713.cpp)
 - **M** [3714. Longest Balanced Substring II](./cpp_solutions/3714.cpp)
 - **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
+- **E** [3731. Find Missing Elements](./cpp_solutions/3731.cpp)
 - **E** [3740. Minimum Distance Between Three Equal Elements I](./cpp_solutions/3740.cpp)
 - **M** [3741. Minimum Distance Between Three Equal Elements II](./cpp_solutions/3741.cpp)
 - **M** [3761. Minimum Absolute Distance Between Mirror Pairs](./cpp_solutions/3761.cpp)
