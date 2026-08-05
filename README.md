@@ -164,6 +164,7 @@
 - **E** [3982. Sum of Integers with Maximum Digit Range](./cpp_solutions/3982.cpp)
 - **M** [3993. Maximum Value of an Alternating Sequence](./cpp_solutions/3993.cpp)
 - **E** [3996. Even Number of Knight Moves](./cpp_solutions/3996.cpp)
+- **E** [4000. Largest Integer With Given Digit Sum](./cpp_solutions/4000.cpp)
 #### Recursive
 - **M** [38. Count and Say](./cpp_solutions/38.cpp)
 - **M** [50. Pow(x, n)](./cpp_solutions/50.cpp)
