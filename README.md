@@ -1514,6 +1514,7 @@
 - **M** [3342. Find Minimum Time to Reach Last Room II](./cpp_solutions/3342.cpp)
 - **M** [3377. Digit Operations to Make Two Integers Equal](./cpp_solutions/3377.cpp)
 - **M** [3650. Minimum Cost Path with Edge Reversals](./cpp_solutions/3650.cpp)
+- **H** [4003. Minimum Cost Path with Alternating Directions III](./cpp_solutions/4003.cpp)
 #### Bellman-Ford algorithm
 - **M** [787. Cheapest Flights Within K Stops](./cpp_solutions/787.cpp)
 #### Topological sort
