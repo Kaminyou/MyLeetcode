@@ -2117,6 +2117,7 @@
 - **H** [3312. Sorted GCD Pair Queries](./cpp_solutions/3312.cpp)
 - **H** [3405. Count the Number of Arrays with K Matching Adjacent Elements](./cpp_solutions/3415.cpp)
 - **M** [3428. Maximum and Minimum Sums of at Most Size K Subsequences](./cpp_solutions/3428.cpp)
+- **M** [4002. Count Valid Sequences](./cpp_solutions/4002.cpp)
 #### Prime
 - **E** [2614. Prime In Diagonal](./cpp_solutions/2614.cpp)
 #### Bézout's identity
