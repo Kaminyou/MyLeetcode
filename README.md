@@ -1004,6 +1004,7 @@
 - **M** [3192. Minimum Operations to Make Binary Array Elements Equal to One II](./cpp_solutions/3192.cpp)
 - **M** [3228. Maximum Number of Operations to Move Ones to the End](./cpp_solutions/3228.cpp)
 - **H** [3229. Minimum Operations to Make Array Equal to Target](./cpp_solutions/3229.cpp)
+- **M** [3302. Find the Lexicographically Smallest Valid Sequence](./cpp_solutions/3302.cpp)
 - **M** [3326. Minimum Division Operations to Make Array Non Decreasing](./cpp_solutions/3326.cpp)
 - **M** [3362. Zero Array Transformation III](./cpp_solutions/3362.cpp)
 - **M** [3394. Check if Grid can be Cut into Sections](./cpp_solutions/3394.cpp)
