@@ -1015,6 +1015,7 @@
 - **M** [3635. Earliest Finish Time for Land and Water Rides II](./cpp_solutions/3635.cpp)
 - **M** [3660. Jump Game IX](./cpp_solutions/3660.cpp)
 - **H** [3666. Minimum Operations to Equalize Binary String](./cpp_solutions/3666.cpp)
+- **M** [3974. Maximum Total Sum of K Selected Elements](./cpp_solutions/3974.cpp)
 - **M** [3980. Minimum Operations to Transform Binary String](./cpp_solutions/3980.cpp)
 - **M** [3998. Transform Binary String Using Subsequence Sort](./cpp_solutions/3998.cpp)
 
