@@ -467,6 +467,7 @@
 - **M** [1272. Remove Interval](./cpp_solutions/1272.cpp)
 - **H** [2158. Amount of New Area Painted Each Day](./cpp_solutions/2158.cpp)
 - **M** [2580. Count Ways to Group Overlapping Ranges](./cpp_solutions/2580.cpp)
+- **M** [3975. Filter Occupied Intervals](./cpp_solutions/3975.cpp)
 #### Bucket sort
 - **M** [75. Sort Colors](./cpp_solutions/75.cpp)
 - **H** [164. Maximum Gap](./cpp_solutions/164.cpp)
