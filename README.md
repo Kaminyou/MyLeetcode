@@ -478,6 +478,7 @@
 - **M** [1674. Minimum Moves to Make Array Complementary](./cpp_solutions/1674.cpp)
 - **M** [2381. Shifting Letters II](./cpp_solutions/2381.cpp)
 - **M** [3355. Zero Array Transformation I](./cpp_solutions/3355.cpp)
+- **M** [3964. Minimum Lights to Illuminate a Road](./cpp_solutions/3964.cpp)
 
 ### Matrix
 #### Misc
