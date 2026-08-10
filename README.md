@@ -1404,6 +1404,7 @@
 - **H** [2603. Collect Coins in a Tree](./cpp_solutions/2603.cpp)
 - **M** [2641. Cousins in Binary Tree II](./cpp_solutions/2641.cpp)
 - **M** [3331. Find Subtree Sizes After Changes](./cpp_solutions/3331.cpp)
+- **M** [3965. Finish Time of Tasks I](./cpp_solutions/3965.cpp)
 - **M** [3997. Count Dominant Nodes in a Binary Tree](./cpp_solutions/3997.cpp)
 #### Quad Tree
 - **M** [427. Construct Quad Tree](./cpp_solutions/427.cpp)
