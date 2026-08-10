@@ -1895,6 +1895,7 @@
 - **H** [3753. Total Waviness of Numbers in Range II](./cpp_solutions/3753.cpp)
 - **M** [3976. Maximum Subarray Sum After Multiplier](./cpp_solutions/3976.cpp)
 - **H** [3989. Maximum Consistent Columns in a Grid](./cpp_solutions/3989.cpp)
+- **H** [3966. Count Good Integers in a Range](./cpp_solutions/3966.cpp)
 - **H** [3995. Minimum Cost to Convert String III](./cpp_solutions/3995.cpp)
 #### MISC
 - **H** [828. Count Unique Characters of All Substrings of a Given String](./cpp_solutions/828.cpp)
