@@ -537,6 +537,7 @@
 - **M** [3446. Sort Matrix by Diagonals](./cpp_solutions/3446.cpp)
 - **M** [3567. Minimum Absolute Difference in Sliding Submatrix](./cpp_solutions/3567.cpp)
 - **E** [3643. Flip Square Submatrix Vertically](./cpp_solutions/3643.cpp)
+- **E** [3963. Create Grid With Exactly One Path](./cpp_solutions/3963.cpp)
 - **M** [3988. Create Grid With Exactly K Paths I](./cpp_solutions/3988.cpp)
 #### Prefix sum
 - **M** [304. Range Sum Query 2D - Immutable](./cpp_solutions/304.cpp)
