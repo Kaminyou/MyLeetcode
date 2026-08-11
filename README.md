@@ -384,6 +384,7 @@
 - **E** [2660. Determine the Winner of a Bowling Game](./cpp_solutions/2660.cpp)
 - **M** [2731. Movement of Robots](./cpp_solutions/2731.cpp)
 - **M** [2948. Make Lexicographically Smallest Array by Swapping Elements](./cpp_solutions/2948.cpp)
+- **E** [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./cpp_solutions/2996.cpp)
 - **M** [3011. Find if Array Can Be Sorted](./cpp_solutions/3011.cpp)
 - **E** [3392. Count Subarrays of Length Three With a Condition](./cpp_solutions/3392.cpp)
 #### Prefix sum
