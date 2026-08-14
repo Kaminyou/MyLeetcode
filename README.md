@@ -669,6 +669,7 @@
 - **M** [2825. Make String a Subsequence Using Cyclic Increments](./cpp_solutions/2825.cpp)
 - **M** [2958. Length of Longest Subarray With at Most K Frequency](./cpp_solutions/2958.cpp)
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
+- **E** [3090. Maximum Length Substring With Two Occurrences](./cpp_solutions/3090.cpp)
 - **M** [3097. Shortest Subarray With OR at Least K II](./cpp_solutions/3097.cpp)
 - **M** [3208. Alternating Groups II](./cpp_solutions/3208.cpp)
 - **M** [3234. Count the Number of Substrings With Dominant Ones](./cpp_solutions/3234.cpp)
