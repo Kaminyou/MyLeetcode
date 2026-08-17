@@ -1814,6 +1814,7 @@
 - **H** [1510. Stone Game IV](./cpp_solutions/1510.cpp)
 - **H** [1531. String Compression II](./cpp_solutions/1531.cpp)
 - **H** [1547. Minimum Cost to Cut a Stick](./cpp_solutions/1547.cpp)
+- **H** [1563. Stone Game V](./cpp_solutions/1563.cpp)
 - **H** [1575. Count All Possible Routes](./cpp_solutions/1575.cpp)
 - **M** [1594. Maximum Non Negative Product in a Matrix](./cpp_solutions/1594.cpp)
 - **M** [1626. Best Team With No Conflicts](./cpp_solutions/1626.cpp)
