@@ -388,6 +388,7 @@
 - **E** [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./cpp_solutions/2996.cpp)
 - **M** [3011. Find if Array Can Be Sorted](./cpp_solutions/3011.cpp)
 - **E** [3392. Count Subarrays of Length Three With a Condition](./cpp_solutions/3392.cpp)
+- **E** [3471. Find the Largest Almost Missing Integer](./cpp_solutions/3471.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./cpp_solutions/325.cpp)
 - **M** [848. Shifting Letters](./cpp_solutions/848.cpp)
