@@ -387,6 +387,7 @@
 - **M** [2948. Make Lexicographically Smallest Array by Swapping Elements](./cpp_solutions/2948.cpp)
 - **E** [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./cpp_solutions/2996.cpp)
 - **M** [3011. Find if Array Can Be Sorted](./cpp_solutions/3011.cpp)
+- **E** [3069. Distribute Elements Into Two Arrays I](./cpp_solutions/3069.cpp)
 - **E** [3392. Count Subarrays of Length Three With a Condition](./cpp_solutions/3392.cpp)
 - **E** [3471. Find the Largest Almost Missing Integer](./cpp_solutions/3471.cpp)
 #### Prefix sum
