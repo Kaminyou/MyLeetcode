@@ -938,6 +938,7 @@
 - **M** [1877. Minimize Maximum Pair Sum in Array](./cpp_solutions/1877.cpp)
 - **M** [1899. Merge Triplets to Form Target Triplet](./cpp_solutions/1899.cpp)
 - **M** [1921. Eliminate Maximum Number of Monsters](./cpp_solutions/1921.cpp)
+- **M** [1927. Sum Game](./cpp_solutions/1927.cpp)
 - **M** [1963. Minimum Number of Swaps to Make the String Balanced](./cpp_solutions/1963.cpp)
 - **M** [1975. Maximum Matrix Sum](./cpp_solutions/1975.cpp)
 - **E** [1984. Minimum Difference Between Highest and Lowest of K Scores](./cpp_solutions/1984.cpp)
