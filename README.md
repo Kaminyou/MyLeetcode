@@ -740,6 +740,7 @@
 - **M** [2698. Find the Punishment Number of an Integer](./cpp_solutions/2698.cpp)
 - **M** [2708. Maximum Strength of a Group](./cpp_solutions/2708.cpp)
 - **M** [3376. Minimum Time to Break Locks I](./cpp_solutions/3376.cpp)
+- **M** [3955. Valid Binary Strings With Cost Limit](./cpp_solutions/3955.cpp)
 
 ### BFS
 - **M** [102. Binary Tree Level Order Traversal](./cpp_solutions/102.cpp)
