@@ -1984,6 +1984,7 @@
 - **E** [3370. Smallest Number With All Set Bits](./cpp_solutions/3370.cpp)
 - **M** [3513. Number of Unique XOR Triplets I](./cpp_solutions/3513.cpp)
 - **M** [3702. Longest Subsequence With Non-Zero Bitwise XOR](./cpp_solutions/3702.cpp)
+- **E** [3950. Exactly One Consecutive Set Bits Pair](./cpp_solutions/3950.cpp)
 
 ### Trie
 - **M** [208. Implement Trie (Prefix Tree)](./cpp_solutions/208.cpp)
