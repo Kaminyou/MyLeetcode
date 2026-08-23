@@ -1909,6 +1909,7 @@
 - **H** [3699. Number of ZigZag Arrays I](./cpp_solutions/3699.cpp)
 - **M** [3742. Maximum Path Score in a Grid](./cpp_solutions/3742.cpp)
 - **H** [3753. Total Waviness of Numbers in Range II](./cpp_solutions/3753.cpp)
+- **M** [3952. Maximum Total Value of Covered Indices](./cpp_solutions/3952.cpp)
 - **M** [3976. Maximum Subarray Sum After Multiplier](./cpp_solutions/3976.cpp)
 - **H** [3989. Maximum Consistent Columns in a Grid](./cpp_solutions/3989.cpp)
 - **H** [3966. Count Good Integers in a Range](./cpp_solutions/3966.cpp)
