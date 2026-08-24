@@ -1840,6 +1840,7 @@
 - **H** [1815. Maximum Number of Groups Getting Fresh Donuts](./cpp_solutions/1815.cpp)
 - **H** [1879. Minimum XOR Sum of Two Arrays](./cpp_solutions/1879.cpp)
 - **H** [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](./cpp_solutions/1866.cpp)
+- **H** [1872. Stone Game VIII](./cpp_solutions/1872.cpp)
 - **M** [1884. Egg Drop With 2 Eggs and N Floors](./cpp_solutions/1884.cpp)
 - **H** [1900. The Earliest and Latest Rounds Where Players Compete](./cpp_solutions/1900.cpp)
 - **H** [1931. Painting a Grid With Three Different Colors](./cpp_solutions/1931.cpp)
