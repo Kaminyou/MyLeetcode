@@ -1210,6 +1210,7 @@
 - **M** [3623. Count Number of Trapezoids I](./cpp_solutions/3623.cpp)
 - **M** [3713. Longest Balanced Substring I](./cpp_solutions/3713.cpp)
 - **M** [3714. Longest Balanced Substring II](./cpp_solutions/3714.cpp)
+- **E** [3718. Smallest Missing Multiple of K](./cpp_solutions/3718.cpp)
 - **M** [3719. Longest Balanced Subarray I](./cpp_solutions/3719.cpp)
 - **E** [3731. Find Missing Elements](./cpp_solutions/3731.cpp)
 - **E** [3740. Minimum Distance Between Three Equal Elements I](./cpp_solutions/3740.cpp)
