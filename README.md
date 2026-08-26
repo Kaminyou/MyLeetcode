@@ -673,6 +673,7 @@
 - **M** [2779. Maximum Beauty of an Array After Applying Operation](./cpp_solutions/2779.cpp)
 - **M** [2799. Count Complete Subarrays in an Array](./cpp_solutions/2799.cpp)
 - **M** [2825. Make String a Subsequence Using Cyclic Increments](./cpp_solutions/2825.cpp)
+- **M** [2904. Shortest and Lexicographically Smallest Beautiful String](./cpp_solutions/2904.cpp)
 - **M** [2958. Length of Longest Subarray With at Most K Frequency](./cpp_solutions/2958.cpp)
 - **M** [2962. Count Subarrays Where Max Element Appears at Least K Times](./cpp_solutions/2962.cpp)
 - **E** [3090. Maximum Length Substring With Two Occurrences](./cpp_solutions/3090.cpp)
