@@ -163,6 +163,7 @@
 - **M** [3751. Total Waviness of Numbers in Range I](./cpp_solutions/3751.cpp)
 - **E** [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./cpp_solutions/3754.cpp)
 - **E** [3783. Mirror Distance of an Integer](./cpp_solutions/3783.cpp)
+- **E** [3875. Construct Uniform Parity Array I](./cpp_solutions/3875.cpp)
 - **E** [3954. Sum of Compatible Numbers in Range I](./cpp_solutions/3954.cpp)
 - **E** [3959. Check Good Integer](./cpp_solutions/3959.cpp)
 - **E** [3982. Sum of Integers with Maximum Digit Range](./cpp_solutions/3982.cpp)
