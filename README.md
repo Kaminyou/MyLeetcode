@@ -1036,6 +1036,7 @@
 - **H** [3666. Minimum Operations to Equalize Binary String](./cpp_solutions/3666.cpp)
 - **M** [3720. Lexicographically Smallest Permutation Greater Than Target](./cpp_solutions/3720.cpp)
 - **H** [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./cpp_solutions/3734.cpp)
+- **M** [3876. Construct Uniform Parity Array II](./cpp_solutions/3876.cpp)
 - **M** [3961. Maximize Sum of Device Ratings](./cpp_solutions/3961.cpp)
 - **M** [3974. Maximum Total Sum of K Selected Elements](./cpp_solutions/3974.cpp)
 - **M** [3980. Minimum Operations to Transform Binary String](./cpp_solutions/3980.cpp)
