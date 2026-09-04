@@ -394,6 +394,7 @@
 - **E** [3069. Distribute Elements Into Two Arrays I](./cpp_solutions/3069.cpp)
 - **E** [3392. Count Subarrays of Length Three With a Condition](./cpp_solutions/3392.cpp)
 - **E** [3471. Find the Largest Almost Missing Integer](./cpp_solutions/3471.cpp)
+- **E** [3903. Smallest Stable Index I](./cpp_solutions/3903.cpp)
 #### Prefix sum
 - **M** [325. Maximum Size Subarray Sum Equals k](./cpp_solutions/325.cpp)
 - **M** [848. Shifting Letters](./cpp_solutions/848.cpp)
