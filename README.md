@@ -153,6 +153,7 @@
 - **E** [3411. Maximum Subarray With Equal Products](./cpp_solutions/3411.cpp)
 - **E** [3461. Check If Digits Are Equal in String After Operations I](./cpp_solutions/3461.cpp)
 - **E** [3477. Fruits Into Baskets II](./cpp_solutions/3477.cpp)
+- **E** [3483. Unique 3-Digit Even Numbers](./cpp_solutions/3483.cpp)
 - **E** [3516. Find Closest Person](./cpp_solutions/3516.cpp)
 - **E** [3512. Minimum Operations to Make Array Sum Divisible by K](./cpp_solutions/3521.cpp)
 - **E** [3536. Maximum Product of Two Digits](./cpp_solutions/3536.cpp)
