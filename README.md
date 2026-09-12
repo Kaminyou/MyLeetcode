@@ -1911,6 +1911,7 @@
 - **M** [3366. Minimum Array Sum](./cpp_solutions/3365.cpp)
 - **M** [3393. Count Paths With the Given XOR Value](./cpp_solutions/3393.cpp)
 - **M** [3409. Longest Subsequence With Decreasing Adjacent Difference](./cpp_solutions/3409.cpp)
+- **H** [3414. Maximum Score of Non-overlapping Intervals](./cpp_solutions/3414.cpp)
 - **M** [3418. Maximum Amount of Money Robot Can Earn](./cpp_solutions/3418.cpp)
 - **M** [3429. Paint House IV](./cpp_solutions/3429.cpp)
 - **H** [3444. Minimum Increments for Target Multiples in an Array](./cpp_solutions/3444.cpp)
