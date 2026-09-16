@@ -1837,6 +1837,7 @@
 - **H** [1563. Stone Game V](./cpp_solutions/1563.cpp)
 - **H** [1575. Count All Possible Routes](./cpp_solutions/1575.cpp)
 - **M** [1594. Maximum Non Negative Product in a Matrix](./cpp_solutions/1594.cpp)
+- **M** [1621. Number of Sets of K Non-Overlapping Line Segments](./cpp_solutions/1621.cpp)
 - **M** [1626. Best Team With No Conflicts](./cpp_solutions/1626.cpp)
 - **H** [1639. Number of Ways to Form a Target String Given a Dictionary](./cpp_solutions/1639.cpp)
 - **M** [1641. Count Sorted Vowel Strings](./cpp_solutions/1641.cpp)
