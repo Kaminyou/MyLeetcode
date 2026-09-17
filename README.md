@@ -643,6 +643,7 @@
 - **M** [1358. Number of Substrings Containing All Three Characters](./cpp_solutions/1358.cpp)
 - **M** [1423. Maximum Points You Can Obtain from Cards](./cpp_solutions/1423.cpp)
 - **M** [1456. Maximum Number of Vowels in a Substring of Given Length](./cpp_solutions/1456.cpp)
+- **M** [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](./cpp_solutions/1477.cpp)
 - **M** [1498. Number of Subsequences That Satisfy the Given Sum Condition](./cpp_solutions/1498.cpp)
 - **M** [1570. Dot Product of Two Sparse Vectors](./cpp_solutions/1570.cpp)
 - **M** [1574. Shortest Subarray to be Removed to Make Array Sorted](./cpp_solutions/1574.cpp)
