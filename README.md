@@ -1919,6 +1919,7 @@
 - **M** [3418. Maximum Amount of Money Robot Can Earn](./cpp_solutions/3418.cpp)
 - **M** [3429. Paint House IV](./cpp_solutions/3429.cpp)
 - **H** [3444. Minimum Increments for Target Multiples in an Array](./cpp_solutions/3444.cpp)
+- **M** [3524. Find X Value of Array I](./cpp_solutions/3524.cpp)
 - **H** [3539. Find Sum of Array Product of Magical Sequences](./cpp_solutions/3539.cpp)
 - **H** [3651. Minimum Cost Path with Teleportations](./cpp_solutions/3561.cpp)
 - **H** [3562. Maximum Profit from Trading Stocks with Discounts](./cpp_solutions/3562.cpp)
