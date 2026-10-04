@@ -1249,6 +1249,7 @@
 - **E** [844. Backspace String Compare](./cpp_solutions/844.cpp)
 - **M** [946. Validate Stack Sequences](./cpp_solutions/946.cpp)
 - **E** [1047. Remove All Adjacent Duplicates In String](./cpp_solutions/1047.cpp)
+- **H** [1096. Brace Expansion II](./cpp_solutions/1096.cpp)
 - **M** [1209. Remove All Adjacent Duplicates in String II](./cpp_solutions/1209.cpp)
 - **M** [1249. Minimum Remove to Make Valid Parentheses](./cpp_solutions/1249.cpp)
 - **M** [1381. Design a Stack With Increment Operation](./cpp_solutions/1381.cpp)
