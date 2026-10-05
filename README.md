@@ -1247,6 +1247,7 @@
 - **M** [636. Exclusive Time of Functions](./cpp_solutions/636.cpp)
 - **M** [678. Valid Parenthesis String](./cpp_solutions/678.cpp)
 - **E** [844. Backspace String Compare](./cpp_solutions/844.cpp)
+- **M** [856. Score of Parentheses](./cpp_solutions/856.cpp)
 - **M** [946. Validate Stack Sequences](./cpp_solutions/946.cpp)
 - **E** [1047. Remove All Adjacent Duplicates In String](./cpp_solutions/1047.cpp)
 - **H** [1096. Brace Expansion II](./cpp_solutions/1096.cpp)
