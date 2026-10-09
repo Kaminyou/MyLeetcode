@@ -939,6 +939,7 @@
 - **H** [1520. Maximum Number of Non-Overlapping Substrings](./cpp_solutions/1520.cpp)
 - **H** [1526. Minimum Number of Increments on Subarrays to Form a Target Array](./cpp_solutions/1526.cpp)
 - **M** [1536. Minimum Swaps to Arrange a Binary Grid](./cpp_solutions/1536.cpp)
+- **M** [1541. Minimum Insertions to Balance a Parentheses String](./cpp_solutions/1541.cpp)
 - **M** [1561. Maximum Number of Coins You Can Get](./cpp_solutions/1561.cpp)
 - **M** [1564. Put Boxes Into the Warehouse I](./cpp_solutions/1564.cpp)
 - **M** [1578. Minimum Time to Make Rope Colorful](./cpp_solutions/1578.cpp)
