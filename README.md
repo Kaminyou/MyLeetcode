@@ -1021,6 +1021,7 @@
 - **H** [2732. Find a Good Subset of the Matrix](./cpp_solutions/2732.cpp)
 - **E** [2833. Furthest Point From Origin](./cpp_solutions/2833.cpp)
 - **M** [2874. Maximum Value of an Ordered Triplet II](./cpp_solutions/2874.cpp)
+- **H** [2897. Apply Operations on Array to Maximize Sum of Squares](./cpp_solutions/2897.cpp)
 - **M** [2914. Minimum Number of Changes to Make Binary String Beautiful](./cpp_solutions/2914.cpp)
 - **M** [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros](./cpp_solutions/2918.cpp)
 - **M** [2966. Divide Array Into Arrays With Max Difference](./cpp_solutions/2966.cpp)
