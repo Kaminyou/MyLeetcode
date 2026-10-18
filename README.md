@@ -1547,6 +1547,7 @@
 - **H** [2508. Add Edges to Make Degrees of All Nodes Even](./cpp_solutions/2508.cpp)
 - **M** [3310. Remove Methods From Project](./cpp_solutions/3310.cpp)
 - **M** [3387. Maximize Amount After Two Days of Conversions](./cpp_solutions/3387.cpp)
+- **M** [3551. Minimum Swaps to Sort by Digit Sum](./cpp_solutions/3551.cpp)
 #### Dijkstra's algorithm
 - **H** [499. The Maze III](./cpp_solutions/499.cpp)
 - **M** [505. The Maze II](./cpp_solutions/505.cpp)
