@@ -423,6 +423,7 @@
 - **E** [3637. Trionic Array I](./cpp_solutions/3637.cpp)
 - **M** [3653. XOR After Range Multiplication Queries I](./cpp_solutions/3653.cpp)
 - **M** [3867. Sum of GCD of Formed Pairs](./cpp_solutions/3867.cpp)
+- **H** [3886. Sum of Sortable Integers](./cpp_solutions/3886.cpp)
 - **E** [3903. Smallest Stable Index I](./cpp_solutions/3903.cpp)
 - **E** [3904. Smallest Stable Index II](./cpp_solutions/3904.cpp)
 - **E** [3978. Unique Middle Element](./cpp_solutions/3978.cpp)
