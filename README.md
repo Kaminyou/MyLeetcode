@@ -427,6 +427,7 @@
 - **H** [3886. Sum of Sortable Integers](./cpp_solutions/3886.cpp)
 - **E** [3903. Smallest Stable Index I](./cpp_solutions/3903.cpp)
 - **E** [3904. Smallest Stable Index II](./cpp_solutions/3904.cpp)
+- **M** [3942. Minimum Operations to Sort a Permutation](./cpp_solutions/3942.cpp)
 - **E** [3978. Unique Middle Element](./cpp_solutions/3978.cpp)
 - **M** [3979. Maximum Valid Pair Sum](./cpp_solutions/3979.cpp)
 #### Prefix sum
