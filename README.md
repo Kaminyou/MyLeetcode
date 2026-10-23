@@ -1048,6 +1048,7 @@
 - **H** [3474. Lexicographically Smallest Generated String](./cpp_solutions/3474.cpp)
 - **H** [3495. Minimum Operations to Make Array Elements Zero](./cpp_solutions/3495.cpp)
 - **M** [3635. Earliest Finish Time for Land and Water Rides II](./cpp_solutions/3635.cpp)
+- **M** [3644. Maximum K to Sort a Permutation](./cpp_solutions/3644.cpp)
 - **M** [3660. Jump Game IX](./cpp_solutions/3660.cpp)
 - **H** [3666. Minimum Operations to Equalize Binary String](./cpp_solutions/3666.cpp)
 - **M** [3720. Lexicographically Smallest Permutation Greater Than Target](./cpp_solutions/3720.cpp)
