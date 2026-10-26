@@ -812,6 +812,7 @@
 - **M** [3372. Maximize the Number of Target Nodes After Connecting Trees I](./cpp_solutions/3372.cpp)
 - **H** [3373. Maximize the Number of Target Nodes After Connecting Trees II](./cpp_solutions/3373.cpp)
 - **M** [3568. Minimum Moves to Clean the Classroom](./cpp_solutions/3568.cpp)
+- **M** [3619. Count Islands With Total Value Divisible by K](./cpp_solutions/3619.cpp)
 
 ### DFS
 - **M** [133. Clone Graph](./cpp_solutions/133.cpp)
