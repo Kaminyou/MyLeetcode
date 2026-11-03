@@ -1056,6 +1056,7 @@
 - **M** [3723. Maximize Sum of Squares of Digits](./cpp_solutions/3723.cpp)
 - **M** [3727. Maximum Alternating Sum of Squares](./cpp_solutions/3727.cpp)
 - **H** [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./cpp_solutions/3734.cpp)
+- **E** [3736. Minimum Moves to Equal Array Elements III](./cpp_solutions/3736.cpp)
 - **M** [3876. Construct Uniform Parity Array II](./cpp_solutions/3876.cpp)
 - **M** [3961. Maximize Sum of Device Ratings](./cpp_solutions/3961.cpp)
 - **M** [3974. Maximum Total Sum of K Selected Elements](./cpp_solutions/3974.cpp)
