@@ -685,6 +685,7 @@
 - **H** [2565. Subsequence With the Minimum Score](./cpp_solutions/2565.cpp)
 - **M** [2653. Sliding Subarray Beauty](./cpp_solutions/2653.cpp)
 - **M** [2730. Find the Longest Semi-Repetitive Substring](./cpp_solutions/2730.cpp)
+- **M** [2747. Count Zero Request Servers](./cpp_solutions/2747.cpp)
 - **M** [2779. Maximum Beauty of an Array After Applying Operation](./cpp_solutions/2779.cpp)
 - **M** [2799. Count Complete Subarrays in an Array](./cpp_solutions/2799.cpp)
 - **M** [2825. Make String a Subsequence Using Cyclic Increments](./cpp_solutions/2825.cpp)
