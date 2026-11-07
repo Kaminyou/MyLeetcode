@@ -1524,6 +1524,7 @@
 - **M** [1834. Single-Threaded CPU](./cpp_solutions/1834.cpp)
 - **M** [1845. Seat Reservation Manager](./cpp_solutions/1845.cpp)
 - **H** [1851. Minimum Interval to Include Each Query](./cpp_solutions/1851.cpp)
+- **M** [1882. Process Tasks Using Servers](./cpp_solutions/1882.cpp)
 - **M** [1942. The Number of the Smallest Unoccupied Chair](./cpp_solutions/1942.cpp)
 - **M** [1962. Remove Stones to Minimize the Total](./cpp_solutions/1962.cpp)
 - **M** [1985. Find the Kth Largest Integer in the Array](./cpp_solutions/1985.cpp)
