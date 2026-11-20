@@ -1922,6 +1922,7 @@
 - **M** [2901. Longest Unequal Adjacent Groups Subsequence II](./cpp_solutions/2901.cpp)
 - **H** [2999. Count the Number of Powerful Integers](./cpp_solutions/2999.cpp)
 - **H** [3003. Maximize the Number of Partitions After Operations](./cpp_solutions/3003.cpp)
+- **H** [3041. Maximize Consecutive Elements in an Array After Modification](./cpp_solutions/3041.cpp)
 - **M** [3129. Find All Possible Stable Binary Arrays I](./cpp_solutions/3129.cpp)
 - **M** [3130. Find All Possible Stable Binary Arrays II](./cpp_solutions/3130.cpp)
 - **M** [3186. Maximum Total Damage With Spell Casting](./cpp_solutions/3186.cpp)
