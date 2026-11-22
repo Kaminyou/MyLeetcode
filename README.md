@@ -76,6 +76,7 @@
 - **E** [2011. Final Value of Variable After Performing Operations](./cpp_solutions/2011.cpp)
 - **E** [2089. Find Target Indices After Sorting Array](./cpp_solutions/2089.cpp)
 - **E** [2094. Finding 3-Digit Even Numbers](./cpp_solutions/2094.cpp)
+- **E** [2124. Check if All A's Appears Before All B's](./cpp_solutions/2124.cpp)
 - **M** [2125. Number of Laser Beams in a Bank](./cpp_solutions/2125.cpp)
 - **M** [2161. Partition Array According to Given Pivot](./cpp_solutions/2161.cpp)
 - **M** [2162. Minimum Cost to Set Cooking Time](./cpp_solutions/2162.cpp)
