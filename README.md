@@ -1691,6 +1691,7 @@
 - **M** [3508. Implement Router](./cpp_solutions/3508.cpp)
 - **H** [3600. Maximize Spanning Tree Stability with Upgrades](./cpp_solutions/3600.cpp)
 - **H** [3620. Network Recovery Pathways](./cpp_solutions/3620.cpp)
+- **H** [3934. Smallest Unique Subarray](./cpp_solutions/3934.cpp)
 - **H** [3971. Maximum Total Value](./cpp_solutions/3971.cpp)
 #### Longest Increasing Subsequence
 - **M** [300. Longest Increasing Subsequence](./cpp_solutions/300.cpp) *Its variance (e.g., 673) should be solved by DP.*
