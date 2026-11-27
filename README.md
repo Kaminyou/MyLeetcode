@@ -1957,6 +1957,7 @@
 - **M** [3742. Maximum Path Score in a Grid](./cpp_solutions/3742.cpp)
 - **H** [3753. Total Waviness of Numbers in Range II](./cpp_solutions/3753.cpp)
 - **M** [3882. Minimum XOR Path in a Grid](./cpp_solutions/3882.cpp)
+- **M** [3946. Maximum Number of Items From Sale I](./cpp_solutions/3946.cpp)
 - **M** [3952. Maximum Total Value of Covered Indices](./cpp_solutions/3952.cpp)
 - **M** [3976. Maximum Subarray Sum After Multiplier](./cpp_solutions/3976.cpp)
 - **H** [3989. Maximum Consistent Columns in a Grid](./cpp_solutions/3989.cpp)
